@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "U of U IM Codes and Rapid Responses"
+  author: "Ethan Krauspe, Brian Locke, Colton Long, Sumit Patel, Alex Ryden, Richa Sheth, Josiah Situmeang"
+  date: "5/3/2025"
+  chapters:
+    - index.qmd
+    - part: "Sessions"
+    - leadership.qmd
+    - rhythm.qmd
+    - resources.qmd
+    - ending.qmd
+    - part: "Wrap Up & Resources"
+    - survey.qmd
+    - summary.qmd
+    - references.qmd
+  license: "CC BY-SA"
+  page-footer: CC-BY-SA-4.0 (2025) Brian Locke
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

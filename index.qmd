@@ -1,0 +1,91 @@
+# Overview
+
+## 2025 Rising PGY-2 Code and RRT Seminar {.unnumbered}
+
+**University of Utah Internal Medicine Residency**
+
+Bookmark for future reference.
+
+## Agenda
+
+1.  Survey
+
+2.  15-minute sessions on necessary micro-skills
+
+    1.  Leadership Style
+
+    2.  Rhythm Interpretation
+
+    3.  Do You Have Who/What You Need?
+
+    4.  Ending the Code/Response
+
+3.  Scenarios, Q&A, and Equipment
+
+4.  Session Feedback
+
+## Pedagogical Note: 
+
+The right way to learn how to do this is:
+
+-   Watch someone run a code/RRT well
+
+-   Learn the key considerations\*
+
+-   Imitate a well-run code/RRT (perhaps with simulation)
+
+-   Receive Feedback
+
+Didactics are only 1 component of this.
+
+## Methods: 
+
+We’ve discussed with stakeholders and participants in the rapid response & code teams to identify the most common and consequential mistakes residents make:
+
+-   **Unfavorable team dynamics emerge**
+
+-   It’s not clear who is running the code.
+
+-   A shockable rhythm is not shocked.
+
+-   Decisions are too delayed.
+
+-   The person who activated the response gets snarked for a false alarm.
+
+(please let us know of other events or near-misses)
+
+## Learning Objectives
+
+Discuss micro-skills/schemas to avoid each error.
+
+We’re not going to review ACLS, per se. Here's a reference.
+
+![](https://reblocke.github.io/images/va_acls_card.png)
+
+### Other useful references: 
+
+**(Updated 5/16/2024)**
+
+|  | **U of U** | **IMED** | **VA** |
+|:--------------|:-------------------|:-----------------------|:--------------|
+| **RRT/MET** | House Sup, IM Res, SICU RN, Pharm | IM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab | IM, MICU, CNO, RNs, RT Pharmacy (7a-7p) |
+| **Code Blue** | **add:** Anesth, EMT, MICU res, Pharm | **add:** ICU attgs | **add:** ED |
+| Numbers | **Shock Team, Cath, Brain Attack, VAD:** 1-2222 | **‘Shock Team’:** Vocera TICU attg, **Brain Attack:** Operator; x33333 | **Brain attack:** Page Neuro Senior, **Cath:** Page Cardiology, **Code:** x6 666 |
+
+## In-depth Code / RRT Guide
+
+Coming Soon
+
+## Summary
+
+-   **Emphasize getting the right team dynamics**
+
+-   “I’m Joe/Jane Doe, the resident on the code team. Who is running this code/RRT?” ”Can I take over?”
+
+-   Stand at the foot of the bed. Don’t move and don’t do tasks.
+
+-   Keep the big picture in mind:
+
+    -   RRT: Is this a code? Does this patient need to go to the ICU?
+
+    -   Code: High quality compressions; shock if shockable
