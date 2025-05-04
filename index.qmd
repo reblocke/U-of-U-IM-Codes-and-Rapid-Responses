@@ -1,3 +1,13 @@
+---
+title: "Overview: Code Blue and Rapid Response Seminar"
+author: "Brian Locke, MD MSCI"
+affiliation: Intermountain Medical Center
+date: 2025-05-04
+date-modified: last-modified
+citation: true        # enables the block
+bibliography: references.bib
+---
+
 # Overview
 
 ## 2025 Rising-PGY2 Code Blue and Rapid Response Seminar {.unnumbered}
@@ -74,4 +84,3 @@ Didactics are only 1 component of this - continued effort required.
 
 -   [QR code link](slides/qr.html "To access QR code to course website")
 
-Cite this work as:
