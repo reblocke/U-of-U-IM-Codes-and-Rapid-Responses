@@ -12,10 +12,11 @@ book:
   chapters:
     - index.qmd
     - part: "Sessions"
-    - slides/leadership.qmd
-    - rhythm.qmd
-    - resources.qmd
-    - ending.qmd
+    - href: slides/leadership.qmd
+      text: "Leadership Skills (slides)"
+    - slides/rhythm.qmd
+    - slides/resources.qmd
+    - slides/ending.qmd
     - part: "Wrap Up & Resources"
     - survey.qmd
     - summary.qmd
