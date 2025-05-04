@@ -12,13 +12,13 @@ Bookmark for future reference.
 
 2.  15-minute sessions on necessary micro-skills
 
-    1.  [Leadership Style](slides/leadership.html "slides on leadership approach")
+    1.  Leadership Style: \[slides\](slides/leadership.html){target="\_blank"}, outline\]
 
-    2.  Rhythm Interpretation
+    2.  Rhythm Interpretation \[slides, outline\]
 
-    3.  Do You Have Who/What You Need?
+    3.  Do You Have Who/What You Need? \[slides, outline\]
 
-    4.  Ending the Code/Response
+    4.  Ending the Code/Response \[slides, outline\]
 
 3.  Scenarios, Q&A, and Equipment
 

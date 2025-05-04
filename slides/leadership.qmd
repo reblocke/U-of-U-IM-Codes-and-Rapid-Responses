@@ -1,9 +1,10 @@
 ---
 title: "Leadership Skills"
 author: "Slides by Colton Long, Ethan Krauspe, Brian Locke"
-format:
+format: 
   revealjs:
       embed-resources: true
+editor: visual
 ---
 
 ## Effective Leadership Skills
