@@ -1,5 +1,131 @@
 ---
-title: "resources"
+title: "Resources"
+author: "Slides by Alex Ryden, Brian Locke"
+format: 
+  revealjs:
+      embed-resources: true
+editor: visual
 ---
 
-# 
+## Do you have what you need?
+
+Learners will be able to:
+
+-   Classify a situation as a rapid response or a code
+
+-   Assess the need for escalation of care & resources
+
+-   Organize responding personnel
+
+## First Scenario
+
+### Paged to bedside at U of U Hospital
+
+-   Middle-aged man, new tachycardia & BP 65/42.
+
+-   Oxygenating 90% on 2L by nasal cannula
+
+-   Disoriented, somnolent, and diaphoretic
+
+[What do you do?]{.underline}
+
+## Analyze the Emergency
+
+### Stable or Unstable?
+
+-   ABCs
+
+-   What help do you have?
+
+-   What help do you **need?**
+
+### Do you have what you need?
+
+-   e.g. Charge RN to expedite transfer
+
+-   e.g. Phlebotomy for labs
+
+-   e.g. Respiratory Support
+
+[What do you need in this situation?]{.underline}
+
+## Resources vary across site
+
++-----------------+-------------------------------------------------+------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+| Updated: 5/2024 | **U of U**                                      | **IMED**                                                               | **VA**                                                                          |
++:===============:+:================================================+:=======================================================================+:================================================================================+
+| **RRT/MET**     | House Sup, IM Res, SICU RN, Pharm               | IM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab                       | IM, MICU, CNO, RNs, RT Pharmacy (7a-7p)                                         |
++-----------------+-------------------------------------------------+------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+| **Code Blue**   | **add:** Anesth, EMT, MICU res, Pharm           | **add:** ICU attgs                                                     | **add:** ED                                                                     |
++-----------------+-------------------------------------------------+------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+| Numbers         | **Shock Team, Cath, Brain Attack, VAD:** 1-2222 | **‘Shock Team’:** Vocera TICU attg, **Brain Attack:** Operator; x33333 | **Brain attack:** Page Neuro Senior, **Cath:** Page Cardiology, **Code:** x6666 |
++-----------------+-------------------------------------------------+------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+
+## Second Scenario
+
+### Paged to RRT at the VA
+
+-   Elderly male who is hypoxemic immediately after a blood transfusion
+
+-   RR 24, SpO2 82% on room air
+
+Sick or not sick? Stable or Unstable? [What else do you need?]{.underline}
+
+## Second Scenario, cont.
+
+![](images/clipboard-1187290827.png){fig-alt="XR Chest Obtained During RRT" fig-align="center" width="640"}
+
+-   Begins to tripod with accessory muscle use.
+
+-   Placed on 100% fio2 via face mask
+
+-   O2 remains in the upper 80s
+
+[How has the situation changed?]{.underline}
+
+## Situations to Escalate
+
++--------------------------------------+-------------------------------+
+| **Rapid Response**                   | **Code Blue**                 |
++--------------------------------------+-------------------------------+
+| In 5 minutes, will this be a code?   | Brain Attack                  |
++--------------------------------------+-------------------------------+
+| •Airway                              | •Focal Deficit                |
+|                                      |                               |
+| •In Extremis                         |                               |
++--------------------------------------+-------------------------------+
+| •RRT → Code early                    | •Call brain attack            |
+|                                      |                               |
+|                                      | •Transfer after-hours at VA   |
++--------------------------------------+-------------------------------+
+
+## Second Scenario, cont.
+
+### You call a code blue. Shortly, the patient loses their pulse.
+
+-   Anesthesia at head of bed preparing to intubate
+
+-   Single compressor starting to tire
+
+-   Pharmacist trying to hand epi to RN on far end of the room
+
+How can we improve things?
+
+## Room Management
+
+-   Bed out from the wall (for airway)
+
+-   Rotate bed (for compressor space)
+
+-   Drop the bed for CPR
+
+-   "Everyone clear out unless I've given you a role"
+    ![Bed Management](images/clipboard-1132860432.png)
+
+## Summary
+
+-   Situations where you need other people? Airway, Cath/Shock Team, Neuro
+
+-   Is this rapid really a code? Can't breathe, extremis
+
+-   Room control: move the bed out, lower the bed, send people away

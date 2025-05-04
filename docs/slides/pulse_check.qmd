@@ -1,0 +1,78 @@
+---
+title: "Pulse Check Decisions"
+author: "Slides by Josiah Sitemeung, Alex Ryden, Brian Locke"
+format: 
+  revealjs:
+      embed-resources: true
+editor: visual
+---
+
+## Pulse Check Decisions
+
+## Scenario
+
+### Code Blue on E50. 
+
+Compressions ongoing on arrival
+
+You establish yourself as the code leader
+
+Next steps?
+
+## Scenario: First Pulse Check
+
+### No palpable pulse
+
+![What's your next step?](images/clipboard-3688483317.png){fig-alt="Rhythm strip during initial pulse check" width="1200"}
+
+## What to do when you're uncertain?
+
+![Turn up the gain; Enroll help: "Are we certain this is asystole?"](images/clipboard-939422357.png){fig-alt="Coarse vs Fine Ventricular Fibrillation" fig-align="center" width="1200"}
+
+## Scenario: Second Pulse Check
+
+### No palpable pulse
+
+![Anesthesia ready to intubate, asks for a moment before resuming compressions](images/clipboard-2169519162.png){fig-alt="Second Pulse Check"}
+
+## What is the big picture?
+
+Only a few things matter
+
+1.  If they don't have a pulse, someone is performing high quality compressions with **NO significant breaks**
+
+    -   **Limit** pauses (position changes, pulse checks, intubation, Lucas)
+
+2.  **Shock early** when they have a shockable rhythm
+
+![](images/clipboard-289981620.png){fig-alt="Zoll Feedback mode" fig-align="center" width="400"}
+
+## Scenario: Ongoing CPR
+
+### RN: "I'm having trouble getting a pulse even during compressions"
+
+How else can we detect ROSC?
+
+-   **EtCO2**
+
+-   POCUS(?)
+
+-   Doppler
+
+-   When in doubt, continue compressions
+
+## EtCO2 
+
+![Use EtCO2 to help detect ROSC](images/clipboard-73319215.png){fig-alt="EtCO2" fig-align="center" width="1200"}
+
+## Scenario: Third Pulse Check
+
+![EtCO2 = 36](images/clipboard-1673769684.png){fig-alt="ROSC" width="1200"}
+
+Summary:
+
+-   [**DO NOT MISS FINE V.Fib**]{.underline}
+
+-   Only allow, **at most**, a few seconds of CPR delay for intubation/Lucas
+
+-   Use EtCO2

@@ -1,0 +1,10 @@
+---
+title: "Case 5"
+author: "Ethan Krauspe, Richa Sheth"
+format: 
+  revealjs:
+      embed-resources: true
+editor: visual
+---
+
+## Case 5

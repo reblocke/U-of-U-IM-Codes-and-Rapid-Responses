@@ -17,16 +17,28 @@ book:
     - part: "Sessions"
     - href: slides/leadership.html
       text: "Leadership Skills (slides)"
-    - href: slides/rhythm.html
-      text: "Rhythm (slides)"
+    - href: slides/pulse_check.html
+      text: "Pulse Check Decisions (slides)"
     - href: slides/resources.html
       text: "Resources (slides)"
     - href: slides/ending.html
       text: "Ending (slides)"
+    - part: "Scenarios"
+    - href: slides/case_1.html
+      text: "Case 1"
+    - href: slides/case_2.html
+      text: "Case 2"
+    - href: slides/case_3.html
+      text: "Case 3"
+    - href: slides/case_4.html
+      text: "Case 4"
+    - href: slides/case_5.html
+      text: "Case 5"
+    - href: slides/case_6.html
+      text: "Case 6"    
     - part: "Wrap Up & Resources"
-    - href: slides/
-    - survey.qmd
     - summary.qmd
+    - survey.qmd
     - references.qmd
   license: "CC BY-SA"
   page-footer: CC-BY-SA-4.0 (2025) Brian Locke

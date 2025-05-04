@@ -1,6 +1,6 @@
 ---
 title: "Leadership Skills"
-author: "Slides by Colton Long, Ethan Krauspe, Brian Locke"
+author: "Slides by Colton Long, Ethan Krauspe, Alex Ryden, Brian Locke"
 format: 
   revealjs:
       embed-resources: true
@@ -12,19 +12,17 @@ editor: visual
 1.  Establish a clear leader
 2.  Collaborate and share information
 
-## Scenario
-
-### RRT to RM S408. 
+## Scenario: RRT to RM S408.
 
 ### Sign-out: 81M, SVT now stable.
 
-## Scenario
+## Scenario: Situation
 
 -   Suddenly, HR 160 and MAP drops 85 to 65
 
     ![What is this rhythm, and what would you do?](images/clipboard-3453080392.png)
 
-## Scenario
+## Scenario: Next Steps
 
 What's your schema for this situation?
 
@@ -32,7 +30,7 @@ What key data informs your treatment?
 
 How do you convey your thinking to the room?
 
-## Scenario
+## Scenario: Then...
 
 You share your assessment and plan to administer IV metoprolol with the team, then...
 
@@ -42,7 +40,7 @@ You share your assessment and plan to administer IV metoprolol with the team, th
 
 -   RN asks clarification: what metoprolol dose?
 
-## Scenario
+## Scenario: New Rhythm
 
 -   While talking with family, RN calls out the patient's not responding. A new EKG shows
 
@@ -58,7 +56,7 @@ You share your assessment and plan to administer IV metoprolol with the team, th
 
 What went wrong?
 
-## Establish a clear leader: 
+## Establish a clear leader:
 
 ### Are you running this RRT or not?
 
@@ -66,13 +64,13 @@ What went wrong?
 
 "Ok, I'm running this rapid", or "Can I take Over", or "OK, how can I help?"
 
-## Establish a clear leader: 
+## Establish a clear leader:
 
 ### Be the point person
 
 [![Do not move from your position. Don't do it!](images/clipboard-183477107.png){fig-alt="Pit crew: everyone has a defined task and position" fig-align="center" width="1200"}](https://doi.org/10.1016/j.resuscitation.2020.11.018)
 
-## Collaborate and Share Information
+## Collaborate and Share Information:
 
 ### Invite suggestions with a constructive tone
 
@@ -90,11 +88,11 @@ Why?
 
 -   Actual team dynamics: residents and (for example) experienced ICU RN's; primary team
 
-## Scenario Revisited
+## Scenario, Revisited
 
 ### What would you do differently?
 
-## Scenario Revisited
+## Scenario, Revisited
 
 ### What would you do differently?
 
@@ -105,3 +103,5 @@ Why?
 -   You verbalize your rhythm interpretation schema.
 
 -   Ideas from the entire team
+
+[Return to Course Page](../index.qmd "Course Page")

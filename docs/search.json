@@ -24,7 +24,7 @@
     "href": "index.html#agenda",
     "title": "U of U IM Codes and Rapid Responses",
     "section": "1.1 Agenda",
-    "text": "1.1 Agenda\n\nSurvey\n15-minute sessions on necessary micro-skills\n\nLeadership Style: [slides](slides/leadership.html){target=“_blank”}, outline]\nRhythm Interpretation [slides, outline]\nDo You Have Who/What You Need? [slides, outline]\nEnding the Code/Response [slides, outline]\n\nScenarios, Q&A, and Equipment\nSession Feedback",
+    "text": "1.1 Agenda\n\nSurvey\n15-minute sessions on necessary micro-skills\n\nLeadership Style — [slides] [outline]\nPulse Check Decisions — [slides] [outline]\nDo You Have Who/What You Need? — [slides] [outline]\nEnding the Code / Response — [slides] [outline]\n\nScenarios and Equipment\n\nCase 1, Case 2, Case 3, Case 4, Case 5, Case 6, Case 7, Case 8\n\nQ&A and Summary\nFeedback Survey\nReferences",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
     ]
@@ -54,7 +54,7 @@
     "href": "index.html#learning-objectives",
     "title": "U of U IM Codes and Rapid Responses",
     "section": "1.4 Learning Objectives",
-    "text": "1.4 Learning Objectives\n\nDiscuss micro-skills and schemas to avoid common/consequential errors that residents make.\nBuild Familiarity with the Zoll Device\nAnswer questions",
+    "text": "1.4 Learning Objectives\n\nDiscuss micro-skills and schemas to avoid common/consequential errors that residents make.\nBuild Familiarity with the Zoll Device\nAnswer questions\n\nSession instructor guide",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
     ]
@@ -82,11 +82,11 @@
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "7  Summary",
+    "title": "2  Summary",
     "section": "",
-    "text": "7.1 Additional Resources",
+    "text": "2.1 Additional Resources",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {
@@ -132,11 +132,11 @@
   {
     "objectID": "summary.html#additional-resources",
     "href": "summary.html#additional-resources",
-    "title": "7  Summary",
+    "title": "2  Summary",
     "section": "",
-    "text": "7.1.1 ACLS Card\n\n\n\n7.1.2 Differences by Site\n(Updated 5/16/2024)\n\n\n\n\n\n\n\n\n\n\nU of U\nIMED\nVA\n\n\n\n\nRRT/MET\nHouse Sup, IM Res, SICU RN, Pharm\nIM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab\nIM, MICU, CNO, RNs, RT Pharmacy (7a-7p)\n\n\nCode Blue\nadd: Anesth, EMT, MICU res, Pharm\nadd: ICU attgs\nadd: ED\n\n\nNumbers\nShock Team, Cath, Brain Attack, VAD: 1-2222\n‘Shock Team’: Vocera TICU attg, Brain Attack: Operator; x33333\nBrain attack: Page Neuro Senior, Cath: Page Cardiology, Code: x6666\n\n\n\n\n\n7.1.3 In-depth Rapid Response Guide\ncoming soon",
+    "text": "2.1.1 ACLS Card\n\n\n\n2.1.2 Differences by Site\n(Updated 5/16/2024)\n\n\n\n\n\n\n\n\n\n\nU of U\nIMED\nVA\n\n\n\n\nRRT/MET\nHouse Sup, IM Res, SICU RN, Pharm\nIM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab\nIM, MICU, CNO, RNs, RT Pharmacy (7a-7p)\n\n\nCode Blue\nadd: Anesth, EMT, MICU res, Pharm\nadd: ICU attgs\nadd: ED\n\n\nNumbers\nShock Team, Cath, Brain Attack, VAD: 1-2222\n‘Shock Team’: Vocera TICU attg, Brain Attack: Operator; x33333\nBrain attack: Page Neuro Senior, Cath: Page Cardiology, Code: x6666\n\n\n\n\n\n2.1.3 In-depth Rapid Response Guide\ncoming soon",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {
@@ -287,6 +287,16 @@
     "text": "5",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>resources</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#rising-pgy2-code-blue-and-rapid-response-seminar",
+    "href": "index.html#rising-pgy2-code-blue-and-rapid-response-seminar",
+    "title": "U of U IM Codes and Rapid Responses",
+    "section": "2025 Rising-PGY2 Code Blue and Rapid Response Seminar",
+    "text": "2025 Rising-PGY2 Code Blue and Rapid Response Seminar\nUniversity of Utah Internal Medicine Residency\nBookmark for future reference.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
     ]
   }
 ]

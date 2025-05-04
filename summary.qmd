@@ -23,7 +23,7 @@
 **(Updated 5/16/2024)**
 
 |   | **U of U** | **IMED** | **VA** |
-|:---------------:|:----------------|:------------------|:--------------------|
+|:--:|:---|:---|:---|
 | **RRT/MET** | House Sup, IM Res, SICU RN, Pharm | IM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab | IM, MICU, CNO, RNs, RT Pharmacy (7a-7p) |
 | **Code Blue** | **add:** Anesth, EMT, MICU res, Pharm | **add:** ICU attgs | **add:** ED |
 | Numbers | **Shock Team, Cath, Brain Attack, VAD:** 1-2222 | **‘Shock Team’:** Vocera TICU attg, **Brain Attack:** Operator; x33333 | **Brain attack:** Page Neuro Senior, **Cath:** Page Cardiology, **Code:** x6666 |

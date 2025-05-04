@@ -1,3 +1,92 @@
 ---
-title: "ending"
+title: "Ending the Code/RRT"
+author: "Slides by Sumit Patel, Alex Ryden, Brian Locke"
+format: 
+  revealjs:
+      embed-resources: true
+editor: visual
 ---
+
+## Scenario: RRT
+
+### Unresponsive, 12h post laminectomy
+
+HR and SpO2 ok. Pinpoint pupils, bradypneic. You give doses of naloxone without response. You..
+
+1.  Continue administering naloxone until they respond
+
+2.  Advocate for a move to the ICU
+
+3.  Defer to primary team
+
+## Rapid Response: The Big Picture
+
+### Possible outcomes
+
+1.  Turn into a **code blue** (Do You Have Who/What You Need?— \[[slides](slides/resources.html "Resources Slides")\] \[[outline](slides/resources.qmd "Resources Outline")\])
+
+2.  **Go to ICU**
+
+    -   Considerations: instability, too frequent nursing care, initation of titrable drip
+
+    -   Don't delay - often faster and safer to get things done in ICU if dispo known (answer 2)
+
+3.  **Stay on floor**
+
+    -   Generally need prompt stabilization and workup
+
+    -   Always hand off to the primary team assuming care
+
+## Scenario: Code Blue
+
+A young female patient has an arrest presumably from PE.
+
+She has been in PEA at each pulse check.
+
+Resuscitation has been going on for 40 minutes.
+
+When do you stop?
+
+## How long is too long?
+
+[![](images/clipboard-1519849945.png){width="600"}](https://doi.org/10.1136/bmj-2023-076019)
+
+[![BMJ. 2024 Feb 7:384:e076019](images/clipboard-1842920037.png){width="600"}](https://doi.org/10.1136/bmj-2023-076019)
+
+Things to consider:
+
+-   Pre-arrest state? more ill (esp if chronic) shorter
+
+-   Is the likely cause reversible? if so, longer
+
+-   What's the rhythm? Shockable = good! Asystole = bad! PEA = transition state.
+
+## The Family
+
+![Use judgement, delegate attention, and try to include](images/clipboard-3778670532.png){alt="Use judgement, Delegate attention, but try to include" fig-alt="NEJM RCT on Family Presence" width="1200"}
+
+## How to actually end an (unsuccessful) attempted resuscitation?
+
+-   "Does anyone have ideas we haven't tried?"
+
+-   "Let's stop CPR"
+
+-   Thank team members
+
+-   **Set a time & location to debrief** (soon)
+
+    -   the way to get better
+
+## Summary: 
+
+### Rapid Response
+
+consider what's next and don't delay.
+
+### Code blue
+
+-   consider pre-arrest state, causes, and rhythms. 5-60 minutes, generally.
+
+-   bring in family when possible
+
+-   Always debrief.

@@ -1,6 +1,6 @@
 # Overview
 
-## 2025 Rising PGY-2 Code and RRT Seminar {.unnumbered}
+## 2025 Rising-PGY2 Code Blue and Rapid Response Seminar {.unnumbered}
 
 **University of Utah Internal Medicine Residency**
 
@@ -12,17 +12,23 @@ Bookmark for future reference.
 
 2.  15-minute sessions on necessary micro-skills
 
-    1.  Leadership Style: \[slides\](slides/leadership.html){target="\_blank"}, outline\]
+    -   Leadership Style — \[[slides](slides/leadership.html "Leadership Style Slides")\] \[[outline](slides/leadership.qmd "Leadership Style Outline")\]
 
-    2.  Rhythm Interpretation \[slides, outline\]
+    -   Pulse Check Decisions — \[[slides](slides/pulse_check.html "Pulse Check Decisions Slides")\] \[[outline](slides/pulse_check.qmd "Pulse Check Decisions Outline")\]
 
-    3.  Do You Have Who/What You Need? \[slides, outline\]
+    -   Do You Have Who/What You Need? — \[[slides](slides/resources.html "Resources Slides")\] \[[outline](slides/resources.qmd "Resources Outline")\]
 
-    4.  Ending the Code/Response \[slides, outline\]
+    -   Ending the Code / Response — \[[slides](slides/ending.html "Ending the Code/RRT Slides")\] \[[outline](slides/ending.qmd "Ending the Code/RRT outline")\]
 
-3.  Scenarios, Q&A, and Equipment
+3.  Scenarios and Equipment
 
-4.  Session Feedback
+    -   Case 1, Case 2, Case 3, Case 4, Case 5, Case 6, Case 7, Case 8
+
+4.  Q&A and Summary
+
+5.  Feedback Survey
+
+6.  References
 
 ## Pedagogical Note: 
 
@@ -61,3 +67,5 @@ Please let the CMRs (or us) know when events, near-misses, or big-wins happen. I
 -   Build Familiarity with the Zoll Device
 
 -   Answer questions
+
+Session instructor guide
