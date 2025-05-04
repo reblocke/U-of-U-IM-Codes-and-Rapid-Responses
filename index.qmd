@@ -1,16 +1,29 @@
 ---
 title: "Overview: Code Blue and Rapid Response Seminar"
-author: "Brian Locke, MD MSCI"
-affiliation: "PCCM, Intermountain Medical Center"
+author: 
+  - name: "Ethan Krauspe, MD"
+    affiliation: "U of U IM CMRs"
+  - name: "Brian Locke, MD MSCI"
+    affiliation: "PCCM, Intermountain Medical Center"
+  - name: "Colton Long, MD"
+    affiliation: "U of U IM Residency"
+  - name: "Sumit Patel, MD"
+    affiliation: "U of U PCCM Fellowship"
+  - name: "Alex Ryden, MD"
+    affiliation: "U of U PCCM Fellowship"
+  - name: "Richa Sheth, MD"
+    affiliation: "U of U PCCM Fellowship"
+  - name: "Josiah Situmeang, MD"
+    affiliation: "U of U IM CMRs"
 date: 2025-05-04
 date-modified: last-modified
+citation: true
+bibliography: references.bib
 ---
 
 # Overview: Code Blue and Rapid Response Seminar
 
 Target: Rising-PGY2s
-
-**University of Utah Internal Medicine Residency**
 
 Bookmark for future reference.
 
