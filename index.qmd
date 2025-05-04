@@ -28,7 +28,7 @@ Bookmark for future reference.
 
 5.  [Feedback Survey](survey.qmd "Placeholder")
 
-6.  References
+6.  [References](references.qmd)
 
 ## Methods:
 
