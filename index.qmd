@@ -17,8 +17,11 @@ author:
     affiliation: "U of U IM CMRs"
 date: 2025-05-04
 date-modified: last-modified
-citation: true
 bibliography: references.bib
+format:
+  html:
+    citation: true                # must be nested exactly here
+    appendix-cite-as: ["display"] # optional: show only the block
 ---
 
 # Overview: Code Blue and Rapid Response Seminar
@@ -57,15 +60,15 @@ We’ve discussed with stakeholders and participants in the rapid response & cod
 
 -   **Unfavorable team dynamics emerge**
 
-    -   Most commonly, it’s not clear who is running the code.
+    -   Most commonly, it’s not clear who is running the code, or collaborative dynamics aren't established. [@steinbach_effective_2024]
 
 -   A shockable rhythm is not shocked.
 
--   Decisions are too delayed.c
+-   Decisions are too delayed.
 
--   The person who activated the response gets snarked for a false alarm.
-
+::: {.callout-important}
 Please let the CMRs (or us) know when events, near-misses, or big-wins happen. It'll help us keep this seminar relevant.
+:::
 
 ## Learning Objectives
 

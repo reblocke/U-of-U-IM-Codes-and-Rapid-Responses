@@ -28,7 +28,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -363,13 +383,24 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><p><strong>Unfavorable team dynamics emerge</strong></p>
 <ul>
-<li>Most commonly, it’s not clear who is running the code.</li>
+<li>Most commonly, it’s not clear who is running the code, or collaborative dynamics aren’t established. <span class="citation" data-cites="steinbach_effective_2024">(<a href="references.html#ref-steinbach_effective_2024" role="doc-biblioref">Steinbach, Jennerich, and Çoruh 2024</a>)</span></li>
 </ul></li>
 <li><p>A shockable rhythm is not shocked.</p></li>
-<li><p>Decisions are too delayed.c</p></li>
-<li><p>The person who activated the response gets snarked for a false alarm.</p></li>
+<li><p>Decisions are too delayed.</p></li>
 </ul>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <p>Please let the CMRs (or us) know when events, near-misses, or big-wins happen. It’ll help us keep this seminar relevant.</p>
+</div>
+</div>
 </section>
 <section id="learning-objectives" class="level2" data-number="1.3">
 <h2 data-number="1.3" class="anchored" data-anchor-id="learning-objectives"><span class="header-section-number">1.3</span> Learning Objectives</h2>
@@ -397,6 +428,11 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-steinbach_effective_2024" class="csl-entry" role="listitem">
+Steinbach, Trevor C., Ann L. Jennerich, and Başak Çoruh. 2024. <span>“Effective <span>Behaviors</span> of <span>Leaders</span> <span>During</span> <span>Clinical</span> <span>Emergencies</span>: <span>A</span> <span>Qualitative</span> <span>Study</span> of <span>Followers</span>’ <span>Perspectives</span>.”</span> <em>CHEST</em> 166 (5): 1141–50. <a href="https://doi.org/10.1016/j.chest.2024.05.011">https://doi.org/10.1016/j.chest.2024.05.011</a>.
+</div>
+</div>
 </section>
 </section>
 </section>
