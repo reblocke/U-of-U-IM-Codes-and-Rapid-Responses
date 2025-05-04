@@ -20,13 +20,13 @@ Bookmark for future reference.
 
 2.  15-minute sessions on necessary micro-skills
 
-    -   Leadership Style — \[[slides](slides/leadership.html "Leadership Style Slides")\] \[[outline](slides/leadership.qmd "Leadership Style Outline")\]
+    -   Leadership Style — \[[slides](slides/leadership.html "Leadership Style Slides")\]
 
-    -   Pulse Check Decisions — \[[slides](slides/pulse_check.html "Pulse Check Decisions Slides")\] \[[outline](slides/pulse_check.qmd "Pulse Check Decisions Outline")\]
+    -   Pulse Check Decisions — \[[slides](slides/pulse_check.html "Pulse Check Decisions Slides")\]
 
-    -   Do You Have Who/What You Need? — \[[slides](slides/resources.html "Resources Slides")\] \[[outline](slides/resources.qmd "Resources Outline")\]
+    -   Do You Have Who/What You Need? — \[[slides](slides/resources.html "Resources Slides")\]
 
-    -   Ending the Code / Response — \[[slides](slides/ending.html "Ending the Code/RRT Slides")\] \[[outline](slides/ending.qmd "Ending the Code/RRT outline")\]
+    -   Ending the Code / Response — \[[slides](slides/ending.html "Ending the Code/RRT Slides")\]
 
 3.  Scenarios and Equipment
 
