@@ -1,16 +1,14 @@
 ---
 title: "Overview: Code Blue and Rapid Response Seminar"
 author: "Brian Locke, MD MSCI"
-affiliation: Intermountain Medical Center
+affiliation: "PCCM, Intermountain Medical Center"
 date: 2025-05-04
 date-modified: last-modified
-citation: true        # enables the block
-bibliography: references.bib
 ---
 
-# Overview
+# Overview: Code Blue and Rapid Response Seminar
 
-## 2025 Rising-PGY2 Code Blue and Rapid Response Seminar {.unnumbered}
+Target: Rising-PGY2s
 
 **University of Utah Internal Medicine Residency**
 
@@ -83,4 +81,3 @@ Didactics are only 1 component of this - continued effort required.
 -   [Instructor's Guide to Cases](https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses/blob/ee42e4f611e2744f9bd763ff6d7616cc24b82055/2025-4-29%20EK%20Preceptor.ZollSim.docx "Instructor's Guide to Cases")
 
 -   [QR code link](slides/qr.html "To access QR code to course website")
-
