@@ -3,7 +3,10 @@ project:
   output-dir: docs
 
 resources:
-  - slides/                # trailing slash optional
+  - slides/leadership.html
+  - slides/rhythm.html
+  - slides/resources.html
+  - slides/ending.html
 
 book:
   title: "U of U IM Codes and Rapid Responses"

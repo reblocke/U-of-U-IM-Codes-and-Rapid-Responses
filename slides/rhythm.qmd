@@ -1,3 +1,8 @@
 ---
-title: "rhythm"
+title: "Rhythm Interpretation & Pulse Check"
+author: "Slides by Sumit Patel, Alex Ryden, Brian Locke"
+format: 
+  revealjs:
+      embed-resources: true
+editor: visual
 ---
