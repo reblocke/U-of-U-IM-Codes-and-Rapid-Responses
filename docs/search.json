@@ -34,7 +34,7 @@
     "href": "index.html#pedagogical-note",
     "title": "U of U IM Codes and Rapid Responses",
     "section": "1.2 Pedagogical Note:",
-    "text": "1.2 Pedagogical Note:\nThe right way to learn how to do this is:\n\nWatch someone run a code/RRT well\nLearn the key considerations*\nImitate a well-run code/RRT (perhaps with simulation)\nReceive Feedback\n\nDidactics are only 1 component of this.",
+    "text": "1.2 Pedagogical Note:\nThe right way to learn how to run codes/RRTs well is:\n\nWatch someone run a code/RRT well\nLearn the key considerations\nImitate a well-run code/RRT (perhaps with simulation)\nReceive Feedback\n\nDidactics are only 1 component of this.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
     ]
@@ -44,7 +44,7 @@
     "href": "index.html#methods",
     "title": "U of U IM Codes and Rapid Responses",
     "section": "1.3 Methods:",
-    "text": "1.3 Methods:\nWe’ve discussed with stakeholders and participants in the rapid response & code teams to identify the most common and consequential mistakes residents make:\n\nUnfavorable team dynamics emerge\nIt’s not clear who is running the code.\nA shockable rhythm is not shocked.\nDecisions are too delayed.\nThe person who activated the response gets snarked for a false alarm.\n\n(please let us know of other events or near-misses)",
+    "text": "1.3 Methods:\nWe’ve discussed with stakeholders and participants in the rapid response & code teams to identify the most common and consequential mistakes residents make:\n\nUnfavorable team dynamics emerge\n\nMost commonly, it’s not clear who is running the code.\n\nA shockable rhythm is not shocked.\nDecisions are too delayed.\nThe person who activated the response gets snarked for a false alarm.\n\nPlease let the CMRs (or us) know when events, near-misses, or big-wins happen. It’ll help us keep this seminar relevant.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
     ]
@@ -54,7 +54,7 @@
     "href": "index.html#learning-objectives",
     "title": "U of U IM Codes and Rapid Responses",
     "section": "1.4 Learning Objectives",
-    "text": "1.4 Learning Objectives\nDiscuss micro-skills/schemas to avoid each error.\nWe’re not going to review ACLS, per se. Here’s a reference.\n\n\n1.4.1 Other useful references:\n(Updated 5/16/2024)\n\n\n\n\n\n\n\n\n\n\nU of U\nIMED\nVA\n\n\n\n\nRRT/MET\nHouse Sup, IM Res, SICU RN, Pharm\nIM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab\nIM, MICU, CNO, RNs, RT Pharmacy (7a-7p)\n\n\nCode Blue\nadd: Anesth, EMT, MICU res, Pharm\nadd: ICU attgs\nadd: ED\n\n\nNumbers\nShock Team, Cath, Brain Attack, VAD: 1-2222\n‘Shock Team’: Vocera TICU attg, Brain Attack: Operator; x33333\nBrain attack: Page Neuro Senior, Cath: Page Cardiology, Code: x6 666",
+    "text": "1.4 Learning Objectives\n\nDiscuss micro-skills and schemas to avoid common/consequential errors that residents make.\nBuild Familiarity with the Zoll Device\nAnswer questions",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
     ]
@@ -84,9 +84,199 @@
     "href": "summary.html",
     "title": "7  Summary",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "text": "7.1 Additional Resources",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#acls-card",
+    "href": "summary.html#acls-card",
+    "title": "7  Summary",
+    "section": "7.2 ACLS Card",
+    "text": "7.2 ACLS Card",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#differences-by-site",
+    "href": "summary.html#differences-by-site",
+    "title": "7  Summary",
+    "section": "7.3 Differences by Site",
+    "text": "7.3 Differences by Site\n(Updated 5/16/2024)\n\n\n\n\n\n\n\n\n\n\nU of U\nIMED\nVA\n\n\n\n\nRRT/MET\nHouse Sup, IM Res, SICU RN, Pharm\nIM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab\nIM, MICU, CNO, RNs, RT Pharmacy (7a-7p)\n\n\nCode Blue\nadd: Anesth, EMT, MICU res, Pharm\nadd: ICU attgs\nadd: ED\n\n\nNumbers\nShock Team, Cath, Brain Attack, VAD: 1-2222\n‘Shock Team’: Vocera TICU attg, Brain Attack: Operator; x33333\nBrain attack: Page Neuro Senior, Cath: Page Cardiology, Code: x6666",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#in-depth-rapid-response-guide",
+    "href": "summary.html#in-depth-rapid-response-guide",
+    "title": "7  Summary",
+    "section": "7.4 In-depth Rapid Response Guide",
+    "text": "7.4 In-depth Rapid Response Guide\ncoming soon",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "4  resources",
+    "section": "",
+    "text": "5",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>resources</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#additional-resources",
+    "href": "summary.html#additional-resources",
+    "title": "7  Summary",
+    "section": "",
+    "text": "7.1.1 ACLS Card\n\n\n\n7.1.2 Differences by Site\n(Updated 5/16/2024)\n\n\n\n\n\n\n\n\n\n\nU of U\nIMED\nVA\n\n\n\n\nRRT/MET\nHouse Sup, IM Res, SICU RN, Pharm\nIM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab\nIM, MICU, CNO, RNs, RT Pharmacy (7a-7p)\n\n\nCode Blue\nadd: Anesth, EMT, MICU res, Pharm\nadd: ICU attgs\nadd: ED\n\n\nNumbers\nShock Team, Cath, Brain Attack, VAD: 1-2222\n‘Shock Team’: Vocera TICU attg, Brain Attack: Operator; x33333\nBrain attack: Page Neuro Senior, Cath: Page Cardiology, Code: x6666\n\n\n\n\n\n7.1.3 In-depth Rapid Response Guide\ncoming soon",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "slides/leadership.html",
+    "href": "slides/leadership.html",
+    "title": "2  Leadership Skills",
+    "section": "",
+    "text": "2.1 Effective Leadership Skills",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Leadership Skills</span>"
+    ]
+  },
+  {
+    "objectID": "slides/leadership.html#this-is-a-slide",
+    "href": "slides/leadership.html#this-is-a-slide",
+    "title": "2  Leadership",
+    "section": "3.1 This is a slide",
+    "text": "3.1 This is a slide\nAdd your content here",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Leadership</span>"
+    ]
+  },
+  {
+    "objectID": "slides/leadership.html#effective-leadership-skills",
+    "href": "slides/leadership.html#effective-leadership-skills",
+    "title": "2  Leadership Skills",
+    "section": "",
+    "text": "Establish a clear leader\nCollaborate and share information",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Leadership Skills</span>"
+    ]
+  },
+  {
+    "objectID": "slides/leadership.html#scenario",
+    "href": "slides/leadership.html#scenario",
+    "title": "2  Leadership Skills",
+    "section": "2.2 Scenario",
+    "text": "2.2 Scenario\n\n2.2.1 RRT to RM S408.\n\n\n2.2.2 Sign-out: 81M, SVT now stable.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Leadership Skills</span>"
+    ]
+  },
+  {
+    "objectID": "slides/leadership.html#scenario-1",
+    "href": "slides/leadership.html#scenario-1",
+    "title": "2  Leadership Skills",
+    "section": "2.3 Scenario",
+    "text": "2.3 Scenario\n\nSuddenly, HR 160 and MAP drops 85 to 65\n\n\n\nWhat is this rhythm, and what would you do?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Leadership Skills</span>"
+    ]
+  },
+  {
+    "objectID": "slides/leadership.html#scenario-2",
+    "href": "slides/leadership.html#scenario-2",
+    "title": "2  Leadership Skills",
+    "section": "2.4 Scenario",
+    "text": "2.4 Scenario\nWhat’s your schema for this situation?\nWhat key data informs your treatment?\nHow do you convey your thinking to the room?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Leadership Skills</span>"
+    ]
+  },
+  {
+    "objectID": "slides/leadership.html#scenario-3",
+    "href": "slides/leadership.html#scenario-3",
+    "title": "2  Leadership Skills",
+    "section": "2.5 Scenario",
+    "text": "2.5 Scenario\nYou share your assessment and plan to administer IV metoprolol with the team, then…\n\n3 individuals (DOCTOR badges) you don’t know enter the room and don’t introduce themselves.\nYou discuss the situation with the family outside the room - many questions.\nRN asks clarification: what metoprolol dose?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Leadership Skills</span>"
+    ]
+  },
+  {
+    "objectID": "slides/leadership.html#scenario-4",
+    "href": "slides/leadership.html#scenario-4",
+    "title": "2  Leadership Skills",
+    "section": "2.6 Scenario",
+    "text": "2.6 Scenario\n\nWhile talking with family, RN calls out the patient’s not responding. A new EKG shows\n\n\n\nWhat is this rhythm, and what do you do?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Leadership Skills</span>"
+    ]
+  },
+  {
+    "objectID": "slides/leadership.html#scenario-postscript",
+    "href": "slides/leadership.html#scenario-postscript",
+    "title": "2  Leadership Skills",
+    "section": "2.7 Scenario (postscript)",
+    "text": "2.7 Scenario (postscript)\n\nIndividuals are primary CV team, who are unaware it’s a rapid.\nTurns out the primary team had also told the RN to give Metop - multiple doses.\nPatient requires trans-cutaneous pacing - who’s making that decision?\n\nWhat went wrong?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Leadership Skills</span>"
+    ]
+  },
+  {
+    "objectID": "slides/leadership.html#establish-a-clear-leader",
+    "href": "slides/leadership.html#establish-a-clear-leader",
+    "title": "2  Leadership Skills",
+    "section": "2.8 Establish a clear leader:",
+    "text": "2.8 Establish a clear leader:\n\n2.8.1 Are you running this RRT or not?\n“I’m ____, the resident on the code team. Is anyone running this rapid?”\n“Ok, I’m running this rapid”, or “Can I take Over”, or “OK, how can I help?”",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Leadership Skills</span>"
+    ]
+  },
+  {
+    "objectID": "slides/leadership.html#establish-a-clear-leader-1",
+    "href": "slides/leadership.html#establish-a-clear-leader-1",
+    "title": "2  Leadership Skills",
+    "section": "2.9 Establish a clear leader:",
+    "text": "2.9 Establish a clear leader:\n\n2.9.1 Be the point person\n\n\n\n\n\n\n\nDo not move from your position. Don’t do it!",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Leadership Skills</span>"
+    ]
+  },
+  {
+    "objectID": "slides/leadership.html#collaborate-and-share-information",
+    "href": "slides/leadership.html#collaborate-and-share-information",
+    "title": "2  Leadership Skills",
+    "section": "2.10 Collaborate and Share Information",
+    "text": "2.10 Collaborate and Share Information\n\n2.10.1 Invite suggestions with a constructive tone\nTry:\n\nThink out loud: “That qrs is wide, but the rhythm looks irregular”\nSummarize: “MAP is OK, I think this is AFib, so…”\nEncourage: “Good thought, yes…”\n\nWhy?\n\nThe team has a lot of context-specific experience\nActual team dynamics: residents and (for example) experienced ICU RN’s; primary team",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Leadership Skills</span>"
+    ]
+  },
+  {
+    "objectID": "slides/leadership.html#scenario-revisited",
+    "href": "slides/leadership.html#scenario-revisited",
+    "title": "2  Leadership Skills",
+    "section": "2.11 Scenario Revisited",
+    "text": "2.11 Scenario Revisited\n\n2.11.1 What would you do differently?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Leadership Skills</span>"
+    ]
+  },
+  {
+    "objectID": "slides/leadership.html#scenario-revisited-1",
+    "href": "slides/leadership.html#scenario-revisited-1",
+    "title": "2  Leadership Skills",
+    "section": "2.12 Scenario Revisited",
+    "text": "2.12 Scenario Revisited\n\n2.12.1 What would you do differently?\n\nPrimary team identified; confirmed they want you to run response\nStanding at the head of the bed, delegating all other tasks.\nYou verbalize your rhythm interpretation schema.\nIdeas from the entire team",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Leadership Skills</span>"
     ]
   }
 ]

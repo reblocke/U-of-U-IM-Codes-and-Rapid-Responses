@@ -2,6 +2,9 @@ project:
   type: book
   output-dir: docs
 
+resources:
+  - slides/                # trailing slash optional
+
 book:
   title: "U of U IM Codes and Rapid Responses"
   author: "Ethan Krauspe, Brian Locke, Colton Long, Sumit Patel, Alex Ryden, Richa Sheth, Josiah Situmeang"
@@ -9,7 +12,7 @@ book:
   chapters:
     - index.qmd
     - part: "Sessions"
-    - leadership.qmd
+    - slides/leadership.qmd
     - rhythm.qmd
     - resources.qmd
     - ending.qmd
