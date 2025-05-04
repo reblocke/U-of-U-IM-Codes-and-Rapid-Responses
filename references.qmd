@@ -1,4 +1,37 @@
 # References {.unnumbered}
 
 ::: {#refs}
+[@steinbach_effective_2024]
+
+[@janssens_leadership_2024]
+
+[@guetterman_nursing_2019]
+
+[@pallas_cardiac_2021]
+
+[@okubo_duration_2024]
+
+[@holmberg_termination_2025]
+
+[@ghantarchyan_improving_2024]
+
+[@schull_problems_2001]
+
+[@ueno_long-term_2024]
+
+[@crowley_association_2024]
+
+[@jabre_family_2013]
+
+[@stolldorf_deployment_2015]
+
+[@littmann_simplified_2013]
+
+[@norvik_pulseless_2022]
 :::
+
+Other helpful resources:
+
+[Critical Care Time Podcast, communications skills](https://podcasts.apple.com/us/podcast/critical-care-time/id1693543423?i=1000702472911)
+
+[Reddit Thread on Rapids](https://www.reddit.com/r/Residency/comments/1dljr8d/how_do_i_get_better_at_rapids/?share_id=qTUkeNs2Lv0_csyzAbWNu&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)

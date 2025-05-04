@@ -1,0 +1,13 @@
+---
+title: "Course Webpage"
+format: 
+  revealjs:
+      embed-resources: true
+editor: visual
+---
+
+## Course Webpage
+
+[![Point phone at QR Code](images/clipboard-2860451932.png){fig-alt="QR code for course website" fig-align="center"}](https://reblocke.github.io/U-of-U-IM-Codes-and-Rapid-Responses/)
+
+[Return to Course Page](../ "Course Page")

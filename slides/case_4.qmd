@@ -8,3 +8,19 @@ editor: visual
 ---
 
 ## Case 4
+
+36F admitted for ETOH detox.
+
+RRT activated on third day of admission.
+
+Tachycardic, HR 180s, dizzy/lightheaded but responsive, pulsatile in all ext. 
+
+## EKG
+
+![](images/clipboard-510376321.png){width="1200"}
+
+## Post-Adenosine EKG
+
+![](images/clipboard-3582567695.png){width="1200"}
+
+[Return to Course Page](../ "Course Page")

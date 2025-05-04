@@ -8,3 +8,18 @@ editor: visual
 ---
 
 ## Case 3
+
+45M with HFrEF collapses in clinic waiting room.
+
+Code blue is called.
+
+Initial assessment reveals absent pulses. 
+
+## EKG
+![](images/clipboard-584294119.png){width="1200"}
+
+## EKG
+
+![](images/clipboard-2930864057.png){width="1200"}
+
+[Return to Course Page](../ "Course Page")

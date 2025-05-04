@@ -8,3 +8,11 @@ editor: visual
 ---
 
 ## Case 6
+
+24F with recent QT-prolonging meds collapses on telemetry. 
+
+## EKG analysis
+
+-   [ ] find a monomorphic vs polymorphic with nl qtc vs polymorphic with long qt
+
+[Return to Course Page](../ "Course Page")

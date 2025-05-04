@@ -4,9 +4,16 @@ project:
 
 resources:
   - slides/leadership.html
-  - slides/rhythm.html
+  - slides/pulse_check.html
   - slides/resources.html
   - slides/ending.html
+  - slides/case_1.html
+  - slides/case_2.html
+  - slides/case_3.html
+  - slides/case_4.html
+  - slides/case_5.html
+  - slides/case_6.html
+  - slides/qr.html
 
 book:
   title: "U of U IM Codes and Rapid Responses"
@@ -14,6 +21,7 @@ book:
   date: "5/3/2025"
   chapters:
     - index.qmd
+    - survey.qmd
     - part: "Sessions"
     - href: slides/leadership.html
       text: "Leadership Skills (slides)"

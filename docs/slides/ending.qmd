@@ -63,7 +63,7 @@ Things to consider:
 
 ## The Family
 
-![Use judgement, delegate attention, and try to include](images/clipboard-3778670532.png){alt="Use judgement, Delegate attention, but try to include" fig-alt="NEJM RCT on Family Presence" width="1200"}
+![Use judgement, Delegate attention, but try to include](images/clipboard-3778670532.png){fig-alt="NEJM RCT on Family Presence" width="1200"}
 
 ## How to actually end an (unsuccessful) attempted resuscitation?
 
@@ -77,7 +77,7 @@ Things to consider:
 
     -   the way to get better
 
-## Summary: 
+## Summary:
 
 ### Rapid Response
 
@@ -90,3 +90,5 @@ consider what's next and don't delay.
 -   bring in family when possible
 
 -   Always debrief.
+
+[Return to Course Page](../ "Course Page")

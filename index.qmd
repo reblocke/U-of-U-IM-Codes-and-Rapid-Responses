@@ -8,7 +8,7 @@ Bookmark for future reference.
 
 ## Agenda
 
-1.  Survey
+1.  [Survey](survey.qmd "placeholder")
 
 2.  15-minute sessions on necessary micro-skills
 
@@ -22,29 +22,15 @@ Bookmark for future reference.
 
 3.  Scenarios and Equipment
 
-    -   Case 1, Case 2, Case 3, Case 4, Case 5, Case 6, Case 7, Case 8
+    -   [Case 1](slides/case_1.html "Case 1"), [Case 2](slides/case_2.html "Case 2"), [Case 3](slides/case_3.html "Case 3"), [Case 4](slides/case_4.html "Case 4"), [Case 5](slides/case_5.html "Case 5"), [Case 6](slides/case_6.html "Case 6")
 
-4.  Q&A and Summary
+4.  [Q&A and Summary](summary.qmd "Summary Page")
 
-5.  Feedback Survey
+5.  [Feedback Survey](survey.qmd "Placeholder")
 
 6.  References
 
-## Pedagogical Note: 
-
-The right way to learn how to run codes/RRTs well is:
-
--   Watch someone run a code/RRT well
-
--   Learn the key considerations
-
--   Imitate a well-run code/RRT (perhaps with simulation)
-
--   Receive Feedback
-
-Didactics are only 1 component of this.
-
-## Methods: 
+## Methods:
 
 We’ve discussed with stakeholders and participants in the rapid response & code teams to identify the most common and consequential mistakes residents make:
 
@@ -54,7 +40,7 @@ We’ve discussed with stakeholders and participants in the rapid response & cod
 
 -   A shockable rhythm is not shocked.
 
--   Decisions are too delayed.
+-   Decisions are too delayed.c
 
 -   The person who activated the response gets snarked for a false alarm.
 
@@ -68,4 +54,24 @@ Please let the CMRs (or us) know when events, near-misses, or big-wins happen. I
 
 -   Answer questions
 
-Session instructor guide
+## Pedagogical Note:
+
+The right way to learn how to run codes/RRTs well is:
+
+-   Watch someone run a code/RRT well
+
+-   Learn the key considerations
+
+-   Imitate a well-run code/RRT (perhaps with simulation)
+
+-   Receive Feedback
+
+Didactics are only 1 component of this - continued effort required.
+
+### For instructors/facilitators:
+
+-   [Instructor's Guide to Cases](https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses/blob/ee42e4f611e2744f9bd763ff6d7616cc24b82055/2025-4-29%20EK%20Preceptor.ZollSim.docx "Instructor's Guide to Cases")
+
+-   [QR code link](slides/qr.html "To access QR code to course website")
+
+Cite this work as:

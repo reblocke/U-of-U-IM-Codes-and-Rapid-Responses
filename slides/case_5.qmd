@@ -8,3 +8,17 @@ editor: visual
 ---
 
 ## Case 5
+
+82F with bradycardia, confusion, SBP 80s.
+
+RRT activated for bradycardia 
+
+## EKG 
+
+![](images/clipboard-873706907.png){width="1200"}
+
+## EKG Analysis
+
+![](images/clipboard-2262603552.png){width="1200"}
+
+[Return to Course Page](../ "Course Page")

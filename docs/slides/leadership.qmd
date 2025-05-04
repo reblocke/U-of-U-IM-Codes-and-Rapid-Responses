@@ -14,7 +14,7 @@ editor: visual
 
 ## Scenario: RRT to RM S408.
 
-### Sign-out: 81M, SVT now stable.
+Sign-out: 81M, SVT now stable.
 
 ## Scenario: Situation
 
@@ -104,4 +104,4 @@ Why?
 
 -   Ideas from the entire team
 
-[Return to Course Page](../index.qmd "Course Page")
+[Return to Course Page](../ "Course Page")
