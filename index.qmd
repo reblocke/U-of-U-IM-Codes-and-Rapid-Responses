@@ -28,7 +28,7 @@ format:
 
 Target: Rising-PGY2s
 
-Bookmark for future reference.
+
 
 ## Agenda
 
@@ -78,19 +78,9 @@ Please let the CMRs (or us) know when events, near-misses, or big-wins happen. I
 
 -   Answer questions
 
-## Pedagogical Note:
-
-The right way to learn how to run codes/RRTs well is:
-
--   Watch someone run a code/RRT well
-
--   Learn the key considerations
-
--   Imitate a well-run code/RRT (perhaps with simulation)
-
--   Receive Feedback
-
-Didactics are only 1 component of this - continued effort required.
+::: {.callout-tip}
+Didactics and discussion will only get you so far - periodic review (bookmark this!), simulation, and receiving feedback (debrief!) can help
+:::
 
 ### For instructors/facilitators:
 
