@@ -16,6 +16,7 @@ Code blue is called.
 Initial assessment reveals absent pulses. 
 
 ## EKG
+
 ![](images/clipboard-584294119.png){width="1200"}
 
 ## EKG

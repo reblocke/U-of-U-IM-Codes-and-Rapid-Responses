@@ -13,6 +13,16 @@ editor: visual
 
 ## EKG analysis
 
--   [ ] find a monomorphic vs polymorphic with nl qtc vs polymorphic with long qt
+[![Polymorphic VT w Long QT = TdP](images/ECG-strip-Torsades-de-pointes-TDP-2-2.jpg){width="1000"}](https://litfl.com/polymorphic-vt-and-torsades-de-pointes-tdp/)
+
+[Excellent Life in the Fast Lane Summary](https://litfl.com/polymorphic-vt-and-torsades-de-pointes-tdp/ "Link with more info")
+
+## EKG analysis
+
+![Polymorphic VT](images/ECG-strip-Torsades-de-pointes-TDP.jpg){width="500"}
+
+## EKG analysis
+
+![Monomorphic VT](images/Monomorphic-ventricular-tachycardia-VT.jpg){width="500"}
 
 [Return to Course Page](../ "Course Page")

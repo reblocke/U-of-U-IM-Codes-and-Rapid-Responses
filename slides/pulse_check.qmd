@@ -13,11 +13,9 @@ editor: visual
 
 ### Code Blue on E50.
 
-Compressions ongoing on arrival
+Compressions ongoing when you arrive.
 
-You establish yourself as the code leader
-
-Next steps?
+You establish yourself as the code leader.
 
 ## Scenario: First Pulse Check
 
@@ -27,7 +25,7 @@ Next steps?
 
 ## What to do when you're uncertain?
 
-![Turn up the gain; Enroll help: "Are we certain this is asystole?"](images/clipboard-939422357.png){fig-alt="Coarse vs Fine Ventricular Fibrillation" fig-align="center" width="1200"}
+![Turn up the gain. Enroll help. "Are we certain this is asystole?"](images/clipboard-939422357.png){fig-alt="Coarse vs Fine Ventricular Fibrillation" fig-align="center" width="1200"}
 
 ## Scenario: Second Pulse Check
 
@@ -53,13 +51,13 @@ Only a few things matter
 
 How else can we detect ROSC?
 
--   **EtCO2**
+1.  **End Tidal CO2 (EtCO2)**
 
--   POCUS(?)
+2.  POCUS\*
 
--   Doppler
+3.  Doppler\*
 
--   When in doubt, continue compressions
+4.  When in doubt, continue compressions
 
 ## EtCO2
 
@@ -67,7 +65,7 @@ How else can we detect ROSC?
 
 ## Scenario: Third Pulse Check
 
-![EtCO2 = 36](images/clipboard-1673769684.png){fig-alt="ROSC" width="1200"}
+![EtCO2 = 36 mmHg](images/clipboard-1673769684.png){fig-alt="ROSC" width="1200"}
 
 Summary:
 

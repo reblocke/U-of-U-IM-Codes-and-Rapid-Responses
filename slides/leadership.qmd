@@ -42,17 +42,17 @@ You share your assessment and plan to administer IV metoprolol with the team, th
 
 ## Scenario: New Rhythm
 
--   While talking with family, RN calls out the patient's not responding. A new EKG shows
+-   While with family, RN shouts "patient's not responding". New EKG:
 
     ![What is this rhythm, and what do you do?](images/clipboard-4123436669.png){width="1200"}
 
 ## Scenario (postscript)
 
--   Individuals are primary CV team, who are unaware it's a rapid.
+-   DOCTORS are primary CV team, who are unaware it's a rapid.
 
--   Turns out the primary team had also told the RN to give Metop - multiple doses.
+-   Primary team had also told the RN to give Metop, leading to multiple doses.
 
--   Patient requires trans-cutaneous pacing - who's making that decision?
+-   Patient required transcutaneous pacing - who decides?
 
 What went wrong?
 
@@ -60,15 +60,19 @@ What went wrong?
 
 ### Are you running this RRT or not?
 
-"I'm \_\_\_\_, the resident on the code team. Is anyone running this rapid?"
+"I'm \_\_, resident on the code team. Is anyone running this rapid?"
 
-"Ok, I'm running this rapid", or "Can I take Over", or "OK, how can I help?"
+-   "Ok, I'm running this rapid", or
+
+-   "Can I take Over", or
+
+-   "OK, how can I help?"
 
 ## Establish a clear leader:
 
 ### Be the point person
 
-[![Do not move from your position. Don't do it!](images/clipboard-183477107.png){fig-alt="Pit crew: everyone has a defined task and position" fig-align="center" width="1200"}](https://doi.org/10.1016/j.resuscitation.2020.11.018)
+[![Do not move from your position. Don\'t do it!](images/clipboard-183477107.png){fig-alt="Pit crew: everyone has a defined task and position" fig-align="center" width="1200"}](https://doi.org/10.1016/j.resuscitation.2020.11.018)
 
 ## Collaborate and Share Information:
 
@@ -76,7 +80,7 @@ What went wrong?
 
 Try:
 
--   Think out loud: "That qrs is wide, but the rhythm looks irregular"
+-   Think out loud: "Wide QRS, but rhythm is irregular"
 
 -   Summarize: "MAP is OK, I think this is AFib, so..."
 
@@ -84,9 +88,9 @@ Try:
 
 Why?
 
--   The team has a lot of context-specific experience
+-   Consider (actual) team dynamics: e.g. Resident-ICU RN, primary team
 
--   Actual team dynamics: residents and (for example) experienced ICU RN's; primary team
+-   The team has a lot of context-specific experience
 
 ## Scenario, Revisited
 

@@ -1,12 +1,13 @@
 ---
-title: "Course Webpage"
+title: "Case 2"
+author: "Ethan Krauspe, Richa Sheth"
 format: 
   revealjs:
       embed-resources: true
 editor: visual
 ---
 
-## Course Webpage
+## Case 1
 
 70M with ESRD found unresponsive on the floor.
 
@@ -16,23 +17,21 @@ CPR in progress, IV Access Obtained
 
 ## Labs
 
-**POC Glucose**: 98 mg/dL
+**POC Glucose**: 98 mg/dL , **hs-TnI**: 11,000 ng/L
 
-**hs-TnI**: 11,000 ng/L
-
-|                  |             |                  |
-|------------------|-------------|------------------|
-| **ABG**          | Result      | Reference Range  |
-| pH               | 6.98        | 7.35–7.45        |
-| pCO₂             | 55 mmHg     | 35–45 mmHg       |
-| pO₂              | 88 mmHg     | 80–100 mmHg      |
-| HCO₃⁻            | 12 mmol/L   | 22–26 mmol/L     |
-| Lactate          | 9.2 mmol/L  | \<2.0 mmol/L     |
-| Na⁺              | 138 mmol/L  | 135–145 mmol/L   |
-| K⁺               | 7.2 mmol/L  | 3.5–5.0 mmol/L   |
-| Cl⁻              | 105 mmol/L  | 98–106 mmol/L    |
-| iCa²⁺ (ionized)  | 0.98 mmol/L | 1.12–1.32 mmol/L |
-| Glucose (repeat) | 94 mg/dL    | 70–100 mg/dL     |
+|                  |             |                   |
+|------------------|-------------|-------------------|
+| **ABG**          | Result      | Reference Range   |
+| pH               | 6.98        | 7.35--7.45        |
+| pCO₂             | 55 mmHg     | 35--45 mmHg       |
+| pO₂              | 88 mmHg     | 80--100 mmHg      |
+| HCO₃⁻            | 12 mmol/L   | 22--26 mmol/L     |
+| Lactate          | 9.2 mmol/L  | \<2.0 mmol/L      |
+| Na⁺              | 138 mmol/L  | 135--145 mmol/L   |
+| K⁺               | 7.2 mmol/L  | 3.5--5.0 mmol/L   |
+| Cl⁻              | 105 mmol/L  | 98--106 mmol/L    |
+| iCa²⁺ (ionized)  | 0.98 mmol/L | 1.12--1.32 mmol/L |
+| Glucose (repeat) | 94 mg/dL    | 70--100 mg/dL     |
 
 ## Analysis:
 

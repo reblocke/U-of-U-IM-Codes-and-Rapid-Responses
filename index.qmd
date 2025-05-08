@@ -24,25 +24,25 @@ format:
     appendix-cite-as: ["display"] # optional: show only the block
 ---
 
-# Overview: Code Blue and Rapid Response Seminar
+# Overview:
 
-Target: Rising-PGY2s
-
-
+[Target Audience:]{.underline} Rising-PGY2s who will soon be leading Code Blue/Rapid response teams
 
 ## Agenda
 
-1.  [Survey](survey.qmd "placeholder")
+1.  [Pre-Seminar Survey](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3 "Survey Link")
+
+    [![Link to Survey](images/survey_qr.png)](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3)
 
 2.  15-minute sessions on necessary micro-skills
 
-    -   Leadership Style — \[[slides](slides/leadership.html "Leadership Style Slides")\]
+    -   Leadership Style --- \[[slides](slides/leadership.html "Leadership Style Slides")\]
 
-    -   Pulse Check Decisions — \[[slides](slides/pulse_check.html "Pulse Check Decisions Slides")\]
+    -   Pulse Check Decisions --- \[[slides](slides/pulse_check.html "Pulse Check Decisions Slides")\]
 
-    -   Do You Have Who/What You Need? — \[[slides](slides/resources.html "Resources Slides")\]
+    -   Do You Have Who/What You Need? --- \[[slides](slides/resources.html "Resources Slides")\]
 
-    -   Ending the Code / Response — \[[slides](slides/ending.html "Ending the Code/RRT Slides")\]
+    -   Ending the Code / Response --- \[[slides](slides/ending.html "Ending the Code/RRT Slides")\]
 
 3.  Scenarios and Equipment
 
@@ -50,36 +50,38 @@ Target: Rising-PGY2s
 
 4.  [Q&A and Summary](summary.qmd "Summary Page")
 
-5.  [Feedback Survey](survey.qmd "Placeholder")
+5.  [Post-Seminar Survey](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3 "Survey Link")
+
+    [![QR code for Survey](images/survey_qr-01.png)](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3)
 
 6.  [References](references.qmd)
 
 ## Methods:
 
-We’ve discussed with stakeholders and participants in the rapid response & code teams to identify the most common and consequential mistakes residents make:
+We've ask stakeholders and Code/RRT team members: What are the the most common and consequential mistakes residents make?
 
--   **Unfavorable team dynamics emerge**
+1.  **Unfavorable team dynamics emerge**
 
-    -   Most commonly, it’s not clear who is running the code, or collaborative dynamics aren't established. [@steinbach_effective_2024]
+    -   Most commonly, it's not clear who is running the code or collaborative dynamics aren't established. [@steinbach_effective_2024]
 
--   A shockable rhythm is not shocked.
+2.  A shockable rhythm is not shocked.
 
--   Decisions are too delayed.
+3.  Decisions are too delayed.
 
-::: {.callout-important}
+::: callout-important
 Please let the CMRs (or us) know when events, near-misses, or big-wins happen. It'll help us keep this seminar relevant.
 :::
 
 ## Learning Objectives
 
--   Discuss micro-skills and schemas to avoid common/consequential errors that residents make.
+-   Discuss micro-skills and schemas to avoid common/consequential errors
 
 -   Build Familiarity with the Zoll Device
 
--   Answer questions
+-   Answer questions you may have
 
-::: {.callout-tip}
-Didactics and discussion will only get you so far - periodic review (bookmark this!), simulation, and receiving feedback (debrief!) can help
+::: callout-tip
+Didactics and discussion will only get you so far. Periodic review (**bookmark this!**), simulation, and receiving feedback (**debrief!**) will help
 :::
 
 ### For instructors/facilitators:

@@ -21,8 +21,8 @@ book:
   date: "5/3/2025"
   chapters:
     - index.qmd
-    - survey.qmd
-    - part: "Sessions"
+    - part: "Pre-Survey"
+    - part: "Modules"
     - href: slides/leadership.html
       text: "Leadership Skills (slides)"
     - href: slides/pulse_check.html
@@ -46,7 +46,7 @@ book:
       text: "Case 6"    
     - part: "Wrap Up & Resources"
     - summary.qmd
-    - survey.qmd
+    - part: "Post-Survey"
     - references.qmd
   license: "CC BY-SA"
   page-footer: CC-BY-SA-4.0 (2025) Brian Locke
@@ -56,8 +56,10 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+    number-sections: false
   pdf:
     documentclass: scrreprt
+    number-sections: false
 
 editor: visual
 
