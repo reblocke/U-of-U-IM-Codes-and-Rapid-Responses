@@ -32,4 +32,4 @@
 
 ### In-depth Rapid Response Guide
 
-[RRT Guide](docs/RRTCodeManual.051425.pdf "U of U IM RRT resources summary")[PDF](https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses/blob/4cf202801e2646945373968ad6aa6b6fd67e6e6b/docs/RRTCodeManual.051425.pdf "U of U IM RRT resources summary")
+[RRT Guide](docs/RRTCodeManual.051425.pdf "U of U IM RRT resources summary")
