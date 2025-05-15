@@ -1,5 +1,5 @@
 ---
-title: "Case 2"
+title: "Case 1"
 author: "Ethan Krauspe, Richa Sheth"
 format: 
   revealjs:

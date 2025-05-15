@@ -24,7 +24,7 @@
     "href": "index.html#agenda",
     "title": "U of U IM Codes and Rapid Responses",
     "section": "Agenda",
-    "text": "Agenda\n\nPre-Seminar Survey\n\n\n\nLink to Survey\n\n\n15-minute sessions on necessary micro-skills\n\nLeadership Style — [slides]\nPulse Check Decisions — [slides]\nDo You Have Who/What You Need? — [slides]\nEnding the Code / Response — [slides]\n\nScenarios and Equipment\n\nCase 1, Case 2, Case 3, Case 4, Case 5, Case 6\n\nQ&A and Summary\nPost-Seminar Survey\n\n\n\nQR code for Survey\n\n\nReferences",
+    "text": "Agenda\n\nPre-Seminar Survey\n\n\n\nLink to Survey\n\n\n15-minute sessions on necessary micro-skills.\n\nLeadership Style — [slides]\nPulse Check Decisions — [slides]\nDo You Have Who/What You Need? — [slides]\nEnding the Code / Response — [slides]\n\nScenarios and Equipment\n\nCase 1, Case 2, Case 3, Case 4, Case 5, Case 6\n\nQ&A and Summary\nPost-Seminar Survey\n\n\n\nQR code for Survey\n\n\nReferences",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview: Code Blue and Rapid Response Seminar</span>"
     ]
@@ -82,11 +82,11 @@
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "Summary",
+    "title": "Summary & Resources",
     "section": "",
-    "text": "Additional Resources",
+    "text": "Key Points",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary & Resources</span>"
     ]
   },
   {
@@ -132,11 +132,11 @@
   {
     "objectID": "summary.html#additional-resources",
     "href": "summary.html#additional-resources",
-    "title": "Summary",
-    "section": "",
-    "text": "ACLS Card\n\n\n\nDifferences by Site\n(Updated 5/16/2024)\n\n\n\n\n\n\n\n\n\n\nU of U\nIMED\nVA\n\n\n\n\nRRT/MET\nHouse Sup, IM Res, SICU RN, Pharm\nIM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab\nIM, MICU, CNO, RNs, RT Pharmacy (7a-7p)\n\n\nCode Blue\nadd: Anesth, EMT, MICU res, Pharm\nadd: ICU attgs\nadd: ED\n\n\nNumbers\nShock Team, Cath, Brain Attack, VAD: 1-2222\n‘Shock Team’: Vocera TICU attg, Brain Attack: Operator; x33333\nBrain attack: Page Neuro Senior, Cath: Page Cardiology, Code: x6666\n\n\n\n\n\nIn-depth Rapid Response Guide\ncoming soon",
+    "title": "Summary & Resources",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nACLS Card\n\n\n\nDifferences by Site\n(Updated 5/16/2024)\n\n\n\n\n\n\n\n\n\n\nU of U\nIMED\nVA\n\n\n\n\nRRT/MET\nHouse Sup, IM Res, SICU RN, Pharm\nIM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab\nIM, MICU, CNO, RNs, RT Pharmacy (7a-7p)\n\n\nCode Blue\nadd: Anesth, EMT, MICU res, Pharm\nadd: ICU attgs\nadd: ED\n\n\nNumbers\nShock Team, Cath, Brain Attack, VAD: 1-2222\n‘Shock Team’: Vocera TICU attg, Brain Attack: Operator; x33333\nBrain attack: Page Neuro Senior, Cath: Page Cardiology, Code: x6666\n\n\n\n\n\nIn-depth Rapid Response Guide\nRRT GuidePDF",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary & Resources</span>"
     ]
   },
   {
@@ -327,6 +327,16 @@
     "text": "Rising-PGY2s, University of Utah Internal Medicine Residency\nBookmark for future reference.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview: Code Blue and Rapid Response Seminar</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#key-points",
+    "href": "summary.html#key-points",
+    "title": "Summary & Resources",
+    "section": "",
+    "text": "Emphasize getting the right team dynamics\n\nStart: “I’m Joe/Jane Doe, the resident on the code team. Who is running this code/RRT?” ”Can I take over?”\nStand at the foot of the bed. Don’t move and don’t do tasks.\n\nKeep the big picture in mind:\n\nRRT: Is this a code? Does this patient need to go to the ICU?\nCode: High quality compressions; shock if shockable",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary & Resources</span>"
     ]
   }
 ]

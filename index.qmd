@@ -34,7 +34,7 @@ format:
 
     [![Link to Survey](images/survey_qr.png)](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3)
 
-2.  15-minute sessions on necessary micro-skills
+2.  15-minute sessions on necessary micro-skills.
 
     -   Leadership Style --- \[[slides](slides/leadership.html "Leadership Style Slides")\]
 
