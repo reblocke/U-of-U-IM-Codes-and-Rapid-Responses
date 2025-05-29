@@ -17,18 +17,6 @@ Learners will:
 
 -   Be able to organize responding personnel
 
-## First Scenario
-
-### Paged to bedside at U of U Hospital
-
--   Middle-aged man, new tachycardia & BP 65/42.
-
--   Oxygenating 90% on 2L by nasal cannula
-
--   Disoriented, somnolent, and diaphoretic
-
-[What do you do?]{.underline}
-
 ## Analyze the Emergency
 
 ### Stable or Unstable?
@@ -49,13 +37,13 @@ Learners will:
 
 ## Resources vary across site
 
-+-----------------------------+-----------------------------------------------------+----------------------------------------------------------------+-------------------------------------------------------+
-|                             | [**U of U**]{.smallcaps}                            | [**IMED**]{.smallcaps}                                         | [**VA**]{.smallcaps}                                  |
-+=============================+=====================================================+================================================================+=======================================================+
-| [**RRT/MET**]{.smallcaps}   | [House Sup, IM Res, SICU RN, Pharm]{.smallcaps}     | [IM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab]{.smallcaps} | [IM, MICU, CNO, RNs, RT Pharmacy (7a-7p)]{.smallcaps} |
-+-----------------------------+-----------------------------------------------------+----------------------------------------------------------------+-------------------------------------------------------+
-| [**Code Blue**]{.smallcaps} | [**add:** Anesth, EMT, MICU res, Pharm]{.smallcaps} | [**add:** ICU attgs]{.smallcaps}                               | [**add:** ED]{.smallcaps}                             |
-+-----------------------------+-----------------------------------------------------+----------------------------------------------------------------+-------------------------------------------------------+
++-----------------------------+-----------------------------------------------------------------+----------------------------------------------------------------+-------------------------------------------------------+
+|                             | [**U of U**]{.smallcaps}                                        | [**IMED**]{.smallcaps}                                         | [**VA**]{.smallcaps}                                  |
++=============================+=================================================================+================================================================+=======================================================+
+| [**RRT/MET**]{.smallcaps}   | [House Sup, IM Res, SICU RN, Pharm]{.smallcaps}                 | [IM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab]{.smallcaps} | [IM, MICU, CNO, RNs, RT Pharmacy (7a-7p)]{.smallcaps} |
++-----------------------------+-----------------------------------------------------------------+----------------------------------------------------------------+-------------------------------------------------------+
+| [**Code Blue**]{.smallcaps} | [**add:** Anesth, EMT, MICU res, Pharm, ICU Fellow]{.smallcaps} | [**add:** ICU attgs]{.smallcaps}                               | [**add:** Anesth (day)/ ED(night)]{.smallcaps}    |
++-----------------------------+-----------------------------------------------------------------+----------------------------------------------------------------+-------------------------------------------------------+
 
 ## Resources vary across site
 
@@ -65,7 +53,7 @@ Learners will:
 | [Numbers]{.smallcaps} | [**Shock Team, Cath, Brain Attack, VAD:** 1-2222]{.smallcaps} | [**Shock Team:** Vocera TICU attg, **Brain Attack:** Operator/x33333]{.smallcaps} | [**Cath:** Page Cardiology, **Code:** x6666, **Brain attack:** Page Neuro Senior]{.smallcaps} |
 +-----------------------+---------------------------------------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 
-## Second Scenario
+## Scenario
 
 ### Paged to RRT at the VA
 
@@ -107,15 +95,15 @@ Sick or not sick? Stable or Unstable? [What else do you need?]{.underline}
 
 ### Code Blue
 
-+----------------------+--------------------------------------------------------+
-| STEMI, or suspicion  | Shock Team                                             |
-+----------------------+--------------------------------------------------------+
-| Activate Cath Lab    | HF, few comorbidities. VT Storm. High Suspicion for PE |
-+----------------------+--------------------------------------------------------+
-| All Sites Capable    | Shock Team (U of U). PERT Team (IMC) / TICU            |
-+----------------------+--------------------------------------------------------+
++---------------------+--------------------------------------------------------+
+| STEMI, or suspicion | Shock Team                                             |
++---------------------+--------------------------------------------------------+
+| Activate Cath Lab   | HF, few comorbidities. VT Storm. High Suspicion for PE |
++---------------------+--------------------------------------------------------+
+| All Sites Capable   | Shock Team (U of U). PERT Team (IMC) / TICU            |
++---------------------+--------------------------------------------------------+
 
-## Second Scenario, cont.
+## Scenario, cont.
 
 ### You call a code blue. Shortly, the patient loses their pulse.
 
@@ -129,7 +117,7 @@ Sick or not sick? Stable or Unstable? [What else do you need?]{.underline}
 
 ## Room Management
 
-::: columns
+::::: columns
 ::: {.column width="55%"}
 -   Bed out from wall (for airway), rotate bed (for compressor space)
 -   Drop the bed (for CPR)
@@ -139,7 +127,7 @@ Sick or not sick? Stable or Unstable? [What else do you need?]{.underline}
 ::: {.column width="45%"}
 ![Bed Management](images/clipboard-1132860432.png)
 :::
-:::
+:::::
 
 ## Summary
 

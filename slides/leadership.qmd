@@ -18,7 +18,7 @@ Sign-out: 81M, SVT now stable.
 
 ## Scenario: Situation
 
--   Suddenly, HR 160 and MAP drops 85 to 65
+-   Suddenly, HR 160 and MAP drops 85 to 70
 
     ![What is this rhythm, and what would you do?](images/clipboard-3453080392.png)
 

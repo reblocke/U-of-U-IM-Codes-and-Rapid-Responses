@@ -51,11 +51,11 @@ Only a few things matter
 
 How else can we detect ROSC?
 
-1.  **End Tidal CO2 (EtCO2)**
+1.  End Tidal CO2 (EtCO2)
 
-2.  POCUS\*
+2.  POCUS
 
-3.  Doppler\*
+3.  Doppler
 
 4.  When in doubt, continue compressions
 
