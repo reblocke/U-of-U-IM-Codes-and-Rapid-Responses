@@ -32,6 +32,10 @@
 
 ### In-depth Rapid Response Guide
 
-QR: ![](images/clipboard-228707769.png){width="420"}
+QR:
 
-Direct: [RRT Guide](docs/RRTCodeManual.051425.pdf "U of U IM RRT resources summary")
+![](images/clipboard-228707769.png){width="420"}
+
+Direct:
+
+[RRT Guide](docs/RRTCodeManual.051425.pdf "U of U IM RRT resources summary")
