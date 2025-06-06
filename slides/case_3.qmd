@@ -9,18 +9,28 @@ editor: visual
 
 ## Case 3
 
-45M with HFrEF collapses in clinic waiting room.
+24F with receiving antipsychotics and anti-emetics collapses on telemetry and is pulseless. 
 
-Code blue is called.
+![Rhythm? Next Step? ](images/ECG-strip-Torsades-de-pointes-TDP-2-2.jpg){alt="Polymorphic VT w Long QT = TdP" width="1000"}
 
-Initial assessment reveals absent pulses. 
+## EKG analysis
 
-## EKG
+![Polymorphic VT w Long QT = TdP. Defibrillate (and magnesium + overdrive pacing if brady after)](images/ECG-strip-Torsades-de-pointes-TDP-2-2.jpg){alt="Polymorphic VT w Long QT = TdP" width="1000"}
 
-![](images/clipboard-584294119.png){width="1200"}
+[Excellent Life in the Fast Lane Summary](https://litfl.com/polymorphic-vt-and-torsades-de-pointes-tdp/ "Link with more info")
 
-## EKG
+## EKG analysis
 
-![](images/clipboard-2930864057.png){width="1200"}
+![Polymorphic VT (= TdP if QTc is long)](images/ECG-strip-Torsades-de-pointes-TDP.jpg){width="500"}
+
+## EKG analysis
+
+![Monomorphic VT](images/Monomorphic-ventricular-tachycardia-VT.jpg){width="500"}
+
+## Learning Points
+
+-   If pulseless, defibrillate. If unstable with pulse, synchronized cardioversion. If stable, Mg
+
+-   QT prolongation more dangerous with slow HR
 
 [Return to Course Page](../ "Course Page")

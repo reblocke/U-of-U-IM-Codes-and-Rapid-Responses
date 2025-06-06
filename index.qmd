@@ -28,33 +28,17 @@ format:
 
 [Target Audience:]{.underline} Rising-PGY2s who will soon be leading Code Blue/Rapid response teams
 
-## Agenda
+## Learning Objectives
 
-1.  [Pre-Seminar Survey](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3 "Survey Link")
+-   Discuss micro-skills and schemas to avoid common/consequential errors
 
-    [![Link to Survey](images/survey_qr.png)](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3)
+-   Build Familiarity with the Zoll Device
 
-2.  15-minute sessions on necessary micro-skills.
+-   Answer questions you may have
 
-    -   Leadership Style --- \[[slides](slides/leadership.html "Leadership Style Slides")\]
-
-    -   Pulse Check Decisions --- \[[slides](slides/pulse_check.html "Pulse Check Decisions Slides")\]
-
-    -   Do You Have Who/What You Need? --- \[[slides](slides/resources.html "Resources Slides")\]
-
-    -   Ending the Code / Response --- \[[slides](slides/ending.html "Ending the Code/RRT Slides")\]
-
-3.  Scenarios and Equipment
-
-    -   [Case 1](slides/case_1.html "Case 1"), [Case 2](slides/case_2.html "Case 2"), [Case 3](slides/case_3.html "Case 3"), [Case 4](slides/case_4.html "Case 4"), [Case 5](slides/case_5.html "Case 5"), [Case 6](slides/case_6.html "Case 6")
-
-4.  [Q&A and Summary](summary.qmd "Summary Page")
-
-5.  [Post-Seminar Survey](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3 "Survey Link")
-
-    [![QR code for Survey](images/survey_qr-01.png)](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3)
-
-6.  [References](references.qmd)
+::: callout-tip
+Didactics and discussion will only get you so far. Periodic review (**bookmark this!**), simulation, and receiving feedback (**debrief!**) will help
+:::
 
 ## Methods:
 
@@ -72,17 +56,31 @@ We've ask stakeholders and Code/RRT team members: What are the the most common a
 Please let the CMRs (or us) know when events, near-misses, or big-wins happen. It'll help us keep this seminar relevant.
 :::
 
-## Learning Objectives
+## Agenda
 
--   Discuss micro-skills and schemas to avoid common/consequential errors
+1.  [Pre-Seminar Survey](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3 "Survey Link")
 
--   Build Familiarity with the Zoll Device
+2.  15-minute sessions on necessary micro-skills.
 
--   Answer questions you may have
+    -   Leadership Style --- \[[slides](slides/leadership.html "Leadership Style Slides")\]
 
-::: callout-tip
-Didactics and discussion will only get you so far. Periodic review (**bookmark this!**), simulation, and receiving feedback (**debrief!**) will help
-:::
+    -   Pulse Check Decisions --- \[[slides](slides/pulse_check.html "Pulse Check Decisions Slides")\]
+
+    -   Do You Have Who/What You Need? --- \[[slides](slides/resources.html "Resources Slides")\]
+
+    -   Ending the Code / Response --- \[[slides](slides/ending.html "Ending the Code/RRT Slides")\]
+
+3.  Scenarios (in person, done with Zoll)
+
+    -   [Case 1](slides/case_1.html "Case 1"), [Case 2](slides/case_2.html "Case 2"), [Case 3](slides/case_3.html "Case 3"), [Case 4](slides/case_4.html "Case 4"), [Case 5](slides/case_5.html "Case 5")
+
+4.  [Summary and Resources](summary.qmd "Summary and Resources")
+
+    [![](images/clipboard-396090823.png){width="600"}](docs/RRTCodeManual.051425.pdf "Code and Rapid Response Manual")
+
+5.  [Post-Seminar Survey](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3 "Survey Link")
+
+6.  [References](references.qmd)
 
 ### For instructors/facilitators:
 

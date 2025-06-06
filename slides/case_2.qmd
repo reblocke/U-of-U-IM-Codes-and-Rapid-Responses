@@ -17,7 +17,7 @@ On initial assessment, pulses are absent.
 
 ## Labs
 
-**POC Glucose**: 152 mg/dL , **hs-TnI**: 121 ng/L *(normal \< 50 ng/L)*
+**Glu**152 mg/dL , **hs-TnI** 121 ng/L *(ULN 50),* **Lac** 6.5 mmol/L
 
 |                 |             |                   |
 |-----------------|-------------|-------------------|
@@ -26,14 +26,25 @@ On initial assessment, pulses are absent.
 | pCO₂            | 48 mmHg     | 35--45 mmHg       |
 | pO₂             | 64 mmHg     | 80--100 mmHg      |
 | HCO₃⁻           | 16 mmol/L   | 22--26 mmol/L     |
-| Lactate         | 6.5 mmol/L  | \<2.0 mmol/L      |
 | Na⁺             | 137 mmol/L  | 135--145 mmol/L   |
 | K⁺              | 4.9 mmol/L  | 3.5--5.0 mmol/L   |
 | Cl⁻             | 103 mmol/L  | 98--106 mmol/L    |
 | iCa²⁺ (ionized) | 1.10 mmol/L | 1.12--1.32 mmol/L |
 
-## Post-ROSC
+## Rhythm Check
 
-![](images/clipboard-2836008990.png){fig-alt="Post-ROSC EKG" fig-align="center" width="1200"}
+![](images/clipboard-3154727421.png)
+
+## Post-ROSC EKG
+
+![Next step?](images/clipboard-2836008990.png){fig-alt="Post-ROSC EKG" fig-align="center" width="1200"}
+
+Teaching Points
+
+-   Time to first shock is critical in VF
+
+-   Role of antiarrhythmics is adjunctive, not primary
+
+-   VF/VT: Think.. **acute MI (**sudden, **chest pain)**, **electrolyte derangements**, **drug toxicity**
 
 [Return to Course Page](../ "Course Page")

@@ -17,9 +17,13 @@ Tachycardic, HR 180s, dizzy/lightheaded but responsive, pulsatile in all ext. 
 
 ## EKG
 
-![](images/clipboard-510376321.png){width="1200"}
+![Next Step?](images/clipboard-510376321.png){width="1200"}
 
-## Post-Adenosine EKG
+## Peri-Adenosine EKG:
+
+![Vagal maneuvers tried, then adenosine given. What's this rhythm?](images/clipboard-1828153595.png)
+
+## Analysis:
 
 ![](images/clipboard-3582567695.png){width="1200"}
 

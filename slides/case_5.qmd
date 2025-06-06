@@ -13,12 +13,19 @@ editor: visual
 
 RRT activated for bradycardia 
 
-## EKG 
+## EKG:
 
-![](images/clipboard-873706907.png){width="1200"}
+![Rhythm? Initial Management Steps?](images/clipboard-873706907.png){width="1200"}
 
 ## EKG Analysis
 
-![](images/clipboard-2262603552.png){width="1200"}
+![Options: transcutaneous pacing (+sedation), transvenous pacing (requires line, expertise)](images/clipboard-2262603552.png){width="1200"}
+
+## Teaching Points: 
+
+-   Complete heart block = AV dissociation.
+-   Atropine ineffective in infranodal blocks.
+-   Always have pacing pads in place during rapid responses.
+    -   Transcutaneous pacing will require sedation
 
 [Return to Course Page](../ "Course Page")

@@ -1,5 +1,5 @@
 ---
-title: "Leadership Skills"
+title: "Effective Leadership Skills"
 author: "Slides by Colton Long, Ethan Krauspe, Alex Ryden, Brian Locke"
 format: 
   revealjs:
@@ -9,20 +9,20 @@ editor: visual
 
 ## Effective Leadership Skills
 
+### Key Objectives:
+
 1.  Establish a clear leader
 2.  Collaborate and share information
 
-## Scenario: RRT to RM S408.
+## Rapid Response to RM S408.
 
-Sign-out: 81M, SVT now stable.
+Sign-out says "81M, SVT now stable"
 
-## Scenario: Situation
+## HR 160, MAP 85→70. Lightheaded
 
--   Suddenly, HR 160 and MAP drops 85 to 70
+![What is this rhythm, and what would you do?](images/clipboard-3453080392.png)
 
-    ![What is this rhythm, and what would you do?](images/clipboard-3453080392.png)
-
-## Scenario: Next Steps
+## Next Steps?
 
 What's your schema for this situation?
 
@@ -30,9 +30,9 @@ What key data informs your treatment?
 
 How do you convey your thinking to the room?
 
-## Scenario: Then...
+## You share your assessment
 
-You share your assessment and plan to administer IV metoprolol with the team, then...
+and plan to administer IV metoprolol with the team, then...
 
 -   3 individuals (DOCTOR badges) you don't know enter the room and don't introduce themselves.
 
@@ -40,13 +40,13 @@ You share your assessment and plan to administer IV metoprolol with the team, th
 
 -   RN asks clarification: what metoprolol dose?
 
-## Scenario: New Rhythm
+## Then, RN: "patient's not responding"
 
--   While with family, RN shouts "patient's not responding". New EKG:
+-   New EKG
 
     ![What is this rhythm, and what do you do?](images/clipboard-4123436669.png){width="1200"}
 
-## Scenario (postscript)
+## Postscript
 
 -   DOCTORS are primary CV team, who are unaware it's a rapid.
 
@@ -56,7 +56,7 @@ You share your assessment and plan to administer IV metoprolol with the team, th
 
 What went wrong?
 
-## Establish a clear leader:
+## Step 1: Establish a clear leader:
 
 ### Are you running this RRT or not?
 
@@ -68,13 +68,13 @@ What went wrong?
 
 -   "OK, how can I help?"
 
-## Establish a clear leader:
+## Step 1: Establish a clear leader:
 
 ### Be the point person
 
 [![Do not move from your position. Don't do it!](images/clipboard-183477107.png){fig-alt="Pit crew: everyone has a defined task and position" fig-align="center" width="1200"}](https://doi.org/10.1016/j.resuscitation.2020.11.018)
 
-## Collaborate and Share Information:
+## Step 2: Collaborate, Share Info:
 
 ### Invite suggestions with a constructive tone
 
@@ -86,19 +86,13 @@ Try:
 
 -   Encourage: "Good thought, yes..."
 
-Why?
+Why? **The team has a lot of context-specific experience**
 
--   Consider (actual) team dynamics: e.g. Resident-ICU RN, primary team
+## What would you do differently?
 
--   The team has a lot of context-specific experience
+### 
 
-## Scenario, Revisited
-
-### What would you do differently?
-
-## Scenario, Revisited
-
-### What would you do differently?
+## What would you do differently?
 
 -   Primary team identified; confirmed they want you to run response
 

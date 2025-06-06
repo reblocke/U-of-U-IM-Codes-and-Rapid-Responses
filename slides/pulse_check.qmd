@@ -7,17 +7,15 @@ format:
 editor: visual
 ---
 
-## Pulse Check Decisions
+## Pulse Check Decisions 
 
-## Scenario
-
-### Code Blue on E50.
+### Code blue on E50
 
 Compressions ongoing when you arrive.
 
 You establish yourself as the code leader.
 
-## Scenario: First Pulse Check
+## First Pulse Check
 
 ### No palpable pulse
 
@@ -25,17 +23,17 @@ You establish yourself as the code leader.
 
 ## What to do when you're uncertain?
 
-![Turn up the gain. Enroll help. "Are we certain this is asystole?"](images/clipboard-939422357.png){fig-alt="Coarse vs Fine Ventricular Fibrillation" fig-align="center" width="1200"}
+![Turn up the gain. Enroll help. "Are we certain this is asystole?". If in doubt, shock.](images/clipboard-939422357.png){fig-alt="Coarse vs Fine Ventricular Fibrillation" fig-align="center" width="1200"}
 
-## Scenario: Second Pulse Check
+## Second Pulse Check
 
 ### No palpable pulse
 
-![Anesthesia ready to intubate, asks for a moment before resuming compressions](images/clipboard-2169519162.png){fig-alt="Second Pulse Check"}
+![Airway team ready to intubate, asks for a moment before resuming compressions](images/clipboard-2169519162.png){fig-alt="Second Pulse Check"}
 
 ## What is the big picture?
 
-Only a few things matter
+Only a few things **really** matter
 
 1.  If they don't have a pulse, someone is performing high quality compressions with **NO significant breaks**
 
@@ -45,21 +43,19 @@ Only a few things matter
 
 ![](images/clipboard-289981620.png){fig-alt="Zoll Feedback mode" fig-align="center" width="400"}
 
-## Scenario: Ongoing CPR
-
-### RN: "I'm having trouble getting a pulse even during compressions"
+## CPR resumed but can't feel a pulse
 
 How else can we detect ROSC?
 
 1.  End Tidal CO2 (EtCO2)
 
-2.  POCUS
+2.  Doppler
 
-3.  Doppler
+3.  POCUS
 
 4.  When in doubt, continue compressions
 
-## EtCO2
+## EtCO2 is underutilized
 
 ![Use EtCO2 to help detect ROSC](images/clipboard-73319215.png){fig-alt="EtCO2" fig-align="center" width="1200"}
 
@@ -71,8 +67,8 @@ Summary:
 
 -   [**DO NOT MISS FINE V.Fib**]{.underline}
 
--   Only allow, **at most**, a few seconds of CPR delay for intubation/Lucas
+-   Only allow, **at most**, a few seconds of CPR delay for intubation, Lucas, repositioning
 
--   Use EtCO2
+-   Use EtCO2!
 
 [Return to Course Page](../ "Course Page")

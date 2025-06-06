@@ -7,9 +7,9 @@ format:
 editor: visual
 ---
 
-## Scenario: RRT
+## Rapid Response: Unresponsive
 
-### Unresponsive, 12h post laminectomy
+### 12h post laminectomy
 
 HR and SpO2 ok. Pinpoint pupils, bradypneic. You give doses of naloxone without response. You..
 
@@ -19,27 +19,20 @@ HR and SpO2 ok. Pinpoint pupils, bradypneic. You give doses of naloxone without 
 
 3.  Defer to primary team
 
-## Rapid Response: The Big Picture
+## Rapid Response: Possible Outcomes
 
-### Possible outcomes
-
-1.  Turn into a **code blue** (\[[Do You Have Who/What You Need?](slides/resources.html "Resources Slides")\])
-
-2.  **Go to ICU**
-
+-   Turn into a **code blue** (\[[Do You Have Who/What You Need?](slides/resources.html "Resources Slides")\])
+-   **Go to ICU**
     -   Instability, too much nursing care, needs titratable drip
-
     -   Don't delay - faster & safer to get things done in ICU if dispo known
-
-3.  **Stay on floor**
-
+-   **Stay on floor**
     -   Prompt stabilization and workup
 
     -   **Always** hand off to the primary team assuming care
 
-## Scenario: Code Blue
+## Code Blue: 
 
-### A young patient has an arrest, seems like a PE.
+### Young patient. Seems like a PE.
 
 She has been in PEA at each pulse check.
 
@@ -53,13 +46,16 @@ When do you stop?
 
 [![BMJ. 2024 Feb 7:384:e076019](images/clipboard-1842920037.png){width="500"}](https://doi.org/10.1136/bmj-2023-076019)
 
-## Things to consider:
+## That's average, but consider:
 
--   Pre-arrest state? more ill (esp if chronic) shorter
+-   Pre-arrest state? more ill (esp. if chronic) **→** shorter
+-   Is the likely cause reversible? yes **→** longer
+-   What's the rhythm?
+    -   Shockable **→** good (longer).
 
--   Is the likely cause reversible? if so, longer
+    -   Asystole **→** bad (shorter).
 
--   What's the rhythm? Shockable = good! Asystole = bad! PEA = transition state.
+    -   PEA can be a transition state
 
 ## The Family
 
@@ -68,27 +64,21 @@ When do you stop?
 ## How to actually end an (unsuccessful) attempted resuscitation?
 
 -   "Does anyone have ideas we haven't tried?"
-
--   "Let's stop CPR"
-
+-   "We're going to stop CPR at next check unless rhythm changes"
 -   Thank team members
-
 -   **Set a time & location to debrief** (5-15 mins)
-
-    -   feedback is the way to improve
+    -   feedback is **the** way to improve
 
 ## Summary:
 
 ### Rapid Response
 
--   consider what's next and don't delay.
+-   Consider what's next and don't delay.
 
 ### Code blue
 
 -   Consider pre-arrest state, causes, and rhythms. 5-60 minutes, generally.
-
 -   Bring in family when possible
-
 -   Always debrief.
 
 [Return to Course Page](../ "Course Page")

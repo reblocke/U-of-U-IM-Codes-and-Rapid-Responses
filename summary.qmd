@@ -32,10 +32,8 @@
 
 ### In-depth Rapid Response Guide
 
-QR:
+[![](images/clipboard-2574812133.png){fig-alt="Housestaff Quick Reference: Rapids & Codes" width="500"}](docs/RRTCodeManual.051425.pdf)
 
-![](images/clipboard-228707769.png){width="420"}
+[RRT/Code Guide Link](docs/RRTCodeManual.051425.pdf "U of U IM RRT resources summary")
 
-Direct:
-
-[RRT Guide](docs/RRTCodeManual.051425.pdf "U of U IM RRT resources summary")
+[![](images/clipboard-228707769.png){fig-alt="QR code for RRT/Code Manual" width="250"}](docs/RRTCodeManual.051425.pdf)

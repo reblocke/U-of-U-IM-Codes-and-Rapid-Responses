@@ -25,45 +25,24 @@ Learners will:
 
 -   What help do you have?
 
--   What help do you **need?**
-
-    -   Charge RN to expedite transfer?
-
-    -   Phlebotomy for labs?
-
-    -   XRay, Respiratory?\*
-
-[What do you need in this situation?]{.underline}
+-   What help will you **need?**
 
 ## Resources vary across site
 
-+-----------------------------+-----------------------------------------------------------------+----------------------------------------------------------------+-------------------------------------------------------+
-|                             | [**U of U**]{.smallcaps}                                        | [**IMED**]{.smallcaps}                                         | [**VA**]{.smallcaps}                                  |
-+=============================+=================================================================+================================================================+=======================================================+
-| [**RRT/MET**]{.smallcaps}   | [House Sup, IM Res, SICU RN, Pharm]{.smallcaps}                 | [IM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab]{.smallcaps} | [IM, MICU, CNO, RNs, RT Pharmacy (7a-7p)]{.smallcaps} |
-+-----------------------------+-----------------------------------------------------------------+----------------------------------------------------------------+-------------------------------------------------------+
-| [**Code Blue**]{.smallcaps} | [**add:** Anesth, EMT, MICU res, Pharm, ICU Fellow]{.smallcaps} | [**add:** ICU attgs]{.smallcaps}                               | [**add:** Anesth (day)/ ED(night)]{.smallcaps}    |
-+-----------------------------+-----------------------------------------------------------------+----------------------------------------------------------------+-------------------------------------------------------+
+| Who comes? | [**U of U**]{.smallcaps} | [**IMED**]{.smallcaps} | [**VA**]{.smallcaps} |
+|----------------|--------------------|-------------------|-----------------|
+| [**RRT/MET**]{.smallcaps} | [House Sup, IM Res, SICU RN, Pharm]{.smallcaps} | [IM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab]{.smallcaps} | [IM, MICU, CNO, RNs, RT Pharmacy (7a-7p)]{.smallcaps} |
+| [**Code Blue**]{.smallcaps} | [**add:** Anesth, EMT, MICU res, Pharm, ICU Fellow]{.smallcaps} | [**add:** ICU attgs]{.smallcaps} | [**add:** Anesth (day)/ ED(night)]{.smallcaps} |
 
-## Resources vary across site
-
-+-----------------------+---------------------------------------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-|                       | [**U of U**]{.smallcaps}                                      | [**IMED**]{.smallcaps}                                                            | [**VA**]{.smallcaps}                                                                          |
-+=======================+===============================================================+===================================================================================+===============================================================================================+
-| [Numbers]{.smallcaps} | [**Shock Team, Cath, Brain Attack, VAD:** 1-2222]{.smallcaps} | [**Shock Team:** Vocera TICU attg, **Brain Attack:** Operator/x33333]{.smallcaps} | [**Cath:** Page Cardiology, **Code:** x6666, **Brain attack:** Page Neuro Senior]{.smallcaps} |
-+-----------------------+---------------------------------------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-
-## Scenario
-
-### Paged to RRT at the VA
+## Paged to RRT at the VA
 
 -   Elderly male who is hypoxemic immediately after a blood transfusion
 
--   RR 24, SpO2 82% on room air
+-   RR 24, SpO2 82% on 2L
 
 Sick or not sick? Stable or Unstable? [What else do you need?]{.underline}
 
-## Second Scenario, cont.
+## The patient worsens...
 
 ![](images/clipboard-1187290827.png){fig-alt="XR Chest Obtained During RRT" fig-align="center" width="800"}
 
@@ -79,33 +58,29 @@ Sick or not sick? Stable or Unstable? [What else do you need?]{.underline}
 
 ### Rapid Response
 
-+--------------------------------+--------------------------------+
-| **Will this be a code in 5m?** | **Brain Attack**               |
-+--------------------------------+--------------------------------+
-| -   Airway                     | -   Focal Deficit              |
-|                                |                                |
-| -   In Extremis                |                                |
-+--------------------------------+--------------------------------+
-| -   RRT → Code early           | -   Call brain attack          |
-|                                |                                |
-|                                | -   Transfer after-hours at VA |
-+--------------------------------+--------------------------------+
+|  |  |  |
+|----|----|----|
+| [**Will this be a code in 5 min?**]{.smallcaps} | [Airway, In Extremis]{.smallcaps} | [RRT → Code early]{.smallcaps} |
+| [**Brain attack?**]{.smallcaps} | [Focal Deficit]{.smallcaps} | [Call Brain Attack (transfer after hours at VA)]{.smallcaps} |
 
 ## Situations to Escalate
 
 ### Code Blue
 
-+---------------------+--------------------------------------------------------+
-| STEMI, or suspicion | Shock Team                                             |
-+---------------------+--------------------------------------------------------+
-| Activate Cath Lab   | HF, few comorbidities. VT Storm. High Suspicion for PE |
-+---------------------+--------------------------------------------------------+
-| All Sites Capable   | Shock Team (U of U). PERT Team (IMC) / TICU            |
-+---------------------+--------------------------------------------------------+
+|  |  |  |
+|--------------------|----------------------|--------------------|
+| [**STEMI, or suspicion**]{.smallcaps} | [Activate Cath Lab]{.smallcaps} | [All sites capable, 24/7]{.smallcaps} |
+| [**Shock Team**]{.smallcaps} | [HF, few comorbidities. VT Storm. High Suspicion for PE]{.smallcaps} | [Shock Team (U of U). PERT Team or TICU attg (IMC)]{.smallcaps} |
 
-## Scenario, cont.
+## Resources vary across site
 
-### You call a code blue. Shortly, the patient loses their pulse.
+| [**U of U**]{.smallcaps} | [**IMED**]{.smallcaps} | [**VA**]{.smallcaps} |
+|------------------|-------------------|---------------------|
+| [**Shock Team, Cath, Brain Attack, VAD:** 1-2222]{.smallcaps} | [**Shock Team:** Vocera TICU attg, **Brain Attack:** Operator/x33333]{.smallcaps} | [**Cath:** Page Cardiology, **Code:** x6666, **Brain attack:** Page Neuro Senior]{.smallcaps} |
+
+## You call a code blue.
+
+### Shortly after, the patient loses their pulse.
 
 -   Anesthesia at head of bed preparing to intubate
 
@@ -131,10 +106,10 @@ Sick or not sick? Stable or Unstable? [What else do you need?]{.underline}
 
 ## Summary
 
--   Is this rapid really a code? Can't breathe, extremis
+-   [Is this rapid actually a code situation?]{.underline} Can't breathe, in extremis
 
--   Situations where you need other people? Airway, Cath/Shock Team, Neuro
+-   [Situations where you need other people?]{.underline} Airway, Cath/Shock Team, Neuro
 
--   Room control: move the bed out, lower the bed, send people away
+-   [Room control]{.underline}: move the bed out and lower it, manage crowds
 
 [Return to Course Page](../ "Course Page")
