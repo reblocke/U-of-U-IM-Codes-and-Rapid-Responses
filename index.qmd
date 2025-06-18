@@ -1,20 +1,20 @@
 ---
 title: "Overview: Code Blue and Rapid Response Seminar"
 author: 
+  - name: "Alex Ryden, MD"
+    affiliation: "U of U PCCM Fellowship"
   - name: "Ethan Krauspe, MD"
     affiliation: "U of U IM CMRs"
-  - name: "Brian Locke, MD MSCI"
-    affiliation: "PCCM, Intermountain Medical Center"
   - name: "Colton Long, MD"
     affiliation: "U of U IM Residency"
+  - name: "Josiah Situmeang, MD"
+    affiliation: "U of U IM CMRs"
   - name: "Sumit Patel, MD"
-    affiliation: "U of U PCCM Fellowship"
-  - name: "Alex Ryden, MD"
     affiliation: "U of U PCCM Fellowship"
   - name: "Richa Sheth, MD"
     affiliation: "U of U PCCM Fellowship"
-  - name: "Josiah Situmeang, MD"
-    affiliation: "U of U IM CMRs"
+  - name: "Brian Locke, MD MSCI"
+    affiliation: "PCCM, Intermountain Medical Center"
 date: 2025-05-03
 date-modified: last-modified
 bibliography: references.bib
@@ -30,27 +30,31 @@ format:
 
 ## Learning Objectives
 
--   Discuss micro-skills and schemas to avoid common/consequential errors
+- Assume and communicate team leadership immediately upon arrival.
 
--   Build Familiarity with the Zoll Device
+- Identify VF/VT on the monitor and deliver shocks when warranted
 
--   Answer questions you may have
+- Escalate care and marshal resources appropriately
+
+- Operate the Zoll R-Series defibrillator safely and efficiently.
+
+- Conclude the event and debrief.
 
 ::: callout-tip
-Didactics and discussion will only get you so far. Periodic review (**bookmark this!**), simulation, and receiving feedback (**debrief!**) will help
+Didactics alone have limits. Regular review (bookmark this!), simulation, and feedback (debrief!) will advance your skills further.
 :::
 
 ## Methods:
 
-We've ask stakeholders and Code/RRT team members: What are the the most common and consequential mistakes residents make?
+We surveyed stakeholders from Code Blue and Rapid Response Teams—including senior residents, nurses, respiratory therapists, and quality leads—to identify the most frequent and impactful errors during resident-led responses. Three themes emerged:
 
-1.  **Unfavorable team dynamics emerge**
+1.  **Unclear team leadership** , leading to confusion in role assignments, low psychological safety, and decreased collaboration. [@steinbach_effective_2024]
 
-    -   Most commonly, it's not clear who is running the code or collaborative dynamics aren't established. [@steinbach_effective_2024]
+2. Failure to cardiovert or defibrillate shockable rhythms
 
-2.  A shockable rhythm is not shocked.
+3. Delayed critical decisions (calling for help, initial stabilization, or transpor to ICU )
 
-3.  Decisions are too delayed.
+This module targets these issues. Sessions are small-group and interactive, designed to draw on your personal experiences, encourage discussion, clarify questions, and conclude with hands-on practice.
 
 ::: callout-important
 Please let the CMRs (or us) know when events, near-misses, or big-wins happen. It'll help us keep this seminar relevant.
@@ -58,7 +62,7 @@ Please let the CMRs (or us) know when events, near-misses, or big-wins happen. I
 
 ## Agenda
 
-1.  [Pre-Seminar Survey](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3 "Survey Link")
+1.  Pre-Seminar Survey (Closed)
 
 2.  15-minute sessions on necessary micro-skills.
 
@@ -78,7 +82,7 @@ Please let the CMRs (or us) know when events, near-misses, or big-wins happen. I
 
     [![](images/clipboard-396090823.png){width="600"}](docs/RRTCodeManual.051425.pdf "Code and Rapid Response Manual")
 
-5.  [Post-Seminar Survey](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3 "Survey Link")
+5.  Post-Seminar Survey (Closed)
 
 6.  [References](references.qmd)
 
