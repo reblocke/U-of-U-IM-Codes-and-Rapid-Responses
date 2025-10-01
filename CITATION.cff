@@ -1,0 +1,48 @@
+# This CITATION.cff file makes the website/software citable.
+# See: https://citation-file-format.github.io/
+
+cff-version: 1.2.0
+message: >-
+  If you use this website or its code, please cite it using the metadata in this file.
+title: U of U IM Codes and Rapid Responses
+type: software
+version: "2025.06"
+date-released: 2025-06-18
+license: MIT
+repository-code: https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses
+url: https://reblocke.github.io/U-of-U-IM-Codes-and-Rapid-Responses/
+abstract: >-
+  Course website and materials for the University of Utah Internal Medicine residency
+  seminar on leading Code Blue and Rapid Response teams. First published May 3, 2025;
+  last updated June 18, 2025. The repository contains Quarto sources for the site,
+  HTML slide decks, and references.
+keywords:
+  - medical education
+  - internal medicine
+  - rapid response
+  - code blue
+  - resuscitation
+  - Quarto
+authors:
+  - family-names: Ryden
+    given-names: Alex
+    affiliation: University of Utah Pulmonary and Critical Care Medicine Fellowship
+  - family-names: Krauspe
+    given-names: Ethan
+    affiliation: University of Utah Internal Medicine Chief Medical Residents
+  - family-names: Long
+    given-names: Colton
+    affiliation: University of Utah Internal Medicine Residency
+  - family-names: Situmeang
+    given-names: Josiah
+    affiliation: University of Utah Internal Medicine Chief Medical Residents
+  - family-names: Patel
+    given-names: Sumit
+    affiliation: University of Utah Pulmonary and Critical Care Medicine Fellowship
+  - family-names: Sheth
+    given-names: Richa
+    affiliation: University of Utah Pulmonary and Critical Care Medicine Fellowship
+  - family-names: Locke
+    given-names: Brian W.
+    affiliation: Intermountain Medical Center, Pulmonary and Critical Care Medicine
+    orcid: "https://orcid.org/"   # fill in if desired
