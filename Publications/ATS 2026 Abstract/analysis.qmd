@@ -1,0 +1,138 @@
+---
+title: "Code 2"
+format: html
+editor: visual
+---
+
+```{r}
+library(readxl)
+library(dplyr)
+
+folder <- "C:/Code Projects/Code Blue Training Year 2/Data/"  
+file <- "arcbt.xlsx"
+survey_responses <- read_excel(paste0(folder, file))
+
+survey_responses <- survey_responses %>%
+  mutate(
+    change_con_code = post_con_code - pre_con_code,
+    change_con_rapid = post_con_rapid - pre_con_rapid, 
+    change_con_rhythm = post_con_rhythm - pre_con_rhthm,
+    change_attending = post_attending - pre_attending,
+    change_team = post_team - pre_team
+  )
+
+summary(survey_responses)
+
+```
+
+```{r}
+library(tinytable)
+tt(survey_responses)
+```
+
+```{r}
+#| echo: false
+```
+
+Pre
+
+```{r}
+library(modelsummary)
+
+# Define custom functions for the 25th and 75th percentiles
+q1 <- function(x) quantile(x, 0.25, na.rm = TRUE)
+q3 <- function(x) quantile(x, 0.75, na.rm = TRUE)
+n_non_missing <- function(x) sum(!is.na(x))
+
+# Create the summary table with median, Q1, Q3, and N
+datasummary((N = n_non_missing) +
+            (Median = median) + 
+            (Q1 = q1) + 
+            (Q3 = q3) ~ 
+              pre_con_code + pre_con_rapid + pre_con_rhthm + pre_team + pre_attending + pre_lead + pre_codes + pre_rapid + pre_shock + pre_sim, 
+            data = survey_responses)
+```
+
+Post
+
+```{r}
+datasummary((N = n_non_missing) +
+            (Median = median) + 
+            (Q1 = q1) + 
+            (Q3 = q3) ~ 
+              post_con_code + post_con_rapid + post_con_rhythm + post_team + post_attending + post_cases + post_modules + post_discuss, 
+            data = survey_responses)
+```
+
+Change in Scores
+
+```{r}
+datasummary((N = n_non_missing) +
+            (Median = median) + 
+            (Q1 = q1) + 
+            (Q3 = q3) ~ 
+              change_con_code + change_con_rapid + change_con_rhythm + change_attending + change_team, 
+            data = survey_responses)
+```
+
+```{r}
+datasummary_skim(survey_responses)
+```
+
+```{r}
+ggstatsplot::ggscatterstats(data = survey_responses, x = pre_con_rhthm, y = change_con_rhythm)
+
+t.test(survey_responses$post_con_rhythm, survey_responses$pre_con_rhthm, paired = TRUE)
+?t.test
+```
+
+```{r}
+ggstatsplot::ggscatterstats(data = survey_responses, x = pre_team, y = change_team)
+
+t.test(survey_responses$post_team, survey_responses$pre_team, paired = TRUE)
+?t.test
+```
+
+```{r}
+ggstatsplot::ggscatterstats(data = survey_responses, x = pre_attending, y = post_attending)
+
+t.test(survey_responses$post_attending, survey_responses$pre_attending, paired = TRUE)
+?t.test
+```
+
+```{r}
+ggstatsplot::ggscatterstats(data = survey_responses, x = pre_codes, y = pre_attending)
+
+t.test(survey_responses$pre_attending, survey_responses$pre_codes, paired = TRUE)
+?t.test
+```
+
+```{r}
+ggstatsplot::ggscatterstats(data = survey_responses, x = pre_rapid, y = pre_attending)
+
+t.test(survey_responses$pre_attending, survey_responses$pre_rapid, paired = TRUE)
+?t.test
+```
+
+```{r}
+t.test(survey_responses$pre_attending, survey_responses$pre_codes, paired = TRUE)
+
+```
+
+t.test(survey_responses\$pre_team, survey_responses\$pre_rapid, paired = TRUE)
+
+```{r}
+ggstatsplot::ggscatterstats(data = survey_responses, x = pre_rapid, y = pre_team)
+
+t.test(survey_responses$pre_team, survey_responses$pre_rapid, paired = TRUE)
+```
+
+```{r}
+ggstatsplot::ggscatterstats(data = survey_responses, x = pre_codes, y = pre_team)
+
+t.test(survey_responses$pre_team, survey_responses$pre_codes, paired = TRUE)
+```
+
+```{r}
+t.test(survey_responses$pre_team, survey_responses$pre_sim, paired = TRUE)
+```
