@@ -1,22 +1,27 @@
 ---
-title: "Code 2"
+title: "2025 UU IM Code and RRT Analysis"
 format: html
 editor: visual
 ---
 
 ```{r}
+#install.packages('here')
 library(readxl)
 library(dplyr)
+library(here)
 
-folder <- "C:/Code Projects/Code Blue Training Year 2/Data/"  
-file <- "arcbt.xlsx"
-survey_responses <- read_excel(paste0(folder, file))
+#folder <- "C:/Code Projects/Code Blue Training Year 2/Data/"  
+#file <- "arcbt.xlsx"
+#survey_responses <- read_excel(paste0(folder, file))
+
+# changed this to a relative path
+survey_responses <- readxl::read_excel(here::here("data", "arcbt.xlsx"))
 
 survey_responses <- survey_responses %>%
   mutate(
     change_con_code = post_con_code - pre_con_code,
     change_con_rapid = post_con_rapid - pre_con_rapid, 
-    change_con_rhythm = post_con_rhythm - pre_con_rhthm,
+    change_con_rhythm = post_con_rhythm - pre_con_rhythm,
     change_attending = post_attending - pre_attending,
     change_team = post_team - pre_team
   )
@@ -46,10 +51,10 @@ n_non_missing <- function(x) sum(!is.na(x))
 
 # Create the summary table with median, Q1, Q3, and N
 datasummary((N = n_non_missing) +
-            (Median = median) + 
+            (Median) + 
             (Q1 = q1) + 
             (Q3 = q3) ~ 
-              pre_con_code + pre_con_rapid + pre_con_rhthm + pre_team + pre_attending + pre_lead + pre_codes + pre_rapid + pre_shock + pre_sim, 
+              pre_con_code + pre_con_rapid + pre_con_rhythm + pre_team + pre_attending + pre_lead + pre_codes + pre_rapid + pre_shock + pre_sim, 
             data = survey_responses)
 ```
 
@@ -57,7 +62,7 @@ Post
 
 ```{r}
 datasummary((N = n_non_missing) +
-            (Median = median) + 
+            (Median) + 
             (Q1 = q1) + 
             (Q3 = q3) ~ 
               post_con_code + post_con_rapid + post_con_rhythm + post_team + post_attending + post_cases + post_modules + post_discuss, 
@@ -80,9 +85,9 @@ datasummary_skim(survey_responses)
 ```
 
 ```{r}
-ggstatsplot::ggscatterstats(data = survey_responses, x = pre_con_rhthm, y = change_con_rhythm)
+ggstatsplot::ggscatterstats(data = survey_responses, x = pre_con_rhythm, y = change_con_rhythm)
 
-t.test(survey_responses$post_con_rhythm, survey_responses$pre_con_rhthm, paired = TRUE)
+t.test(survey_responses$post_con_rhythm, survey_responses$pre_con_rhythm, paired = TRUE)
 ?t.test
 ```
 
@@ -135,4 +140,64 @@ t.test(survey_responses$pre_team, survey_responses$pre_codes, paired = TRUE)
 
 ```{r}
 t.test(survey_responses$pre_team, survey_responses$pre_sim, paired = TRUE)
+```
+
+Regressions (added by BL)
+
+```{r}
+#### —— setup (quiet) ———————————————————————————
+# in your Quarto/Rmd chunk header also set: {r, message=FALSE, warning=FALSE}
+suppressPackageStartupMessages({
+  library(readxl); library(dplyr); library(broom)
+  library(lmtest); library(sandwich); library(glue)
+})
+
+# read without messages; then fix the first unnamed column
+dat <- suppressMessages(readxl::read_excel(here::here("data","arcbt.xlsx")))
+if (identical(names(dat)[1], "...1")) names(dat)[1] <- "id"
+
+# coerce only what we need (defensive)
+dat <- dat %>%
+  transmute(
+    id              = as.character(id),
+    pre_con_rapid   = as.numeric(pre_con_rapid),
+    pre_con_code    = as.numeric(pre_con_code),
+    pre_rapid       = as.numeric(pre_rapid),
+    pre_sim         = as.numeric(pre_sim),
+    pre_codes       = as.numeric(pre_codes)
+  ) %>%
+  filter(complete.cases(pre_con_rapid, pre_con_code, pre_rapid, pre_sim, pre_codes))
+
+#### —— helper: HC3 CI extractor ——————————————————
+hc3_ci <- function(fit) {
+  V <- sandwich::vcovHC(fit, type = "HC3")
+  tt <- lmtest::coeftest(fit, vcov. = V)
+  est <- coef(fit)
+  se  <- sqrt(diag(V))
+  tibble::tibble(
+    term     = names(est),
+    estimate = as.numeric(est),
+    conf.low = as.numeric(est + qnorm(0.025) * se),
+    conf.high= as.numeric(est + qnorm(0.975) * se)
+  ) %>% filter(term != "(Intercept)")
+}
+
+#### —— the 3 per-1-unit regressions ————————————
+m1 <- lm(pre_con_rapid ~ pre_rapid, data = dat)   # per 1 rapid → rapid confidence
+m2 <- lm(pre_con_code  ~ pre_sim,   data = dat)   # per 1 sim   → code confidence
+m3 <- lm(pre_con_code  ~ pre_codes, data = dat)   # per 1 code  → code confidence
+
+out <- bind_rows(
+  hc3_ci(m1) %>% mutate(outcome = "Rapid confidence", exposure = "per 1 rapid"),
+  hc3_ci(m2) %>% mutate(outcome = "Code confidence",  exposure = "per 1 simulation"),
+  hc3_ci(m3) %>% mutate(outcome = "Code confidence",  exposure = "per 1 code")
+) %>%
+  transmute(
+    outcome, exposure,
+    slope = estimate,
+    ci    = sprintf("[%.2f, %.2f]", conf.low, conf.high)
+  )
+
+# print a minimal table for the abstract
+out
 ```

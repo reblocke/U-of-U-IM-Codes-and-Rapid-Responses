@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Code 2</title>
+<title>2025 UU IM Code and RRT Analysis</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,7 +68,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="analysis_files/libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="analysis_files/libs/bootstrap/bootstrap.min.js"></script>
 <link href="analysis_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="analysis_files/libs/bootstrap/bootstrap-bb462d781dde1847d9e3ccf7736099dd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="analysis_files/libs/bootstrap/bootstrap-81267100e462c21b3d6c0d5bf76a3417.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
 
 </head>
@@ -81,7 +81,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Code 2</h1>
+<h1 class="title">2025 UU IM Code and RRT Analysis</h1>
 </div>
 
 
@@ -98,16 +98,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<section id="quarto" class="level2">
-<h2 class="anchored" data-anchor-id="quarto">Quarto</h2>
-<p>Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <a href="https://quarto.org" class="uri">https://quarto.org</a>.</p>
-</section>
-<section id="running-code" class="level2">
-<h2 class="anchored" data-anchor-id="running-code">Running Code</h2>
-<p>When you click the <strong>Render</strong> button a document will be generated that includes both content and the output of embedded code. You can embed code like this:</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(dplyr)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">#install.packages('here')</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(dplyr)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
 <pre><code>
 Attaching package: 'dplyr'</code></pre>
@@ -122,23 +116,30 @@ Attaching package: 'dplyr'</code></pre>
 
     intersect, setdiff, setequal, union</code></pre>
 </div>
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>folder <span class="ot">&lt;-</span> <span class="st">"C:/Code Projects/Code Blue Training Year 2/Data/"</span>  </span>
-<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>file <span class="ot">&lt;-</span> <span class="st">"arcbt.xlsx"</span></span>
-<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>survey_responses <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="fu">paste0</span>(folder, file))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(here)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>here() starts at /Users/reblocke/Research/U of U IM Codes and Rapid Responses/Publications/ATS 2026 Abstract</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="co">#folder &lt;- "C:/Code Projects/Code Blue Training Year 2/Data/"  </span></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="co">#file &lt;- "arcbt.xlsx"</span></span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="co">#survey_responses &lt;- read_excel(paste0(folder, file))</span></span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a><span class="co"># changed this to a relative path</span></span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a>survey_responses <span class="ot">&lt;-</span> readxl<span class="sc">::</span><span class="fu">read_excel</span>(here<span class="sc">::</span><span class="fu">here</span>(<span class="st">"data"</span>, <span class="st">"arcbt.xlsx"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
 <pre><code>New names:
 • `` -&gt; `...1`</code></pre>
 </div>
-<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>survey_responses <span class="ot">&lt;-</span> survey_responses <span class="sc">%&gt;%</span></span>
-<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
-<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>    <span class="at">change_con_code =</span> post_con_code <span class="sc">-</span> pre_con_code,</span>
-<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>    <span class="at">change_con_rap =</span> post_con_rapid <span class="sc">-</span> pre_con_rapid, </span>
-<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>    <span class="at">change_con_rhythm =</span> post_con_rhythm <span class="sc">-</span> pre_con_rhthm,</span>
-<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a>    <span class="at">change_attending =</span> post_attending <span class="sc">-</span> pre_attending,</span>
-<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a>    <span class="at">change_team =</span> post_team <span class="sc">-</span> pre_team</span>
-<span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a>  )</span>
-<span id="cb7-9"><a href="#cb7-9" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb7-10"><a href="#cb7-10" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(survey_responses)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>survey_responses <span class="ot">&lt;-</span> survey_responses <span class="sc">%&gt;%</span></span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>    <span class="at">change_con_code =</span> post_con_code <span class="sc">-</span> pre_con_code,</span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>    <span class="at">change_con_rapid =</span> post_con_rapid <span class="sc">-</span> pre_con_rapid, </span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>    <span class="at">change_con_rhythm =</span> post_con_rhythm <span class="sc">-</span> pre_con_rhthm,</span>
+<span id="cb9-6"><a href="#cb9-6" aria-hidden="true" tabindex="-1"></a>    <span class="at">change_attending =</span> post_attending <span class="sc">-</span> pre_attending,</span>
+<span id="cb9-7"><a href="#cb9-7" aria-hidden="true" tabindex="-1"></a>    <span class="at">change_team =</span> post_team <span class="sc">-</span> pre_team</span>
+<span id="cb9-8"><a href="#cb9-8" aria-hidden="true" tabindex="-1"></a>  )</span>
+<span id="cb9-9"><a href="#cb9-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-10"><a href="#cb9-10" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(survey_responses)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>     ...1            pre_con_code   pre_con_rapid   pre_con_rhthm      pre_team
  Length:22          Min.   :1.000   Min.   :2.000   Min.   :2.000   Min.   :2  
@@ -168,13 +169,13 @@ Attaching package: 'dplyr'</code></pre>
  Mean   :7.182   Mean   :4.591   Mean   : 4.091   Mean   : 8.545  
  3rd Qu.:8.000   3rd Qu.:5.000   3rd Qu.: 5.000   3rd Qu.: 9.750  
  Max.   :9.000   Max.   :9.000   Max.   :10.000   Max.   :10.000  
-   post_cases      post_discuss    change_con_code  change_con_rap 
- Min.   : 7.000   Min.   : 4.000   Min.   :-1.000   Min.   :0.000  
- 1st Qu.: 8.000   1st Qu.: 7.250   1st Qu.: 1.250   1st Qu.:1.000  
- Median : 8.500   Median : 8.500   Median : 2.000   Median :2.000  
- Mean   : 8.636   Mean   : 8.455   Mean   : 2.364   Mean   :1.682  
- 3rd Qu.: 9.750   3rd Qu.:10.000   3rd Qu.: 3.000   3rd Qu.:2.000  
- Max.   :10.000   Max.   :10.000   Max.   : 6.000   Max.   :4.000  
+   post_cases      post_discuss    change_con_code  change_con_rapid
+ Min.   : 7.000   Min.   : 4.000   Min.   :-1.000   Min.   :0.000   
+ 1st Qu.: 8.000   1st Qu.: 7.250   1st Qu.: 1.250   1st Qu.:1.000   
+ Median : 8.500   Median : 8.500   Median : 2.000   Median :2.000   
+ Mean   : 8.636   Mean   : 8.455   Mean   : 2.364   Mean   :1.682   
+ 3rd Qu.: 9.750   3rd Qu.:10.000   3rd Qu.: 3.000   3rd Qu.:2.000   
+ Max.   :10.000   Max.   :10.000   Max.   : 6.000   Max.   :4.000   
  change_con_rhythm change_attending    change_team     
  Min.   :-1.000    Min.   :-3.00000   Min.   :-5.0000  
  1st Qu.: 0.250    1st Qu.:-1.00000   1st Qu.:-1.7500  
@@ -185,643 +186,677 @@ Attaching package: 'dplyr'</code></pre>
 </div>
 </div>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tinytable)</span>
-<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a><span class="fu">tt</span>(survey_responses)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tinytable)</span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a><span class="fu">tt</span>(survey_responses)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
 <!-- preamble start -->
 
-    <script src="https://cdn.jsdelivr.net/gh/vincentarelbundock/tinytable@main/inst/tinytable.js"></script>
-
     <script>
-      // Create table-specific functions using external factory
-      const tableFns_82ayl7x7x5h6wou3crjz = TinyTable.createTableFunctions("tinytable_82ayl7x7x5h6wou3crjz");
+
+      function styleCell_jj46prp1p31xr10sq2e4(i, j, css_id) {
+          var table = document.getElementById("tinytable_jj46prp1p31xr10sq2e4");
+          var cell = table.querySelector(`[data-row="${i}"][data-col="${j}"]`);
+          if (cell) {
+              console.log(`Styling cell at (${i}, ${j}) with class ${css_id}`);
+              cell.classList.add(css_id);
+          } else {
+              console.warn(`Cell at (${i}, ${j}) not found.`);
+          }
+      }
+      function spanCell_jj46prp1p31xr10sq2e4(i, j, rowspan, colspan) {
+        var table = document.getElementById("tinytable_jj46prp1p31xr10sq2e4");
+        const targetCell = table.querySelector(`[data-row="${i}"][data-col="${j}"]`);
+        if (!targetCell) {
+          console.warn(`Cell at (${i}, ${j}) not found.`);
+        }
+
+        // Get all cells that need to be removed
+        const cellsToRemove = [];
+        for (let r = 0; r < rowspan; r++) {
+          for (let c = 0; c < colspan; c++) {
+            if (r === 0 && c === 0) continue; // Skip the target cell
+            const cell = table.querySelector(`[data-row="${i + r}"][data-col="${j + c}"]`);
+            if (cell) {
+              cellsToRemove.push(cell);
+            }
+          }
+        }
+
+        // Remove all cells
+        cellsToRemove.forEach(cell => cell.remove());
+
+        // Set rowspan and colspan of the target cell if it exists
+        if (targetCell) {
+          targetCell.rowSpan = rowspan;
+          targetCell.colSpan = colspan;
+        }
+      }
       // tinytable span after
       window.addEventListener('load', function () {
           var cellsToStyle = [
             // tinytable style arrays after
-          { positions: [ { i: '22', j: 1 }, { i: '22', j: 2 }, { i: '22', j: 3 }, { i: '22', j: 4 }, { i: '22', j: 5 }, { i: '22', j: 6 }, { i: '22', j: 7 }, { i: '22', j: 8 }, { i: '22', j: 9 }, { i: '22', j: 10 }, { i: '22', j: 11 }, { i: '22', j: 12 }, { i: '22', j: 13 }, { i: '22', j: 14 }, { i: '22', j: 15 }, { i: '22', j: 16 }, { i: '22', j: 17 }, { i: '22', j: 18 }, { i: '22', j: 19 }, { i: '22', j: 20 }, { i: '22', j: 21 }, { i: '22', j: 22 }, { i: '22', j: 23 }, { i: '22', j: 24 } ], css_id: 'tinytable_css_6x8uzfovsqmrjdw1dmb0',}, 
-          { positions: [ { i: '0', j: 1 }, { i: '0', j: 2 }, { i: '0', j: 3 }, { i: '0', j: 4 }, { i: '0', j: 5 }, { i: '0', j: 6 }, { i: '0', j: 7 }, { i: '0', j: 8 }, { i: '0', j: 9 }, { i: '0', j: 10 }, { i: '0', j: 11 }, { i: '0', j: 12 }, { i: '0', j: 13 }, { i: '0', j: 14 }, { i: '0', j: 15 }, { i: '0', j: 16 }, { i: '0', j: 17 }, { i: '0', j: 18 }, { i: '0', j: 19 }, { i: '0', j: 20 }, { i: '0', j: 21 }, { i: '0', j: 22 }, { i: '0', j: 23 }, { i: '0', j: 24 } ], css_id: 'tinytable_css_c5wahvt094ng42hl57e8',}, 
+          { positions: [ { i: '22', j: 4 }, { i: '22', j: 5 }, { i: '22', j: 6 }, { i: '22', j: 0 }, { i: '22', j: 7 }, { i: '22', j: 1 }, { i: '22', j: 8 }, { i: '22', j: 2 }, { i: '22', j: 9 }, { i: '22', j: 3 }, { i: '22', j: 10 }, { i: '22', j: 17 }, { i: '22', j: 11 }, { i: '22', j: 18 }, { i: '22', j: 12 }, { i: '22', j: 19 }, { i: '22', j: 13 }, { i: '22', j: 20 }, { i: '22', j: 14 }, { i: '22', j: 21 }, { i: '22', j: 15 }, { i: '22', j: 22 }, { i: '22', j: 16 }, { i: '22', j: 23 },  ], css_id: 'tinytable_css_zt2xus587912tgbxtp7r',}, 
+          { positions: [ { i: '0', j: 0 }, { i: '0', j: 7 }, { i: '0', j: 1 }, { i: '0', j: 8 }, { i: '0', j: 2 }, { i: '0', j: 9 }, { i: '0', j: 3 }, { i: '0', j: 10 }, { i: '0', j: 4 }, { i: '0', j: 11 }, { i: '0', j: 5 }, { i: '0', j: 12 }, { i: '0', j: 6 }, { i: '0', j: 13 }, { i: '0', j: 20 }, { i: '0', j: 14 }, { i: '0', j: 21 }, { i: '0', j: 15 }, { i: '0', j: 22 }, { i: '0', j: 16 }, { i: '0', j: 23 }, { i: '0', j: 17 }, { i: '0', j: 18 }, { i: '0', j: 19 },  ], css_id: 'tinytable_css_vkzs1pg6sr64qt6zxttl',}, 
           ];
 
           // Loop over the arrays to style the cells
           cellsToStyle.forEach(function (group) {
               group.positions.forEach(function (cell) {
-                  tableFns_82ayl7x7x5h6wou3crjz.styleCell(cell.i, cell.j, group.css_id);
+                  styleCell_jj46prp1p31xr10sq2e4(cell.i, cell.j, group.css_id);
               });
           });
       });
     </script>
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/vincentarelbundock/tinytable@main/inst/tinytable.css">
     <style>
-    /* tinytable css entries after */
-    #tinytable_82ayl7x7x5h6wou3crjz td.tinytable_css_6x8uzfovsqmrjdw1dmb0, #tinytable_82ayl7x7x5h6wou3crjz th.tinytable_css_6x8uzfovsqmrjdw1dmb0 {  position: relative; --border-bottom: 1; --border-left: 0; --border-right: 0; --border-top: 0; --line-color-bottom: black; --line-color-left: black; --line-color-right: black; --line-color-top: black; --line-width-bottom: 0.1em; --line-width-left: 0.1em; --line-width-right: 0.1em; --line-width-top: 0.1em; --trim-bottom-left: 0%; --trim-bottom-right: 0%; --trim-left-bottom: 0%; --trim-left-top: 0%; --trim-right-bottom: 0%; --trim-right-top: 0%; --trim-top-left: 0%; --trim-top-right: 0%;  }
-    #tinytable_82ayl7x7x5h6wou3crjz td.tinytable_css_c5wahvt094ng42hl57e8, #tinytable_82ayl7x7x5h6wou3crjz th.tinytable_css_c5wahvt094ng42hl57e8 {  position: relative; --border-bottom: 1; --border-left: 0; --border-right: 0; --border-top: 1; --line-color-bottom: black; --line-color-left: black; --line-color-right: black; --line-color-top: black; --line-width-bottom: 0.05em; --line-width-left: 0.1em; --line-width-right: 0.1em; --line-width-top: 0.1em; --trim-bottom-left: 0%; --trim-bottom-right: 0%; --trim-left-bottom: 0%; --trim-left-top: 0%; --trim-right-bottom: 0%; --trim-right-top: 0%; --trim-top-left: 0%; --trim-top-right: 0%;  }
+      /* tinytable css entries after */
+      .table td.tinytable_css_zt2xus587912tgbxtp7r, .table th.tinytable_css_zt2xus587912tgbxtp7r { border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_vkzs1pg6sr64qt6zxttl, .table th.tinytable_css_vkzs1pg6sr64qt6zxttl { border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
     </style>
     <div class="container">
-      <table class="tinytable" id="tinytable_82ayl7x7x5h6wou3crjz" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
-        
+      <table class="table table-borderless" id="tinytable_jj46prp1p31xr10sq2e4" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
         <thead>
+        
               <tr>
-                <th scope="col" data-row="0" data-col="1">...1</th>
-                <th scope="col" data-row="0" data-col="2">pre_con_code</th>
-                <th scope="col" data-row="0" data-col="3">pre_con_rapid</th>
-                <th scope="col" data-row="0" data-col="4">pre_con_rhthm</th>
-                <th scope="col" data-row="0" data-col="5">pre_team</th>
-                <th scope="col" data-row="0" data-col="6">pre_attending</th>
-                <th scope="col" data-row="0" data-col="7">pre_codes</th>
-                <th scope="col" data-row="0" data-col="8">pre_rapid</th>
-                <th scope="col" data-row="0" data-col="9">pre_lead</th>
-                <th scope="col" data-row="0" data-col="10">pre_sim</th>
-                <th scope="col" data-row="0" data-col="11">pre_shock</th>
-                <th scope="col" data-row="0" data-col="12">post_con_code</th>
-                <th scope="col" data-row="0" data-col="13">post_con_rapid</th>
-                <th scope="col" data-row="0" data-col="14">post_con_rhythm</th>
-                <th scope="col" data-row="0" data-col="15">post_team</th>
-                <th scope="col" data-row="0" data-col="16">post_attending</th>
-                <th scope="col" data-row="0" data-col="17">post_modules</th>
-                <th scope="col" data-row="0" data-col="18">post_cases</th>
-                <th scope="col" data-row="0" data-col="19">post_discuss</th>
-                <th scope="col" data-row="0" data-col="20">change_con_code</th>
-                <th scope="col" data-row="0" data-col="21">change_con_rap</th>
-                <th scope="col" data-row="0" data-col="22">change_con_rhythm</th>
-                <th scope="col" data-row="0" data-col="23">change_attending</th>
-                <th scope="col" data-row="0" data-col="24">change_team</th>
+                <th scope="col" data-row="0" data-col="0">...1</th>
+                <th scope="col" data-row="0" data-col="1">pre_con_code</th>
+                <th scope="col" data-row="0" data-col="2">pre_con_rapid</th>
+                <th scope="col" data-row="0" data-col="3">pre_con_rhthm</th>
+                <th scope="col" data-row="0" data-col="4">pre_team</th>
+                <th scope="col" data-row="0" data-col="5">pre_attending</th>
+                <th scope="col" data-row="0" data-col="6">pre_codes</th>
+                <th scope="col" data-row="0" data-col="7">pre_rapid</th>
+                <th scope="col" data-row="0" data-col="8">pre_lead</th>
+                <th scope="col" data-row="0" data-col="9">pre_sim</th>
+                <th scope="col" data-row="0" data-col="10">pre_shock</th>
+                <th scope="col" data-row="0" data-col="11">post_con_code</th>
+                <th scope="col" data-row="0" data-col="12">post_con_rapid</th>
+                <th scope="col" data-row="0" data-col="13">post_con_rhythm</th>
+                <th scope="col" data-row="0" data-col="14">post_team</th>
+                <th scope="col" data-row="0" data-col="15">post_attending</th>
+                <th scope="col" data-row="0" data-col="16">post_modules</th>
+                <th scope="col" data-row="0" data-col="17">post_cases</th>
+                <th scope="col" data-row="0" data-col="18">post_discuss</th>
+                <th scope="col" data-row="0" data-col="19">change_con_code</th>
+                <th scope="col" data-row="0" data-col="20">change_con_rapid</th>
+                <th scope="col" data-row="0" data-col="21">change_con_rhythm</th>
+                <th scope="col" data-row="0" data-col="22">change_attending</th>
+                <th scope="col" data-row="0" data-col="23">change_team</th>
               </tr>
         </thead>
         
         <tbody>
                 <tr>
-                  <td data-row="1" data-col="1">B4019</td>
+                  <td data-row="1" data-col="0">B4019</td>
+                  <td data-row="1" data-col="1">7</td>
                   <td data-row="1" data-col="2">7</td>
                   <td data-row="1" data-col="3">7</td>
-                  <td data-row="1" data-col="4">7</td>
-                  <td data-row="1" data-col="5">5</td>
-                  <td data-row="1" data-col="6">3</td>
-                  <td data-row="1" data-col="7">4</td>
-                  <td data-row="1" data-col="8">15</td>
-                  <td data-row="1" data-col="9">5</td>
-                  <td data-row="1" data-col="10">3</td>
-                  <td data-row="1" data-col="11">Yes</td>
+                  <td data-row="1" data-col="4">5</td>
+                  <td data-row="1" data-col="5">3</td>
+                  <td data-row="1" data-col="6">4</td>
+                  <td data-row="1" data-col="7">15</td>
+                  <td data-row="1" data-col="8">5</td>
+                  <td data-row="1" data-col="9">3</td>
+                  <td data-row="1" data-col="10">Yes</td>
+                  <td data-row="1" data-col="11">8</td>
                   <td data-row="1" data-col="12">8</td>
                   <td data-row="1" data-col="13">8</td>
-                  <td data-row="1" data-col="14">8</td>
+                  <td data-row="1" data-col="14">3</td>
                   <td data-row="1" data-col="15">3</td>
-                  <td data-row="1" data-col="16">3</td>
-                  <td data-row="1" data-col="17">7</td>
+                  <td data-row="1" data-col="16">7</td>
+                  <td data-row="1" data-col="17">8</td>
                   <td data-row="1" data-col="18">8</td>
-                  <td data-row="1" data-col="19">8</td>
+                  <td data-row="1" data-col="19">1</td>
                   <td data-row="1" data-col="20">1</td>
                   <td data-row="1" data-col="21">1</td>
-                  <td data-row="1" data-col="22">1</td>
-                  <td data-row="1" data-col="23">0</td>
-                  <td data-row="1" data-col="24">-2</td>
+                  <td data-row="1" data-col="22">0</td>
+                  <td data-row="1" data-col="23">-2</td>
                 </tr>
                 <tr>
-                  <td data-row="2" data-col="1">J3331</td>
-                  <td data-row="2" data-col="2">3</td>
-                  <td data-row="2" data-col="3">5</td>
-                  <td data-row="2" data-col="4">8</td>
-                  <td data-row="2" data-col="5">4</td>
-                  <td data-row="2" data-col="6">5</td>
-                  <td data-row="2" data-col="7">3</td>
-                  <td data-row="2" data-col="8">15</td>
+                  <td data-row="2" data-col="0">J3331</td>
+                  <td data-row="2" data-col="1">3</td>
+                  <td data-row="2" data-col="2">5</td>
+                  <td data-row="2" data-col="3">8</td>
+                  <td data-row="2" data-col="4">4</td>
+                  <td data-row="2" data-col="5">5</td>
+                  <td data-row="2" data-col="6">3</td>
+                  <td data-row="2" data-col="7">15</td>
+                  <td data-row="2" data-col="8">0</td>
                   <td data-row="2" data-col="9">0</td>
-                  <td data-row="2" data-col="10">0</td>
-                  <td data-row="2" data-col="11">No</td>
-                  <td data-row="2" data-col="12">6</td>
-                  <td data-row="2" data-col="13">7</td>
-                  <td data-row="2" data-col="14">8</td>
-                  <td data-row="2" data-col="15">9</td>
-                  <td data-row="2" data-col="16">3</td>
+                  <td data-row="2" data-col="10">No</td>
+                  <td data-row="2" data-col="11">6</td>
+                  <td data-row="2" data-col="12">7</td>
+                  <td data-row="2" data-col="13">8</td>
+                  <td data-row="2" data-col="14">9</td>
+                  <td data-row="2" data-col="15">3</td>
+                  <td data-row="2" data-col="16">8</td>
                   <td data-row="2" data-col="17">8</td>
                   <td data-row="2" data-col="18">8</td>
-                  <td data-row="2" data-col="19">8</td>
-                  <td data-row="2" data-col="20">3</td>
-                  <td data-row="2" data-col="21">2</td>
-                  <td data-row="2" data-col="22">0</td>
-                  <td data-row="2" data-col="23">-2</td>
-                  <td data-row="2" data-col="24">5</td>
+                  <td data-row="2" data-col="19">3</td>
+                  <td data-row="2" data-col="20">2</td>
+                  <td data-row="2" data-col="21">0</td>
+                  <td data-row="2" data-col="22">-2</td>
+                  <td data-row="2" data-col="23">5</td>
                 </tr>
                 <tr>
-                  <td data-row="3" data-col="1">G0675</td>
-                  <td data-row="3" data-col="2">5</td>
+                  <td data-row="3" data-col="0">G0675</td>
+                  <td data-row="3" data-col="1">5</td>
+                  <td data-row="3" data-col="2">7</td>
                   <td data-row="3" data-col="3">7</td>
-                  <td data-row="3" data-col="4">7</td>
-                  <td data-row="3" data-col="5">9</td>
+                  <td data-row="3" data-col="4">9</td>
+                  <td data-row="3" data-col="5">4</td>
                   <td data-row="3" data-col="6">4</td>
-                  <td data-row="3" data-col="7">4</td>
-                  <td data-row="3" data-col="8">15</td>
+                  <td data-row="3" data-col="7">15</td>
+                  <td data-row="3" data-col="8">5</td>
                   <td data-row="3" data-col="9">5</td>
-                  <td data-row="3" data-col="10">5</td>
-                  <td data-row="3" data-col="11">Yes</td>
-                  <td data-row="3" data-col="12">7</td>
-                  <td data-row="3" data-col="13">8</td>
-                  <td data-row="3" data-col="14">7</td>
-                  <td data-row="3" data-col="15">4</td>
-                  <td data-row="3" data-col="16">3</td>
-                  <td data-row="3" data-col="17">8</td>
+                  <td data-row="3" data-col="10">Yes</td>
+                  <td data-row="3" data-col="11">7</td>
+                  <td data-row="3" data-col="12">8</td>
+                  <td data-row="3" data-col="13">7</td>
+                  <td data-row="3" data-col="14">4</td>
+                  <td data-row="3" data-col="15">3</td>
+                  <td data-row="3" data-col="16">8</td>
+                  <td data-row="3" data-col="17">10</td>
                   <td data-row="3" data-col="18">10</td>
-                  <td data-row="3" data-col="19">10</td>
-                  <td data-row="3" data-col="20">2</td>
-                  <td data-row="3" data-col="21">1</td>
-                  <td data-row="3" data-col="22">0</td>
-                  <td data-row="3" data-col="23">-1</td>
-                  <td data-row="3" data-col="24">-5</td>
+                  <td data-row="3" data-col="19">2</td>
+                  <td data-row="3" data-col="20">1</td>
+                  <td data-row="3" data-col="21">0</td>
+                  <td data-row="3" data-col="22">-1</td>
+                  <td data-row="3" data-col="23">-5</td>
                 </tr>
                 <tr>
-                  <td data-row="4" data-col="1">A1184</td>
+                  <td data-row="4" data-col="0">A1184</td>
+                  <td data-row="4" data-col="1">4</td>
                   <td data-row="4" data-col="2">4</td>
                   <td data-row="4" data-col="3">4</td>
-                  <td data-row="4" data-col="4">4</td>
+                  <td data-row="4" data-col="4">3</td>
                   <td data-row="4" data-col="5">3</td>
-                  <td data-row="4" data-col="6">3</td>
-                  <td data-row="4" data-col="7">2</td>
-                  <td data-row="4" data-col="8">8</td>
+                  <td data-row="4" data-col="6">2</td>
+                  <td data-row="4" data-col="7">8</td>
+                  <td data-row="4" data-col="8">0</td>
                   <td data-row="4" data-col="9">0</td>
-                  <td data-row="4" data-col="10">0</td>
-                  <td data-row="4" data-col="11">No</td>
+                  <td data-row="4" data-col="10">No</td>
+                  <td data-row="4" data-col="11">5</td>
                   <td data-row="4" data-col="12">5</td>
-                  <td data-row="4" data-col="13">5</td>
-                  <td data-row="4" data-col="14">6</td>
+                  <td data-row="4" data-col="13">6</td>
+                  <td data-row="4" data-col="14">2</td>
                   <td data-row="4" data-col="15">2</td>
-                  <td data-row="4" data-col="16">2</td>
+                  <td data-row="4" data-col="16">8</td>
                   <td data-row="4" data-col="17">8</td>
                   <td data-row="4" data-col="18">8</td>
-                  <td data-row="4" data-col="19">8</td>
+                  <td data-row="4" data-col="19">1</td>
                   <td data-row="4" data-col="20">1</td>
-                  <td data-row="4" data-col="21">1</td>
-                  <td data-row="4" data-col="22">2</td>
+                  <td data-row="4" data-col="21">2</td>
+                  <td data-row="4" data-col="22">-1</td>
                   <td data-row="4" data-col="23">-1</td>
-                  <td data-row="4" data-col="24">-1</td>
                 </tr>
                 <tr>
-                  <td data-row="5" data-col="1">G8087</td>
-                  <td data-row="5" data-col="2">6</td>
+                  <td data-row="5" data-col="0">G8087</td>
+                  <td data-row="5" data-col="1">6</td>
+                  <td data-row="5" data-col="2">4</td>
                   <td data-row="5" data-col="3">4</td>
-                  <td data-row="5" data-col="4">4</td>
-                  <td data-row="5" data-col="5">5</td>
-                  <td data-row="5" data-col="6">9</td>
-                  <td data-row="5" data-col="7">7</td>
-                  <td data-row="5" data-col="8">15</td>
-                  <td data-row="5" data-col="9">4</td>
-                  <td data-row="5" data-col="10">1</td>
-                  <td data-row="5" data-col="11">No</td>
+                  <td data-row="5" data-col="4">5</td>
+                  <td data-row="5" data-col="5">9</td>
+                  <td data-row="5" data-col="6">7</td>
+                  <td data-row="5" data-col="7">15</td>
+                  <td data-row="5" data-col="8">4</td>
+                  <td data-row="5" data-col="9">1</td>
+                  <td data-row="5" data-col="10">No</td>
+                  <td data-row="5" data-col="11">5</td>
                   <td data-row="5" data-col="12">5</td>
-                  <td data-row="5" data-col="13">5</td>
-                  <td data-row="5" data-col="14">6</td>
-                  <td data-row="5" data-col="15">4</td>
-                  <td data-row="5" data-col="16">10</td>
-                  <td data-row="5" data-col="17">7</td>
-                  <td data-row="5" data-col="18">9</td>
-                  <td data-row="5" data-col="19">7</td>
-                  <td data-row="5" data-col="20">-1</td>
-                  <td data-row="5" data-col="21">1</td>
-                  <td data-row="5" data-col="22">2</td>
-                  <td data-row="5" data-col="23">1</td>
-                  <td data-row="5" data-col="24">-1</td>
+                  <td data-row="5" data-col="13">6</td>
+                  <td data-row="5" data-col="14">4</td>
+                  <td data-row="5" data-col="15">10</td>
+                  <td data-row="5" data-col="16">7</td>
+                  <td data-row="5" data-col="17">9</td>
+                  <td data-row="5" data-col="18">7</td>
+                  <td data-row="5" data-col="19">-1</td>
+                  <td data-row="5" data-col="20">1</td>
+                  <td data-row="5" data-col="21">2</td>
+                  <td data-row="5" data-col="22">1</td>
+                  <td data-row="5" data-col="23">-1</td>
                 </tr>
                 <tr>
-                  <td data-row="6" data-col="1">D0695</td>
-                  <td data-row="6" data-col="2">5</td>
+                  <td data-row="6" data-col="0">D0695</td>
+                  <td data-row="6" data-col="1">5</td>
+                  <td data-row="6" data-col="2">6</td>
                   <td data-row="6" data-col="3">6</td>
-                  <td data-row="6" data-col="4">6</td>
-                  <td data-row="6" data-col="5">5</td>
+                  <td data-row="6" data-col="4">5</td>
+                  <td data-row="6" data-col="5">3</td>
                   <td data-row="6" data-col="6">3</td>
-                  <td data-row="6" data-col="7">3</td>
-                  <td data-row="6" data-col="8">10</td>
+                  <td data-row="6" data-col="7">10</td>
+                  <td data-row="6" data-col="8">0</td>
                   <td data-row="6" data-col="9">0</td>
-                  <td data-row="6" data-col="10">0</td>
-                  <td data-row="6" data-col="11">No</td>
+                  <td data-row="6" data-col="10">No</td>
+                  <td data-row="6" data-col="11">7</td>
                   <td data-row="6" data-col="12">7</td>
-                  <td data-row="6" data-col="13">7</td>
-                  <td data-row="6" data-col="14">6</td>
-                  <td data-row="6" data-col="15">5</td>
-                  <td data-row="6" data-col="16">3</td>
-                  <td data-row="6" data-col="17">6</td>
-                  <td data-row="6" data-col="18">8</td>
-                  <td data-row="6" data-col="19">7</td>
-                  <td data-row="6" data-col="20">2</td>
-                  <td data-row="6" data-col="21">1</td>
+                  <td data-row="6" data-col="13">6</td>
+                  <td data-row="6" data-col="14">5</td>
+                  <td data-row="6" data-col="15">3</td>
+                  <td data-row="6" data-col="16">6</td>
+                  <td data-row="6" data-col="17">8</td>
+                  <td data-row="6" data-col="18">7</td>
+                  <td data-row="6" data-col="19">2</td>
+                  <td data-row="6" data-col="20">1</td>
+                  <td data-row="6" data-col="21">0</td>
                   <td data-row="6" data-col="22">0</td>
                   <td data-row="6" data-col="23">0</td>
-                  <td data-row="6" data-col="24">0</td>
                 </tr>
                 <tr>
-                  <td data-row="7" data-col="1">S8893</td>
+                  <td data-row="7" data-col="0">S8893</td>
+                  <td data-row="7" data-col="1">5</td>
                   <td data-row="7" data-col="2">5</td>
-                  <td data-row="7" data-col="3">5</td>
-                  <td data-row="7" data-col="4">4</td>
+                  <td data-row="7" data-col="3">4</td>
+                  <td data-row="7" data-col="4">3</td>
                   <td data-row="7" data-col="5">3</td>
-                  <td data-row="7" data-col="6">3</td>
-                  <td data-row="7" data-col="7">4</td>
-                  <td data-row="7" data-col="8">9</td>
-                  <td data-row="7" data-col="9">2</td>
-                  <td data-row="7" data-col="10">1</td>
-                  <td data-row="7" data-col="11">No</td>
+                  <td data-row="7" data-col="6">4</td>
+                  <td data-row="7" data-col="7">9</td>
+                  <td data-row="7" data-col="8">2</td>
+                  <td data-row="7" data-col="9">1</td>
+                  <td data-row="7" data-col="10">No</td>
+                  <td data-row="7" data-col="11">7</td>
                   <td data-row="7" data-col="12">7</td>
                   <td data-row="7" data-col="13">7</td>
-                  <td data-row="7" data-col="14">7</td>
-                  <td data-row="7" data-col="15">2</td>
-                  <td data-row="7" data-col="16">3</td>
+                  <td data-row="7" data-col="14">2</td>
+                  <td data-row="7" data-col="15">3</td>
+                  <td data-row="7" data-col="16">8</td>
                   <td data-row="7" data-col="17">8</td>
-                  <td data-row="7" data-col="18">8</td>
-                  <td data-row="7" data-col="19">7</td>
+                  <td data-row="7" data-col="18">7</td>
+                  <td data-row="7" data-col="19">2</td>
                   <td data-row="7" data-col="20">2</td>
-                  <td data-row="7" data-col="21">2</td>
-                  <td data-row="7" data-col="22">3</td>
-                  <td data-row="7" data-col="23">0</td>
-                  <td data-row="7" data-col="24">-1</td>
+                  <td data-row="7" data-col="21">3</td>
+                  <td data-row="7" data-col="22">0</td>
+                  <td data-row="7" data-col="23">-1</td>
                 </tr>
                 <tr>
-                  <td data-row="8" data-col="1">G8879</td>
-                  <td data-row="8" data-col="2">5</td>
-                  <td data-row="8" data-col="3">6</td>
-                  <td data-row="8" data-col="4">8</td>
-                  <td data-row="8" data-col="5">5</td>
-                  <td data-row="8" data-col="6">3</td>
-                  <td data-row="8" data-col="7">2</td>
-                  <td data-row="8" data-col="8">10</td>
-                  <td data-row="8" data-col="9">5</td>
-                  <td data-row="8" data-col="10">1</td>
-                  <td data-row="8" data-col="11">No</td>
+                  <td data-row="8" data-col="0">G8879</td>
+                  <td data-row="8" data-col="1">5</td>
+                  <td data-row="8" data-col="2">6</td>
+                  <td data-row="8" data-col="3">8</td>
+                  <td data-row="8" data-col="4">5</td>
+                  <td data-row="8" data-col="5">3</td>
+                  <td data-row="8" data-col="6">2</td>
+                  <td data-row="8" data-col="7">10</td>
+                  <td data-row="8" data-col="8">5</td>
+                  <td data-row="8" data-col="9">1</td>
+                  <td data-row="8" data-col="10">No</td>
+                  <td data-row="8" data-col="11">8</td>
                   <td data-row="8" data-col="12">8</td>
-                  <td data-row="8" data-col="13">8</td>
-                  <td data-row="8" data-col="14">7</td>
-                  <td data-row="8" data-col="15">5</td>
-                  <td data-row="8" data-col="16">4</td>
-                  <td data-row="8" data-col="17">9</td>
-                  <td data-row="8" data-col="18">8</td>
-                  <td data-row="8" data-col="19">9</td>
-                  <td data-row="8" data-col="20">3</td>
-                  <td data-row="8" data-col="21">2</td>
-                  <td data-row="8" data-col="22">-1</td>
-                  <td data-row="8" data-col="23">1</td>
-                  <td data-row="8" data-col="24">0</td>
+                  <td data-row="8" data-col="13">7</td>
+                  <td data-row="8" data-col="14">5</td>
+                  <td data-row="8" data-col="15">4</td>
+                  <td data-row="8" data-col="16">9</td>
+                  <td data-row="8" data-col="17">8</td>
+                  <td data-row="8" data-col="18">9</td>
+                  <td data-row="8" data-col="19">3</td>
+                  <td data-row="8" data-col="20">2</td>
+                  <td data-row="8" data-col="21">-1</td>
+                  <td data-row="8" data-col="22">1</td>
+                  <td data-row="8" data-col="23">0</td>
                 </tr>
                 <tr>
-                  <td data-row="9" data-col="1">M5075</td>
+                  <td data-row="9" data-col="0">M5075</td>
+                  <td data-row="9" data-col="1">6</td>
                   <td data-row="9" data-col="2">6</td>
-                  <td data-row="9" data-col="3">6</td>
-                  <td data-row="9" data-col="4">7</td>
-                  <td data-row="9" data-col="5">5</td>
+                  <td data-row="9" data-col="3">7</td>
+                  <td data-row="9" data-col="4">5</td>
+                  <td data-row="9" data-col="5">3</td>
                   <td data-row="9" data-col="6">3</td>
-                  <td data-row="9" data-col="7">3</td>
-                  <td data-row="9" data-col="8">30</td>
-                  <td data-row="9" data-col="9">8</td>
-                  <td data-row="9" data-col="10">2</td>
-                  <td data-row="9" data-col="11">No</td>
+                  <td data-row="9" data-col="7">30</td>
+                  <td data-row="9" data-col="8">8</td>
+                  <td data-row="9" data-col="9">2</td>
+                  <td data-row="9" data-col="10">No</td>
+                  <td data-row="9" data-col="11">7</td>
                   <td data-row="9" data-col="12">7</td>
-                  <td data-row="9" data-col="13">7</td>
-                  <td data-row="9" data-col="14">8</td>
+                  <td data-row="9" data-col="13">8</td>
+                  <td data-row="9" data-col="14">2</td>
                   <td data-row="9" data-col="15">2</td>
-                  <td data-row="9" data-col="16">2</td>
+                  <td data-row="9" data-col="16">8</td>
                   <td data-row="9" data-col="17">8</td>
                   <td data-row="9" data-col="18">8</td>
-                  <td data-row="9" data-col="19">8</td>
+                  <td data-row="9" data-col="19">1</td>
                   <td data-row="9" data-col="20">1</td>
                   <td data-row="9" data-col="21">1</td>
-                  <td data-row="9" data-col="22">1</td>
-                  <td data-row="9" data-col="23">-1</td>
-                  <td data-row="9" data-col="24">-3</td>
+                  <td data-row="9" data-col="22">-1</td>
+                  <td data-row="9" data-col="23">-3</td>
                 </tr>
                 <tr>
-                  <td data-row="10" data-col="1">C5096</td>
-                  <td data-row="10" data-col="2">2</td>
-                  <td data-row="10" data-col="3">3</td>
+                  <td data-row="10" data-col="0">C5096</td>
+                  <td data-row="10" data-col="1">2</td>
+                  <td data-row="10" data-col="2">3</td>
+                  <td data-row="10" data-col="3">6</td>
                   <td data-row="10" data-col="4">6</td>
-                  <td data-row="10" data-col="5">6</td>
-                  <td data-row="10" data-col="6">1</td>
-                  <td data-row="10" data-col="7">5</td>
-                  <td data-row="10" data-col="8">15</td>
-                  <td data-row="10" data-col="9">1</td>
-                  <td data-row="10" data-col="10">2</td>
-                  <td data-row="10" data-col="11">No</td>
+                  <td data-row="10" data-col="5">1</td>
+                  <td data-row="10" data-col="6">5</td>
+                  <td data-row="10" data-col="7">15</td>
+                  <td data-row="10" data-col="8">1</td>
+                  <td data-row="10" data-col="9">2</td>
+                  <td data-row="10" data-col="10">No</td>
+                  <td data-row="10" data-col="11">5</td>
                   <td data-row="10" data-col="12">5</td>
-                  <td data-row="10" data-col="13">5</td>
+                  <td data-row="10" data-col="13">8</td>
                   <td data-row="10" data-col="14">8</td>
-                  <td data-row="10" data-col="15">8</td>
-                  <td data-row="10" data-col="16">1</td>
+                  <td data-row="10" data-col="15">1</td>
+                  <td data-row="10" data-col="16">10</td>
                   <td data-row="10" data-col="17">10</td>
                   <td data-row="10" data-col="18">10</td>
-                  <td data-row="10" data-col="19">10</td>
-                  <td data-row="10" data-col="20">3</td>
+                  <td data-row="10" data-col="19">3</td>
+                  <td data-row="10" data-col="20">2</td>
                   <td data-row="10" data-col="21">2</td>
-                  <td data-row="10" data-col="22">2</td>
-                  <td data-row="10" data-col="23">0</td>
-                  <td data-row="10" data-col="24">2</td>
+                  <td data-row="10" data-col="22">0</td>
+                  <td data-row="10" data-col="23">2</td>
                 </tr>
                 <tr>
-                  <td data-row="11" data-col="1">B4221</td>
-                  <td data-row="11" data-col="2">2</td>
-                  <td data-row="11" data-col="3">7</td>
-                  <td data-row="11" data-col="4">2</td>
-                  <td data-row="11" data-col="5">5</td>
-                  <td data-row="11" data-col="6">4</td>
-                  <td data-row="11" data-col="7">1</td>
-                  <td data-row="11" data-col="8">12</td>
-                  <td data-row="11" data-col="9">4</td>
-                  <td data-row="11" data-col="10">1</td>
-                  <td data-row="11" data-col="11">No</td>
+                  <td data-row="11" data-col="0">B4221</td>
+                  <td data-row="11" data-col="1">2</td>
+                  <td data-row="11" data-col="2">7</td>
+                  <td data-row="11" data-col="3">2</td>
+                  <td data-row="11" data-col="4">5</td>
+                  <td data-row="11" data-col="5">4</td>
+                  <td data-row="11" data-col="6">1</td>
+                  <td data-row="11" data-col="7">12</td>
+                  <td data-row="11" data-col="8">4</td>
+                  <td data-row="11" data-col="9">1</td>
+                  <td data-row="11" data-col="10">No</td>
+                  <td data-row="11" data-col="11">7</td>
                   <td data-row="11" data-col="12">7</td>
-                  <td data-row="11" data-col="13">7</td>
-                  <td data-row="11" data-col="14">6</td>
-                  <td data-row="11" data-col="15">5</td>
-                  <td data-row="11" data-col="16">4</td>
+                  <td data-row="11" data-col="13">6</td>
+                  <td data-row="11" data-col="14">5</td>
+                  <td data-row="11" data-col="15">4</td>
+                  <td data-row="11" data-col="16">9</td>
                   <td data-row="11" data-col="17">9</td>
                   <td data-row="11" data-col="18">9</td>
-                  <td data-row="11" data-col="19">9</td>
-                  <td data-row="11" data-col="20">5</td>
-                  <td data-row="11" data-col="21">0</td>
-                  <td data-row="11" data-col="22">4</td>
+                  <td data-row="11" data-col="19">5</td>
+                  <td data-row="11" data-col="20">0</td>
+                  <td data-row="11" data-col="21">4</td>
+                  <td data-row="11" data-col="22">0</td>
                   <td data-row="11" data-col="23">0</td>
-                  <td data-row="11" data-col="24">0</td>
                 </tr>
                 <tr>
-                  <td data-row="12" data-col="1">S2807</td>
-                  <td data-row="12" data-col="2">5</td>
-                  <td data-row="12" data-col="3">7</td>
+                  <td data-row="12" data-col="0">S2807</td>
+                  <td data-row="12" data-col="1">5</td>
+                  <td data-row="12" data-col="2">7</td>
+                  <td data-row="12" data-col="3">6</td>
                   <td data-row="12" data-col="4">6</td>
-                  <td data-row="12" data-col="5">6</td>
-                  <td data-row="12" data-col="6">2</td>
-                  <td data-row="12" data-col="7">4</td>
-                  <td data-row="12" data-col="8">8</td>
-                  <td data-row="12" data-col="9">2</td>
-                  <td data-row="12" data-col="10">3</td>
-                  <td data-row="12" data-col="11">No</td>
-                  <td data-row="12" data-col="12">8</td>
+                  <td data-row="12" data-col="5">2</td>
+                  <td data-row="12" data-col="6">4</td>
+                  <td data-row="12" data-col="7">8</td>
+                  <td data-row="12" data-col="8">2</td>
+                  <td data-row="12" data-col="9">3</td>
+                  <td data-row="12" data-col="10">No</td>
+                  <td data-row="12" data-col="11">8</td>
+                  <td data-row="12" data-col="12">9</td>
                   <td data-row="12" data-col="13">9</td>
-                  <td data-row="12" data-col="14">9</td>
-                  <td data-row="12" data-col="15">3</td>
-                  <td data-row="12" data-col="16">1</td>
-                  <td data-row="12" data-col="17">9</td>
-                  <td data-row="12" data-col="18">7</td>
-                  <td data-row="12" data-col="19">8</td>
-                  <td data-row="12" data-col="20">3</td>
-                  <td data-row="12" data-col="21">2</td>
-                  <td data-row="12" data-col="22">3</td>
-                  <td data-row="12" data-col="23">-1</td>
-                  <td data-row="12" data-col="24">-3</td>
+                  <td data-row="12" data-col="14">3</td>
+                  <td data-row="12" data-col="15">1</td>
+                  <td data-row="12" data-col="16">9</td>
+                  <td data-row="12" data-col="17">7</td>
+                  <td data-row="12" data-col="18">8</td>
+                  <td data-row="12" data-col="19">3</td>
+                  <td data-row="12" data-col="20">2</td>
+                  <td data-row="12" data-col="21">3</td>
+                  <td data-row="12" data-col="22">-1</td>
+                  <td data-row="12" data-col="23">-3</td>
                 </tr>
                 <tr>
-                  <td data-row="13" data-col="1">L9099</td>
-                  <td data-row="13" data-col="2">4</td>
+                  <td data-row="13" data-col="0">L9099</td>
+                  <td data-row="13" data-col="1">4</td>
+                  <td data-row="13" data-col="2">5</td>
                   <td data-row="13" data-col="3">5</td>
-                  <td data-row="13" data-col="4">5</td>
-                  <td data-row="13" data-col="5">8</td>
-                  <td data-row="13" data-col="6">3</td>
-                  <td data-row="13" data-col="7">2</td>
-                  <td data-row="13" data-col="8">12</td>
-                  <td data-row="13" data-col="9">2</td>
-                  <td data-row="13" data-col="10">1</td>
-                  <td data-row="13" data-col="11">Yes</td>
-                  <td data-row="13" data-col="12">5</td>
-                  <td data-row="13" data-col="13">6</td>
-                  <td data-row="13" data-col="14">7</td>
+                  <td data-row="13" data-col="4">8</td>
+                  <td data-row="13" data-col="5">3</td>
+                  <td data-row="13" data-col="6">2</td>
+                  <td data-row="13" data-col="7">12</td>
+                  <td data-row="13" data-col="8">2</td>
+                  <td data-row="13" data-col="9">1</td>
+                  <td data-row="13" data-col="10">Yes</td>
+                  <td data-row="13" data-col="11">5</td>
+                  <td data-row="13" data-col="12">6</td>
+                  <td data-row="13" data-col="13">7</td>
+                  <td data-row="13" data-col="14">5</td>
                   <td data-row="13" data-col="15">5</td>
-                  <td data-row="13" data-col="16">5</td>
-                  <td data-row="13" data-col="17">8</td>
-                  <td data-row="13" data-col="18">9</td>
-                  <td data-row="13" data-col="19">7</td>
+                  <td data-row="13" data-col="16">8</td>
+                  <td data-row="13" data-col="17">9</td>
+                  <td data-row="13" data-col="18">7</td>
+                  <td data-row="13" data-col="19">1</td>
                   <td data-row="13" data-col="20">1</td>
-                  <td data-row="13" data-col="21">1</td>
+                  <td data-row="13" data-col="21">2</td>
                   <td data-row="13" data-col="22">2</td>
-                  <td data-row="13" data-col="23">2</td>
-                  <td data-row="13" data-col="24">-3</td>
+                  <td data-row="13" data-col="23">-3</td>
                 </tr>
                 <tr>
-                  <td data-row="14" data-col="1">S5625</td>
-                  <td data-row="14" data-col="2">5</td>
+                  <td data-row="14" data-col="0">S5625</td>
+                  <td data-row="14" data-col="1">5</td>
+                  <td data-row="14" data-col="2">7</td>
                   <td data-row="14" data-col="3">7</td>
-                  <td data-row="14" data-col="4">7</td>
-                  <td data-row="14" data-col="5">4</td>
-                  <td data-row="14" data-col="6">6</td>
-                  <td data-row="14" data-col="7">3</td>
-                  <td data-row="14" data-col="8">10</td>
-                  <td data-row="14" data-col="9">2</td>
-                  <td data-row="14" data-col="10">3</td>
-                  <td data-row="14" data-col="11">No</td>
-                  <td data-row="14" data-col="12">7</td>
-                  <td data-row="14" data-col="13">8</td>
-                  <td data-row="14" data-col="14">7</td>
-                  <td data-row="14" data-col="15">5</td>
-                  <td data-row="14" data-col="16">6</td>
+                  <td data-row="14" data-col="4">4</td>
+                  <td data-row="14" data-col="5">6</td>
+                  <td data-row="14" data-col="6">3</td>
+                  <td data-row="14" data-col="7">10</td>
+                  <td data-row="14" data-col="8">2</td>
+                  <td data-row="14" data-col="9">3</td>
+                  <td data-row="14" data-col="10">No</td>
+                  <td data-row="14" data-col="11">7</td>
+                  <td data-row="14" data-col="12">8</td>
+                  <td data-row="14" data-col="13">7</td>
+                  <td data-row="14" data-col="14">5</td>
+                  <td data-row="14" data-col="15">6</td>
+                  <td data-row="14" data-col="16">10</td>
                   <td data-row="14" data-col="17">10</td>
                   <td data-row="14" data-col="18">10</td>
-                  <td data-row="14" data-col="19">10</td>
-                  <td data-row="14" data-col="20">2</td>
-                  <td data-row="14" data-col="21">1</td>
+                  <td data-row="14" data-col="19">2</td>
+                  <td data-row="14" data-col="20">1</td>
+                  <td data-row="14" data-col="21">0</td>
                   <td data-row="14" data-col="22">0</td>
-                  <td data-row="14" data-col="23">0</td>
-                  <td data-row="14" data-col="24">1</td>
+                  <td data-row="14" data-col="23">1</td>
                 </tr>
                 <tr>
-                  <td data-row="15" data-col="1">Pitt8657</td>
-                  <td data-row="15" data-col="2">3</td>
-                  <td data-row="15" data-col="3">5</td>
-                  <td data-row="15" data-col="4">3</td>
-                  <td data-row="15" data-col="5">7</td>
-                  <td data-row="15" data-col="6">3</td>
-                  <td data-row="15" data-col="7">2</td>
-                  <td data-row="15" data-col="8">20</td>
-                  <td data-row="15" data-col="9">5</td>
-                  <td data-row="15" data-col="10">0</td>
-                  <td data-row="15" data-col="11">Yes</td>
+                  <td data-row="15" data-col="0">Pitt8657</td>
+                  <td data-row="15" data-col="1">3</td>
+                  <td data-row="15" data-col="2">5</td>
+                  <td data-row="15" data-col="3">3</td>
+                  <td data-row="15" data-col="4">7</td>
+                  <td data-row="15" data-col="5">3</td>
+                  <td data-row="15" data-col="6">2</td>
+                  <td data-row="15" data-col="7">20</td>
+                  <td data-row="15" data-col="8">5</td>
+                  <td data-row="15" data-col="9">0</td>
+                  <td data-row="15" data-col="10">Yes</td>
+                  <td data-row="15" data-col="11">5</td>
                   <td data-row="15" data-col="12">5</td>
-                  <td data-row="15" data-col="13">5</td>
-                  <td data-row="15" data-col="14">6</td>
-                  <td data-row="15" data-col="15">8</td>
-                  <td data-row="15" data-col="16">6</td>
-                  <td data-row="15" data-col="17">8</td>
-                  <td data-row="15" data-col="18">7</td>
-                  <td data-row="15" data-col="19">4</td>
-                  <td data-row="15" data-col="20">2</td>
-                  <td data-row="15" data-col="21">0</td>
+                  <td data-row="15" data-col="13">6</td>
+                  <td data-row="15" data-col="14">8</td>
+                  <td data-row="15" data-col="15">6</td>
+                  <td data-row="15" data-col="16">8</td>
+                  <td data-row="15" data-col="17">7</td>
+                  <td data-row="15" data-col="18">4</td>
+                  <td data-row="15" data-col="19">2</td>
+                  <td data-row="15" data-col="20">0</td>
+                  <td data-row="15" data-col="21">3</td>
                   <td data-row="15" data-col="22">3</td>
-                  <td data-row="15" data-col="23">3</td>
-                  <td data-row="15" data-col="24">1</td>
+                  <td data-row="15" data-col="23">1</td>
                 </tr>
                 <tr>
-                  <td data-row="16" data-col="1">D4268</td>
-                  <td data-row="16" data-col="2">3</td>
+                  <td data-row="16" data-col="0">D4268</td>
+                  <td data-row="16" data-col="1">3</td>
+                  <td data-row="16" data-col="2">4</td>
                   <td data-row="16" data-col="3">4</td>
-                  <td data-row="16" data-col="4">4</td>
-                  <td data-row="16" data-col="5">6</td>
-                  <td data-row="16" data-col="6">7</td>
-                  <td data-row="16" data-col="7">1</td>
-                  <td data-row="16" data-col="8">7</td>
-                  <td data-row="16" data-col="9">2</td>
-                  <td data-row="16" data-col="10">0</td>
-                  <td data-row="16" data-col="11">No</td>
+                  <td data-row="16" data-col="4">6</td>
+                  <td data-row="16" data-col="5">7</td>
+                  <td data-row="16" data-col="6">1</td>
+                  <td data-row="16" data-col="7">7</td>
+                  <td data-row="16" data-col="8">2</td>
+                  <td data-row="16" data-col="9">0</td>
+                  <td data-row="16" data-col="10">No</td>
+                  <td data-row="16" data-col="11">8</td>
                   <td data-row="16" data-col="12">8</td>
                   <td data-row="16" data-col="13">8</td>
-                  <td data-row="16" data-col="14">8</td>
-                  <td data-row="16" data-col="15">3</td>
-                  <td data-row="16" data-col="16">4</td>
+                  <td data-row="16" data-col="14">3</td>
+                  <td data-row="16" data-col="15">4</td>
+                  <td data-row="16" data-col="16">10</td>
                   <td data-row="16" data-col="17">10</td>
                   <td data-row="16" data-col="18">10</td>
-                  <td data-row="16" data-col="19">10</td>
-                  <td data-row="16" data-col="20">5</td>
+                  <td data-row="16" data-col="19">5</td>
+                  <td data-row="16" data-col="20">4</td>
                   <td data-row="16" data-col="21">4</td>
-                  <td data-row="16" data-col="22">4</td>
+                  <td data-row="16" data-col="22">-3</td>
                   <td data-row="16" data-col="23">-3</td>
-                  <td data-row="16" data-col="24">-3</td>
                 </tr>
                 <tr>
-                  <td data-row="17" data-col="1">M6411</td>
+                  <td data-row="17" data-col="0">M6411</td>
+                  <td data-row="17" data-col="1">5</td>
                   <td data-row="17" data-col="2">5</td>
-                  <td data-row="17" data-col="3">5</td>
-                  <td data-row="17" data-col="4">8</td>
-                  <td data-row="17" data-col="5">2</td>
+                  <td data-row="17" data-col="3">8</td>
+                  <td data-row="17" data-col="4">2</td>
+                  <td data-row="17" data-col="5">3</td>
                   <td data-row="17" data-col="6">3</td>
-                  <td data-row="17" data-col="7">3</td>
-                  <td data-row="17" data-col="8">20</td>
+                  <td data-row="17" data-col="7">20</td>
+                  <td data-row="17" data-col="8">0</td>
                   <td data-row="17" data-col="9">0</td>
-                  <td data-row="17" data-col="10">0</td>
-                  <td data-row="17" data-col="11">Yes</td>
+                  <td data-row="17" data-col="10">Yes</td>
+                  <td data-row="17" data-col="11">8</td>
                   <td data-row="17" data-col="12">8</td>
                   <td data-row="17" data-col="13">8</td>
                   <td data-row="17" data-col="14">8</td>
-                  <td data-row="17" data-col="15">8</td>
-                  <td data-row="17" data-col="16">3</td>
-                  <td data-row="17" data-col="17">10</td>
-                  <td data-row="17" data-col="18">8</td>
-                  <td data-row="17" data-col="19">10</td>
+                  <td data-row="17" data-col="15">3</td>
+                  <td data-row="17" data-col="16">10</td>
+                  <td data-row="17" data-col="17">8</td>
+                  <td data-row="17" data-col="18">10</td>
+                  <td data-row="17" data-col="19">3</td>
                   <td data-row="17" data-col="20">3</td>
-                  <td data-row="17" data-col="21">3</td>
+                  <td data-row="17" data-col="21">0</td>
                   <td data-row="17" data-col="22">0</td>
-                  <td data-row="17" data-col="23">0</td>
-                  <td data-row="17" data-col="24">6</td>
+                  <td data-row="17" data-col="23">6</td>
                 </tr>
                 <tr>
-                  <td data-row="18" data-col="1">H1619</td>
-                  <td data-row="18" data-col="2">6</td>
-                  <td data-row="18" data-col="3">7</td>
-                  <td data-row="18" data-col="4">6</td>
-                  <td data-row="18" data-col="5">5</td>
+                  <td data-row="18" data-col="0">H1619</td>
+                  <td data-row="18" data-col="1">6</td>
+                  <td data-row="18" data-col="2">7</td>
+                  <td data-row="18" data-col="3">6</td>
+                  <td data-row="18" data-col="4">5</td>
+                  <td data-row="18" data-col="5">6</td>
                   <td data-row="18" data-col="6">6</td>
-                  <td data-row="18" data-col="7">6</td>
-                  <td data-row="18" data-col="8">15</td>
-                  <td data-row="18" data-col="9">3</td>
-                  <td data-row="18" data-col="10">2</td>
-                  <td data-row="18" data-col="11">No</td>
-                  <td data-row="18" data-col="12">8</td>
+                  <td data-row="18" data-col="7">15</td>
+                  <td data-row="18" data-col="8">3</td>
+                  <td data-row="18" data-col="9">2</td>
+                  <td data-row="18" data-col="10">No</td>
+                  <td data-row="18" data-col="11">8</td>
+                  <td data-row="18" data-col="12">9</td>
                   <td data-row="18" data-col="13">9</td>
-                  <td data-row="18" data-col="14">9</td>
-                  <td data-row="18" data-col="15">4</td>
-                  <td data-row="18" data-col="16">5</td>
+                  <td data-row="18" data-col="14">4</td>
+                  <td data-row="18" data-col="15">5</td>
+                  <td data-row="18" data-col="16">10</td>
                   <td data-row="18" data-col="17">10</td>
                   <td data-row="18" data-col="18">10</td>
-                  <td data-row="18" data-col="19">10</td>
+                  <td data-row="18" data-col="19">2</td>
                   <td data-row="18" data-col="20">2</td>
-                  <td data-row="18" data-col="21">2</td>
-                  <td data-row="18" data-col="22">3</td>
+                  <td data-row="18" data-col="21">3</td>
+                  <td data-row="18" data-col="22">-1</td>
                   <td data-row="18" data-col="23">-1</td>
-                  <td data-row="18" data-col="24">-1</td>
                 </tr>
                 <tr>
-                  <td data-row="19" data-col="1">R9991</td>
-                  <td data-row="19" data-col="2">2</td>
-                  <td data-row="19" data-col="3">3</td>
-                  <td data-row="19" data-col="4">4</td>
-                  <td data-row="19" data-col="5">5</td>
-                  <td data-row="19" data-col="6">4</td>
-                  <td data-row="19" data-col="7">0</td>
-                  <td data-row="19" data-col="8">30</td>
+                  <td data-row="19" data-col="0">R9991</td>
+                  <td data-row="19" data-col="1">2</td>
+                  <td data-row="19" data-col="2">3</td>
+                  <td data-row="19" data-col="3">4</td>
+                  <td data-row="19" data-col="4">5</td>
+                  <td data-row="19" data-col="5">4</td>
+                  <td data-row="19" data-col="6">0</td>
+                  <td data-row="19" data-col="7">30</td>
+                  <td data-row="19" data-col="8">1</td>
                   <td data-row="19" data-col="9">1</td>
-                  <td data-row="19" data-col="10">1</td>
-                  <td data-row="19" data-col="11">Yes</td>
-                  <td data-row="19" data-col="12">4</td>
+                  <td data-row="19" data-col="10">Yes</td>
+                  <td data-row="19" data-col="11">4</td>
+                  <td data-row="19" data-col="12">5</td>
                   <td data-row="19" data-col="13">5</td>
-                  <td data-row="19" data-col="14">5</td>
-                  <td data-row="19" data-col="15">4</td>
-                  <td data-row="19" data-col="16">5</td>
+                  <td data-row="19" data-col="14">4</td>
+                  <td data-row="19" data-col="15">5</td>
+                  <td data-row="19" data-col="16">9</td>
                   <td data-row="19" data-col="17">9</td>
                   <td data-row="19" data-col="18">9</td>
-                  <td data-row="19" data-col="19">9</td>
+                  <td data-row="19" data-col="19">2</td>
                   <td data-row="19" data-col="20">2</td>
-                  <td data-row="19" data-col="21">2</td>
+                  <td data-row="19" data-col="21">1</td>
                   <td data-row="19" data-col="22">1</td>
-                  <td data-row="19" data-col="23">1</td>
-                  <td data-row="19" data-col="24">-1</td>
+                  <td data-row="19" data-col="23">-1</td>
                 </tr>
                 <tr>
-                  <td data-row="20" data-col="1">Q2614</td>
-                  <td data-row="20" data-col="2">6</td>
+                  <td data-row="20" data-col="0">Q2614</td>
+                  <td data-row="20" data-col="1">6</td>
+                  <td data-row="20" data-col="2">4</td>
                   <td data-row="20" data-col="3">4</td>
-                  <td data-row="20" data-col="4">4</td>
-                  <td data-row="20" data-col="5">6</td>
-                  <td data-row="20" data-col="6">5</td>
-                  <td data-row="20" data-col="7">2</td>
-                  <td data-row="20" data-col="8">30</td>
-                  <td data-row="20" data-col="9">0</td>
-                  <td data-row="20" data-col="10">3</td>
-                  <td data-row="20" data-col="11">No</td>
-                  <td data-row="20" data-col="12">7</td>
-                  <td data-row="20" data-col="13">6</td>
-                  <td data-row="20" data-col="14">7</td>
-                  <td data-row="20" data-col="15">6</td>
-                  <td data-row="20" data-col="16">5</td>
+                  <td data-row="20" data-col="4">6</td>
+                  <td data-row="20" data-col="5">5</td>
+                  <td data-row="20" data-col="6">2</td>
+                  <td data-row="20" data-col="7">30</td>
+                  <td data-row="20" data-col="8">0</td>
+                  <td data-row="20" data-col="9">3</td>
+                  <td data-row="20" data-col="10">No</td>
+                  <td data-row="20" data-col="11">7</td>
+                  <td data-row="20" data-col="12">6</td>
+                  <td data-row="20" data-col="13">7</td>
+                  <td data-row="20" data-col="14">6</td>
+                  <td data-row="20" data-col="15">5</td>
+                  <td data-row="20" data-col="16">9</td>
                   <td data-row="20" data-col="17">9</td>
-                  <td data-row="20" data-col="18">9</td>
-                  <td data-row="20" data-col="19">10</td>
-                  <td data-row="20" data-col="20">1</td>
-                  <td data-row="20" data-col="21">2</td>
-                  <td data-row="20" data-col="22">3</td>
+                  <td data-row="20" data-col="18">10</td>
+                  <td data-row="20" data-col="19">1</td>
+                  <td data-row="20" data-col="20">2</td>
+                  <td data-row="20" data-col="21">3</td>
+                  <td data-row="20" data-col="22">0</td>
                   <td data-row="20" data-col="23">0</td>
-                  <td data-row="20" data-col="24">0</td>
                 </tr>
                 <tr>
-                  <td data-row="21" data-col="1">B5084</td>
-                  <td data-row="21" data-col="2">5</td>
+                  <td data-row="21" data-col="0">B5084</td>
+                  <td data-row="21" data-col="1">5</td>
+                  <td data-row="21" data-col="2">6</td>
                   <td data-row="21" data-col="3">6</td>
-                  <td data-row="21" data-col="4">6</td>
-                  <td data-row="21" data-col="5">4</td>
-                  <td data-row="21" data-col="6">2</td>
-                  <td data-row="21" data-col="7">3</td>
-                  <td data-row="21" data-col="8">15</td>
-                  <td data-row="21" data-col="9">2</td>
-                  <td data-row="21" data-col="10">1</td>
-                  <td data-row="21" data-col="11">No</td>
+                  <td data-row="21" data-col="4">4</td>
+                  <td data-row="21" data-col="5">2</td>
+                  <td data-row="21" data-col="6">3</td>
+                  <td data-row="21" data-col="7">15</td>
+                  <td data-row="21" data-col="8">2</td>
+                  <td data-row="21" data-col="9">1</td>
+                  <td data-row="21" data-col="10">No</td>
+                  <td data-row="21" data-col="11">8</td>
                   <td data-row="21" data-col="12">8</td>
                   <td data-row="21" data-col="13">8</td>
-                  <td data-row="21" data-col="14">8</td>
+                  <td data-row="21" data-col="14">3</td>
                   <td data-row="21" data-col="15">3</td>
-                  <td data-row="21" data-col="16">3</td>
+                  <td data-row="21" data-col="16">10</td>
                   <td data-row="21" data-col="17">10</td>
                   <td data-row="21" data-col="18">10</td>
-                  <td data-row="21" data-col="19">10</td>
-                  <td data-row="21" data-col="20">3</td>
+                  <td data-row="21" data-col="19">3</td>
+                  <td data-row="21" data-col="20">2</td>
                   <td data-row="21" data-col="21">2</td>
-                  <td data-row="21" data-col="22">2</td>
-                  <td data-row="21" data-col="23">1</td>
-                  <td data-row="21" data-col="24">-1</td>
+                  <td data-row="21" data-col="22">1</td>
+                  <td data-row="21" data-col="23">-1</td>
                 </tr>
                 <tr>
-                  <td data-row="22" data-col="1">S3369</td>
-                  <td data-row="22" data-col="2">1</td>
-                  <td data-row="22" data-col="3">2</td>
-                  <td data-row="22" data-col="4">6</td>
-                  <td data-row="22" data-col="5">2</td>
-                  <td data-row="22" data-col="6">7</td>
-                  <td data-row="22" data-col="7">3</td>
-                  <td data-row="22" data-col="8">20</td>
-                  <td data-row="22" data-col="9">5</td>
-                  <td data-row="22" data-col="10">1</td>
-                  <td data-row="22" data-col="11">No</td>
-                  <td data-row="22" data-col="12">7</td>
-                  <td data-row="22" data-col="13">6</td>
-                  <td data-row="22" data-col="14">7</td>
-                  <td data-row="22" data-col="15">3</td>
-                  <td data-row="22" data-col="16">9</td>
+                  <td data-row="22" data-col="0">S3369</td>
+                  <td data-row="22" data-col="1">1</td>
+                  <td data-row="22" data-col="2">2</td>
+                  <td data-row="22" data-col="3">6</td>
+                  <td data-row="22" data-col="4">2</td>
+                  <td data-row="22" data-col="5">7</td>
+                  <td data-row="22" data-col="6">3</td>
+                  <td data-row="22" data-col="7">20</td>
+                  <td data-row="22" data-col="8">5</td>
+                  <td data-row="22" data-col="9">1</td>
+                  <td data-row="22" data-col="10">No</td>
+                  <td data-row="22" data-col="11">7</td>
+                  <td data-row="22" data-col="12">6</td>
+                  <td data-row="22" data-col="13">7</td>
+                  <td data-row="22" data-col="14">3</td>
+                  <td data-row="22" data-col="15">9</td>
+                  <td data-row="22" data-col="16">7</td>
                   <td data-row="22" data-col="17">7</td>
                   <td data-row="22" data-col="18">7</td>
-                  <td data-row="22" data-col="19">7</td>
-                  <td data-row="22" data-col="20">6</td>
-                  <td data-row="22" data-col="21">4</td>
-                  <td data-row="22" data-col="22">1</td>
-                  <td data-row="22" data-col="23">2</td>
-                  <td data-row="22" data-col="24">1</td>
+                  <td data-row="22" data-col="19">6</td>
+                  <td data-row="22" data-col="20">4</td>
+                  <td data-row="22" data-col="21">1</td>
+                  <td data-row="22" data-col="22">2</td>
+                  <td data-row="22" data-col="23">1</td>
                 </tr>
         </tbody>
       </table>
@@ -829,9 +864,1305 @@ Attaching package: 'dplyr'</code></pre>
 <!-- hack to avoid NA insertion in last line -->
 </div>
 </div>
-<p>{r}</p>
-<p>#| echo: false</p>
-</section>
+<p>Pre</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(modelsummary)</span>
+<span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Define custom functions for the 25th and 75th percentiles</span></span>
+<span id="cb12-4"><a href="#cb12-4" aria-hidden="true" tabindex="-1"></a>q1 <span class="ot">&lt;-</span> <span class="cf">function</span>(x) <span class="fu">quantile</span>(x, <span class="fl">0.25</span>, <span class="at">na.rm =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb12-5"><a href="#cb12-5" aria-hidden="true" tabindex="-1"></a>q3 <span class="ot">&lt;-</span> <span class="cf">function</span>(x) <span class="fu">quantile</span>(x, <span class="fl">0.75</span>, <span class="at">na.rm =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb12-6"><a href="#cb12-6" aria-hidden="true" tabindex="-1"></a>n_non_missing <span class="ot">&lt;-</span> <span class="cf">function</span>(x) <span class="fu">sum</span>(<span class="sc">!</span><span class="fu">is.na</span>(x))</span>
+<span id="cb12-7"><a href="#cb12-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb12-8"><a href="#cb12-8" aria-hidden="true" tabindex="-1"></a><span class="co"># Create the summary table with median, Q1, Q3, and N</span></span>
+<span id="cb12-9"><a href="#cb12-9" aria-hidden="true" tabindex="-1"></a><span class="fu">datasummary</span>((<span class="at">N =</span> n_non_missing) <span class="sc">+</span></span>
+<span id="cb12-10"><a href="#cb12-10" aria-hidden="true" tabindex="-1"></a>            (Median) <span class="sc">+</span> </span>
+<span id="cb12-11"><a href="#cb12-11" aria-hidden="true" tabindex="-1"></a>            (<span class="at">Q1 =</span> q1) <span class="sc">+</span> </span>
+<span id="cb12-12"><a href="#cb12-12" aria-hidden="true" tabindex="-1"></a>            (<span class="at">Q3 =</span> q3) <span class="sc">~</span> </span>
+<span id="cb12-13"><a href="#cb12-13" aria-hidden="true" tabindex="-1"></a>              pre_con_code <span class="sc">+</span> pre_con_rapid <span class="sc">+</span> pre_con_rhthm <span class="sc">+</span> pre_team <span class="sc">+</span> pre_attending <span class="sc">+</span> pre_lead <span class="sc">+</span> pre_codes <span class="sc">+</span> pre_rapid <span class="sc">+</span> pre_shock <span class="sc">+</span> pre_sim, </span>
+<span id="cb12-14"><a href="#cb12-14" aria-hidden="true" tabindex="-1"></a>            <span class="at">data =</span> survey_responses)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<!-- preamble start -->
+
+    <script>
+
+      function styleCell_rczjjm5iru6u2v0wxh0c(i, j, css_id) {
+          var table = document.getElementById("tinytable_rczjjm5iru6u2v0wxh0c");
+          var cell = table.querySelector(`[data-row="${i}"][data-col="${j}"]`);
+          if (cell) {
+              console.log(`Styling cell at (${i}, ${j}) with class ${css_id}`);
+              cell.classList.add(css_id);
+          } else {
+              console.warn(`Cell at (${i}, ${j}) not found.`);
+          }
+      }
+      function spanCell_rczjjm5iru6u2v0wxh0c(i, j, rowspan, colspan) {
+        var table = document.getElementById("tinytable_rczjjm5iru6u2v0wxh0c");
+        const targetCell = table.querySelector(`[data-row="${i}"][data-col="${j}"]`);
+        if (!targetCell) {
+          console.warn(`Cell at (${i}, ${j}) not found.`);
+        }
+
+        // Get all cells that need to be removed
+        const cellsToRemove = [];
+        for (let r = 0; r < rowspan; r++) {
+          for (let c = 0; c < colspan; c++) {
+            if (r === 0 && c === 0) continue; // Skip the target cell
+            const cell = table.querySelector(`[data-row="${i + r}"][data-col="${j + c}"]`);
+            if (cell) {
+              cellsToRemove.push(cell);
+            }
+          }
+        }
+
+        // Remove all cells
+        cellsToRemove.forEach(cell => cell.remove());
+
+        // Set rowspan and colspan of the target cell if it exists
+        if (targetCell) {
+          targetCell.rowSpan = rowspan;
+          targetCell.colSpan = colspan;
+        }
+      }
+      // tinytable span after
+      window.addEventListener('load', function () {
+          var cellsToStyle = [
+            // tinytable style arrays after
+          { positions: [ { i: '4', j: 9 }, { i: '4', j: 4 }, { i: '4', j: 6 }, { i: '4', j: 1 }, { i: '4', j: 2 }, { i: '4', j: 10 }, { i: '4', j: 5 }, { i: '4', j: 7 }, { i: '4', j: 8 }, { i: '4', j: 3 }, { i: '4', j: 11 },  ], css_id: 'tinytable_css_pouz8slfqhbh5z9byyei',}, 
+          { positions: [ { i: '3', j: 1 }, { i: '3', j: 2 }, { i: '3', j: 3 }, { i: '1', j: 1 }, { i: '2', j: 1 }, { i: '1', j: 4 }, { i: '2', j: 4 }, { i: '3', j: 4 }, { i: '1', j: 2 }, { i: '2', j: 2 }, { i: '1', j: 5 }, { i: '2', j: 5 }, { i: '3', j: 5 }, { i: '1', j: 3 }, { i: '2', j: 3 }, { i: '1', j: 6 }, { i: '2', j: 6 }, { i: '3', j: 6 }, { i: '2', j: 9 }, { i: '3', j: 9 }, { i: '1', j: 7 }, { i: '2', j: 7 }, { i: '3', j: 7 }, { i: '2', j: 10 }, { i: '3', j: 10 }, { i: '1', j: 8 }, { i: '2', j: 8 }, { i: '3', j: 8 }, { i: '2', j: 11 }, { i: '3', j: 11 }, { i: '1', j: 9 }, { i: '1', j: 10 }, { i: '1', j: 11 },  ], css_id: 'tinytable_css_fkvv34g384zz84cxlwty',}, 
+          { positions: [ { i: '0', j: 1 }, { i: '0', j: 9 }, { i: '0', j: 4 }, { i: '0', j: 5 }, { i: '0', j: 7 }, { i: '0', j: 2 }, { i: '0', j: 10 }, { i: '0', j: 11 }, { i: '0', j: 6 }, { i: '0', j: 8 }, { i: '0', j: 3 },  ], css_id: 'tinytable_css_9aiauk6fgwm6t18pxhjg',}, 
+          { positions: [ { i: '4', j: 0 },  ], css_id: 'tinytable_css_n3baxlzunofda4w745cm',}, 
+          { positions: [ { i: '1', j: 0 }, { i: '2', j: 0 }, { i: '3', j: 0 },  ], css_id: 'tinytable_css_talx7v2h7rtiir0xzdi8',}, 
+          { positions: [ { i: '0', j: 0 },  ], css_id: 'tinytable_css_u9seu8cpjce2phuyxwky',}, 
+          ];
+
+          // Loop over the arrays to style the cells
+          cellsToStyle.forEach(function (group) {
+              group.positions.forEach(function (cell) {
+                  styleCell_rczjjm5iru6u2v0wxh0c(cell.i, cell.j, group.css_id);
+              });
+          });
+      });
+    </script>
+
+    <style>
+      /* tinytable css entries after */
+      .table td.tinytable_css_pouz8slfqhbh5z9byyei, .table th.tinytable_css_pouz8slfqhbh5z9byyei { text-align: right; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_fkvv34g384zz84cxlwty, .table th.tinytable_css_fkvv34g384zz84cxlwty { text-align: right; }
+      .table td.tinytable_css_9aiauk6fgwm6t18pxhjg, .table th.tinytable_css_9aiauk6fgwm6t18pxhjg { text-align: right; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+      .table td.tinytable_css_n3baxlzunofda4w745cm, .table th.tinytable_css_n3baxlzunofda4w745cm { text-align: left; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_talx7v2h7rtiir0xzdi8, .table th.tinytable_css_talx7v2h7rtiir0xzdi8 { text-align: left; }
+      .table td.tinytable_css_u9seu8cpjce2phuyxwky, .table th.tinytable_css_u9seu8cpjce2phuyxwky { text-align: left; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+    </style>
+    <div class="container">
+      <table class="table table-borderless" id="tinytable_rczjjm5iru6u2v0wxh0c" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
+        <thead>
+        
+              <tr>
+                <th scope="col" data-row="0" data-col="0"> </th>
+                <th scope="col" data-row="0" data-col="1">pre_con_code</th>
+                <th scope="col" data-row="0" data-col="2">pre_con_rapid</th>
+                <th scope="col" data-row="0" data-col="3">pre_con_rhthm</th>
+                <th scope="col" data-row="0" data-col="4">pre_team</th>
+                <th scope="col" data-row="0" data-col="5">pre_attending</th>
+                <th scope="col" data-row="0" data-col="6">pre_lead</th>
+                <th scope="col" data-row="0" data-col="7">pre_codes</th>
+                <th scope="col" data-row="0" data-col="8">pre_rapid</th>
+                <th scope="col" data-row="0" data-col="9">No</th>
+                <th scope="col" data-row="0" data-col="10">Yes</th>
+                <th scope="col" data-row="0" data-col="11">pre_sim</th>
+              </tr>
+        </thead>
+        
+        <tbody>
+                <tr>
+                  <td data-row="1" data-col="0">N</td>
+                  <td data-row="1" data-col="1">22.00</td>
+                  <td data-row="1" data-col="2">22.00</td>
+                  <td data-row="1" data-col="3">22.00</td>
+                  <td data-row="1" data-col="4">22.00</td>
+                  <td data-row="1" data-col="5">22.00</td>
+                  <td data-row="1" data-col="6">22.00</td>
+                  <td data-row="1" data-col="7">22.00</td>
+                  <td data-row="1" data-col="8">22.00</td>
+                  <td data-row="1" data-col="9">0.00</td>
+                  <td data-row="1" data-col="10">0.00</td>
+                  <td data-row="1" data-col="11">22.00</td>
+                </tr>
+                <tr>
+                  <td data-row="2" data-col="0">Median</td>
+                  <td data-row="2" data-col="1">5.00</td>
+                  <td data-row="2" data-col="2">5.00</td>
+                  <td data-row="2" data-col="3">6.00</td>
+                  <td data-row="2" data-col="4">5.00</td>
+                  <td data-row="2" data-col="5">3.00</td>
+                  <td data-row="2" data-col="6">2.00</td>
+                  <td data-row="2" data-col="7">3.00</td>
+                  <td data-row="2" data-col="8">15.00</td>
+                  <td data-row="2" data-col="9"></td>
+                  <td data-row="2" data-col="10"></td>
+                  <td data-row="2" data-col="11">1.00</td>
+                </tr>
+                <tr>
+                  <td data-row="3" data-col="0">Q1</td>
+                  <td data-row="3" data-col="1">3.00</td>
+                  <td data-row="3" data-col="2">4.00</td>
+                  <td data-row="3" data-col="3">4.00</td>
+                  <td data-row="3" data-col="4">4.00</td>
+                  <td data-row="3" data-col="5">3.00</td>
+                  <td data-row="3" data-col="6">1.00</td>
+                  <td data-row="3" data-col="7">2.00</td>
+                  <td data-row="3" data-col="8">10.00</td>
+                  <td data-row="3" data-col="9"></td>
+                  <td data-row="3" data-col="10"></td>
+                  <td data-row="3" data-col="11">0.25</td>
+                </tr>
+                <tr>
+                  <td data-row="4" data-col="0">Q3</td>
+                  <td data-row="4" data-col="1">5.00</td>
+                  <td data-row="4" data-col="2">6.75</td>
+                  <td data-row="4" data-col="3">7.00</td>
+                  <td data-row="4" data-col="4">6.00</td>
+                  <td data-row="4" data-col="5">5.00</td>
+                  <td data-row="4" data-col="6">4.75</td>
+                  <td data-row="4" data-col="7">4.00</td>
+                  <td data-row="4" data-col="8">18.75</td>
+                  <td data-row="4" data-col="9"></td>
+                  <td data-row="4" data-col="10"></td>
+                  <td data-row="4" data-col="11">2.00</td>
+                </tr>
+        </tbody>
+      </table>
+    </div>
+<!-- hack to avoid NA insertion in last line -->
+</div>
+</div>
+<p>Post</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="fu">datasummary</span>((<span class="at">N =</span> n_non_missing) <span class="sc">+</span></span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a>            (Median) <span class="sc">+</span> </span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a>            (<span class="at">Q1 =</span> q1) <span class="sc">+</span> </span>
+<span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a>            (<span class="at">Q3 =</span> q3) <span class="sc">~</span> </span>
+<span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a>              post_con_code <span class="sc">+</span> post_con_rapid <span class="sc">+</span> post_con_rhythm <span class="sc">+</span> post_team <span class="sc">+</span> post_attending <span class="sc">+</span> post_cases <span class="sc">+</span> post_modules <span class="sc">+</span> post_discuss, </span>
+<span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a>            <span class="at">data =</span> survey_responses)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<!-- preamble start -->
+
+    <script>
+
+      function styleCell_ezuysavikgm18trha8jp(i, j, css_id) {
+          var table = document.getElementById("tinytable_ezuysavikgm18trha8jp");
+          var cell = table.querySelector(`[data-row="${i}"][data-col="${j}"]`);
+          if (cell) {
+              console.log(`Styling cell at (${i}, ${j}) with class ${css_id}`);
+              cell.classList.add(css_id);
+          } else {
+              console.warn(`Cell at (${i}, ${j}) not found.`);
+          }
+      }
+      function spanCell_ezuysavikgm18trha8jp(i, j, rowspan, colspan) {
+        var table = document.getElementById("tinytable_ezuysavikgm18trha8jp");
+        const targetCell = table.querySelector(`[data-row="${i}"][data-col="${j}"]`);
+        if (!targetCell) {
+          console.warn(`Cell at (${i}, ${j}) not found.`);
+        }
+
+        // Get all cells that need to be removed
+        const cellsToRemove = [];
+        for (let r = 0; r < rowspan; r++) {
+          for (let c = 0; c < colspan; c++) {
+            if (r === 0 && c === 0) continue; // Skip the target cell
+            const cell = table.querySelector(`[data-row="${i + r}"][data-col="${j + c}"]`);
+            if (cell) {
+              cellsToRemove.push(cell);
+            }
+          }
+        }
+
+        // Remove all cells
+        cellsToRemove.forEach(cell => cell.remove());
+
+        // Set rowspan and colspan of the target cell if it exists
+        if (targetCell) {
+          targetCell.rowSpan = rowspan;
+          targetCell.colSpan = colspan;
+        }
+      }
+      // tinytable span after
+      window.addEventListener('load', function () {
+          var cellsToStyle = [
+            // tinytable style arrays after
+          { positions: [ { i: '4', j: 3 }, { i: '4', j: 6 }, { i: '4', j: 1 }, { i: '4', j: 2 }, { i: '4', j: 4 }, { i: '4', j: 5 }, { i: '4', j: 7 }, { i: '4', j: 8 },  ], css_id: 'tinytable_css_mghwxd5y3y06gxn9kiv9',}, 
+          { positions: [ { i: '3', j: 1 }, { i: '1', j: 1 }, { i: '1', j: 2 }, { i: '1', j: 3 }, { i: '3', j: 2 }, { i: '3', j: 3 }, { i: '2', j: 6 }, { i: '2', j: 1 }, { i: '1', j: 4 }, { i: '2', j: 4 }, { i: '3', j: 4 }, { i: '2', j: 7 }, { i: '2', j: 2 }, { i: '1', j: 5 }, { i: '2', j: 5 }, { i: '3', j: 5 }, { i: '2', j: 8 }, { i: '2', j: 3 }, { i: '1', j: 6 }, { i: '1', j: 7 }, { i: '3', j: 6 }, { i: '3', j: 7 }, { i: '3', j: 8 }, { i: '1', j: 8 },  ], css_id: 'tinytable_css_qitwzmcilyx67u9gi6i6',}, 
+          { positions: [ { i: '0', j: 1 }, { i: '0', j: 2 }, { i: '0', j: 4 }, { i: '0', j: 5 }, { i: '0', j: 7 }, { i: '0', j: 8 }, { i: '0', j: 3 }, { i: '0', j: 6 },  ], css_id: 'tinytable_css_2ezvux23e9b2618faex4',}, 
+          { positions: [ { i: '4', j: 0 },  ], css_id: 'tinytable_css_sigax4hv0xw2tmksp0hh',}, 
+          { positions: [ { i: '1', j: 0 }, { i: '2', j: 0 }, { i: '3', j: 0 },  ], css_id: 'tinytable_css_k06rk7zbha38aluqh7s1',}, 
+          { positions: [ { i: '0', j: 0 },  ], css_id: 'tinytable_css_bxrbxs9plm3go6wuzb3t',}, 
+          ];
+
+          // Loop over the arrays to style the cells
+          cellsToStyle.forEach(function (group) {
+              group.positions.forEach(function (cell) {
+                  styleCell_ezuysavikgm18trha8jp(cell.i, cell.j, group.css_id);
+              });
+          });
+      });
+    </script>
+
+    <style>
+      /* tinytable css entries after */
+      .table td.tinytable_css_mghwxd5y3y06gxn9kiv9, .table th.tinytable_css_mghwxd5y3y06gxn9kiv9 { text-align: right; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_qitwzmcilyx67u9gi6i6, .table th.tinytable_css_qitwzmcilyx67u9gi6i6 { text-align: right; }
+      .table td.tinytable_css_2ezvux23e9b2618faex4, .table th.tinytable_css_2ezvux23e9b2618faex4 { text-align: right; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+      .table td.tinytable_css_sigax4hv0xw2tmksp0hh, .table th.tinytable_css_sigax4hv0xw2tmksp0hh { text-align: left; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_k06rk7zbha38aluqh7s1, .table th.tinytable_css_k06rk7zbha38aluqh7s1 { text-align: left; }
+      .table td.tinytable_css_bxrbxs9plm3go6wuzb3t, .table th.tinytable_css_bxrbxs9plm3go6wuzb3t { text-align: left; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+    </style>
+    <div class="container">
+      <table class="table table-borderless" id="tinytable_ezuysavikgm18trha8jp" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
+        <thead>
+        
+              <tr>
+                <th scope="col" data-row="0" data-col="0"> </th>
+                <th scope="col" data-row="0" data-col="1">post_con_code</th>
+                <th scope="col" data-row="0" data-col="2">post_con_rapid</th>
+                <th scope="col" data-row="0" data-col="3">post_con_rhythm</th>
+                <th scope="col" data-row="0" data-col="4">post_team</th>
+                <th scope="col" data-row="0" data-col="5">post_attending</th>
+                <th scope="col" data-row="0" data-col="6">post_cases</th>
+                <th scope="col" data-row="0" data-col="7">post_modules</th>
+                <th scope="col" data-row="0" data-col="8">post_discuss</th>
+              </tr>
+        </thead>
+        
+        <tbody>
+                <tr>
+                  <td data-row="1" data-col="0">N</td>
+                  <td data-row="1" data-col="1">22.00</td>
+                  <td data-row="1" data-col="2">22.00</td>
+                  <td data-row="1" data-col="3">22.00</td>
+                  <td data-row="1" data-col="4">22.00</td>
+                  <td data-row="1" data-col="5">22.00</td>
+                  <td data-row="1" data-col="6">22.00</td>
+                  <td data-row="1" data-col="7">22.00</td>
+                  <td data-row="1" data-col="8">22.00</td>
+                </tr>
+                <tr>
+                  <td data-row="2" data-col="0">Median</td>
+                  <td data-row="2" data-col="1">7.00</td>
+                  <td data-row="2" data-col="2">7.00</td>
+                  <td data-row="2" data-col="3">7.00</td>
+                  <td data-row="2" data-col="4">4.00</td>
+                  <td data-row="2" data-col="5">3.50</td>
+                  <td data-row="2" data-col="6">8.50</td>
+                  <td data-row="2" data-col="7">8.50</td>
+                  <td data-row="2" data-col="8">8.50</td>
+                </tr>
+                <tr>
+                  <td data-row="3" data-col="0">Q1</td>
+                  <td data-row="3" data-col="1">5.25</td>
+                  <td data-row="3" data-col="2">6.00</td>
+                  <td data-row="3" data-col="3">6.25</td>
+                  <td data-row="3" data-col="4">3.00</td>
+                  <td data-row="3" data-col="5">3.00</td>
+                  <td data-row="3" data-col="6">8.00</td>
+                  <td data-row="3" data-col="7">8.00</td>
+                  <td data-row="3" data-col="8">7.25</td>
+                </tr>
+                <tr>
+                  <td data-row="4" data-col="0">Q3</td>
+                  <td data-row="4" data-col="1">8.00</td>
+                  <td data-row="4" data-col="2">8.00</td>
+                  <td data-row="4" data-col="3">8.00</td>
+                  <td data-row="4" data-col="4">5.00</td>
+                  <td data-row="4" data-col="5">5.00</td>
+                  <td data-row="4" data-col="6">9.75</td>
+                  <td data-row="4" data-col="7">9.75</td>
+                  <td data-row="4" data-col="8">10.00</td>
+                </tr>
+        </tbody>
+      </table>
+    </div>
+<!-- hack to avoid NA insertion in last line -->
+</div>
+</div>
+<p>Change in Scores</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="fu">datasummary</span>((<span class="at">N =</span> n_non_missing) <span class="sc">+</span></span>
+<span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a>            (<span class="at">Median =</span> median) <span class="sc">+</span> </span>
+<span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a>            (<span class="at">Q1 =</span> q1) <span class="sc">+</span> </span>
+<span id="cb14-4"><a href="#cb14-4" aria-hidden="true" tabindex="-1"></a>            (<span class="at">Q3 =</span> q3) <span class="sc">~</span> </span>
+<span id="cb14-5"><a href="#cb14-5" aria-hidden="true" tabindex="-1"></a>              change_con_code <span class="sc">+</span> change_con_rapid <span class="sc">+</span> change_con_rhythm <span class="sc">+</span> change_attending <span class="sc">+</span> change_team, </span>
+<span id="cb14-6"><a href="#cb14-6" aria-hidden="true" tabindex="-1"></a>            <span class="at">data =</span> survey_responses)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<!-- preamble start -->
+
+    <script>
+
+      function styleCell_s55fq46q76p2hkk3ihj7(i, j, css_id) {
+          var table = document.getElementById("tinytable_s55fq46q76p2hkk3ihj7");
+          var cell = table.querySelector(`[data-row="${i}"][data-col="${j}"]`);
+          if (cell) {
+              console.log(`Styling cell at (${i}, ${j}) with class ${css_id}`);
+              cell.classList.add(css_id);
+          } else {
+              console.warn(`Cell at (${i}, ${j}) not found.`);
+          }
+      }
+      function spanCell_s55fq46q76p2hkk3ihj7(i, j, rowspan, colspan) {
+        var table = document.getElementById("tinytable_s55fq46q76p2hkk3ihj7");
+        const targetCell = table.querySelector(`[data-row="${i}"][data-col="${j}"]`);
+        if (!targetCell) {
+          console.warn(`Cell at (${i}, ${j}) not found.`);
+        }
+
+        // Get all cells that need to be removed
+        const cellsToRemove = [];
+        for (let r = 0; r < rowspan; r++) {
+          for (let c = 0; c < colspan; c++) {
+            if (r === 0 && c === 0) continue; // Skip the target cell
+            const cell = table.querySelector(`[data-row="${i + r}"][data-col="${j + c}"]`);
+            if (cell) {
+              cellsToRemove.push(cell);
+            }
+          }
+        }
+
+        // Remove all cells
+        cellsToRemove.forEach(cell => cell.remove());
+
+        // Set rowspan and colspan of the target cell if it exists
+        if (targetCell) {
+          targetCell.rowSpan = rowspan;
+          targetCell.colSpan = colspan;
+        }
+      }
+      // tinytable span after
+      window.addEventListener('load', function () {
+          var cellsToStyle = [
+            // tinytable style arrays after
+          { positions: [ { i: '4', j: 1 }, { i: '4', j: 2 }, { i: '4', j: 3 }, { i: '4', j: 4 }, { i: '4', j: 5 },  ], css_id: 'tinytable_css_vt3pgmg4f25pkcs1kku8',}, 
+          { positions: [ { i: '1', j: 1 }, { i: '2', j: 1 }, { i: '3', j: 1 }, { i: '3', j: 2 }, { i: '3', j: 3 }, { i: '1', j: 2 }, { i: '2', j: 2 }, { i: '2', j: 3 }, { i: '2', j: 4 }, { i: '3', j: 4 }, { i: '1', j: 3 }, { i: '1', j: 4 }, { i: '1', j: 5 }, { i: '2', j: 5 }, { i: '3', j: 5 },  ], css_id: 'tinytable_css_1iiq6p8gajcdyh34g1gt',}, 
+          { positions: [ { i: '0', j: 1 }, { i: '0', j: 2 }, { i: '0', j: 3 }, { i: '0', j: 4 }, { i: '0', j: 5 },  ], css_id: 'tinytable_css_e5d7972x7g91uhs0rugs',}, 
+          { positions: [ { i: '4', j: 0 },  ], css_id: 'tinytable_css_mnlo2w43yo1xl5y617ai',}, 
+          { positions: [ { i: '1', j: 0 }, { i: '2', j: 0 }, { i: '3', j: 0 },  ], css_id: 'tinytable_css_zfe9k3dmds8xvh0ys72k',}, 
+          { positions: [ { i: '0', j: 0 },  ], css_id: 'tinytable_css_zn76z0c6yf4eafxelnww',}, 
+          ];
+
+          // Loop over the arrays to style the cells
+          cellsToStyle.forEach(function (group) {
+              group.positions.forEach(function (cell) {
+                  styleCell_s55fq46q76p2hkk3ihj7(cell.i, cell.j, group.css_id);
+              });
+          });
+      });
+    </script>
+
+    <style>
+      /* tinytable css entries after */
+      .table td.tinytable_css_vt3pgmg4f25pkcs1kku8, .table th.tinytable_css_vt3pgmg4f25pkcs1kku8 { text-align: right; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_1iiq6p8gajcdyh34g1gt, .table th.tinytable_css_1iiq6p8gajcdyh34g1gt { text-align: right; }
+      .table td.tinytable_css_e5d7972x7g91uhs0rugs, .table th.tinytable_css_e5d7972x7g91uhs0rugs { text-align: right; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+      .table td.tinytable_css_mnlo2w43yo1xl5y617ai, .table th.tinytable_css_mnlo2w43yo1xl5y617ai { text-align: left; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_zfe9k3dmds8xvh0ys72k, .table th.tinytable_css_zfe9k3dmds8xvh0ys72k { text-align: left; }
+      .table td.tinytable_css_zn76z0c6yf4eafxelnww, .table th.tinytable_css_zn76z0c6yf4eafxelnww { text-align: left; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+    </style>
+    <div class="container">
+      <table class="table table-borderless" id="tinytable_s55fq46q76p2hkk3ihj7" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
+        <thead>
+        
+              <tr>
+                <th scope="col" data-row="0" data-col="0"> </th>
+                <th scope="col" data-row="0" data-col="1">change_con_code</th>
+                <th scope="col" data-row="0" data-col="2">change_con_rapid</th>
+                <th scope="col" data-row="0" data-col="3">change_con_rhythm</th>
+                <th scope="col" data-row="0" data-col="4">change_attending</th>
+                <th scope="col" data-row="0" data-col="5">change_team</th>
+              </tr>
+        </thead>
+        
+        <tbody>
+                <tr>
+                  <td data-row="1" data-col="0">N</td>
+                  <td data-row="1" data-col="1">22.00</td>
+                  <td data-row="1" data-col="2">22.00</td>
+                  <td data-row="1" data-col="3">22.00</td>
+                  <td data-row="1" data-col="4">22.00</td>
+                  <td data-row="1" data-col="5">22.00</td>
+                </tr>
+                <tr>
+                  <td data-row="2" data-col="0">Median</td>
+                  <td data-row="2" data-col="1">2.00</td>
+                  <td data-row="2" data-col="2">2.00</td>
+                  <td data-row="2" data-col="3">2.00</td>
+                  <td data-row="2" data-col="4">0.00</td>
+                  <td data-row="2" data-col="5">-1.00</td>
+                </tr>
+                <tr>
+                  <td data-row="3" data-col="0">Q1</td>
+                  <td data-row="3" data-col="1">1.25</td>
+                  <td data-row="3" data-col="2">1.00</td>
+                  <td data-row="3" data-col="3">0.25</td>
+                  <td data-row="3" data-col="4">-1.00</td>
+                  <td data-row="3" data-col="5">-1.75</td>
+                </tr>
+                <tr>
+                  <td data-row="4" data-col="0">Q3</td>
+                  <td data-row="4" data-col="1">3.00</td>
+                  <td data-row="4" data-col="2">2.00</td>
+                  <td data-row="4" data-col="3">3.00</td>
+                  <td data-row="4" data-col="4">1.00</td>
+                  <td data-row="4" data-col="5">0.75</td>
+                </tr>
+        </tbody>
+      </table>
+    </div>
+<!-- hack to avoid NA insertion in last line -->
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a><span class="fu">datasummary_skim</span>(survey_responses)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<!-- preamble start -->
+
+    <script>
+
+      function styleCell_8nqtwx2bx2kvrhze2bvx(i, j, css_id) {
+          var table = document.getElementById("tinytable_8nqtwx2bx2kvrhze2bvx");
+          var cell = table.querySelector(`[data-row="${i}"][data-col="${j}"]`);
+          if (cell) {
+              console.log(`Styling cell at (${i}, ${j}) with class ${css_id}`);
+              cell.classList.add(css_id);
+          } else {
+              console.warn(`Cell at (${i}, ${j}) not found.`);
+          }
+      }
+      function spanCell_8nqtwx2bx2kvrhze2bvx(i, j, rowspan, colspan) {
+        var table = document.getElementById("tinytable_8nqtwx2bx2kvrhze2bvx");
+        const targetCell = table.querySelector(`[data-row="${i}"][data-col="${j}"]`);
+        if (!targetCell) {
+          console.warn(`Cell at (${i}, ${j}) not found.`);
+        }
+
+        // Get all cells that need to be removed
+        const cellsToRemove = [];
+        for (let r = 0; r < rowspan; r++) {
+          for (let c = 0; c < colspan; c++) {
+            if (r === 0 && c === 0) continue; // Skip the target cell
+            const cell = table.querySelector(`[data-row="${i + r}"][data-col="${j + c}"]`);
+            if (cell) {
+              cellsToRemove.push(cell);
+            }
+          }
+        }
+
+        // Remove all cells
+        cellsToRemove.forEach(cell => cell.remove());
+
+        // Set rowspan and colspan of the target cell if it exists
+        if (targetCell) {
+          targetCell.rowSpan = rowspan;
+          targetCell.colSpan = colspan;
+        }
+      }
+      // tinytable span after
+      window.addEventListener('load', function () {
+          var cellsToStyle = [
+            // tinytable style arrays after
+          { positions: [ { i: '47', j: 0 }, { i: '47', j: 3 }, { i: '47', j: 2 }, { i: '47', j: 1 }, { i: '47', j: 4 }, { i: '47', j: 7 }, { i: '47', j: 6 }, { i: '47', j: 5 }, { i: '47', j: 8 },  ], css_id: 'tinytable_css_nckpzfl8u35dyg53ltzb',}, 
+          { positions: [ { i: '23', j: 0 }, { i: '23', j: 3 }, { i: '23', j: 2 }, { i: '23', j: 1 }, { i: '23', j: 4 }, { i: '23', j: 7 }, { i: '23', j: 6 }, { i: '23', j: 5 }, { i: '23', j: 8 },  ], css_id: 'tinytable_css_nuxkwfaicdycnvrfp6or',}, 
+          { positions: [ { i: '0', j: 0 }, { i: '0', j: 3 }, { i: '0', j: 2 }, { i: '0', j: 1 }, { i: '0', j: 4 }, { i: '0', j: 7 }, { i: '0', j: 6 }, { i: '0', j: 5 }, { i: '0', j: 8 },  ], css_id: 'tinytable_css_xvjotagcpm72yq0bwp8b',}, 
+          ];
+
+          // Loop over the arrays to style the cells
+          cellsToStyle.forEach(function (group) {
+              group.positions.forEach(function (cell) {
+                  styleCell_8nqtwx2bx2kvrhze2bvx(cell.i, cell.j, group.css_id);
+              });
+          });
+      });
+    </script>
+
+    <style>
+      /* tinytable css entries after */
+      .table td.tinytable_css_nckpzfl8u35dyg53ltzb, .table th.tinytable_css_nckpzfl8u35dyg53ltzb { border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_nuxkwfaicdycnvrfp6or, .table th.tinytable_css_nuxkwfaicdycnvrfp6or { border-top: solid black 0.1em; }
+      .table td.tinytable_css_xvjotagcpm72yq0bwp8b, .table th.tinytable_css_xvjotagcpm72yq0bwp8b { border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+    </style>
+    <div class="container">
+      <table class="table table-borderless" id="tinytable_8nqtwx2bx2kvrhze2bvx" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
+        <thead>
+        
+              <tr>
+                <th scope="col" data-row="0" data-col="0"> </th>
+                <th scope="col" data-row="0" data-col="1">Unique</th>
+                <th scope="col" data-row="0" data-col="2">Missing Pct.</th>
+                <th scope="col" data-row="0" data-col="3">Mean</th>
+                <th scope="col" data-row="0" data-col="4">SD</th>
+                <th scope="col" data-row="0" data-col="5">Min</th>
+                <th scope="col" data-row="0" data-col="6">Median</th>
+                <th scope="col" data-row="0" data-col="7">Max</th>
+                <th scope="col" data-row="0" data-col="8">Histogram</th>
+              </tr>
+        </thead>
+        
+        <tbody>
+                <tr>
+                  <td data-row="1" data-col="0">pre_con_code</td>
+                  <td data-row="1" data-col="1">7</td>
+                  <td data-row="1" data-col="2">0</td>
+                  <td data-row="1" data-col="3">4.3</td>
+                  <td data-row="1" data-col="4">1.6</td>
+                  <td data-row="1" data-col="5">1.0</td>
+                  <td data-row="1" data-col="6">5.0</td>
+                  <td data-row="1" data-col="7">7.0</td>
+                  <td data-row="1" data-col="8"><img src="./tinytable_assets/idtdje760s4q0rf9ypgk4k.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="2" data-col="0">pre_con_rapid</td>
+                  <td data-row="2" data-col="1">6</td>
+                  <td data-row="2" data-col="2">0</td>
+                  <td data-row="2" data-col="3">5.2</td>
+                  <td data-row="2" data-col="4">1.5</td>
+                  <td data-row="2" data-col="5">2.0</td>
+                  <td data-row="2" data-col="6">5.0</td>
+                  <td data-row="2" data-col="7">7.0</td>
+                  <td data-row="2" data-col="8"><img src="./tinytable_assets/idtbkk707j0oqpt5okx2dp.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="3" data-col="0">pre_con_rhthm</td>
+                  <td data-row="3" data-col="1">7</td>
+                  <td data-row="3" data-col="2">0</td>
+                  <td data-row="3" data-col="3">5.5</td>
+                  <td data-row="3" data-col="4">1.7</td>
+                  <td data-row="3" data-col="5">2.0</td>
+                  <td data-row="3" data-col="6">6.0</td>
+                  <td data-row="3" data-col="7">8.0</td>
+                  <td data-row="3" data-col="8"><img src="./tinytable_assets/idd7mwwboa51us2ogkw02e.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="4" data-col="0">pre_team</td>
+                  <td data-row="4" data-col="1">8</td>
+                  <td data-row="4" data-col="2">0</td>
+                  <td data-row="4" data-col="3">5.0</td>
+                  <td data-row="4" data-col="4">1.7</td>
+                  <td data-row="4" data-col="5">2.0</td>
+                  <td data-row="4" data-col="6">5.0</td>
+                  <td data-row="4" data-col="7">9.0</td>
+                  <td data-row="4" data-col="8"><img src="./tinytable_assets/ids13426dnu2w88qpf5li1.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="5" data-col="0">pre_attending</td>
+                  <td data-row="5" data-col="1">8</td>
+                  <td data-row="5" data-col="2">0</td>
+                  <td data-row="5" data-col="3">4.0</td>
+                  <td data-row="5" data-col="4">1.9</td>
+                  <td data-row="5" data-col="5">1.0</td>
+                  <td data-row="5" data-col="6">3.0</td>
+                  <td data-row="5" data-col="7">9.0</td>
+                  <td data-row="5" data-col="8"><img src="./tinytable_assets/idhmax8b1ppttx1iy73pa5.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="6" data-col="0">pre_codes</td>
+                  <td data-row="6" data-col="1">8</td>
+                  <td data-row="6" data-col="2">0</td>
+                  <td data-row="6" data-col="3">3.0</td>
+                  <td data-row="6" data-col="4">1.6</td>
+                  <td data-row="6" data-col="5">0.0</td>
+                  <td data-row="6" data-col="6">3.0</td>
+                  <td data-row="6" data-col="7">7.0</td>
+                  <td data-row="6" data-col="8"><img src="./tinytable_assets/idaxaezdibw1mmly5ic1yl.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="7" data-col="0">pre_rapid</td>
+                  <td data-row="7" data-col="1">8</td>
+                  <td data-row="7" data-col="2">0</td>
+                  <td data-row="7" data-col="3">15.5</td>
+                  <td data-row="7" data-col="4">7.0</td>
+                  <td data-row="7" data-col="5">7.0</td>
+                  <td data-row="7" data-col="6">15.0</td>
+                  <td data-row="7" data-col="7">30.0</td>
+                  <td data-row="7" data-col="8"><img src="./tinytable_assets/idl7338jca9bc75o4whif8.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="8" data-col="0">pre_lead</td>
+                  <td data-row="8" data-col="1">7</td>
+                  <td data-row="8" data-col="2">0</td>
+                  <td data-row="8" data-col="3">2.6</td>
+                  <td data-row="8" data-col="4">2.2</td>
+                  <td data-row="8" data-col="5">0.0</td>
+                  <td data-row="8" data-col="6">2.0</td>
+                  <td data-row="8" data-col="7">8.0</td>
+                  <td data-row="8" data-col="8"><img src="./tinytable_assets/idnqrpkkm95ro41ugjea2k.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="9" data-col="0">pre_sim</td>
+                  <td data-row="9" data-col="1">5</td>
+                  <td data-row="9" data-col="2">0</td>
+                  <td data-row="9" data-col="3">1.4</td>
+                  <td data-row="9" data-col="4">1.3</td>
+                  <td data-row="9" data-col="5">0.0</td>
+                  <td data-row="9" data-col="6">1.0</td>
+                  <td data-row="9" data-col="7">5.0</td>
+                  <td data-row="9" data-col="8"><img src="./tinytable_assets/idc410dzahvd82zrpfo78p.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="10" data-col="0">post_con_code</td>
+                  <td data-row="10" data-col="1">5</td>
+                  <td data-row="10" data-col="2">0</td>
+                  <td data-row="10" data-col="3">6.7</td>
+                  <td data-row="10" data-col="4">1.3</td>
+                  <td data-row="10" data-col="5">4.0</td>
+                  <td data-row="10" data-col="6">7.0</td>
+                  <td data-row="10" data-col="7">8.0</td>
+                  <td data-row="10" data-col="8"><img src="./tinytable_assets/idtynszn0phemh6sf1mixg.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="11" data-col="0">post_con_rapid</td>
+                  <td data-row="11" data-col="1">5</td>
+                  <td data-row="11" data-col="2">0</td>
+                  <td data-row="11" data-col="3">6.9</td>
+                  <td data-row="11" data-col="4">1.3</td>
+                  <td data-row="11" data-col="5">5.0</td>
+                  <td data-row="11" data-col="6">7.0</td>
+                  <td data-row="11" data-col="7">9.0</td>
+                  <td data-row="11" data-col="8"><img src="./tinytable_assets/idoeeysbzm1kqpwuto336p.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="12" data-col="0">post_con_rhythm</td>
+                  <td data-row="12" data-col="1">5</td>
+                  <td data-row="12" data-col="2">0</td>
+                  <td data-row="12" data-col="3">7.2</td>
+                  <td data-row="12" data-col="4">1.1</td>
+                  <td data-row="12" data-col="5">5.0</td>
+                  <td data-row="12" data-col="6">7.0</td>
+                  <td data-row="12" data-col="7">9.0</td>
+                  <td data-row="12" data-col="8"><img src="./tinytable_assets/id5k0ro4ahm0io3mdju1dg.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="13" data-col="0">post_team</td>
+                  <td data-row="13" data-col="1">7</td>
+                  <td data-row="13" data-col="2">0</td>
+                  <td data-row="13" data-col="3">4.6</td>
+                  <td data-row="13" data-col="4">2.1</td>
+                  <td data-row="13" data-col="5">2.0</td>
+                  <td data-row="13" data-col="6">4.0</td>
+                  <td data-row="13" data-col="7">9.0</td>
+                  <td data-row="13" data-col="8"><img src="./tinytable_assets/idutdrzj48xppg5nwwn810.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="14" data-col="0">post_attending</td>
+                  <td data-row="14" data-col="1">8</td>
+                  <td data-row="14" data-col="2">0</td>
+                  <td data-row="14" data-col="3">4.1</td>
+                  <td data-row="14" data-col="4">2.2</td>
+                  <td data-row="14" data-col="5">1.0</td>
+                  <td data-row="14" data-col="6">3.5</td>
+                  <td data-row="14" data-col="7">10.0</td>
+                  <td data-row="14" data-col="8"><img src="./tinytable_assets/id1qf0qch814kywu77cllp.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="15" data-col="0">post_modules</td>
+                  <td data-row="15" data-col="1">5</td>
+                  <td data-row="15" data-col="2">0</td>
+                  <td data-row="15" data-col="3">8.5</td>
+                  <td data-row="15" data-col="4">1.2</td>
+                  <td data-row="15" data-col="5">6.0</td>
+                  <td data-row="15" data-col="6">8.5</td>
+                  <td data-row="15" data-col="7">10.0</td>
+                  <td data-row="15" data-col="8"><img src="./tinytable_assets/idzfwxl23argvwdx89jrwe.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="16" data-col="0">post_cases</td>
+                  <td data-row="16" data-col="1">4</td>
+                  <td data-row="16" data-col="2">0</td>
+                  <td data-row="16" data-col="3">8.6</td>
+                  <td data-row="16" data-col="4">1.0</td>
+                  <td data-row="16" data-col="5">7.0</td>
+                  <td data-row="16" data-col="6">8.5</td>
+                  <td data-row="16" data-col="7">10.0</td>
+                  <td data-row="16" data-col="8"><img src="./tinytable_assets/idheaztdso49wmtwxqms9h.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="17" data-col="0">post_discuss</td>
+                  <td data-row="17" data-col="1">5</td>
+                  <td data-row="17" data-col="2">0</td>
+                  <td data-row="17" data-col="3">8.5</td>
+                  <td data-row="17" data-col="4">1.6</td>
+                  <td data-row="17" data-col="5">4.0</td>
+                  <td data-row="17" data-col="6">8.5</td>
+                  <td data-row="17" data-col="7">10.0</td>
+                  <td data-row="17" data-col="8"><img src="./tinytable_assets/idg7bw5q0ivc10h8i0b8x0.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="18" data-col="0">change_con_code</td>
+                  <td data-row="18" data-col="1">6</td>
+                  <td data-row="18" data-col="2">0</td>
+                  <td data-row="18" data-col="3">2.4</td>
+                  <td data-row="18" data-col="4">1.6</td>
+                  <td data-row="18" data-col="5">-1.0</td>
+                  <td data-row="18" data-col="6">2.0</td>
+                  <td data-row="18" data-col="7">6.0</td>
+                  <td data-row="18" data-col="8"><img src="./tinytable_assets/idn1ovl8b36ditze6ogr7r.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="19" data-col="0">change_con_rapid</td>
+                  <td data-row="19" data-col="1">5</td>
+                  <td data-row="19" data-col="2">0</td>
+                  <td data-row="19" data-col="3">1.7</td>
+                  <td data-row="19" data-col="4">1.0</td>
+                  <td data-row="19" data-col="5">0.0</td>
+                  <td data-row="19" data-col="6">2.0</td>
+                  <td data-row="19" data-col="7">4.0</td>
+                  <td data-row="19" data-col="8"><img src="./tinytable_assets/id81occ5et0e8atjgavntr.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="20" data-col="0">change_con_rhythm</td>
+                  <td data-row="20" data-col="1">6</td>
+                  <td data-row="20" data-col="2">0</td>
+                  <td data-row="20" data-col="3">1.6</td>
+                  <td data-row="20" data-col="4">1.4</td>
+                  <td data-row="20" data-col="5">-1.0</td>
+                  <td data-row="20" data-col="6">2.0</td>
+                  <td data-row="20" data-col="7">4.0</td>
+                  <td data-row="20" data-col="8"><img src="./tinytable_assets/ida5a4rmcb5es736czd4s4.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="21" data-col="0">change_attending</td>
+                  <td data-row="21" data-col="1">7</td>
+                  <td data-row="21" data-col="2">0</td>
+                  <td data-row="21" data-col="3">0.0</td>
+                  <td data-row="21" data-col="4">1.4</td>
+                  <td data-row="21" data-col="5">-3.0</td>
+                  <td data-row="21" data-col="6">0.0</td>
+                  <td data-row="21" data-col="7">3.0</td>
+                  <td data-row="21" data-col="8"><img src="./tinytable_assets/idwaobldwvfhh9xpdjqz1w.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="22" data-col="0">change_team</td>
+                  <td data-row="22" data-col="1">9</td>
+                  <td data-row="22" data-col="2">0</td>
+                  <td data-row="22" data-col="3">-0.4</td>
+                  <td data-row="22" data-col="4">2.5</td>
+                  <td data-row="22" data-col="5">-5.0</td>
+                  <td data-row="22" data-col="6">-1.0</td>
+                  <td data-row="22" data-col="7">6.0</td>
+                  <td data-row="22" data-col="8"><img src="./tinytable_assets/idt2ugbvhtbdjs96kfqf8l.png" style="height: 1em;"></td>
+                </tr>
+                <tr>
+                  <td data-row="23" data-col="0"></td>
+                  <td data-row="23" data-col="1"></td>
+                  <td data-row="23" data-col="2">N</td>
+                  <td data-row="23" data-col="3">%</td>
+                  <td data-row="23" data-col="4"> </td>
+                  <td data-row="23" data-col="5"> </td>
+                  <td data-row="23" data-col="6"> </td>
+                  <td data-row="23" data-col="7"> </td>
+                  <td data-row="23" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="24" data-col="0">...1</td>
+                  <td data-row="24" data-col="1">A1184</td>
+                  <td data-row="24" data-col="2">1</td>
+                  <td data-row="24" data-col="3">4.5</td>
+                  <td data-row="24" data-col="4"> </td>
+                  <td data-row="24" data-col="5"> </td>
+                  <td data-row="24" data-col="6"> </td>
+                  <td data-row="24" data-col="7"> </td>
+                  <td data-row="24" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="25" data-col="0"></td>
+                  <td data-row="25" data-col="1">B4019</td>
+                  <td data-row="25" data-col="2">1</td>
+                  <td data-row="25" data-col="3">4.5</td>
+                  <td data-row="25" data-col="4"> </td>
+                  <td data-row="25" data-col="5"> </td>
+                  <td data-row="25" data-col="6"> </td>
+                  <td data-row="25" data-col="7"> </td>
+                  <td data-row="25" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="26" data-col="0"></td>
+                  <td data-row="26" data-col="1">B4221</td>
+                  <td data-row="26" data-col="2">1</td>
+                  <td data-row="26" data-col="3">4.5</td>
+                  <td data-row="26" data-col="4"> </td>
+                  <td data-row="26" data-col="5"> </td>
+                  <td data-row="26" data-col="6"> </td>
+                  <td data-row="26" data-col="7"> </td>
+                  <td data-row="26" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="27" data-col="0"></td>
+                  <td data-row="27" data-col="1">B5084</td>
+                  <td data-row="27" data-col="2">1</td>
+                  <td data-row="27" data-col="3">4.5</td>
+                  <td data-row="27" data-col="4"> </td>
+                  <td data-row="27" data-col="5"> </td>
+                  <td data-row="27" data-col="6"> </td>
+                  <td data-row="27" data-col="7"> </td>
+                  <td data-row="27" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="28" data-col="0"></td>
+                  <td data-row="28" data-col="1">C5096</td>
+                  <td data-row="28" data-col="2">1</td>
+                  <td data-row="28" data-col="3">4.5</td>
+                  <td data-row="28" data-col="4"> </td>
+                  <td data-row="28" data-col="5"> </td>
+                  <td data-row="28" data-col="6"> </td>
+                  <td data-row="28" data-col="7"> </td>
+                  <td data-row="28" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="29" data-col="0"></td>
+                  <td data-row="29" data-col="1">D0695</td>
+                  <td data-row="29" data-col="2">1</td>
+                  <td data-row="29" data-col="3">4.5</td>
+                  <td data-row="29" data-col="4"> </td>
+                  <td data-row="29" data-col="5"> </td>
+                  <td data-row="29" data-col="6"> </td>
+                  <td data-row="29" data-col="7"> </td>
+                  <td data-row="29" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="30" data-col="0"></td>
+                  <td data-row="30" data-col="1">D4268</td>
+                  <td data-row="30" data-col="2">1</td>
+                  <td data-row="30" data-col="3">4.5</td>
+                  <td data-row="30" data-col="4"> </td>
+                  <td data-row="30" data-col="5"> </td>
+                  <td data-row="30" data-col="6"> </td>
+                  <td data-row="30" data-col="7"> </td>
+                  <td data-row="30" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="31" data-col="0"></td>
+                  <td data-row="31" data-col="1">G0675</td>
+                  <td data-row="31" data-col="2">1</td>
+                  <td data-row="31" data-col="3">4.5</td>
+                  <td data-row="31" data-col="4"> </td>
+                  <td data-row="31" data-col="5"> </td>
+                  <td data-row="31" data-col="6"> </td>
+                  <td data-row="31" data-col="7"> </td>
+                  <td data-row="31" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="32" data-col="0"></td>
+                  <td data-row="32" data-col="1">G8087</td>
+                  <td data-row="32" data-col="2">1</td>
+                  <td data-row="32" data-col="3">4.5</td>
+                  <td data-row="32" data-col="4"> </td>
+                  <td data-row="32" data-col="5"> </td>
+                  <td data-row="32" data-col="6"> </td>
+                  <td data-row="32" data-col="7"> </td>
+                  <td data-row="32" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="33" data-col="0"></td>
+                  <td data-row="33" data-col="1">G8879</td>
+                  <td data-row="33" data-col="2">1</td>
+                  <td data-row="33" data-col="3">4.5</td>
+                  <td data-row="33" data-col="4"> </td>
+                  <td data-row="33" data-col="5"> </td>
+                  <td data-row="33" data-col="6"> </td>
+                  <td data-row="33" data-col="7"> </td>
+                  <td data-row="33" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="34" data-col="0"></td>
+                  <td data-row="34" data-col="1">H1619</td>
+                  <td data-row="34" data-col="2">1</td>
+                  <td data-row="34" data-col="3">4.5</td>
+                  <td data-row="34" data-col="4"> </td>
+                  <td data-row="34" data-col="5"> </td>
+                  <td data-row="34" data-col="6"> </td>
+                  <td data-row="34" data-col="7"> </td>
+                  <td data-row="34" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="35" data-col="0"></td>
+                  <td data-row="35" data-col="1">J3331</td>
+                  <td data-row="35" data-col="2">1</td>
+                  <td data-row="35" data-col="3">4.5</td>
+                  <td data-row="35" data-col="4"> </td>
+                  <td data-row="35" data-col="5"> </td>
+                  <td data-row="35" data-col="6"> </td>
+                  <td data-row="35" data-col="7"> </td>
+                  <td data-row="35" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="36" data-col="0"></td>
+                  <td data-row="36" data-col="1">L9099</td>
+                  <td data-row="36" data-col="2">1</td>
+                  <td data-row="36" data-col="3">4.5</td>
+                  <td data-row="36" data-col="4"> </td>
+                  <td data-row="36" data-col="5"> </td>
+                  <td data-row="36" data-col="6"> </td>
+                  <td data-row="36" data-col="7"> </td>
+                  <td data-row="36" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="37" data-col="0"></td>
+                  <td data-row="37" data-col="1">M5075</td>
+                  <td data-row="37" data-col="2">1</td>
+                  <td data-row="37" data-col="3">4.5</td>
+                  <td data-row="37" data-col="4"> </td>
+                  <td data-row="37" data-col="5"> </td>
+                  <td data-row="37" data-col="6"> </td>
+                  <td data-row="37" data-col="7"> </td>
+                  <td data-row="37" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="38" data-col="0"></td>
+                  <td data-row="38" data-col="1">M6411</td>
+                  <td data-row="38" data-col="2">1</td>
+                  <td data-row="38" data-col="3">4.5</td>
+                  <td data-row="38" data-col="4"> </td>
+                  <td data-row="38" data-col="5"> </td>
+                  <td data-row="38" data-col="6"> </td>
+                  <td data-row="38" data-col="7"> </td>
+                  <td data-row="38" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="39" data-col="0"></td>
+                  <td data-row="39" data-col="1">Pitt8657</td>
+                  <td data-row="39" data-col="2">1</td>
+                  <td data-row="39" data-col="3">4.5</td>
+                  <td data-row="39" data-col="4"> </td>
+                  <td data-row="39" data-col="5"> </td>
+                  <td data-row="39" data-col="6"> </td>
+                  <td data-row="39" data-col="7"> </td>
+                  <td data-row="39" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="40" data-col="0"></td>
+                  <td data-row="40" data-col="1">Q2614</td>
+                  <td data-row="40" data-col="2">1</td>
+                  <td data-row="40" data-col="3">4.5</td>
+                  <td data-row="40" data-col="4"> </td>
+                  <td data-row="40" data-col="5"> </td>
+                  <td data-row="40" data-col="6"> </td>
+                  <td data-row="40" data-col="7"> </td>
+                  <td data-row="40" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="41" data-col="0"></td>
+                  <td data-row="41" data-col="1">R9991</td>
+                  <td data-row="41" data-col="2">1</td>
+                  <td data-row="41" data-col="3">4.5</td>
+                  <td data-row="41" data-col="4"> </td>
+                  <td data-row="41" data-col="5"> </td>
+                  <td data-row="41" data-col="6"> </td>
+                  <td data-row="41" data-col="7"> </td>
+                  <td data-row="41" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="42" data-col="0"></td>
+                  <td data-row="42" data-col="1">S2807</td>
+                  <td data-row="42" data-col="2">1</td>
+                  <td data-row="42" data-col="3">4.5</td>
+                  <td data-row="42" data-col="4"> </td>
+                  <td data-row="42" data-col="5"> </td>
+                  <td data-row="42" data-col="6"> </td>
+                  <td data-row="42" data-col="7"> </td>
+                  <td data-row="42" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="43" data-col="0"></td>
+                  <td data-row="43" data-col="1">S3369</td>
+                  <td data-row="43" data-col="2">1</td>
+                  <td data-row="43" data-col="3">4.5</td>
+                  <td data-row="43" data-col="4"> </td>
+                  <td data-row="43" data-col="5"> </td>
+                  <td data-row="43" data-col="6"> </td>
+                  <td data-row="43" data-col="7"> </td>
+                  <td data-row="43" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="44" data-col="0"></td>
+                  <td data-row="44" data-col="1">S5625</td>
+                  <td data-row="44" data-col="2">1</td>
+                  <td data-row="44" data-col="3">4.5</td>
+                  <td data-row="44" data-col="4"> </td>
+                  <td data-row="44" data-col="5"> </td>
+                  <td data-row="44" data-col="6"> </td>
+                  <td data-row="44" data-col="7"> </td>
+                  <td data-row="44" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="45" data-col="0"></td>
+                  <td data-row="45" data-col="1">S8893</td>
+                  <td data-row="45" data-col="2">1</td>
+                  <td data-row="45" data-col="3">4.5</td>
+                  <td data-row="45" data-col="4"> </td>
+                  <td data-row="45" data-col="5"> </td>
+                  <td data-row="45" data-col="6"> </td>
+                  <td data-row="45" data-col="7"> </td>
+                  <td data-row="45" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="46" data-col="0">pre_shock</td>
+                  <td data-row="46" data-col="1">No</td>
+                  <td data-row="46" data-col="2">16</td>
+                  <td data-row="46" data-col="3">72.7</td>
+                  <td data-row="46" data-col="4"> </td>
+                  <td data-row="46" data-col="5"> </td>
+                  <td data-row="46" data-col="6"> </td>
+                  <td data-row="46" data-col="7"> </td>
+                  <td data-row="46" data-col="8"> </td>
+                </tr>
+                <tr>
+                  <td data-row="47" data-col="0"></td>
+                  <td data-row="47" data-col="1">Yes</td>
+                  <td data-row="47" data-col="2">6</td>
+                  <td data-row="47" data-col="3">27.3</td>
+                  <td data-row="47" data-col="4"> </td>
+                  <td data-row="47" data-col="5"> </td>
+                  <td data-row="47" data-col="6"> </td>
+                  <td data-row="47" data-col="7"> </td>
+                  <td data-row="47" data-col="8"> </td>
+                </tr>
+        </tbody>
+      </table>
+    </div>
+<!-- hack to avoid NA insertion in last line -->
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>ggstatsplot<span class="sc">::</span><span class="fu">ggscatterstats</span>(<span class="at">data =</span> survey_responses, <span class="at">x =</span> pre_con_rhthm, <span class="at">y =</span> change_con_rhythm)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>`stat_xsidebin()` using `bins = 30`. Pick better value `binwidth`.
+`stat_ysidebin()` using `bins = 30`. Pick better value `binwidth`.</code></pre>
+</div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="analysis_files/figure-html/unnamed-chunk-8-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="sourceCode cell-code" id="cb18"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(survey_responses<span class="sc">$</span>post_con_rhythm, survey_responses<span class="sc">$</span>pre_con_rhthm, <span class="at">paired =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    Paired t-test
+
+data:  survey_responses$post_con_rhythm and survey_responses$pre_con_rhthm
+t = 5.3581, df = 21, p-value = 2.586e-05
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ 1.001245 2.271482
+sample estimates:
+mean difference 
+       1.636364 </code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb20"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a>?t.test</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb21"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb21-1"><a href="#cb21-1" aria-hidden="true" tabindex="-1"></a>ggstatsplot<span class="sc">::</span><span class="fu">ggscatterstats</span>(<span class="at">data =</span> survey_responses, <span class="at">x =</span> pre_team, <span class="at">y =</span> change_team)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>`stat_xsidebin()` using `bins = 30`. Pick better value `binwidth`.
+`stat_ysidebin()` using `bins = 30`. Pick better value `binwidth`.</code></pre>
+</div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="analysis_files/figure-html/unnamed-chunk-9-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="sourceCode cell-code" id="cb23"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb23-1"><a href="#cb23-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(survey_responses<span class="sc">$</span>post_team, survey_responses<span class="sc">$</span>pre_team, <span class="at">paired =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    Paired t-test
+
+data:  survey_responses$post_team and survey_responses$pre_team
+t = -0.7559, df = 21, p-value = 0.4581
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -1.5345761  0.7163943
+sample estimates:
+mean difference 
+     -0.4090909 </code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb25"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a>?t.test</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb26"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a>ggstatsplot<span class="sc">::</span><span class="fu">ggscatterstats</span>(<span class="at">data =</span> survey_responses, <span class="at">x =</span> pre_attending, <span class="at">y =</span> post_attending)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>`stat_xsidebin()` using `bins = 30`. Pick better value `binwidth`.
+`stat_ysidebin()` using `bins = 30`. Pick better value `binwidth`.</code></pre>
+</div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="analysis_files/figure-html/unnamed-chunk-10-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(survey_responses<span class="sc">$</span>post_attending, survey_responses<span class="sc">$</span>pre_attending, <span class="at">paired =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    Paired t-test
+
+data:  survey_responses$post_attending and survey_responses$pre_attending
+t = 0.15654, df = 21, p-value = 0.8771
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -0.5584117  0.6493208
+sample estimates:
+mean difference 
+     0.04545455 </code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb30"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb30-1"><a href="#cb30-1" aria-hidden="true" tabindex="-1"></a>?t.test</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb31"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb31-1"><a href="#cb31-1" aria-hidden="true" tabindex="-1"></a>ggstatsplot<span class="sc">::</span><span class="fu">ggscatterstats</span>(<span class="at">data =</span> survey_responses, <span class="at">x =</span> pre_codes, <span class="at">y =</span> pre_attending)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>`stat_xsidebin()` using `bins = 30`. Pick better value `binwidth`.
+`stat_ysidebin()` using `bins = 30`. Pick better value `binwidth`.</code></pre>
+</div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="analysis_files/figure-html/unnamed-chunk-11-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="sourceCode cell-code" id="cb33"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb33-1"><a href="#cb33-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(survey_responses<span class="sc">$</span>pre_attending, survey_responses<span class="sc">$</span>pre_codes, <span class="at">paired =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    Paired t-test
+
+data:  survey_responses$pre_attending and survey_responses$pre_codes
+t = 2.0683, df = 21, p-value = 0.05115
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -0.005480355  2.005480355
+sample estimates:
+mean difference 
+              1 </code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb35"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb35-1"><a href="#cb35-1" aria-hidden="true" tabindex="-1"></a>?t.test</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb36"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb36-1"><a href="#cb36-1" aria-hidden="true" tabindex="-1"></a>ggstatsplot<span class="sc">::</span><span class="fu">ggscatterstats</span>(<span class="at">data =</span> survey_responses, <span class="at">x =</span> pre_rapid, <span class="at">y =</span> pre_attending)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>`stat_xsidebin()` using `bins = 30`. Pick better value `binwidth`.
+`stat_ysidebin()` using `bins = 30`. Pick better value `binwidth`.</code></pre>
+</div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="analysis_files/figure-html/unnamed-chunk-12-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="sourceCode cell-code" id="cb38"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb38-1"><a href="#cb38-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(survey_responses<span class="sc">$</span>pre_attending, survey_responses<span class="sc">$</span>pre_rapid, <span class="at">paired =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    Paired t-test
+
+data:  survey_responses$pre_attending and survey_responses$pre_rapid
+t = -7.4456, df = 21, p-value = 2.554e-07
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -14.653898  -8.255193
+sample estimates:
+mean difference 
+      -11.45455 </code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb40"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb40-1"><a href="#cb40-1" aria-hidden="true" tabindex="-1"></a>?t.test</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb41"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb41-1"><a href="#cb41-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(survey_responses<span class="sc">$</span>pre_attending, survey_responses<span class="sc">$</span>pre_codes, <span class="at">paired =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    Paired t-test
+
+data:  survey_responses$pre_attending and survey_responses$pre_codes
+t = 2.0683, df = 21, p-value = 0.05115
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -0.005480355  2.005480355
+sample estimates:
+mean difference 
+              1 </code></pre>
+</div>
+</div>
+<p>t.test(survey_responses$pre_team, survey_responses$pre_rapid, paired = TRUE)</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb43"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb43-1"><a href="#cb43-1" aria-hidden="true" tabindex="-1"></a>ggstatsplot<span class="sc">::</span><span class="fu">ggscatterstats</span>(<span class="at">data =</span> survey_responses, <span class="at">x =</span> pre_rapid, <span class="at">y =</span> pre_team)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>`stat_xsidebin()` using `bins = 30`. Pick better value `binwidth`.
+`stat_ysidebin()` using `bins = 30`. Pick better value `binwidth`.</code></pre>
+</div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="analysis_files/figure-html/unnamed-chunk-14-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="sourceCode cell-code" id="cb45"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb45-1"><a href="#cb45-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(survey_responses<span class="sc">$</span>pre_team, survey_responses<span class="sc">$</span>pre_rapid, <span class="at">paired =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    Paired t-test
+
+data:  survey_responses$pre_team and survey_responses$pre_rapid
+t = -6.825, df = 21, p-value = 9.517e-07
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -13.699419  -7.300581
+sample estimates:
+mean difference 
+          -10.5 </code></pre>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb47"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb47-1"><a href="#cb47-1" aria-hidden="true" tabindex="-1"></a>ggstatsplot<span class="sc">::</span><span class="fu">ggscatterstats</span>(<span class="at">data =</span> survey_responses, <span class="at">x =</span> pre_codes, <span class="at">y =</span> pre_team)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>`stat_xsidebin()` using `bins = 30`. Pick better value `binwidth`.
+`stat_ysidebin()` using `bins = 30`. Pick better value `binwidth`.</code></pre>
+</div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="analysis_files/figure-html/unnamed-chunk-15-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="sourceCode cell-code" id="cb49"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb49-1"><a href="#cb49-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(survey_responses<span class="sc">$</span>pre_team, survey_responses<span class="sc">$</span>pre_codes, <span class="at">paired =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    Paired t-test
+
+data:  survey_responses$pre_team and survey_responses$pre_codes
+t = 3.8519, df = 21, p-value = 0.0009252
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ 0.8993031 3.0097879
+sample estimates:
+mean difference 
+       1.954545 </code></pre>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb51"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb51-1"><a href="#cb51-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(survey_responses<span class="sc">$</span>pre_team, survey_responses<span class="sc">$</span>pre_sim, <span class="at">paired =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    Paired t-test
+
+data:  survey_responses$pre_team and survey_responses$pre_sim
+t = 10.377, df = 21, p-value = 1.009e-09
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ 2.871302 4.310517
+sample estimates:
+mean difference 
+       3.590909 </code></pre>
+</div>
+</div>
 
 </main>
 <!-- /main column -->
