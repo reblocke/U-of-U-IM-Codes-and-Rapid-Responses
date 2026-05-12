@@ -1,13 +1,13 @@
 ---
 title: "Pulse Check Decisions"
-author: "Slides by Josiah Sitemeung, Alex Ryden, Brian Locke"
+author: "Slides by Josiah Situmeang, Alex Ryden, Brian Locke"
 format: 
   revealjs:
       embed-resources: true
 editor: visual
 ---
 
-## Pulse Check Decisions 
+## Pulse Check Decisions
 
 ### Code blue on E50
 

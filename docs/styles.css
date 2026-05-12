@@ -1,0 +1,158 @@
+:root {
+  --u-red: #be0000;
+  --u-red-dark: #8c1515;
+  --u-blue: #005f73;
+  --u-gold: #9b6500;
+  --u-ink: #222831;
+  --u-muted: #5f6874;
+  --u-border: #d9dee7;
+  --u-soft: #f6f8fb;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  color: var(--u-ink);
+  overflow-x: hidden;
+}
+
+.navbar {
+  border-bottom: 3px solid var(--u-red);
+}
+
+.learner-hero {
+  border-left: 5px solid var(--u-red);
+  background: linear-gradient(90deg, #fff5f5 0%, #ffffff 68%);
+  padding: 1.1rem 1.25rem;
+  margin: 1rem 0 1.5rem;
+  font-size: 1.08rem;
+}
+
+.hub-grid,
+.link-grid,
+.scenario-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  margin: 1rem 0 1.5rem;
+}
+
+.hub-card,
+.link-card,
+.scenario-card,
+.module-item {
+  border: 1px solid var(--u-border);
+  border-radius: 8px;
+  padding: 1rem;
+  background: #ffffff;
+}
+
+.hub-card h3,
+.link-card h3,
+.scenario-card h3,
+.module-item h3 {
+  margin-top: 0;
+  font-size: 1.05rem;
+}
+
+.hub-card strong,
+.link-card a,
+.scenario-card a,
+.module-item a {
+  font-weight: 700;
+}
+
+.module-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.module-item {
+  border-left: 5px solid var(--u-blue);
+}
+
+.scenario-card {
+  border-top: 4px solid var(--u-gold);
+}
+
+.quarto-title-banner,
+.title-block-header {
+  overflow-wrap: anywhere;
+}
+
+main img {
+  max-width: 100%;
+  height: auto;
+}
+
+table {
+  width: 100%;
+}
+
+.table,
+table {
+  display: block;
+  overflow-x: auto;
+  white-space: normal;
+}
+
+@media (max-width: 640px) {
+  #quarto-content,
+  .page-columns {
+    display: block !important;
+  }
+
+  main.content,
+  .page-columns .content,
+  #quarto-document-content {
+    max-width: calc(100vw - 2rem) !important;
+    width: min(100%, 350px) !important;
+    min-width: 0 !important;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    padding-right: 0;
+    grid-column: auto !important;
+  }
+
+  #quarto-margin-sidebar {
+    display: none !important;
+  }
+
+  .quarto-title-meta {
+    display: block !important;
+  }
+
+  .quarto-title-meta-heading,
+  .quarto-title-meta-contents,
+  p,
+  li {
+    max-width: 100%;
+    overflow-wrap: anywhere;
+  }
+
+  h1.title,
+  .title {
+    font-size: 1.8rem;
+    line-height: 1.15;
+  }
+
+  h2 {
+    font-size: 1.35rem;
+  }
+
+  .learner-hero {
+    padding: 0.9rem 1rem;
+  }
+
+  .hub-card,
+  .link-card,
+  .scenario-card,
+  .module-item {
+    padding: 0.9rem;
+  }
+}

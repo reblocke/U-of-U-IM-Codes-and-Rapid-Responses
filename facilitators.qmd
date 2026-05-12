@@ -1,0 +1,24 @@
+---
+title: "Facilitators"
+---
+
+## Instructor Materials
+
+- [Instructor's guide to cases](2025-4-29%20EK%20Preceptor.ZollSim.docx)
+- [Course website QR slide](slides/qr.html)
+- [Annual maintenance checklist on GitHub](https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses/blob/main/MAINTENANCE.md)
+
+## Session Setup
+
+- Confirm the 2026 pre- and post-session survey links before publishing.
+- Confirm site-specific rapid response, code blue, shock team, cath lab, brain attack, and VA transfer workflows.
+- Confirm the Zoll model and defibrillator workflow learners will practice.
+- Keep public slides learner-safe; put facilitator-only answers, prompts, and timing notes in the instructor guide.
+
+## What To Update After Each Cohort
+
+- Survey links and QR codes.
+- Manual PDF and quick-reference screenshots.
+- Case order, scenario wording, and any site-specific changes.
+- References that materially affect resuscitation leadership, termination, family presence, or rapid response systems.
+- README, `CITATION.cff`, and release/archive notes.

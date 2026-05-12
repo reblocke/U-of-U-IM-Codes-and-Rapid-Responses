@@ -21,7 +21,7 @@ HR and SpO2 ok. Pinpoint pupils, bradypneic. You give doses of naloxone without 
 
 ## Rapid Response: Possible Outcomes
 
--   Turn into a **code blue** (\[[Do You Have Who/What You Need?](slides/resources.html "Resources Slides")\])
+-   Turn into a **code blue** (\[[Do You Have Who/What You Need?](resources.html "Resources Slides")\])
 -   **Go to ICU**
     -   Instability, too much nursing care, needs titratable drip
     -   Don't delay - faster & safer to get things done in ICU if dispo known

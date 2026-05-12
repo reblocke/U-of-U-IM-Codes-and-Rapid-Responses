@@ -1,0 +1,46 @@
+---
+title: "Modules"
+---
+
+Each module is short enough to review before the session and concrete enough to use during a real response.
+
+::: {.module-list}
+::: {.module-item}
+### 1. Leadership Skills
+
+Practice explicitly establishing who is leading, where to stand, and how to invite useful input from the team.
+
+[Open slides](slides/leadership.html)
+:::
+
+::: {.module-item}
+### 2. Pulse-Check Decisions
+
+Practice shock/no-shock decisions, minimizing pauses, and using EtCO2 or other signals when ROSC is uncertain.
+
+[Open slides](slides/pulse_check.html)
+:::
+
+::: {.module-item}
+### 3. Resources and Escalation
+
+Practice deciding whether the event is still a rapid, whether it is becoming a code, and what extra personnel or resources are needed.
+
+[Open slides](slides/resources.html)
+:::
+
+::: {.module-item}
+### 4. Ending and Debriefing
+
+Practice ICU transfer decisions, floor handoffs, family presence, stopping an unsuccessful code, and setting a debrief.
+
+[Open slides](slides/ending.html)
+:::
+:::
+
+## Pre-Session Checklist
+
+- Read the first slide of each module so the scenarios feel familiar.
+- Pay attention to phrases you can actually say in the room.
+- Note site-specific uncertainties and bring them to the session.
+- Complete the 2026 pre-session survey when the link is released.

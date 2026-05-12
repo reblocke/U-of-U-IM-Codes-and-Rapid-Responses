@@ -1,0 +1,37 @@
+---
+title: "Resources"
+---
+
+Quick reference materials for Code Blue and Rapid Response leadership.
+
+## Key Points
+
+- **Establish the leader early.** Try: "I'm Joe/Jane Doe, the resident on the code team. Who is running this code/RRT?" or "Can I take over?"
+- **Stay at the foot of the bed when leading.** Do not drift into tasks that pull you out of room management.
+- **Keep the big picture visible.** For an RRT, ask whether this is becoming a code or whether the patient needs ICU. For a code, protect high-quality compressions and shock early if shockable.
+
+## ACLS Card
+
+![](images/clipboard-4142146450.png){fig-alt="Adult cardiac arrest dosing guide and rhythm decision card"}
+
+## Site Differences
+
+**2026 verification status:** TBD. Confirm site-specific teams and phone/paging workflows before the live session.
+
+|  | **U of U** | **IMED** | **VA** |
+|:---|:---|:---|:---|
+| **RRT/MET** | House Sup, IM Res, SICU RN, Pharm | IM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab | IM, MICU, CNO, RNs, RT, Pharmacy (7a-7p) |
+| **Code Blue** | **add:** Anesthesia, EMT, MICU resident, Pharm, ICU Fellow | **add:** ICU attendings | **add:** Anesthesia/ED |
+| **Numbers** | **Shock Team, Cath, Brain Attack, VAD:** 1-2222 | **Shock Team:** Vocera TICU attending; **Brain Attack:** Operator/x33333 | **Brain Attack:** Page Neuro Senior; **Cath:** Page Cardiology; **Code:** x6666 |
+
+## Rapid Response Guide
+
+[![](images/clipboard-2574812133.png){fig-alt="Housestaff quick reference for rapid responses and codes" width="500"}](assets/manuals/RRTCodeManual.051425.pdf)
+
+[Open the RRT/Code guide PDF](assets/manuals/RRTCodeManual.051425.pdf)
+
+[![](images/clipboard-228707769.png){fig-alt="QR code for the RRT and Code manual" width="250"}](assets/manuals/RRTCodeManual.051425.pdf)
+
+::: {.callout-warning}
+Before the 2026 session, replace the manual PDF and QR images if the official guide changes.
+:::

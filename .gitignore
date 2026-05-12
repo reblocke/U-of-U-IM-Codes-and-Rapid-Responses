@@ -1,7 +1,23 @@
-.Rproj.user
+.Rproj.user/
+**/.Rproj.user/
 .Rhistory
+**/.Rhistory
 .RData
+**/.RData
 .Ruserdata
+**/.Ruserdata
 
 /.quarto/
+**/.quarto/
 .DS_Store
+**/.DS_Store
+
+# Rendered source-side outputs should come from Quarto, not manual edits.
+slides/*.html
+
+# Publication analysis renders can be regenerated and should not sprawl further.
+Publications/**/*.html
+Publications/**/*_files/
+Publications/**/tinytable_assets/
+
+**/*.quarto_ipynb

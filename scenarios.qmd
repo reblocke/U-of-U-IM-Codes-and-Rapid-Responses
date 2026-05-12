@@ -1,0 +1,51 @@
+---
+title: "Scenarios"
+---
+
+The scenarios are designed for in-person practice with the Zoll. Use the public slides for learner review; facilitator-specific prompts belong in the instructor guide.
+
+::: {.scenario-grid}
+::: {.scenario-card}
+### Case 1
+
+Pulseless patient with severe metabolic derangements. Focus: asystole versus fine VF and the less-bad error when uncertain.
+
+[Open case](slides/case_1.html)
+:::
+
+::: {.scenario-card}
+### Case 2
+
+Pulseless VF/VT physiology with post-ROSC ECG decision-making. Focus: first shock and cause search.
+
+[Open case](slides/case_2.html)
+:::
+
+::: {.scenario-card}
+### Case 3
+
+Polymorphic VT/TdP after QT-prolonging medications. Focus: pulseless defibrillation versus unstable cardioversion versus stable magnesium.
+
+[Open case](slides/case_3.html)
+:::
+
+::: {.scenario-card}
+### Case 4
+
+Unstable tachycardia during an RRT. Focus: rhythm interpretation, adenosine context, and escalation.
+
+[Open case](slides/case_4.html)
+:::
+
+::: {.scenario-card}
+### Case 5
+
+Bradycardia with hypotension and confusion. Focus: complete heart block, pacing pads, and transcutaneous pacing setup.
+
+[Open case](slides/case_5.html)
+:::
+:::
+
+::: {.callout-note}
+No public sixth-case source exists in the current 2026 site. Add one only if a complete scenario is ready for learners.
+:::

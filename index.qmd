@@ -1,93 +1,106 @@
 ---
-title: "Overview: Code Blue and Rapid Response Seminar"
-author: 
-  - name: "Alex Ryden, MD"
-    affiliation: "U of U PCCM Fellowship"
-  - name: "Ethan Krauspe, MD"
-    affiliation: "U of U IM CMRs"
-  - name: "Colton Long, MD"
-    affiliation: "U of U IM Residency"
-  - name: "Josiah Situmeang, MD"
-    affiliation: "U of U IM CMRs"
-  - name: "Sumit Patel, MD"
-    affiliation: "U of U PCCM Fellowship"
-  - name: "Richa Sheth, MD"
-    affiliation: "U of U PCCM Fellowship"
-  - name: "Brian Locke, MD MSCI"
-    affiliation: "PCCM, Intermountain Medical Center"
-date: 2025-05-03
-date-modified: last-modified
-bibliography: references.bib
+title: "2026 Code Blue and Rapid Response Seminar"
 format:
   html:
-    citation: true                # must be nested exactly here
-    appendix-cite-as: ["display"] # optional: show only the block
+    citation: true
+    appendix-cite-as: ["display"]
 ---
 
-# Overview:
+::: {.learner-hero}
+Learner hub for University of Utah Internal Medicine residents preparing to lead Code Blue and Rapid Response teams. Use this site before, during, and after the in-person session.
 
-[Target Audience:]{.underline} Rising-PGY2s who will soon be leading Code Blue/Rapid response teams
+The goal is not to memorize every algorithm; it is to practice the first decisions that make resident-led emergencies safer.
+:::
+
+## Start Here
+
+::: {.hub-grid}
+::: {.hub-card}
+### Before the Session
+
+- Review the four micro-skill modules.
+- Bring questions from real code/RRT experiences.
+- Complete the pre-session survey when the 2026 link is released.
+
+**Survey status:** 2026 link TBD.
+:::
+
+::: {.hub-card}
+### During the Session
+
+- Practice taking explicit leadership.
+- Interpret shockable and non-shockable rhythms out loud.
+- Escalate resources early when the room is not safe enough.
+- Run hands-on Zoll and scenario practice.
+:::
+
+::: {.hub-card}
+### After the Session
+
+- Bookmark the resources page.
+- Revisit the case rhythm strips.
+- Send near-misses, big wins, or unclear workflows to the CMRs so this course stays current.
+
+**Post-session survey:** 2026 link TBD.
+:::
+:::
 
 ## Learning Objectives
 
-- Assume and communicate team leadership immediately upon arrival.
+By the end of the session, learners should be able to:
 
-- Identify VF/VT on the monitor and deliver shocks when warranted
-
-- Escalate care and marshal resources appropriately
-
+- Assume and communicate team leadership immediately on arrival.
+- Identify VF/VT on the monitor and deliver shocks when warranted.
+- Escalate care and marshal resources appropriately.
 - Operate the Zoll R-Series defibrillator safely and efficiently.
+- Conclude the event, hand off the patient, and set up a debrief.
 
-- Conclude the event and debrief.
-
-::: callout-tip
-Didactics alone have limits. Regular review (bookmark this!), simulation, and feedback (debrief!) will advance your skills further.
+::: {.callout-tip}
+Didactics alone have limits. Regular review, simulation, and feedback after real events are what turn these skills into reflexes.
 :::
 
-## Methods:
+## Course Map
 
-We surveyed stakeholders from Code Blue and Rapid Response Teams—including senior residents, nurses, respiratory therapists, and quality leads—to identify the most frequent and impactful errors during resident-led responses. Three themes emerged:
+::: {.link-grid}
+::: {.link-card}
+### Micro-Skill Modules
 
-1.  **Unclear team leadership** , leading to confusion in role assignments, low psychological safety, and decreased collaboration. [@steinbach_effective_2024]
+Leadership, pulse-check decisions, resource escalation, and ending/debriefing.
 
-2. Failure to cardiovert or defibrillate shockable rhythms
-
-3. Delayed critical decisions (calling for help, initial stabilization, or transpor to ICU )
-
-This module targets these issues. Sessions are small-group and interactive, designed to draw on your personal experiences, encourage discussion, clarify questions, and conclude with hands-on practice.
-
-::: callout-important
-Please let the CMRs (or us) know when events, near-misses, or big-wins happen. It'll help us keep this seminar relevant.
+[Open modules](modules.qmd)
 :::
 
-## Agenda
+::: {.link-card}
+### Practice Scenarios
 
-1.  Pre-Seminar Survey (Closed)
+Five short code/RRT cases for in-person practice and later review.
 
-2.  15-minute sessions on necessary micro-skills.
+[Open scenarios](scenarios.qmd)
+:::
 
-    -   Leadership Style --- \[[slides](slides/leadership.html "Leadership Style Slides")\]
+::: {.link-card}
+### Quick Resources
 
-    -   Pulse Check Decisions --- \[[slides](slides/pulse_check.html "Pulse Check Decisions Slides")\]
+ACLS card, site differences, rapid response guide, and QR/manual links.
 
-    -   Do You Have Who/What You Need? --- \[[slides](slides/resources.html "Resources Slides")\]
+[Open resources](resources.qmd)
+:::
 
-    -   Ending the Code / Response --- \[[slides](slides/ending.html "Ending the Code/RRT Slides")\]
+::: {.link-card}
+### Facilitators
 
-3.  Scenarios (in person, done with Zoll)
+Instructor guide, QR slide, and annual update checklist.
 
-    -   [Case 1](slides/case_1.html "Case 1"), [Case 2](slides/case_2.html "Case 2"), [Case 3](slides/case_3.html "Case 3"), [Case 4](slides/case_4.html "Case 4"), [Case 5](slides/case_5.html "Case 5")
+[Open facilitator notes](facilitators.qmd)
+:::
+:::
 
-4.  [Summary and Resources](summary.qmd "Summary and Resources")
+## Why This Course Exists
 
-    [![](images/clipboard-396090823.png){width="600"}](docs/RRTCodeManual.051425.pdf "Code and Rapid Response Manual")
+Stakeholders from Code Blue and Rapid Response teams, including senior residents, nurses, respiratory therapists, and quality leads, identified three recurring hazards during resident-led responses:
 
-5.  Post-Seminar Survey (Closed)
+1. Unclear team leadership, which can cause role confusion, low psychological safety, and decreased collaboration. [@steinbach_effective_2024]
+2. Failure to cardiovert or defibrillate shockable rhythms.
+3. Delayed critical decisions, including calling for help, initial stabilization, and transport to ICU.
 
-6.  [References](references.qmd)
-
-### For instructors/facilitators:
-
--   [Instructor's Guide to Cases](https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses/blob/ee42e4f611e2744f9bd763ff6d7616cc24b82055/2025-4-29%20EK%20Preceptor.ZollSim.docx "Instructor's Guide to Cases")
-
--   [QR code link](slides/qr.html "To access QR code to course website")
+This seminar targets those hazards through brief micro-skills, discussion, and hands-on scenarios.

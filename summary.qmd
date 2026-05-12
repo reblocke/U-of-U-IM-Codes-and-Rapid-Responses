@@ -1,39 +1,12 @@
+---
+title: "Summary & Resources"
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta http-equiv="refresh" content="0; url=resources.html">
+---
+
 # Summary & Resources
 
-## Key Points
-
--   **Emphasize getting the right team dynamics**
-
-    -   Start: “I’m Joe/Jane Doe, the resident on the code team. Who is running this code/RRT?” ”Can I take over?”
-
-    -   Stand at the foot of the bed. Don’t move and don’t do tasks.
-
--   Keep the big picture in mind:
-
-    -   RRT: Is this a code? Does this patient need to go to the ICU?
-
-    -   Code: High quality compressions; shock if shockable
-
-## Additional Resources
-
-### ACLS Card
-
-![](images/clipboard-4142146450.png)
-
-### Differences by Site
-
-**(Updated 5/16/2024)**
-
-|   | **U of U** | **IMED** | **VA** |
-|:----------------:|:-----------------|:-----------------|:-----------------|
-| **RRT/MET** | House Sup, IM Res, SICU RN, Pharm | IM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab | IM, MICU, CNO, RNs, RT Pharmacy (7a-7p) |
-| **Code Blue** | **add:** Anesth, EMT, MICU res, Pharm, ICU Fellow | **add:** ICU attgs | **add:** Anesth/ED |
-| Numbers | **Shock Team, Cath, Brain Attack, VAD:** 1-2222 | **‘Shock Team’:** Vocera TICU attg, **Brain Attack:** Operator; x33333 | **Brain attack:** Page Neuro Senior, **Cath:** Page Cardiology, **Code:** x6666 |
-
-### In-depth Rapid Response Guide
-
-[![](images/clipboard-2574812133.png){fig-alt="Housestaff Quick Reference: Rapids & Codes" width="500"}](docs/RRTCodeManual.051425.pdf)
-
-[RRT/Code Guide Link](docs/RRTCodeManual.051425.pdf "U of U IM RRT resources summary")
-
-[![](images/clipboard-228707769.png){fig-alt="QR code for RRT/Code Manual" width="250"}](docs/RRTCodeManual.051425.pdf)
+This page has moved to [Resources](resources.html).

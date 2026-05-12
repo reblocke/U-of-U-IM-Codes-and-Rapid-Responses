@@ -6,16 +6,17 @@ message: >-
   If you use this website or its code, please cite it using the metadata in this file.
 title: U of U IM Codes and Rapid Responses
 type: software
-version: "2025.06"
-date-released: 2025-06-18
+version: "2026.05"
+date-released: 2026-05-12
 license: MIT
 repository-code: https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses
 url: https://reblocke.github.io/U-of-U-IM-Codes-and-Rapid-Responses/
 abstract: >-
-  Course website and materials for the University of Utah Internal Medicine residency
-  seminar on leading Code Blue and Rapid Response teams. First published May 3, 2025;
-  last updated June 18, 2025. The repository contains Quarto sources for the site,
-  HTML slide decks, and references.
+  Learner-facing course website and materials for the University of Utah Internal
+  Medicine residency seminar on leading Code Blue and Rapid Response teams. The
+  2026 update reorganizes the site as a guided learner hub with micro-skill
+  modules, scenarios, resources, facilitator notes, and references. The 2025
+  class version is archived at GitHub release v2025.06.
 keywords:
   - medical education
   - internal medicine
@@ -45,4 +46,3 @@ authors:
   - family-names: Locke
     given-names: Brian W.
     affiliation: Intermountain Medical Center, Pulmonary and Critical Care Medicine
-    orcid: "https://orcid.org/"   # fill in if desired
