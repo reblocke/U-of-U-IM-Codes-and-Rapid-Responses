@@ -88,6 +88,16 @@ Try:
 
 Why? **The team has a lot of context-specific experience**
 
+## Collaboration includes nursing context
+
+When you arrive, the bedside nurse or outreach nurse may know the trajectory better than anyone in the room.
+
+Ask early:
+
+> "What changed, what have you already tried, and what are you most worried about?"
+
+Then make the plan explicit.
+
 ## What would you do differently?
 
 ### 
@@ -101,5 +111,7 @@ Why? **The team has a lot of context-specific experience**
 -   You verbalize your rhythm interpretation schema.
 
 -   Ideas from the entire team
+
+-   You ask for nursing/outreach context before locking into a plan.
 
 [Return to Course Page](../ "Course Page")

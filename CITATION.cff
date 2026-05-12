@@ -14,14 +14,17 @@ url: https://reblocke.github.io/U-of-U-IM-Codes-and-Rapid-Responses/
 abstract: >-
   Learner-facing course website and materials for the University of Utah Internal
   Medicine residency seminar on leading Code Blue and Rapid Response teams. The
-  2026 update reorganizes the site as a guided learner hub with micro-skill
-  modules, scenarios, resources, facilitator notes, and references. The 2025
-  class version is archived at GitHub release v2025.06.
+  2026 interdisciplinary update organizes the site as a guided learner hub with
+  micro-skill modules, scenarios, resources, facilitator notes, and a module on
+  productive collaboration with bedside nurses, nurse-led response teams, and
+  critical care outreach nurses. The 2025 class version is archived at GitHub
+  release v2025.06.
 keywords:
   - medical education
   - internal medicine
   - rapid response
   - code blue
+  - interprofessional education
   - resuscitation
   - Quarto
 authors:

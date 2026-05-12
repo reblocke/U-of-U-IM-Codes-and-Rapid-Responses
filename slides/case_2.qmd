@@ -39,7 +39,17 @@ On initial assessment, pulses are absent.
 
 ![Next step?](images/clipboard-2836008990.png){fig-alt="Post-ROSC EKG" fig-align="center" width="1200"}
 
-Teaching Points
+## Team interface prompt
+
+The nurse who called the code saw the telemetry alarm and knows when the patient lost pulses.
+
+Ask:
+
+> "What rhythm triggered the alarm, when did compressions start, and has the first shock happened?"
+
+Close the loop on shock timing and post-ROSC ECG.
+
+## Teaching Points
 
 -   Time to first shock is critical in VF
 

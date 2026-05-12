@@ -15,6 +15,16 @@ RRT activated on third day of admission.
 
 Tachycardic, HR 180s, dizzy/lightheaded but responsive, pulsatile in all ext. 
 
+## Team interface prompt
+
+The outreach nurse arrived before you and has already tried vagal maneuvers.
+
+Start with:
+
+> "Can I get the 30-second story: what changed, what have you tried, and what are you worried about?"
+
+Then state whether this is stable, unstable, or peri-arrest.
+
 ## EKG
 
 ![Next Step?](images/clipboard-510376321.png){width="1200"}

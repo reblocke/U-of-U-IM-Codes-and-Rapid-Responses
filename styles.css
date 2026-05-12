@@ -79,6 +79,26 @@ body {
   border-top: 4px solid var(--u-gold);
 }
 
+.script-card {
+  border-left: 5px solid var(--u-blue);
+  background: var(--u-soft);
+  padding: 1rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+.script-card blockquote {
+  margin-bottom: 0;
+}
+
+.team-interface {
+  border: 1px solid var(--u-border);
+  border-left: 5px solid var(--u-gold);
+  padding: 1rem;
+  border-radius: 8px;
+  background: #ffffff;
+}
+
 .quarto-title-banner,
 .title-block-header {
   overflow-wrap: anywhere;
@@ -104,16 +124,22 @@ table {
   #quarto-content,
   .page-columns {
     display: block !important;
+    width: 100% !important;
+  }
+
+  #quarto-content {
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   main.content,
   .page-columns .content,
   #quarto-document-content {
-    max-width: calc(100vw - 2rem) !important;
-    width: min(100%, 350px) !important;
+    max-width: 100% !important;
+    width: 100% !important;
     min-width: 0 !important;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
     padding-left: 0;
     padding-right: 0;
     grid-column: auto !important;

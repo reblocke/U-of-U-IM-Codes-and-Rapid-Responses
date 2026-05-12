@@ -27,6 +27,16 @@ editor: visual
 
 ![Monomorphic VT](images/Monomorphic-ventricular-tachycardia-VT.jpg){width="500"}
 
+## Team interface prompt
+
+The medication history matters.
+
+Ask nursing/pharmacy:
+
+> "What QT-prolonging medications has she received, and when was the last dose?"
+
+Then say the rhythm plan out loud.
+
 ## Learning Points
 
 -   If pulseless, defibrillate. If unstable with pulse, synchronized cardioversion. If stable, Mg

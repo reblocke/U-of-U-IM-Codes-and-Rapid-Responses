@@ -39,6 +39,21 @@ CPR in progress, IV Access Obtained
 
 ![](images/clipboard-3109447781.png){fig-alt="Fine VF vs Coarse VF vs Asystole" width="1200"}
 
+## Team interface prompt
+
+The bedside nurse is recording events and knows the first rhythm seen on the monitor.
+
+Ask:
+
+> "What was the first rhythm, how long have compressions been going, and when is the next pulse check?"
+
+Assign:
+
+- recorder/timekeeper
+- compressor switch
+- defibrillator operator
+- medication nurse/pharmacist
+
 ## Teaching Points
 
 -   No shock for asystole.

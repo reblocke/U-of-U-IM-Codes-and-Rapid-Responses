@@ -5,13 +5,24 @@ title: "Facilitators"
 ## Instructor Materials
 
 - [Zoll simulation preceptor guide](assets/facilitators/zoll-simulation-preceptor-guide-2025-04-29.docx)
+- Nurse-response collaboration module: [Working with Nurse-Led Response Teams](slides/nurse_response.html)
+- Consolidated module: [Escalation, Disposition, and Closure](slides/escalation_closure.html)
 - [Course website QR slide](slides/qr.html)
 - [Annual maintenance checklist on GitHub](https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses/blob/main/MAINTENANCE.md)
+
+## Nurse-Team Co-Facilitation
+
+For the 2026 iteration, invite at least one nurse rapid response, code team, or critical care outreach lead to review the collaboration module before teaching.
+
+If feasible, include a nurse co-facilitator for one scenario station. Their role is to help learners practice how to ask for bedside context, clarify leadership, and close the loop without undermining nursing expertise.
 
 ## Session Setup
 
 - Confirm the 2026 pre- and post-session survey links before publishing.
 - Confirm site-specific rapid response, code blue, shock team, cath lab, brain attack, and VA transfer workflows.
+- Confirm whether each site has a nurse-led critical care outreach workflow before formal RRT activation.
+- Confirm how bedside nurses, charge nurses, outreach nurses, and critical care nurses expect residents to communicate during RRT/code events.
+- Decide which case station will explicitly assess the 30-second nursing/outreach huddle.
 - Confirm the Zoll model and defibrillator workflow learners will practice.
 - Keep public slides learner-safe; put facilitator prompts, case answers, and timing notes in the preceptor guide.
 
@@ -20,5 +31,8 @@ title: "Facilitators"
 - Survey links and QR codes.
 - Manual PDF and quick-reference screenshots.
 - Case order, scenario wording, and any site-specific changes.
+- Nurse/outreach feedback on whether the scripts match actual workflow.
+- Scenario notes about resident/nurse interface problems observed during simulation.
+- Any revised activation criteria or ownership expectations from nurse response teams.
 - References that materially affect resuscitation leadership, termination, family presence, or rapid response systems.
 - README, `CITATION.cff`, and release/archive notes.

@@ -1,0 +1,168 @@
+---
+title: "Escalation, Disposition, and Closure"
+author: "Slides by Sumit Patel, Alex Ryden, Brian Locke, and collaborators"
+format:
+  revealjs:
+    embed-resources: true
+editor: visual
+---
+
+## Escalation, disposition, and closure
+
+### Learners will practice:
+
+1. Deciding whether a rapid is becoming a code
+2. Calling for the right people early
+3. Choosing floor vs ICU vs procedure/transfer
+4. Managing the room without doing tasks
+5. Ending with handoff and debrief
+
+## Analyze the emergency
+
+### Stable or unstable?
+
+- ABCs
+- What help do you have?
+- What help will you need?
+- Is this patient safe where they are?
+
+## Resources vary across site
+
+| Who comes? | U of U | IMED | VA |
+|---|---|---|---|
+| RRT/MET | House Sup, IM Res, SICU RN, Pharm | IM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab | IM, MICU, CNO, RNs, RT, Pharmacy (7a-7p) |
+| Code Blue | add: Anesthesia, EMT, MICU resident, Pharm, ICU Fellow | add: ICU attendings | add: Anesthesia/ED |
+
+Verify site-specific workflows before the live 2026 session.
+
+## Paged to RRT at the VA
+
+- Elderly male who is hypoxemic immediately after a blood transfusion
+- RR 24, SpO2 82% on 2L
+
+Sick or not sick?
+
+Stable or unstable?
+
+What else do you need?
+
+## The patient worsens
+
+![](images/clipboard-1187290827.png){fig-alt="XR Chest Obtained During RRT" fig-align="center" width="800"}
+
+- Begins to tripod with accessory muscle use
+- Placed on 100% FiO2 via face mask
+- SpO2 remains in the upper 80s
+
+How has the situation changed?
+
+## Situations to escalate during a rapid
+
+| Question | Signal | Action |
+|---|---|---|
+| Will this be a code in 5 minutes? | airway, in extremis, peri-arrest | RRT -> Code early |
+| Brain attack? | focal deficit | call Brain Attack; know VA after-hours transfer workflow |
+| ICU-level nursing? | titratable drips, unsafe monitoring, repeated reassessment | call ICU early |
+
+## Situations needing extra resources
+
+| Concern | Action | Notes |
+|---|---|---|
+| STEMI or high suspicion | activate Cath Lab | all sites capable 24/7 |
+| Shock team | HF, few comorbidities, VT storm, high suspicion PE | U of U Shock Team; IMED PERT/TICU attending |
+| Airway | cannot oxygenate/ventilate, mental status unsafe | call anesthesia/code early |
+
+## Numbers and workflows vary
+
+| U of U | IMED | VA |
+|---|---|---|
+| Shock Team, Cath, Brain Attack, VAD: 1-2222 | Shock Team: Vocera TICU attending; Brain Attack: Operator/x33333 | Cath: Page Cardiology; Code: x6666; Brain Attack: Page Neuro Senior |
+
+## Room management
+
+If you are leading:
+
+- stand where you can see the room
+- move the bed out from the wall
+- lower the bed for CPR
+- clear nonessential people
+- assign roles by name or badge/function
+- do not become the task person
+
+## Room setup
+
+![Bed Management](images/clipboard-1132860432.png){fig-alt="Bed pulled out from wall for airway and compressor access" fig-align="center" width="900"}
+
+## Rapid response outcomes
+
+A rapid response should end with one of these:
+
+- code blue
+- ICU transfer
+- procedure / cath / imaging / transfer
+- stabilized on the floor
+- goals-of-care transition
+
+Always hand off to the team assuming care.
+
+## Code blue: when do you stop?
+
+Young patient. Seems like a PE.
+
+She has been in PEA at each pulse check.
+
+Resuscitation has been going on for 40 minutes.
+
+When do you stop?
+
+## How to think about duration
+
+[![](images/clipboard-1519849945.png){fig-alt="Study figure about resuscitation duration" width="500"}](https://doi.org/10.1136/bmj-2023-076019)
+
+[![BMJ. 2024 Feb 7:384:e076019](images/clipboard-1842920037.png){fig-alt="BMJ article screenshot about duration of resuscitation" width="500"}](https://doi.org/10.1136/bmj-2023-076019)
+
+## Factors that change duration
+
+Consider:
+
+- pre-arrest state
+- witnessed vs unwitnessed
+- monitored vs unmonitored
+- likely reversible cause
+- rhythm trajectory
+- EtCO2 and physiologic signs
+- family/surrogate context when available
+
+## Family presence
+
+![Use judgement, delegate attention, and try to include when possible](images/clipboard-3778670532.png){fig-alt="NEJM RCT on family presence during resuscitation" width="1200"}
+
+Use judgment.
+
+Delegate attention.
+
+Try to include when possible and safe.
+
+## How to end an unsuccessful attempted resuscitation
+
+Try:
+
+> "Does anyone have ideas we have not tried?"
+
+> "We are going to stop CPR at the next check unless the rhythm changes."
+
+Then:
+
+- thank team members
+- name death pronouncement workflow
+- assign family communication
+- set a time and location to debrief
+
+## Summary
+
+- Escalate early when the room is not safe enough.
+- Know what resources each site can bring.
+- Decide disposition before drifting away.
+- End with handoff, ownership, and debrief.
+
+[Return to Course Page](../ "Course Page")

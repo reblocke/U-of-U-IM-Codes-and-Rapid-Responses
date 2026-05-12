@@ -7,7 +7,7 @@ These modules are the brief teaching blocks we will walk through together at the
 ## Pre-Session Checklist
 
 - No required module review beforehand; we will spend the first 10 minutes walking through the micro-skill modules together.
-- Bring questions from real code/RRT experiences.
+- Bring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.
 - Note site-specific workflow uncertainties you want clarified.
 - Complete the 2026 pre-session survey when the link is released.
 
@@ -29,18 +29,18 @@ Practice shock/no-shock decisions, minimizing pauses, and using EtCO2 or other s
 :::
 
 ::: {.module-item}
-### 3. Resources and Escalation
+### 3. Working with Nurse-Led Response Teams
 
-Practice deciding whether the event is still a rapid, whether it is becoming a code, and what extra personnel or resources are needed.
+Practice the first 30 seconds of collaboration with bedside nurses, nurse-led rapid response teams, and critical care outreach nurses: role clarity, the nursing 30-second story, shared plan, and closed-loop ownership.
 
-[Open slides](slides/resources.html)
+[Open slides](slides/nurse_response.html)
 :::
 
 ::: {.module-item}
-### 4. Ending and Debriefing
+### 4. Escalation, Disposition, and Closure
 
-Practice ICU transfer decisions, floor handoffs, family presence, stopping an unsuccessful code, and setting a debrief.
+Practice deciding when a rapid is becoming a code, what resources are needed, where the patient should go, how to hand off, and how to debrief.
 
-[Open slides](slides/ending.html)
+[Open slides](slides/escalation_closure.html)
 :::
 :::

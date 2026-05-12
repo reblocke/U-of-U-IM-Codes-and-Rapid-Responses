@@ -4,11 +4,13 @@ title: "Scenarios"
 
 The scenarios are designed for in-person practice with the Zoll. Use the public slides for learner review; facilitator-specific prompts belong in the instructor guide.
 
+Each case now includes a brief resident/nurse-team interface prompt: who has bedside context, what the resident should ask, and how the plan should be closed-looped.
+
 ::: {.scenario-grid}
 ::: {.scenario-card}
 ### Case 1
 
-Pulseless patient with severe metabolic derangements. Focus: asystole versus fine VF and the less-bad error when uncertain.
+Pulseless patient with severe metabolic derangements. Focus: asystole versus fine VF, the less-bad error when uncertain, and using nurse recorder/timekeeper input during rhythm checks.
 
 [Open case](slides/case_1.html)
 :::
@@ -16,7 +18,7 @@ Pulseless patient with severe metabolic derangements. Focus: asystole versus fin
 ::: {.scenario-card}
 ### Case 2
 
-Pulseless VF/VT physiology with post-ROSC ECG decision-making. Focus: first shock and cause search.
+Pulseless VF/VT physiology with post-ROSC ECG decision-making. Focus: first shock, cause search, and closed-loop coordination with defibrillator/medication roles.
 
 [Open case](slides/case_2.html)
 :::
@@ -24,7 +26,7 @@ Pulseless VF/VT physiology with post-ROSC ECG decision-making. Focus: first shoc
 ::: {.scenario-card}
 ### Case 3
 
-Polymorphic VT/TdP after QT-prolonging medications. Focus: pulseless defibrillation versus unstable cardioversion versus stable magnesium.
+Polymorphic VT/TdP after QT-prolonging medications. Focus: pulseless defibrillation versus unstable cardioversion versus stable magnesium, plus pharmacy/nursing medication-history input.
 
 [Open case](slides/case_3.html)
 :::
@@ -32,7 +34,7 @@ Polymorphic VT/TdP after QT-prolonging medications. Focus: pulseless defibrillat
 ::: {.scenario-card}
 ### Case 4
 
-Unstable tachycardia during an RRT. Focus: rhythm interpretation, adenosine context, and escalation.
+Unstable tachycardia during an RRT. Focus: rhythm interpretation, adenosine context, escalation, and the first 30-second huddle with an outreach nurse already in the room.
 
 [Open case](slides/case_4.html)
 :::
@@ -40,7 +42,7 @@ Unstable tachycardia during an RRT. Focus: rhythm interpretation, adenosine cont
 ::: {.scenario-card}
 ### Case 5
 
-Bradycardia with hypotension and confusion. Focus: complete heart block, pacing pads, and transcutaneous pacing setup.
+Bradycardia with hypotension and confusion. Focus: complete heart block, pacing pads, transcutaneous pacing setup, sedation planning, and shared preparation with bedside nursing.
 
 [Open case](slides/case_5.html)
 :::

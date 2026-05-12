@@ -1,8 +1,8 @@
 # U of U IM Codes and Rapid Responses
 
-Course website and teaching materials for the **University of Utah Internal Medicine** residency seminar on **Code Blue** and **Rapid Response** team leadership.
+Course website and teaching materials for the **University of Utah Internal Medicine** residency seminar on **Code Blue**, **Rapid Response**, and resident collaboration with nurse-led response teams.
 
-- **Current site:** 2026 learner-facing update
+- **Current site:** 2026 learner-facing interdisciplinary update
 - **Live website:** <https://reblocke.github.io/U-of-U-IM-Codes-and-Rapid-Responses/>
 - **Source repository:** <https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses/>
 - **2025 archive:** <https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses/releases/tag/v2025.06>
@@ -20,8 +20,8 @@ Course website and teaching materials for the **University of Utah Internal Medi
 ## Teaching Module At A Glance
 
 - **Audience:** Rising PGY-2 residents who will lead Code Blue and Rapid Response teams.
-- **Learning objectives:** Assume and communicate leadership; identify VF/VT and defibrillate when indicated; escalate care and marshal resources; operate the Zoll R-Series defibrillator; conclude and debrief.
-- **Format:** Learner-facing website, short micro-skill slide modules, and in-person simulation scenarios.
+- **Learning objectives:** Assume and communicate leadership; identify VF/VT and defibrillate when indicated; work productively with bedside nurses, nurse-led response teams, and critical care outreach nurses; escalate care and marshal resources; conclude, hand off, and debrief.
+- **Format:** Learner-facing website, short micro-skill slide modules, in-person simulation scenarios, and facilitator notes for interprofessional co-teaching.
 
 ## Quick Start
 

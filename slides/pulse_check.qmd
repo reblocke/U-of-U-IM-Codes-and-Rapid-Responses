@@ -43,6 +43,14 @@ Only a few things **really** matter
 
 ![](images/clipboard-289981620.png){fig-alt="Zoll Feedback mode" fig-align="center" width="400"}
 
+## Make uncertainty public and brief
+
+During pulse checks, assign one person to speak for rhythm/pulse uncertainty.
+
+Try:
+
+> "Nurse recorder, please call out pause time. Team, rhythm first: shock or no shock?"
+
 ## CPR resumed but can't feel a pulse
 
 How else can we detect ROSC?
@@ -68,6 +76,8 @@ Summary:
 -   [**DO NOT MISS FINE V.Fib**]{.underline}
 
 -   Only allow, **at most**, a few seconds of CPR delay for intubation, Lucas, repositioning
+
+-   Make rhythm/pulse uncertainty public and brief.
 
 -   Use EtCO2!
 

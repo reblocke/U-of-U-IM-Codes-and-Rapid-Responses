@@ -7,7 +7,7 @@ format:
 ---
 
 ::: {.learner-hero}
-Learner hub for University of Utah Internal Medicine residents preparing to step into Code Blue and Rapid Response team leadership. Use this site before, during, and after the in-person session to orient to the micro-skills, scenarios, and resources.
+Learner hub for University of Utah Internal Medicine residents preparing to lead Code Blue and Rapid Response teams while working with bedside nurses, nurse-led response teams, and critical care outreach teams. Use this site before, during, and after the in-person session to orient to the micro-skills, scenarios, and resources.
 :::
 
 ## Start Here
@@ -17,7 +17,7 @@ Learner hub for University of Utah Internal Medicine residents preparing to step
 ### Before the Session
 
 - No required module review beforehand; we will spend the first 10 minutes walking through the micro-skill modules together.
-- Bring questions from real code/RRT experiences.
+- Bring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.
 - Complete the pre-session survey when the 2026 link is released.
 
 **Survey status:** 2026 link TBD.
@@ -28,6 +28,7 @@ Learner hub for University of Utah Internal Medicine residents preparing to step
 
 - Practice taking explicit leadership.
 - Interpret shockable and non-shockable rhythms out loud.
+- Practice a 30-second huddle with the bedside or outreach nurse.
 - Escalate resources early when the room is not safe enough.
 - Run hands-on Zoll and scenario practice.
 :::
@@ -37,7 +38,7 @@ Learner hub for University of Utah Internal Medicine residents preparing to step
 
 - Bookmark the resources page.
 - Revisit the case rhythm strips.
-- Send near-misses, big wins, or unclear workflows to the CMRs so this course stays current.
+- Send near-misses, big wins, or unclear resident/nursing workflows to the CMRs or course leads so this course stays current.
 
 **Post-session survey:** 2026 link TBD.
 :::
@@ -49,12 +50,12 @@ By the end of the session, learners should be able to:
 
 - Assume and communicate team leadership immediately on arrival.
 - Identify VF/VT on the monitor and deliver shocks when warranted.
-- Escalate care and marshal resources appropriately.
-- Operate the Zoll R-Series defibrillator safely and efficiently.
-- Conclude the event, hand off the patient, and set up a debrief.
+- Integrate bedside nurse, nurse-led rapid response, or critical care outreach input into the first assessment and plan.
+- Escalate care and marshal resources appropriately across U of U, IMED, and VA workflows.
+- Conclude the event, hand off ownership, and set up a brief debrief.
 
 ::: {.callout-tip}
-Didactics alone have limits. Regular review, simulation, and feedback after real events are what turn these skills into reflexes.
+Didactics alone have limits. Regular review, simulation, interprofessional practice, and feedback after real events are what turn these skills into reflexes.
 :::
 
 ## Course Map
@@ -63,7 +64,7 @@ Didactics alone have limits. Regular review, simulation, and feedback after real
 ::: {.link-card}
 ### Micro-Skill Modules
 
-Leadership, pulse-check decisions, resource escalation, and ending/debriefing.
+Leadership, pulse-check decisions, nurse-response collaboration, and escalation/closure.
 
 [Open modules](modules.qmd)
 :::
@@ -71,7 +72,7 @@ Leadership, pulse-check decisions, resource escalation, and ending/debriefing.
 ::: {.link-card}
 ### Practice Scenarios
 
-Five short code/RRT cases for in-person practice and later review.
+Five short code/RRT cases for Zoll practice, rhythm decisions, escalation, and resident/nurse-team communication.
 
 [Open scenarios](scenarios.qmd)
 :::
@@ -79,7 +80,7 @@ Five short code/RRT cases for in-person practice and later review.
 ::: {.link-card}
 ### Quick Resources
 
-ACLS card, site differences, rapid response guide, and QR/manual links.
+ACLS card, site differences, nurse-team huddle script, rapid response guide, and QR/manual links.
 
 [Open resources](resources.qmd)
 :::
@@ -95,12 +96,13 @@ Instructor guide, QR slide, and annual update checklist.
 
 ## Why This Course Exists
 
-Code Blue and Rapid Response leadership is not just algorithm recall. The resident leader has to make the room work: claim the leader role, make roles visible, keep communication psychologically safe, and escalate resources before the response stalls.
+Code Blue and Rapid Response leadership is not just algorithm recall. The resident leader has to make the room work: claim the leader role, make roles visible, keep communication psychologically safe, integrate bedside expertise, and escalate resources before the response stalls.
 
-Stakeholders from Code Blue and Rapid Response teams, including senior residents, nurses, respiratory therapists, and quality leads, identified three recurring hazards during resident-led responses:
+Stakeholders from Code Blue and Rapid Response teams, including senior residents, nurses, respiratory therapists, and quality leads, identified four recurring hazards during resident-led responses:
 
 1. Unclear team leadership, which can cause role confusion, low psychological safety, and decreased collaboration. [@steinbach_effective_2024]
 2. Failure to cardiovert or defibrillate shockable rhythms.
 3. Delayed critical decisions, including calling for help, initial stabilization, and transport to ICU.
+4. Poorly defined collaboration between residents and bedside nurses, nurse-led rapid response teams, or critical care outreach teams.
 
-This seminar targets those hazards through brief micro-skills, discussion, and hands-on scenarios.
+This seminar targets those hazards through brief micro-skills, discussion, hands-on scenarios, and interprofessional scripts that can be used during real events.

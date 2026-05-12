@@ -17,6 +17,16 @@ RRT activated for bradycardia 
 
 ![Rhythm? Initial Management Steps?](images/clipboard-873706907.png){width="1200"}
 
+## Team interface prompt
+
+The bedside nurse can help prepare pacing before the patient loses pulses.
+
+Ask:
+
+> "Are pads on? Who can help with sedation? Who is calling cardiology/ICU?"
+
+Do not wait until arrest to organize the room.
+
 ## EKG Analysis
 
 ![Options: transcutaneous pacing (+sedation), transvenous pacing (requires line, expertise)](images/clipboard-2262603552.png){width="1200"}
