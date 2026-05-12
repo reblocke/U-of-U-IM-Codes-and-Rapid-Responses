@@ -2,7 +2,14 @@
 title: "Modules"
 ---
 
-Each module is short enough to review before the session and concrete enough to use during a real response.
+These modules are the brief teaching blocks we will walk through together at the start of the session. They stay posted here for review afterward and for use during real responses.
+
+## Pre-Session Checklist
+
+- No required module review beforehand; we will spend the first 10 minutes walking through the micro-skill modules together.
+- Bring questions from real code/RRT experiences.
+- Note site-specific workflow uncertainties you want clarified.
+- Complete the 2026 pre-session survey when the link is released.
 
 ::: {.module-list}
 ::: {.module-item}
@@ -37,10 +44,3 @@ Practice ICU transfer decisions, floor handoffs, family presence, stopping an un
 [Open slides](slides/ending.html)
 :::
 :::
-
-## Pre-Session Checklist
-
-- Read the first slide of each module so the scenarios feel familiar.
-- Pay attention to phrases you can actually say in the room.
-- Note site-specific uncertainties and bring them to the session.
-- Complete the 2026 pre-session survey when the link is released.

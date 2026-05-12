@@ -45,7 +45,7 @@ The site is configured as a Quarto website and publishes from `docs/` for GitHub
 ├── facilitators.qmd     # instructor links and setup notes
 ├── references.qmd       # bibliography and external resources
 ├── slides/              # slide sources; render to docs/slides/
-├── assets/              # PDFs and other source assets copied into docs/
+├── assets/              # manuals, facilitator files, and other assets copied into docs/
 ├── images/              # learner-facing source images
 ├── Publications/        # analysis/archive material, not learner-facing site content
 └── docs/                # rendered website served by GitHub Pages

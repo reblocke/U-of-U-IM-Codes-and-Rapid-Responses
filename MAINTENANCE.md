@@ -10,13 +10,14 @@ Use this checklist before publishing each new cohort version.
 - Confirm the course website QR slide still points to the live site.
 - Replace the RRT/code manual PDF and manual QR images if the official guide changed.
 - Confirm site-specific team composition, call numbers, paging workflows, and after-hours differences.
-- Confirm instructor guide case wording, answer prompts, and scenario order.
+- Confirm preceptor guide case wording, answer prompts, timing notes, and scenario order.
 - Review references for material updates to resuscitation leadership, rapid response systems, family presence, and termination of resuscitation.
 
 ## Repository
 
 - Create a release tag for the prior cohort before large edits.
 - Keep learner-facing source in top-level `.qmd` files and `slides/*.qmd`.
+- Keep public facilitator assets in `assets/facilitators/` with descriptive filenames.
 - Treat `docs/` as rendered GitHub Pages output.
 - Keep publication and analysis work under `Publications/`, separate from learner-facing site maintenance.
 - Avoid committing local RStudio state, `.RData`, `.Rhistory`, or ad hoc render caches.

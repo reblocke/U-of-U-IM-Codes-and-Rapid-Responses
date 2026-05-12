@@ -256,21 +256,21 @@
     "href": "facilitators.html",
     "title": "Facilitators",
     "section": "",
-    "text": "Instructor’s guide to cases\nCourse website QR slide\nAnnual maintenance checklist on GitHub"
+    "text": "Zoll simulation preceptor guide\nCourse website QR slide\nAnnual maintenance checklist on GitHub"
   },
   {
     "objectID": "facilitators.html#instructor-materials",
     "href": "facilitators.html#instructor-materials",
     "title": "Facilitators",
     "section": "",
-    "text": "Instructor’s guide to cases\nCourse website QR slide\nAnnual maintenance checklist on GitHub"
+    "text": "Zoll simulation preceptor guide\nCourse website QR slide\nAnnual maintenance checklist on GitHub"
   },
   {
     "objectID": "facilitators.html#session-setup",
     "href": "facilitators.html#session-setup",
     "title": "Facilitators",
     "section": "Session Setup",
-    "text": "Session Setup\n\nConfirm the 2026 pre- and post-session survey links before publishing.\nConfirm site-specific rapid response, code blue, shock team, cath lab, brain attack, and VA transfer workflows.\nConfirm the Zoll model and defibrillator workflow learners will practice.\nKeep public slides learner-safe; put facilitator-only answers, prompts, and timing notes in the instructor guide."
+    "text": "Session Setup\n\nConfirm the 2026 pre- and post-session survey links before publishing.\nConfirm site-specific rapid response, code blue, shock team, cath lab, brain attack, and VA transfer workflows.\nConfirm the Zoll model and defibrillator workflow learners will practice.\nKeep public slides learner-safe; put facilitator prompts, case answers, and timing notes in the preceptor guide."
   },
   {
     "objectID": "facilitators.html#what-to-update-after-each-cohort",
@@ -284,21 +284,21 @@
     "href": "scenarios.html",
     "title": "Scenarios",
     "section": "",
-    "text": "The scenarios are designed for in-person practice with the Zoll. Use the public slides for learner review; facilitator-specific prompts belong in the instructor guide.\n\n\nCase 1\nPulseless patient with severe metabolic derangements. Focus: asystole versus fine VF and the less-bad error when uncertain.\nOpen case\n\n\nCase 2\nPulseless VF/VT physiology with post-ROSC ECG decision-making. Focus: first shock and cause search.\nOpen case\n\n\nCase 3\nPolymorphic VT/TdP after QT-prolonging medications. Focus: pulseless defibrillation versus unstable cardioversion versus stable magnesium.\nOpen case\n\n\nCase 4\nUnstable tachycardia during an RRT. Focus: rhythm interpretation, adenosine context, and escalation.\nOpen case\n\n\nCase 5\nBradycardia with hypotension and confusion. Focus: complete heart block, pacing pads, and transcutaneous pacing setup.\nOpen case\n\n\n\n\n\n\n\n\nNote\n\n\n\nNo public sixth-case source exists in the current 2026 site. Add one only if a complete scenario is ready for learners."
+    "text": "The scenarios are designed for in-person practice with the Zoll. Use the public slides for learner review; facilitator-specific prompts belong in the instructor guide.\n\n\nCase 1\nPulseless patient with severe metabolic derangements. Focus: asystole versus fine VF and the less-bad error when uncertain.\nOpen case\n\n\nCase 2\nPulseless VF/VT physiology with post-ROSC ECG decision-making. Focus: first shock and cause search.\nOpen case\n\n\nCase 3\nPolymorphic VT/TdP after QT-prolonging medications. Focus: pulseless defibrillation versus unstable cardioversion versus stable magnesium.\nOpen case\n\n\nCase 4\nUnstable tachycardia during an RRT. Focus: rhythm interpretation, adenosine context, and escalation.\nOpen case\n\n\nCase 5\nBradycardia with hypotension and confusion. Focus: complete heart block, pacing pads, and transcutaneous pacing setup.\nOpen case"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "2026 Code Blue and Rapid Response Seminar",
     "section": "",
-    "text": "Learner hub for University of Utah Internal Medicine residents preparing to lead Code Blue and Rapid Response teams. Use this site before, during, and after the in-person session.\nThe goal is not to memorize every algorithm; it is to practice the first decisions that make resident-led emergencies safer."
+    "text": "Learner hub for University of Utah Internal Medicine residents preparing to step into Code Blue and Rapid Response team leadership. Use this site before, during, and after the in-person session to orient to the micro-skills, scenarios, and resources."
   },
   {
     "objectID": "index.html#start-here",
     "href": "index.html#start-here",
     "title": "2026 Code Blue and Rapid Response Seminar",
     "section": "Start Here",
-    "text": "Start Here\n\n\nBefore the Session\n\nReview the four micro-skill modules.\nBring questions from real code/RRT experiences.\nComplete the pre-session survey when the 2026 link is released.\n\nSurvey status: 2026 link TBD.\n\n\nDuring the Session\n\nPractice taking explicit leadership.\nInterpret shockable and non-shockable rhythms out loud.\nEscalate resources early when the room is not safe enough.\nRun hands-on Zoll and scenario practice.\n\n\n\nAfter the Session\n\nBookmark the resources page.\nRevisit the case rhythm strips.\nSend near-misses, big wins, or unclear workflows to the CMRs so this course stays current.\n\nPost-session survey: 2026 link TBD."
+    "text": "Start Here\n\n\nBefore the Session\n\nNo required module review beforehand; we will spend the first 10 minutes walking through the micro-skill modules together.\nBring questions from real code/RRT experiences.\nComplete the pre-session survey when the 2026 link is released.\n\nSurvey status: 2026 link TBD.\n\n\nDuring the Session\n\nPractice taking explicit leadership.\nInterpret shockable and non-shockable rhythms out loud.\nEscalate resources early when the room is not safe enough.\nRun hands-on Zoll and scenario practice.\n\n\n\nAfter the Session\n\nBookmark the resources page.\nRevisit the case rhythm strips.\nSend near-misses, big wins, or unclear workflows to the CMRs so this course stays current.\n\nPost-session survey: 2026 link TBD."
   },
   {
     "objectID": "index.html#learning-objectives",
@@ -319,21 +319,21 @@
     "href": "index.html#why-this-course-exists",
     "title": "2026 Code Blue and Rapid Response Seminar",
     "section": "Why This Course Exists",
-    "text": "Why This Course Exists\nStakeholders from Code Blue and Rapid Response teams, including senior residents, nurses, respiratory therapists, and quality leads, identified three recurring hazards during resident-led responses:\n\nUnclear team leadership, which can cause role confusion, low psychological safety, and decreased collaboration. (Steinbach et al. 2024)\nFailure to cardiovert or defibrillate shockable rhythms.\nDelayed critical decisions, including calling for help, initial stabilization, and transport to ICU.\n\nThis seminar targets those hazards through brief micro-skills, discussion, and hands-on scenarios."
+    "text": "Why This Course Exists\nCode Blue and Rapid Response leadership is not just algorithm recall. The resident leader has to make the room work: claim the leader role, make roles visible, keep communication psychologically safe, and escalate resources before the response stalls.\nStakeholders from Code Blue and Rapid Response teams, including senior residents, nurses, respiratory therapists, and quality leads, identified three recurring hazards during resident-led responses:\n\nUnclear team leadership, which can cause role confusion, low psychological safety, and decreased collaboration. (Steinbach et al. 2024)\nFailure to cardiovert or defibrillate shockable rhythms.\nDelayed critical decisions, including calling for help, initial stabilization, and transport to ICU.\n\nThis seminar targets those hazards through brief micro-skills, discussion, and hands-on scenarios."
   },
   {
     "objectID": "modules.html",
     "href": "modules.html",
     "title": "Modules",
     "section": "",
-    "text": "Each module is short enough to review before the session and concrete enough to use during a real response."
+    "text": "These modules are the brief teaching blocks we will walk through together at the start of the session. They stay posted here for review afterward and for use during real responses."
   },
   {
     "objectID": "modules.html#pre-session-checklist",
     "href": "modules.html#pre-session-checklist",
     "title": "Modules",
     "section": "Pre-Session Checklist",
-    "text": "Pre-Session Checklist\n\nRead the first slide of each module so the scenarios feel familiar.\nPay attention to phrases you can actually say in the room.\nNote site-specific uncertainties and bring them to the session.\nComplete the 2026 pre-session survey when the link is released."
+    "text": "Pre-Session Checklist\n\nNo required module review beforehand; we will spend the first 10 minutes walking through the micro-skill modules together.\nBring questions from real code/RRT experiences.\nNote site-specific workflow uncertainties you want clarified.\nComplete the 2026 pre-session survey when the link is released.\n\n\n\n1. Leadership Skills\nPractice explicitly establishing who is leading, where to stand, and how to invite useful input from the team.\nOpen slides\n\n\n2. Pulse-Check Decisions\nPractice shock/no-shock decisions, minimizing pauses, and using EtCO2 or other signals when ROSC is uncertain.\nOpen slides\n\n\n3. Resources and Escalation\nPractice deciding whether the event is still a rapid, whether it is becoming a code, and what extra personnel or resources are needed.\nOpen slides\n\n\n4. Ending and Debriefing\nPractice ICU transfer decisions, floor handoffs, family presence, stopping an unsuccessful code, and setting a debrief.\nOpen slides"
   },
   {
     "objectID": "resources.html",
@@ -368,7 +368,7 @@
     "href": "resources.html#rapid-response-guide",
     "title": "Resources",
     "section": "Rapid Response Guide",
-    "text": "Rapid Response Guide\n\nOpen the RRT/Code guide PDF\n\n\n\n\n\n\n\nWarning\n\n\n\nBefore the 2026 session, replace the manual PDF and QR images if the official guide changes."
+    "text": "Rapid Response Guide\n\nOpen the RRT/Code guide PDF"
   },
   {
     "objectID": "summary.html",

@@ -14,7 +14,6 @@ project:
 resources:
   - assets/**
   - images/**
-  - 2025-4-29 EK Preceptor.ZollSim.docx
 
 website:
   title: "U of U IM Codes and Rapid Responses"

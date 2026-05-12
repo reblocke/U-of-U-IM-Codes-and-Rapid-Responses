@@ -7,9 +7,7 @@ format:
 ---
 
 ::: {.learner-hero}
-Learner hub for University of Utah Internal Medicine residents preparing to lead Code Blue and Rapid Response teams. Use this site before, during, and after the in-person session.
-
-The goal is not to memorize every algorithm; it is to practice the first decisions that make resident-led emergencies safer.
+Learner hub for University of Utah Internal Medicine residents preparing to step into Code Blue and Rapid Response team leadership. Use this site before, during, and after the in-person session to orient to the micro-skills, scenarios, and resources.
 :::
 
 ## Start Here
@@ -18,7 +16,7 @@ The goal is not to memorize every algorithm; it is to practice the first decisio
 ::: {.hub-card}
 ### Before the Session
 
-- Review the four micro-skill modules.
+- No required module review beforehand; we will spend the first 10 minutes walking through the micro-skill modules together.
 - Bring questions from real code/RRT experiences.
 - Complete the pre-session survey when the 2026 link is released.
 
@@ -96,6 +94,8 @@ Instructor guide, QR slide, and annual update checklist.
 :::
 
 ## Why This Course Exists
+
+Code Blue and Rapid Response leadership is not just algorithm recall. The resident leader has to make the room work: claim the leader role, make roles visible, keep communication psychologically safe, and escalate resources before the response stalls.
 
 Stakeholders from Code Blue and Rapid Response teams, including senior residents, nurses, respiratory therapists, and quality leads, identified three recurring hazards during resident-led responses:
 

@@ -45,7 +45,3 @@ Bradycardia with hypotension and confusion. Focus: complete heart block, pacing 
 [Open case](slides/case_5.html)
 :::
 :::
-
-::: {.callout-note}
-No public sixth-case source exists in the current 2026 site. Add one only if a complete scenario is ready for learners.
-:::

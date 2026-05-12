@@ -31,7 +31,3 @@ Quick reference materials for Code Blue and Rapid Response leadership.
 [Open the RRT/Code guide PDF](assets/manuals/RRTCodeManual.051425.pdf)
 
 [![](images/clipboard-228707769.png){fig-alt="QR code for the RRT and Code manual" width="250"}](assets/manuals/RRTCodeManual.051425.pdf)
-
-::: {.callout-warning}
-Before the 2026 session, replace the manual PDF and QR images if the official guide changes.
-:::
