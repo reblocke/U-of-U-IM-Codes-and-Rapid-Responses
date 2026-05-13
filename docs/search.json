@@ -249,7 +249,7 @@
     "href": "facilitators.html#nurse-team-co-facilitation",
     "title": "Facilitators",
     "section": "Nurse-Team Co-Facilitation",
-    "text": "Nurse-Team Co-Facilitation\nFor the 2026 iteration, invite at least one nurse rapid response, code team, or critical care outreach lead to review the collaboration module before teaching.\nIf feasible, include a nurse co-facilitator for one scenario station. Their role is to help learners practice how to ask for bedside context, clarify leadership, and close the loop without undermining nursing expertise."
+    "text": "Nurse-Team Co-Facilitation\nFor the 2026 iteration, invite at least one nurse rapid response, code team, or critical care outreach lead to review the collaboration module before teaching.\nIf feasible, include a nurse co-facilitator for one scenario station. Their role is to help learners practice how to ask for bedside context, clarify leadership, and close the loop without undermining nursing expertise.\nUse this nurse-response debrief checklist after the station:\n\nDid the resident identify who was coordinating?\nDid the resident ask the bedside nurse for trajectory?\nDid the resident ask outreach what had already been tried?\nDid the resident make the working problem and immediate plan public?\nDid the resident respond constructively to nursing concern?\nDid the resident close the loop on orders, disposition, ownership, and escalation trigger?"
   },
   {
     "objectID": "facilitators.html#session-setup",
@@ -319,7 +319,7 @@
     "href": "modules.html#pre-session-checklist",
     "title": "Modules",
     "section": "Pre-Session Checklist",
-    "text": "Pre-Session Checklist\n\nNo required module review beforehand; we will spend the first 10 minutes walking through the micro-skill modules together.\nBring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.\nNote site-specific workflow uncertainties you want clarified.\nComplete the 2026 pre-session survey when the link is released.\n\n\n\n1. Leadership Skills\nPractice naming who is leading, anchoring the room, stating the working plan, and inviting concern before action.\nOpen slides\n\n\n2. Pulse-Check Decisions\nPractice preparing pulse checks, making shock/no-shock calls, protecting compression pauses, and using EtCO2 or other signs when ROSC is uncertain.\nOpen slides\n\n\n3. Working with Nurse-Led Response Teams\nPractice the first 30 seconds of collaboration with bedside nurses, nurse-led rapid response teams, and critical care outreach nurses: role clarity, the nursing 30-second story, shared plan, and closed-loop ownership.\nOpen slides\n\n\n4. Escalation, Disposition, and Closure\nPractice deciding when a rapid is becoming a code, what resources are needed, where the patient should go, how to hand off, and how to debrief.\nOpen slides"
+    "text": "Pre-Session Checklist\n\nNo required module review beforehand; we will spend the first 10 minutes walking through the micro-skill modules together.\nBring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.\nNote site-specific workflow uncertainties you want clarified.\nComplete the 2026 pre-session survey when the link is released.\n\n\n\n1. Leadership Skills\nPractice naming who is leading, anchoring the room, stating the working plan, and inviting concern before action.\nOpen slides\n\n\n2. Pulse-Check Decisions\nPractice preparing pulse checks, making shock/no-shock calls, protecting compression pauses, and using EtCO2 or other signs when ROSC is uncertain.\nOpen slides\n\n\n3. Working with Nurse-Led Response Teams\nPractice aligning bedside nursing, outreach nursing, and resident medical leadership in the first 60 seconds: role clarity, nursing trajectory, shared plan, orders, ownership, and escalation trigger.\nOpen slides\n\n\n4. Escalation, Disposition, and Closure\nPractice deciding when a rapid is becoming a code, what resources are needed, where the patient should go, how to hand off, and how to debrief.\nOpen slides"
   },
   {
     "objectID": "resources.html",
@@ -613,70 +613,70 @@
     "href": "slides/nurse_response.html#working-with-nurse-led-response-teams",
     "title": "Working with Nurse-Led Response Teams",
     "section": "Working with nurse-led response teams",
-    "text": "Working with nurse-led response teams\nLearners will practice:\n\nClarifying who is leading\nGetting the nursing 30-second story\nStating the working problem and first plan\nUsing the nurse/outreach lead as a safety partner\nClosing the loop on orders, disposition, and ownership"
+    "text": "Working with nurse-led response teams\nAlign roles, trajectory, and plan in the first 60 seconds\nLearners will practice:\n\nClarifying roles\nHearing trajectory\nAligning the plan\nClosing the loop"
   },
   {
     "objectID": "slides/nurse_response.html#why-this-matters",
     "href": "slides/nurse_response.html#why-this-matters",
     "title": "Working with Nurse-Led Response Teams",
     "section": "Why this matters",
-    "text": "Why this matters\nIn many deteriorating-patient events, the bedside nurse or critical care outreach nurse has already:\n\nrecognized the trajectory\nstarted stabilization\ngathered unit-specific context\ncalled for help\nanticipated what the patient may need next\n\nYou need that information early."
+    "text": "Why this matters\nIn many deteriorating-patient events, the bedside nurse or critical care outreach nurse is already working the problem.\nThey may already know:\n\nwhat changed\nwhat has been tried\nwhat failed\nwhat resources are missing\nwhether the patient feels unsafe for the unit\n\nThe resident adds:\n\nmedical synthesis\norders\nescalation\ndisposition\nphysician-to-physician communication\n\nNursing team owns trajectory and unit reality. Resident owns synthesis, orders, and escalation. The shared task is alignment.\nGoal: one shared plan."
   },
   {
     "objectID": "slides/nurse_response.html#case-start",
     "href": "slides/nurse_response.html#case-start",
     "title": "Working with Nurse-Led Response Teams",
     "section": "Case start",
-    "text": "Case start\nYou are called to an RRT.\nA critical care outreach nurse and bedside nurse are already in the room. The patient is tachypneic, newly confused, and on escalating oxygen.\nThe primary intern is present but quiet. The charge nurse is trying to find the primary team.\nWhat is your first sentence?"
+    "text": "Case start\nYou are called because a bedside nurse asked the critical care outreach nurse to assess a patient.\nFormal RRT has not yet been called.\nThe patient is newly confused, tachypneic, and on escalating oxygen.\nThe outreach nurse is at bedside. The primary intern is present but quiet. The charge nurse is looking for the primary team.\nPrompt: What are your first two sentences?"
   },
   {
-    "objectID": "slides/nurse_response.html#move-1-name-the-leadership-state",
-    "href": "slides/nurse_response.html#move-1-name-the-leadership-state",
+    "objectID": "slides/nurse_response.html#move-1-name-the-role-state",
+    "href": "slides/nurse_response.html#move-1-name-the-role-state",
     "title": "Working with Nurse-Led Response Teams",
-    "section": "Move 1: Name the leadership state",
-    "text": "Move 1: Name the leadership state\nTry:\n\n“I’m [name], the medicine resident/code resident. Who is currently coordinating this response?”\n\nThen choose one:\n\n“Okay, I’ll run the rapid.”\n“Can I take over?”\n“Okay, how can I help?”\n\nDo not leave leadership ambiguous."
+    "section": "Move 1: Name the role state",
+    "text": "Move 1: Name the role state\nTry:\n\n“I’m [name], the senior medicine resident responding. Who is currently coordinating?”\n\nThen choose:\n\n“Okay, I’ll lead the medical response.”\n“I’ll support while outreach coordinates.”\n“I’ll consult on the medical plan while outreach coordinates.”\n“Let’s transition leadership now.”\n“Who is placing orders, and who is making final disposition decisions?”\n\nDo not leave leadership, orders, or disposition ownership ambiguous."
   },
   {
-    "objectID": "slides/nurse_response.html#move-2-ask-for-the-nursing-30-second-story",
-    "href": "slides/nurse_response.html#move-2-ask-for-the-nursing-30-second-story",
+    "objectID": "slides/nurse_response.html#move-2-get-the-right-story-from-the-right-person",
+    "href": "slides/nurse_response.html#move-2-get-the-right-story-from-the-right-person",
     "title": "Working with Nurse-Led Response Teams",
-    "section": "Move 2: Ask for the nursing 30-second story",
-    "text": "Move 2: Ask for the nursing 30-second story\nAsk the bedside or outreach nurse:\n\n“Can I get the 30-second story: what changed, what have you already tried, and what are you most worried about?”\n\nListen for:\n\ntrajectory\ntrigger for concern\ntherapies already attempted\nmissing resources\nwhether this is about to become a code"
+    "section": "Move 2: Get the right story from the right person",
+    "text": "Move 2: Get the right story from the right person\nAsk by role:\n\n“Bedside nurse: what changed, and over what time?”\n\n\n“Outreach nurse: what have you tried, and what worries you most?”\n\n\n“Primary team: baseline, code status, and active plan?”\n\n\n“Charge nurse: what resources are missing?”\n\nThen stop talking long enough to hear the answer."
   },
   {
-    "objectID": "slides/nurse_response.html#move-3-say-the-working-problem-and-first-plan",
-    "href": "slides/nurse_response.html#move-3-say-the-working-problem-and-first-plan",
+    "objectID": "slides/nurse_response.html#move-3-make-the-shared-plan-public",
+    "href": "slides/nurse_response.html#move-3-make-the-shared-plan-public",
     "title": "Working with Nurse-Led Response Teams",
-    "section": "Move 3: Say the working problem and first plan",
-    "text": "Move 3: Say the working problem and first plan\nMake your thinking public:\n\n“I think this is acute hypoxemic respiratory failure with possible shock. In the next two minutes: nonrebreather, ABG/VBG, CXR, two IVs, lactate, cultures, and call ICU now.”\n\nThen assign roles.\nIf the plan changes, say so out loud."
+    "section": "Move 3: Make the shared plan public",
+    "text": "Move 3: Make the shared plan public\nUse a reusable structure:\n\n“My working problem is [problem].”\n\n\n“The next two-minute plan is [plan].”\n\n\n“The risk I’m watching for is [risk].”\n\n\n“If [trigger], we will [escalation step].”\n\nExample:\n\n“My working problem is acute hypoxemic respiratory failure. Next two minutes: nonrebreather, repeat vitals, IV access, blood gas, CXR, and I’ll call ICU. If sats stay below 90 or mental status worsens, we call a code.”"
   },
   {
-    "objectID": "slides/nurse_response.html#move-4-use-the-nurseoutreach-lead-as-a-safety-partner",
-    "href": "slides/nurse_response.html#move-4-use-the-nurseoutreach-lead-as-a-safety-partner",
+    "objectID": "slides/nurse_response.html#move-4-make-nursing-concern-actionable",
+    "href": "slides/nurse_response.html#move-4-make-nursing-concern-actionable",
     "title": "Working with Nurse-Led Response Teams",
-    "section": "Move 4: Use the nurse/outreach lead as a safety partner",
-    "text": "Move 4: Use the nurse/outreach lead as a safety partner\nAsk:\n\n“What am I missing?”\n\n\n“What worries you most right now?”\n\n\n“What resources do we need that are not in the room?”\n\nIf the nurse says the patient is unsafe, slow down and reassess."
+    "section": "Move 4: Make nursing concern actionable",
+    "text": "Move 4: Make nursing concern actionable\nAsk:\n\n“What am I missing?”\n\n\n“What makes this patient feel unsafe to you?”\n\n\n“What would make you call a code right now?”\n\nThen respond:\n\n“I agree. Let’s escalate now.”\n\n\n“I’m not there yet, but here is the trigger.”\n\n\n“Let’s call ICU or the attending together while we keep stabilizing.”\n\nA nursing concern is not just data. It is a risk signal."
   },
   {
-    "objectID": "slides/nurse_response.html#move-5-close-the-loop",
-    "href": "slides/nurse_response.html#move-5-close-the-loop",
+    "objectID": "slides/nurse_response.html#move-5-close-the-loop-before-leaving",
+    "href": "slides/nurse_response.html#move-5-close-the-loop-before-leaving",
     "title": "Working with Nurse-Led Response Teams",
-    "section": "Move 5: Close the loop",
-    "text": "Move 5: Close the loop\nBefore leaving, make these explicit:\n\ndisposition: floor, ICU, code, procedure, transfer\norders: who is placing them\nownership: who is managing the patient now\ncommunication: who calls family / attending / ICU\ndebrief: when and where"
+    "section": "Move 5: Close the loop before leaving",
+    "text": "Move 5: Close the loop before leaving\nBefore leaving, make four things explicit:\n\ndisposition: floor, ICU, procedure, code, transfer\norders: who is placing them\nownership: who is managing the patient now\ntrigger: what change should activate RRT, ICU, or code response"
+  },
+  {
+    "objectID": "slides/nurse_response.html#common-failure-modes",
+    "href": "slides/nurse_response.html#common-failure-modes",
+    "title": "Working with Nurse-Led Response Teams",
+    "section": "Common failure modes",
+    "text": "Common failure modes\n\nTaking over without acknowledging what has already been done\nAsking for a full chart review instead of a trajectory\nGiving a verbal plan without orders or an owner\nLeaving the room without a disposition or trigger\nTreating nursing concern as anxiety rather than clinical signal"
   },
   {
     "objectID": "slides/nurse_response.html#practice-script",
     "href": "slides/nurse_response.html#practice-script",
     "title": "Working with Nurse-Led Response Teams",
     "section": "Practice script",
-    "text": "Practice script\nUse this in the room:\n\n“Let’s huddle for 30 seconds. I’m running the rapid unless someone else is. Bedside nurse, what changed? Outreach, what are you worried about? My working problem is [problem]. Our immediate plan is [plan]. If [trigger] happens, call a code.”"
-  },
-  {
-    "objectID": "slides/nurse_response.html#summary",
-    "href": "slides/nurse_response.html#summary",
-    "title": "Working with Nurse-Led Response Teams",
-    "section": "Summary",
-    "text": "Summary\n\nName leadership.\nAsk for the nursing 30-second story.\nState the working problem and first plan.\nTreat the nurse/outreach lead as a safety partner.\nClose the loop before leaving.\n\nReturn to Course Page"
+    "text": "Practice script\nSay this out loud:\n\n“Let’s huddle for 30 seconds. I’m [name], responding as the senior medicine resident. Who is coordinating? Bedside nurse, what changed? Outreach, what have you tried and what worries you most? Primary team, baseline and code status? My working problem is [problem]. The immediate plan is [plan]. If [trigger], we will [escalation step]. Orders are owned by [name], and disposition is [plan]. What are we missing?”\n\nSummary:\n\nName the role state.\nHear the nursing trajectory.\nMake the shared plan public.\nClose the loop on disposition, orders, ownership, and trigger.\n\nReturn to Course Page"
   },
   {
     "objectID": "slides/qr.html#course-webpage",

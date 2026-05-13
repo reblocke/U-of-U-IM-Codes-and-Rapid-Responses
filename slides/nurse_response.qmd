@@ -9,108 +9,145 @@ editor: visual
 
 ## Working with nurse-led response teams
 
-### Learners will practice:
+### Align roles, trajectory, and plan in the first 60 seconds
 
-1. Clarifying who is leading
-2. Getting the nursing 30-second story
-3. Stating the working problem and first plan
-4. Using the nurse/outreach lead as a safety partner
-5. Closing the loop on orders, disposition, and ownership
+Learners will practice:
+
+1. Clarifying roles
+2. Hearing trajectory
+3. Aligning the plan
+4. Closing the loop
 
 ## Why this matters
 
-In many deteriorating-patient events, the bedside nurse or critical care outreach nurse has already:
+In many deteriorating-patient events, the bedside nurse or critical care outreach nurse is already working the problem.
 
-- recognized the trajectory
-- started stabilization
-- gathered unit-specific context
-- called for help
-- anticipated what the patient may need next
+They may already know:
 
-You need that information early.
+- what changed
+- what has been tried
+- what failed
+- what resources are missing
+- whether the patient feels unsafe for the unit
+
+The resident adds:
+
+- medical synthesis
+- orders
+- escalation
+- disposition
+- physician-to-physician communication
+
+Nursing team owns trajectory and unit reality. Resident owns synthesis, orders, and escalation. The shared task is alignment.
+
+**Goal: one shared plan.**
 
 ## Case start
 
-You are called to an RRT.
+You are called because a bedside nurse asked the critical care outreach nurse to assess a patient.
 
-A critical care outreach nurse and bedside nurse are already in the room. The patient is tachypneic, newly confused, and on escalating oxygen.
+Formal RRT has not yet been called.
 
-The primary intern is present but quiet. The charge nurse is trying to find the primary team.
+The patient is newly confused, tachypneic, and on escalating oxygen.
 
-What is your first sentence?
+The outreach nurse is at bedside. The primary intern is present but quiet. The charge nurse is looking for the primary team.
 
-## Move 1: Name the leadership state
+**Prompt:** What are your first two sentences?
+
+## Move 1: Name the role state
 
 Try:
 
-> "I'm [name], the medicine resident/code resident. Who is currently coordinating this response?"
+> "I'm [name], the senior medicine resident responding. Who is currently coordinating?"
 
-Then choose one:
+Then choose:
 
-- "Okay, I'll run the rapid."
-- "Can I take over?"
-- "Okay, how can I help?"
+- "Okay, I'll lead the medical response."
+- "I'll support while outreach coordinates."
+- "I'll consult on the medical plan while outreach coordinates."
+- "Let's transition leadership now."
+- "Who is placing orders, and who is making final disposition decisions?"
 
-Do not leave leadership ambiguous.
+Do not leave leadership, orders, or disposition ownership ambiguous.
 
-## Move 2: Ask for the nursing 30-second story
+## Move 2: Get the right story from the right person
 
-Ask the bedside or outreach nurse:
+Ask by role:
 
-> "Can I get the 30-second story: what changed, what have you already tried, and what are you most worried about?"
+> "Bedside nurse: what changed, and over what time?"
 
-Listen for:
+> "Outreach nurse: what have you tried, and what worries you most?"
 
-- trajectory
-- trigger for concern
-- therapies already attempted
-- missing resources
-- whether this is about to become a code
+> "Primary team: baseline, code status, and active plan?"
 
-## Move 3: Say the working problem and first plan
+> "Charge nurse: what resources are missing?"
 
-Make your thinking public:
+Then stop talking long enough to hear the answer.
 
-> "I think this is acute hypoxemic respiratory failure with possible shock. In the next two minutes: nonrebreather, ABG/VBG, CXR, two IVs, lactate, cultures, and call ICU now."
+## Move 3: Make the shared plan public
 
-Then assign roles.
+Use a reusable structure:
 
-If the plan changes, say so out loud.
+> "My working problem is [problem]."
 
-## Move 4: Use the nurse/outreach lead as a safety partner
+> "The next two-minute plan is [plan]."
+
+> "The risk I'm watching for is [risk]."
+
+> "If [trigger], we will [escalation step]."
+
+Example:
+
+> "My working problem is acute hypoxemic respiratory failure. Next two minutes: nonrebreather, repeat vitals, IV access, blood gas, CXR, and I'll call ICU. If sats stay below 90 or mental status worsens, we call a code."
+
+## Move 4: Make nursing concern actionable
 
 Ask:
 
 > "What am I missing?"
 
-> "What worries you most right now?"
+> "What makes this patient feel unsafe to you?"
 
-> "What resources do we need that are not in the room?"
+> "What would make you call a code right now?"
 
-If the nurse says the patient is unsafe, slow down and reassess.
+Then respond:
 
-## Move 5: Close the loop
+> "I agree. Let's escalate now."
 
-Before leaving, make these explicit:
+> "I'm not there yet, but here is the trigger."
 
-- disposition: floor, ICU, code, procedure, transfer
+> "Let's call ICU or the attending together while we keep stabilizing."
+
+**A nursing concern is not just data. It is a risk signal.**
+
+## Move 5: Close the loop before leaving
+
+Before leaving, make four things explicit:
+
+- disposition: floor, ICU, procedure, code, transfer
 - orders: who is placing them
 - ownership: who is managing the patient now
-- communication: who calls family / attending / ICU
-- debrief: when and where
+- trigger: what change should activate RRT, ICU, or code response
+
+## Common failure modes
+
+- Taking over without acknowledging what has already been done
+- Asking for a full chart review instead of a trajectory
+- Giving a verbal plan without orders or an owner
+- Leaving the room without a disposition or trigger
+- Treating nursing concern as anxiety rather than clinical signal
 
 ## Practice script
 
-Use this in the room:
+Say this out loud:
 
-> "Let's huddle for 30 seconds. I'm running the rapid unless someone else is. Bedside nurse, what changed? Outreach, what are you worried about? My working problem is [problem]. Our immediate plan is [plan]. If [trigger] happens, call a code."
+> "Let's huddle for 30 seconds. I'm [name], responding as the senior medicine resident. Who is coordinating? Bedside nurse, what changed? Outreach, what have you tried and what worries you most? Primary team, baseline and code status? My working problem is [problem]. The immediate plan is [plan]. If [trigger], we will [escalation step]. Orders are owned by [name], and disposition is [plan]. What are we missing?"
 
-## Summary
+Summary:
 
-- Name leadership.
-- Ask for the nursing 30-second story.
-- State the working problem and first plan.
-- Treat the nurse/outreach lead as a safety partner.
-- Close the loop before leaving.
+1. Name the role state.
+2. Hear the nursing trajectory.
+3. Make the shared plan public.
+4. Close the loop on disposition, orders, ownership, and trigger.
 
 [Return to Course Page](../ "Course Page")

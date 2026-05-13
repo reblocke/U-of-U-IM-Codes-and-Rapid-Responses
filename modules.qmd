@@ -31,7 +31,7 @@ Practice preparing pulse checks, making shock/no-shock calls, protecting compres
 ::: {.module-item}
 ### 3. Working with Nurse-Led Response Teams
 
-Practice the first 30 seconds of collaboration with bedside nurses, nurse-led rapid response teams, and critical care outreach nurses: role clarity, the nursing 30-second story, shared plan, and closed-loop ownership.
+Practice aligning bedside nursing, outreach nursing, and resident medical leadership in the first 60 seconds: role clarity, nursing trajectory, shared plan, orders, ownership, and escalation trigger.
 
 [Open slides](slides/nurse_response.html)
 :::

@@ -16,6 +16,15 @@ For the 2026 iteration, invite at least one nurse rapid response, code team, or 
 
 If feasible, include a nurse co-facilitator for one scenario station. Their role is to help learners practice how to ask for bedside context, clarify leadership, and close the loop without undermining nursing expertise.
 
+Use this nurse-response debrief checklist after the station:
+
+- Did the resident identify who was coordinating?
+- Did the resident ask the bedside nurse for trajectory?
+- Did the resident ask outreach what had already been tried?
+- Did the resident make the working problem and immediate plan public?
+- Did the resident respond constructively to nursing concern?
+- Did the resident close the loop on orders, disposition, ownership, and escalation trigger?
+
 ## Session Setup
 
 - Confirm the 2026 pre- and post-session survey links before publishing.
