@@ -37,4 +37,10 @@ Then state whether this is stable, unstable, or peri-arrest.
 
 ![](images/clipboard-3582567695.png){width="1200"}
 
+## Teaching Points
+
+-   Adenosine is for stable, regular, monomorphic tachycardia when SVT or regular monomorphic WCT is possible. Do not give it for unstable, irregular, or polymorphic WCT.
+
+-   If the rhythm is narrow and fast, decide whether it is causing instability or reflecting another problem.
+
 [Return to Course Page](../ "Course Page")

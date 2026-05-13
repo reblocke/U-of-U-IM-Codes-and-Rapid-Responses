@@ -66,4 +66,6 @@ Assign:
 
     -   If unsure, make the less bad error.
 
+-   Calcium, bicarbonate, and insulin-glucose are cause-directed treatments for suspected hyperkalemia. They are not routine arrest medications.
+
 [Return to Course Page](../ "Course Page")

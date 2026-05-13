@@ -46,7 +46,7 @@
     "href": "slides/pulse_check.html#second-pulse-check",
     "title": "Pulse-Check Decisions: The 10-Second Decision",
     "section": "Second pulse check",
-    "text": "Second pulse check\nNo palpable pulse\n\nAirway team ready to intubate, asks for a moment before resuming compressionsAnswer:\n\n“Compressions now. Airway, keep working during CPR. We’ll give you the next planned pause only if you’re ready.”\n\nAirway does not own the pause."
+    "text": "Second pulse check\nNo palpable pulse\n\nAirway team ready to intubate, asks for a moment before resuming compressionsAnswer:\n\n“Airway, keep working during compressions. We’ll give you the next planned pause only if you are ready.”\n\n\n“If intubation will interrupt CPR, put in an LMA.”\n\nAirway does not own the pause."
   },
   {
     "objectID": "slides/pulse_check.html#what-really-matters",
@@ -179,7 +179,14 @@
     "href": "slides/case_4.html#analysis",
     "title": "Case 4",
     "section": "Analysis:",
-    "text": "Analysis:\n\nReturn to Course Page"
+    "text": "Analysis:"
+  },
+  {
+    "objectID": "slides/case_4.html#teaching-points",
+    "href": "slides/case_4.html#teaching-points",
+    "title": "Case 4",
+    "section": "Teaching Points",
+    "text": "Teaching Points\n\nAdenosine is for stable, regular, monomorphic tachycardia when SVT or regular monomorphic WCT is possible. Do not give it for unstable, irregular, or polymorphic WCT.\nIf the rhythm is narrow and fast, decide whether it is causing instability or reflecting another problem.\n\nReturn to Course Page"
   },
   {
     "objectID": "slides/case_2.html#case-2",
@@ -210,6 +217,13 @@
     "text": "Post-ROSC EKG\n\nNext step?"
   },
   {
+    "objectID": "slides/case_2.html#after-rosc-stabilize-before-you-celebrate",
+    "href": "slides/case_2.html#after-rosc-stabilize-before-you-celebrate",
+    "title": "Case 2",
+    "section": "After ROSC: stabilize before you celebrate",
+    "text": "After ROSC: stabilize before you celebrate\n\n12-lead ECG as soon as feasible.\nOxygen: 100% until reliable SpO2/PaO2, then SpO2 90-98%.\nVentilation: PaCO2 35-45 if comatose and ventilated.\nPressure: avoid hypotension; minimum MAP &gt;=65.\nIf unresponsive: protocolized temperature control &gt;=36 hours.\nAsk: coronary, PE, tamponade, hemorrhage, pneumothorax, toxic/metabolic?"
+  },
+  {
     "objectID": "slides/case_2.html#team-interface-prompt",
     "href": "slides/case_2.html#team-interface-prompt",
     "title": "Case 2",
@@ -221,14 +235,14 @@
     "href": "slides/case_2.html#teaching-points",
     "title": "Case 2",
     "section": "Teaching Points",
-    "text": "Teaching Points\n\nTime to first shock is critical in VF\nRole of antiarrhythmics is adjunctive, not primary\nVF/VT: Think.. acute MI (sudden, chest pain), electrolyte derangements, drug toxicity\n\nReturn to Course Page"
+    "text": "Teaching Points\n\nTime to first shock is critical in VF\nRole of antiarrhythmics is adjunctive, not primary\nPersisting VF/pVT: follow device energy strategy; if unsure, maximum biphasic energy is reasonable. Protect compression fraction and confirm pads/contact. Do not teach routine DSED/vector-change as standard care.\nVF/VT: Think.. acute MI (sudden, chest pain), electrolyte derangements, drug toxicity\n\nReturn to Course Page"
   },
   {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "References\n\n(Steinbach et al. 2024)\n(Janssens and Marshall 2024)\n(Guetterman et al. 2019)\n(Pallas et al. 2021)\n(Okubo et al. 2024)\n(American Heart Association 2025a)\n(American Heart Association 2025b)\n(Holmberg et al. 2025)\n(Ghantarchyan et al. 2024)\n(Schull et al. 2001)\n(Ueno et al. 2024)\n(Crowley et al. 2024)\n(Jabre et al. 2013)\n(Stolldorf and Jones 2015)\n(Littmann et al. 2013)\n(Norvik et al. 2022)\n\nAmerican Heart Association. 2025a. Adult Cardiac Arrest Algorithm. https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Accessible/Algorithm-ACLS-CA-LngDscrp-250725-Ed.pdf?sc_lang=en.\n\n\nAmerican Heart Association. 2025b. Highlights of the 2025 American Heart Association Guidelines for CPR and ECC. https://cpr.heart.org/-/media/CPR-Files/2025-documents-for-cpr-heart-edits-posting/Resuscitation-Science/252500_Hghlghts_2025ECCGuidelines.pdf?sc_lang=en.\n\n\nCrowley, Conor, Justin Salciccioli, Wei Wang, Tomoyoshi Tamura, Edy Y. Kim, and Ari Moskowitz. 2024. “The Association Between Mechanical CPR and Outcomes from in-Hospital Cardiac Arrest: An Observational Cohort Study.” Resuscitation 198 (May): 110142. https://doi.org/10.1016/j.resuscitation.2024.110142.\n\n\nGhantarchyan, Henrik, Alexander T. Phan, Jasmine Toor, et al. 2024. “Improving A Rapid Response System at a Teaching Hospital: Lessons Learned From Implementation of a Novel Performance Self-Evaluation Tool.” CHEST, ahead of print, November. https://doi.org/10.1016/j.chest.2024.10.055.\n\n\nGuetterman, Timothy C, Joan E Kellenberg, Sarah L Krein, et al. 2019. “Nursing Roles for in-Hospital Cardiac Arrest Response: Higher Versus Lower Performing Hospitals.” BMJ Quality &Amp; Safety 28 (11): 916. https://doi.org/10.1136/bmjqs-2019-009487.\n\n\nHolmberg, Mathias J., Asger Granfeldt, Ari Moskowitz, et al. 2025. “Termination of Resuscitation Rules for In-Hospital Cardiac Arrest.” JAMA Internal Medicine 185 (4): 391–97. https://doi.org/10.1001/jamainternmed.2024.7814.\n\n\nJabre, Patricia, Vanessa Belpomme, Elie Azoulay, et al. 2013. “Family Presence During Cardiopulmonary Resuscitation.” New England Journal of Medicine 368 (11): 1008–18. https://doi.org/10.1056/NEJMoa1203366.\n\n\nJanssens, Sarah, and Stuart Marshall. 2024. “Leadership in Emergency Teams: Time to Look Beyond ‘The Leader’.” CHEST 166 (5): 913–15. https://doi.org/10.1016/j.chest.2024.06.008.\n\n\nLittmann, Laszlo, Devin J. Bustin, and Michael W. Haley. 2013. “A Simplified and Structured Teaching Tool for the Evaluation and Management of Pulseless Electrical Activity.” Medical Principles and Practice 23 (1): 1–6. https://doi.org/10.1159/000354195.\n\n\nNorvik, Anders, Eirik Unneland, Daniel Bergum, et al. 2022. “Pulseless Electrical Activity in in-Hospital Cardiac Arrest–a Crossroad for Decisions.” Resuscitation 176: 117–24. https://doi.org/10.1016/j.resuscitation.2022.04.024.\n\n\nOkubo, Masashi, Sho Komukai, Lars W Andersen, et al. 2024. “Duration of Cardiopulmonary Resuscitation and Outcomes for Adults with in-Hospital Cardiac Arrest: Retrospective Cohort Study.” BMJ 384 (February): e076019. https://doi.org/10.1136/bmj-2023-076019.\n\n\nPallas, Jeremy David, John Paul Smiles, and Michael Zhang. 2021. “Cardiac Arrest Nurse Leadership (CANLEAD) Trial: A Simulation-Based Randomised Controlled Trial Implementation of a New Cardiac Arrest Role to Facilitate Cognitive Offload for Medical Team Leaders.” Emergency Medicine Journal 38 (8): 572. https://doi.org/10.1136/emermed-2019-209298.\n\n\nSchull, Michael J., Lorraine E. Ferris, Jack V. Tu, Janet E. Hux, and Donald A. Redelmeier. 2001. “Problems for Clinical Judgement: 3. Thinking Clearly in an Emergency.” Canadian Medical Association Journal 164 (8): 1170. http://www.cmaj.ca/content/164/8/1170.abstract.\n\n\nSteinbach, Trevor C., Ann L. Jennerich, and Başak Çoruh. 2024. “Effective Behaviors of Leaders During Clinical Emergencies: A Qualitative Study of Followers’ Perspectives.” CHEST 166 (5): 1141–50. https://doi.org/10.1016/j.chest.2024.05.011.\n\n\nStolldorf, Deonni P., and Cheryl B. Jones. 2015. “Deployment of Rapid Response Teams by 31 Hospitals in a Statewide Collaborative.” The Joint Commission Journal on Quality and Patient Safety 41 (4): 186–AP3. https://doi.org/10.1016/S1553-7250(15)41024-4.\n\n\nUeno, Ryo, Rachel Chan, Mallikarjuna Ponnapa Reddy, Daryl Jones, David Pilcher, and Ashwin Subramaniam. 2024. “Long-Term Survival Comparison of Patients Admitted to the Intensive Care Unit Following in-Hospital Cardiac Arrest in Perioperative and Ward Settings. A Multicentre Retrospective Cohort Study.” Intensive Care Medicine 50 (9): 1496–505. https://doi.org/10.1007/s00134-024-07570-w.\n\n\n\nOther Learning Resources\n\nCritical Care Time Podcast, communication skills\nReddit thread on getting better at rapid responses"
+    "text": "References\n\n(Steinbach et al. 2024)\n(Janssens and Marshall 2024)\n(Guetterman et al. 2019)\n(Pallas et al. 2021)\n(Okubo et al. 2024)\n(American Heart Association 2025a)\n(American Heart Association 2025e)\n(American Heart Association 2025c)\n(American Heart Association 2025d)\n(American Heart Association 2025b)\n(Holmberg et al. 2025)\n(Ghantarchyan et al. 2024)\n(Schull et al. 2001)\n(Ueno et al. 2024)\n(Crowley et al. 2024)\n(Jabre et al. 2013)\n(Stolldorf and Jones 2015)\n(Littmann et al. 2013)\n(Norvik et al. 2022)\n\nAmerican Heart Association. 2025a. Adult Cardiac Arrest Algorithm. https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Accessible/Algorithm-ACLS-CA-LngDscrp-250725-Ed.pdf?sc_lang=en.\n\n\nAmerican Heart Association. 2025b. Highlights of the 2025 American Heart Association Guidelines for CPR and ECC. https://cpr.heart.org/-/media/CPR-Files/2025-documents-for-cpr-heart-edits-posting/Resuscitation-Science/252500_Hghlghts_2025ECCGuidelines.pdf?sc_lang=en.\n\n\nAmerican Heart Association. 2025c. Part 10: Adult and Pediatric Special Circumstances of Resuscitation. https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-and-pediatric-special-circumstances-of-resuscitation.\n\n\nAmerican Heart Association. 2025d. Part 11: Post-Cardiac Arrest Care. https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/post-cardiac-arrest-care.\n\n\nAmerican Heart Association. 2025e. Part 9: Adult Advanced Life Support. https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support.\n\n\nCrowley, Conor, Justin Salciccioli, Wei Wang, Tomoyoshi Tamura, Edy Y. Kim, and Ari Moskowitz. 2024. “The Association Between Mechanical CPR and Outcomes from in-Hospital Cardiac Arrest: An Observational Cohort Study.” Resuscitation 198 (May): 110142. https://doi.org/10.1016/j.resuscitation.2024.110142.\n\n\nGhantarchyan, Henrik, Alexander T. Phan, Jasmine Toor, et al. 2024. “Improving A Rapid Response System at a Teaching Hospital: Lessons Learned From Implementation of a Novel Performance Self-Evaluation Tool.” CHEST, ahead of print, November. https://doi.org/10.1016/j.chest.2024.10.055.\n\n\nGuetterman, Timothy C, Joan E Kellenberg, Sarah L Krein, et al. 2019. “Nursing Roles for in-Hospital Cardiac Arrest Response: Higher Versus Lower Performing Hospitals.” BMJ Quality &Amp; Safety 28 (11): 916. https://doi.org/10.1136/bmjqs-2019-009487.\n\n\nHolmberg, Mathias J., Asger Granfeldt, Ari Moskowitz, et al. 2025. “Termination of Resuscitation Rules for In-Hospital Cardiac Arrest.” JAMA Internal Medicine 185 (4): 391–97. https://doi.org/10.1001/jamainternmed.2024.7814.\n\n\nJabre, Patricia, Vanessa Belpomme, Elie Azoulay, et al. 2013. “Family Presence During Cardiopulmonary Resuscitation.” New England Journal of Medicine 368 (11): 1008–18. https://doi.org/10.1056/NEJMoa1203366.\n\n\nJanssens, Sarah, and Stuart Marshall. 2024. “Leadership in Emergency Teams: Time to Look Beyond ‘The Leader’.” CHEST 166 (5): 913–15. https://doi.org/10.1016/j.chest.2024.06.008.\n\n\nLittmann, Laszlo, Devin J. Bustin, and Michael W. Haley. 2013. “A Simplified and Structured Teaching Tool for the Evaluation and Management of Pulseless Electrical Activity.” Medical Principles and Practice 23 (1): 1–6. https://doi.org/10.1159/000354195.\n\n\nNorvik, Anders, Eirik Unneland, Daniel Bergum, et al. 2022. “Pulseless Electrical Activity in in-Hospital Cardiac Arrest–a Crossroad for Decisions.” Resuscitation 176: 117–24. https://doi.org/10.1016/j.resuscitation.2022.04.024.\n\n\nOkubo, Masashi, Sho Komukai, Lars W Andersen, et al. 2024. “Duration of Cardiopulmonary Resuscitation and Outcomes for Adults with in-Hospital Cardiac Arrest: Retrospective Cohort Study.” BMJ 384 (February): e076019. https://doi.org/10.1136/bmj-2023-076019.\n\n\nPallas, Jeremy David, John Paul Smiles, and Michael Zhang. 2021. “Cardiac Arrest Nurse Leadership (CANLEAD) Trial: A Simulation-Based Randomised Controlled Trial Implementation of a New Cardiac Arrest Role to Facilitate Cognitive Offload for Medical Team Leaders.” Emergency Medicine Journal 38 (8): 572. https://doi.org/10.1136/emermed-2019-209298.\n\n\nSchull, Michael J., Lorraine E. Ferris, Jack V. Tu, Janet E. Hux, and Donald A. Redelmeier. 2001. “Problems for Clinical Judgement: 3. Thinking Clearly in an Emergency.” Canadian Medical Association Journal 164 (8): 1170. http://www.cmaj.ca/content/164/8/1170.abstract.\n\n\nSteinbach, Trevor C., Ann L. Jennerich, and Başak Çoruh. 2024. “Effective Behaviors of Leaders During Clinical Emergencies: A Qualitative Study of Followers’ Perspectives.” CHEST 166 (5): 1141–50. https://doi.org/10.1016/j.chest.2024.05.011.\n\n\nStolldorf, Deonni P., and Cheryl B. Jones. 2015. “Deployment of Rapid Response Teams by 31 Hospitals in a Statewide Collaborative.” The Joint Commission Journal on Quality and Patient Safety 41 (4): 186–AP3. https://doi.org/10.1016/S1553-7250(15)41024-4.\n\n\nUeno, Ryo, Rachel Chan, Mallikarjuna Ponnapa Reddy, Daryl Jones, David Pilcher, and Ashwin Subramaniam. 2024. “Long-Term Survival Comparison of Patients Admitted to the Intensive Care Unit Following in-Hospital Cardiac Arrest in Perioperative and Ward Settings. A Multicentre Retrospective Cohort Study.” Intensive Care Medicine 50 (9): 1496–505. https://doi.org/10.1007/s00134-024-07570-w.\n\n\n\nOther Learning Resources\n\nCritical Care Time Podcast, communication skills\nReddit thread on getting better at rapid responses"
   },
   {
     "objectID": "facilitators.html",
@@ -270,7 +284,7 @@
     "href": "scenarios.html",
     "title": "Scenarios",
     "section": "",
-    "text": "The scenarios are designed for in-person practice with the Zoll. Use the public slides for learner review; facilitator-specific prompts belong in the instructor guide.\nEach case now includes a brief resident/nurse-team interface prompt: who has bedside context, what the resident should ask, and how the plan should be closed-looped.\n\n\nCase 1\nPulseless patient with severe metabolic derangements. Focus: asystole versus fine VF, the less-bad error when uncertain, and using nurse recorder/timekeeper input during rhythm checks.\nOpen case\n\n\nCase 2\nPulseless VF/VT physiology with post-ROSC ECG decision-making. Focus: first shock, cause search, and closed-loop coordination with defibrillator/medication roles.\nOpen case\n\n\nCase 3\nPolymorphic VT/TdP after QT-prolonging medications. Focus: pulseless defibrillation versus unstable cardioversion versus stable magnesium, plus pharmacy/nursing medication-history input.\nOpen case\n\n\nCase 4\nUnstable tachycardia during an RRT. Focus: rhythm interpretation, adenosine context, escalation, and the first 30-second huddle with an outreach nurse already in the room.\nOpen case\n\n\nCase 5\nBradycardia with hypotension and confusion. Focus: complete heart block, pacing pads, transcutaneous pacing setup, sedation planning, and shared preparation with bedside nursing.\nOpen case"
+    "text": "The scenarios are designed for in-person practice with the Zoll. Use the public slides for learner review; facilitator-specific prompts belong in the instructor guide.\nEach case now includes a brief resident/nurse-team interface prompt: who has bedside context, what the resident should ask, and how the plan should be closed-looped.\n\n\nCase 1\nPulseless patient with severe metabolic derangements. Focus: asystole versus fine VF, the less-bad error when uncertain, and using nurse recorder/timekeeper input during rhythm checks.\nOpen case\n\n\nCase 2\nPulseless VF/VT physiology with post-ROSC decision-making. Focus: first shock, persisting VF/pVT guardrails, post-ROSC stabilization, and cause search.\nOpen case\n\n\nCase 3\nPolymorphic VT/TdP after QT-prolonging medications. Focus: immediate unsynchronized high-energy shock for sustained polymorphic VT, long-QT/TdP recognition, and pharmacy/nursing medication-history input.\nOpen case\n\n\nCase 4\nTachycardia during an RRT. Focus: rhythm interpretation, stability assessment, adenosine guardrails, escalation, and the first 30-second huddle.\nOpen case\n\n\nCase 5\nBradycardia with hypotension and confusion. Focus: complete heart block, atropine limits, pacing pads, transcutaneous pacing setup, sedation planning, and shared preparation with bedside nursing.\nOpen case"
   },
   {
     "objectID": "index.html",
@@ -410,7 +424,7 @@
     "href": "slides/case_1.html#teaching-points",
     "title": "Case 1",
     "section": "Teaching Points",
-    "text": "Teaching Points\n\nNo shock for asystole.\n\n\n\nBut, always confirm not fine VF\n\nEnroll your colleagues help\nIf unsure, make the less bad error.\n\n\nReturn to Course Page"
+    "text": "Teaching Points\n\nNo shock for asystole.\n\n\n\nBut, always confirm not fine VF\n\nEnroll your colleagues help\nIf unsure, make the less bad error.\n\nCalcium, bicarbonate, and insulin-glucose are cause-directed treatments for suspected hyperkalemia. They are not routine arrest medications.\n\nReturn to Course Page"
   },
   {
     "objectID": "slides/case_3.html#case-3",
@@ -452,7 +466,7 @@
     "href": "slides/case_3.html#learning-points",
     "title": "Case 3",
     "section": "Learning Points",
-    "text": "Learning Points\n\nIf pulseless, defibrillate. If unstable with pulse, synchronized cardioversion. If stable, Mg\nQT prolongation more dangerous with slow HR\n\nReturn to Course Page"
+    "text": "Learning Points\n\nSustained polymorphic VT is unstable: shock immediately with unsynchronized high-energy defibrillation because synchronization may fail. If recurrent TdP with long QT, give magnesium, address bradycardia/QT drivers, and ask for expert help for overdrive pacing or isoproterenol.\nQT prolongation more dangerous with slow HR\n\nReturn to Course Page"
   },
   {
     "objectID": "slides/case_5.html#case-5",
@@ -487,7 +501,7 @@
     "href": "slides/case_5.html#teaching-points",
     "title": "Case 5",
     "section": "Teaching Points:",
-    "text": "Teaching Points:\n\nComplete heart block = AV dissociation.\nAtropine ineffective in infranodal blocks.\nAlways have pacing pads in place during rapid responses.\n\nTranscutaneous pacing will require sedation\n\n\nReturn to Course Page"
+    "text": "Teaching Points:\n\nComplete heart block = AV dissociation.\nAtropine is reasonable in unstable bradycardia, but do not wait on it when high-grade or infranodal block is likely. Prepare pacing/pressors and transvenous pacing early.\nAlways have pacing pads in place during rapid responses.\n\nTranscutaneous pacing will require sedation\n\n\nReturn to Course Page"
   },
   {
     "objectID": "slides/escalation_closure.html#escalation-disposition-and-closure",
@@ -536,14 +550,28 @@
     "href": "slides/escalation_closure.html#how-long-to-continue",
     "title": "Escalation, Disposition, and Closure",
     "section": "How long to continue?",
-    "text": "How long to continue?\nDefault = 30 minutes.\n\n\nLonger\n\nwitnessed/monitored\nshockable or improving\nreversible cause in progress\npossible ROSC\nbridge option\n\n\nShorter\n\nunwitnessed/unmonitored\nasystole/PEA without change\nno reversible target\nno ROSC signs\nno bridge option"
+    "text": "How long to continue?\nAround 30 minutes, make an explicit stop/continue huddle. This is an anchor, not a stopping rule.\nModify earlier or later based on rhythm trajectory, witnessed/monitored status, reversible causes, ROSC signs, bridge options, goals, and team input."
+  },
+  {
+    "objectID": "slides/escalation_closure.html#modify-the-anchor",
+    "href": "slides/escalation_closure.html#modify-the-anchor",
+    "title": "Escalation, Disposition, and Closure",
+    "section": "Modify the anchor",
+    "text": "Modify the anchor\n\n\nLonger\n\nwitnessed/monitored\nshockable or improving\nreversible cause in progress\npossible ROSC\nbridge option\n\n\nShorter\n\nunwitnessed/unmonitored\nasystole/PEA without change\nno reversible target\nno ROSC signs\nno bridge option"
   },
   {
     "objectID": "slides/escalation_closure.html#duration-informs-prognosis",
     "href": "slides/escalation_closure.html#duration-informs-prognosis",
     "title": "Escalation, Disposition, and Closure",
     "section": "Duration informs prognosis",
-    "text": "Duration informs prognosis\n\nDuration matters. It is not the decision.\nDo not use EtCO2 alone as a stopping rule."
+    "text": "Duration informs prognosis"
+  },
+  {
+    "objectID": "slides/escalation_closure.html#what-duration-does-not-decide",
+    "href": "slides/escalation_closure.html#what-duration-does-not-decide",
+    "title": "Escalation, Disposition, and Closure",
+    "section": "What duration does not decide",
+    "text": "What duration does not decide\nDuration matters. It informs the huddle; it does not decide alone.\nETCO2 alone should not decide stopping or continuing.\nOut-of-hospital TOR rules do not automatically decide in-hospital codes."
   },
   {
     "objectID": "slides/escalation_closure.html#how-to-stop-acls",

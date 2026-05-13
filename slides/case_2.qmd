@@ -39,6 +39,15 @@ On initial assessment, pulses are absent.
 
 ![Next step?](images/clipboard-2836008990.png){fig-alt="Post-ROSC EKG" fig-align="center" width="1200"}
 
+## After ROSC: stabilize before you celebrate
+
+-   12-lead ECG as soon as feasible.
+-   Oxygen: 100% until reliable SpO2/PaO2, then SpO2 90-98%.
+-   Ventilation: PaCO2 35-45 if comatose and ventilated.
+-   Pressure: avoid hypotension; minimum MAP >=65.
+-   If unresponsive: protocolized temperature control >=36 hours.
+-   Ask: coronary, PE, tamponade, hemorrhage, pneumothorax, toxic/metabolic?
+
 ## Team interface prompt
 
 The nurse who called the code saw the telemetry alarm and knows when the patient lost pulses.
@@ -54,6 +63,8 @@ Close the loop on shock timing and post-ROSC ECG.
 -   Time to first shock is critical in VF
 
 -   Role of antiarrhythmics is adjunctive, not primary
+
+-   Persisting VF/pVT: follow device energy strategy; if unsure, maximum biphasic energy is reasonable. Protect compression fraction and confirm pads/contact. Do not teach routine DSED/vector-change as standard care.
 
 -   VF/VT: Think.. **acute MI (**sudden, **chest pain)**, **electrolyte derangements**, **drug toxicity**
 

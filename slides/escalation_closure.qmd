@@ -77,7 +77,11 @@ Try:
 
 ## How long to continue?
 
-**Default = 30 minutes.**
+Around 30 minutes, make an explicit stop/continue huddle. This is an anchor, not a stopping rule.
+
+Modify earlier or later based on rhythm trajectory, witnessed/monitored status, reversible causes, ROSC signs, bridge options, goals, and team input.
+
+## Modify the anchor
 
 :::: columns
 ::: {.column width="50%"}
@@ -105,9 +109,13 @@ Try:
 
 [![](images/clipboard-1519849945.png){fig-alt="Probability of favorable functional status at discharge decreases as CPR duration increases, stratified by witnessed versus unwitnessed arrest." width="720"}](https://doi.org/10.1136/bmj-2023-076019)
 
-Duration matters. It is not the decision.
+## What duration does not decide
 
-Do not use EtCO2 alone as a stopping rule.
+Duration matters. It informs the huddle; it does not decide alone.
+
+ETCO2 alone should not decide stopping or continuing.
+
+Out-of-hospital TOR rules do not automatically decide in-hospital codes.
 
 ## How to stop ACLS
 

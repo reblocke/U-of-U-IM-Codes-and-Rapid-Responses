@@ -39,7 +39,7 @@ Then say the rhythm plan out loud.
 
 ## Learning Points
 
--   If pulseless, defibrillate. If unstable with pulse, synchronized cardioversion. If stable, Mg
+-   Sustained polymorphic VT is unstable: shock immediately with unsynchronized high-energy defibrillation because synchronization may fail. If recurrent TdP with long QT, give magnesium, address bradycardia/QT drivers, and ask for expert help for overdrive pacing or isoproterenol.
 
 -   QT prolongation more dangerous with slow HR
 

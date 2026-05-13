@@ -34,7 +34,7 @@ Do not wait until arrest to organize the room.
 ## Teaching Points: 
 
 -   Complete heart block = AV dissociation.
--   Atropine ineffective in infranodal blocks.
+-   Atropine is reasonable in unstable bradycardia, but do not wait on it when high-grade or infranodal block is likely. Prepare pacing/pressors and transvenous pacing early.
 -   Always have pacing pads in place during rapid responses.
     -   Transcutaneous pacing will require sedation
 

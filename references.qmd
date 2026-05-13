@@ -13,6 +13,12 @@
 
 [@american_heart_association_adult_2025]
 
+[@american_heart_association_adult_advanced_life_support_2025]
+
+[@american_heart_association_special_circumstances_2025]
+
+[@american_heart_association_post_cardiac_arrest_2025]
+
 [@american_heart_association_highlights_2025]
 
 [@holmberg_termination_2025]

@@ -66,7 +66,9 @@ If uncertain:
 
 **Answer:**
 
-> "Compressions now. Airway, keep working during CPR. We'll give you the next planned pause only if you're ready."
+> "Airway, keep working during compressions. We'll give you the next planned pause only if you are ready."
+
+> "If intubation will interrupt CPR, put in an LMA."
 
 Airway does not own the pause.
 
