@@ -52,13 +52,9 @@ If uncertain:
 
 1. Turn up gain.
 2. Check leads/connection.
-3. Ask one rhythm voice.
-4. If it could be VF/pVT, shock.
+3. Voice your uncertainty.
+4. If it could be VF/pVT, shock (consider consequences of each error).
 5. If not, resume CPR.
-
-Script:
-
-> "Uncertain rhythm. Gain up. Is anyone seeing VF? If yes, shock. If not, compressions now."
 
 ![Coarse vs fine ventricular fibrillation](images/clipboard-939422357.png){fig-alt="Coarse vs fine ventricular fibrillation" fig-align="center" width="1200"}
 
@@ -87,17 +83,21 @@ Everything else has to fit around those.
 
 ## Make uncertainty public and brief
 
+Name what is uncertain, then name the action.
+
 Try:
 
-> "Recorder, call out pause time."
+> "I am uncertain whether this is fine VF or asystole. Gain up and check leads now."
 
-> "Rhythm first: shock or no shock?"
+> "If this could be VF/pVT after the quick check, we shock. If not, compressions resume."
 
-> "Pulse checker: pulse or no pulse?"
+> "Possible ROSC. At the next check: rhythm, pulse, waveform."
 
-> "At 10 seconds, compressions resume."
+> "If not convincing, resume compressions."
 
-## ROSC is a confirmation problem
+## Confirming ROSC can be hard
+
+Consider the consequences of each error.
 
 ::::: columns
 ::: {.column width="58%"}
@@ -133,7 +133,7 @@ Suggested answer:
 
 **Do not miss fine VF.**
 
-**Do not donate pauses to procedures.**
+**Do not prolong pauses for procedures.**
 
 **Do not keep uncertainty private.**
 

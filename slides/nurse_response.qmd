@@ -9,36 +9,27 @@ editor: visual
 
 ## Working with nurse-led response teams
 
-### Align roles, trajectory, and plan in the first 60 seconds
+### Align decisions, expertise, and plan in the first 60 seconds
 
 Learners will practice:
 
-1. Clarifying roles
-2. Hearing trajectory
-3. Aligning the plan
+1. Naming key decisions
+2. Finding who has patient-specific expertise
+3. Making the decision logic public
 4. Closing the loop
 
-## Why this matters
+## Nurse/outreach teams are a resource
 
-In many deteriorating-patient events, the bedside nurse or critical care outreach nurse is already working the problem.
+Bedside and outreach nurses are often already working the problem.
 
-They may already know:
+They may know:
 
-- what changed
-- what has been tried
-- what failed
+- what changed and how fast
+- what has been tried or failed
 - what resources are missing
 - whether the patient feels unsafe for the unit
 
-The resident adds:
-
-- medical synthesis
-- orders
-- escalation
-- disposition
-- physician-to-physician communication
-
-Nursing team owns trajectory and unit reality. Resident owns synthesis, orders, and escalation. The shared task is alignment.
+The resident adds synthesis, orders, escalation, and disposition.
 
 **Goal: one shared plan.**
 
@@ -52,102 +43,82 @@ The patient is newly confused, tachypneic, and on escalating oxygen.
 
 The outreach nurse is at bedside. The primary intern is present but quiet. The charge nurse is looking for the primary team.
 
-**Prompt:** What are your first two sentences?
+**Prompt:** What decisions do you need to make, and who can help?
 
-## Move 1: Name the role state
+## Move 1: Name the key decisions
 
 Try:
 
-> "I'm [name], the senior medicine resident responding. Who is currently coordinating?"
-
-Then choose:
-
-- "Okay, I'll lead the medical response."
-- "I'll support while outreach coordinates."
-- "I'll consult on the medical plan while outreach coordinates."
-- "Let's transition leadership now."
-- "Who is placing orders, and who is making final disposition decisions?"
-
-Do not leave leadership, orders, or disposition ownership ambiguous.
-
-## Move 2: Get the right story from the right person
-
-Ask by role:
-
-> "Bedside nurse: what changed, and over what time?"
-
-> "Outreach nurse: what have you tried, and what worries you most?"
-
-> "Primary team: baseline, code status, and active plan?"
-
-> "Charge nurse: what resources are missing?"
-
-Then stop talking long enough to hear the answer.
-
-## Move 3: Make the shared plan public
-
-Use a reusable structure:
-
-> "My working problem is [problem]."
-
-> "The next two-minute plan is [plan]."
-
-> "The risk I'm watching for is [risk]."
-
-> "If [trigger], we will [escalation step]."
-
-Example:
-
-> "My working problem is acute hypoxemic respiratory failure. Next two minutes: nonrebreather, repeat vitals, IV access, blood gas, CXR, and I'll call ICU. If sats stay below 90 or mental status worsens, we call a code."
-
-## Move 4: Make nursing concern actionable
+> "I'm [name], the senior medicine resident responding. Let's name the decisions we need to make right now."
 
 Ask:
 
-> "What am I missing?"
+- What problem are we treating first?
+- Is the patient safe here?
+- What information would change our plan?
+- What resource or destination decision is coming next?
 
-> "What makes this patient feel unsafe to you?"
+Decision ownership still matters. First, improve decision quality by getting the right expertise into the plan.
 
-> "What would make you call a code right now?"
+## Move 2: Find the expertise
 
-Then respond:
+Ask for the knowledge you need:
 
-> "I agree. Let's escalate now."
+> "Bedside nurse: what changed from baseline?"
 
-> "I'm not there yet, but here is the trigger."
+> "Outreach nurse: what have you tried, and what worries you most?"
 
-> "Let's call ICU or the attending together while we keep stabilizing."
+> "Primary team: baseline, code status, active plan?"
 
-**A nursing concern is not just data. It is a risk signal.**
+> "Charge nurse: what resource is missing?"
 
-## Move 5: Close the loop before leaving
+Then listen before committing to a plan.
 
-Before leaving, make four things explicit:
+## Move 3: Make the shared plan public
 
-- disposition: floor, ICU, procedure, code, transfer
-- orders: who is placing them
-- ownership: who is managing the patient now
-- trigger: what change should activate RRT, ICU, or code response
+Use the same structure:
+
+> "I think [problem] is the issue. I'm worried about [risk]. My plan is [plan]."
+
+Then ask:
+
+> "What are we missing?"
+
+## Move 4: Make concern actionable
+
+> "What feels unsafe?"
+
+> "What trigger should move us now?"
+
+Name a trigger. Escalate together.
+
+Concern is a risk signal.
+
+## Move 5: Close before leaving
+
+Check with the team, then name:
+
+- disposition
+- order owner
+- patient owner
+- trigger
+
+> "Before I leave, what concerns are we missing?"
 
 ## Common failure modes
 
-- Taking over without acknowledging what has already been done
-- Asking for a full chart review instead of a trajectory
-- Giving a verbal plan without orders or an owner
-- Leaving the room without a disposition or trigger
-- Treating nursing concern as anxiety rather than clinical signal
+- Ignore work already done
+- Ask for chart review, not trajectory
+- Give a plan without an owner
+- Leave without destination or trigger
+- Treat concern as anxiety
+- Miss team expertise
 
-## Practice script
+## Summary
 
-Say this out loud:
-
-> "Let's huddle for 30 seconds. I'm [name], responding as the senior medicine resident. Who is coordinating? Bedside nurse, what changed? Outreach, what have you tried and what worries you most? Primary team, baseline and code status? My working problem is [problem]. The immediate plan is [plan]. If [trigger], we will [escalation step]. Orders are owned by [name], and disposition is [plan]. What are we missing?"
-
-Summary:
-
-1. Name the role state.
-2. Hear the nursing trajectory.
+1. Name the key decisions.
+2. Find the patient-specific expertise.
 3. Make the shared plan public.
-4. Close the loop on disposition, orders, ownership, and trigger.
+4. Close the loop on disposition, owner, and trigger.
 
 [Return to Course Page](../ "Course Page")
