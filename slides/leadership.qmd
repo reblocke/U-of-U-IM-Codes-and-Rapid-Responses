@@ -44,7 +44,7 @@ Then choose:
 
 ## Failure mode
 
-What went wrong in the original version?
+Ways this commonly goes wrong:
 
 - Multiple teams entered.
 - No one named who owned the response.
@@ -69,17 +69,15 @@ Try:
 
 Try:
 
-> "My working problem is [problem]. The immediate plan is [plan]. The risk I'm worried about is [risk]."
+> "I think [problem] is the issue. I'm worried about [risk]. My plan is [plan]."
 
 Then ask:
 
-> "Before we execute, what concerns are we missing?"
+> "What are we missing?"
 
 ## Invite expertise without losing leadership
 
 Try:
-
-> "Cardiology, I need your rhythm read."
 
 > "Bedside nurse, what changed?"
 
@@ -100,6 +98,6 @@ Then close:
 3. Say the working problem and first plan.
 4. Invite concern before action.
 
-Next module: working productively with bedside nurses, nurse-led rapid response teams, and critical care outreach nurses.
+Next: apply the same leadership clarity to pulse-check decisions. The nurse-response module later builds on this language for bedside and outreach collaboration.
 
 [Return to Course Page](../ "Course Page")
