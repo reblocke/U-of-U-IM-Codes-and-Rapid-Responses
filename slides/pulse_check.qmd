@@ -1,84 +1,140 @@
 ---
-title: "Pulse Check Decisions"
+title: "Pulse-Check Decisions: The 10-Second Decision"
 author: "Slides by Josiah Situmeang, Alex Ryden, Brian Locke"
-format: 
+format:
   revealjs:
-      embed-resources: true
+    embed-resources: true
 editor: visual
 ---
 
-## Pulse Check Decisions
+## Pulse-check decisions
 
-### Code blue on E50
+### Learners will practice:
 
-Compressions ongoing when you arrive.
+1. Preparing a pulse check before the pause
+2. Making a shock/no-shock call under uncertainty
+3. Preventing airway/procedure pauses
+4. Using EtCO2 and other signals when ROSC is uncertain
 
-You establish yourself as the code leader.
+## Code blue on E50
 
-## First Pulse Check
+Compressions are ongoing when you arrive.
 
-### No palpable pulse
+You establish yourself as code leader.
 
-![What's your next step?](images/clipboard-3688483317.png){fig-alt="Rhythm strip during initial pulse check" width="1200"}
+**Prompt:** You have 20 seconds before the next pulse check. What do you assign?
 
-## What to do when you're uncertain?
-
-![Turn up the gain. Enroll help. "Are we certain this is asystole?". If in doubt, shock.](images/clipboard-939422357.png){fig-alt="Coarse vs Fine Ventricular Fibrillation" fig-align="center" width="1200"}
-
-## Second Pulse Check
-
-### No palpable pulse
-
-![Airway team ready to intubate, asks for a moment before resuming compressions](images/clipboard-2169519162.png){fig-alt="Second Pulse Check"}
-
-## What is the big picture?
-
-Only a few things **really** matter
-
-1.  If they don't have a pulse, someone is performing high quality compressions with **NO significant breaks**
-
-    -   **Limit** pauses (position changes, pulse checks, intubation, Lucas)
-
-2.  **Shock early** when they have a shockable rhythm
-
-![](images/clipboard-289981620.png){fig-alt="Zoll Feedback mode" fig-align="center" width="400"}
-
-## Make uncertainty public and brief
-
-During pulse checks, assign one person to speak for rhythm/pulse uncertainty.
+## Before the pause
 
 Try:
 
-> "Nurse recorder, please call out pause time. Team, rhythm first: shock or no shock?"
+> "Recorder, call out pause time."
 
-## CPR resumed but can't feel a pulse
+> "You check pulse."
 
-How else can we detect ROSC?
+> "You call rhythm."
 
-1.  End Tidal CO2 (EtCO2)
+> "Defib team, be ready if shockable."
 
-2.  Doppler
+> "Everyone else: compressions resume unless I say shock."
 
-3.  POCUS
+## First pulse check
 
-4.  When in doubt, continue compressions
+### No palpable pulse
 
-## EtCO2 is underutilized
+![Shock, no shock, or uncertain?](images/clipboard-3688483317.png){fig-alt="Rhythm strip during initial pulse check" width="1200"}
 
-![Use EtCO2 to help detect ROSC](images/clipboard-73319215.png){fig-alt="EtCO2" fig-align="center" width="1200"}
+**Prompt:** Shock, no shock, or uncertain?
 
-## Scenario: Third Pulse Check
+## Fine VF vs asystole
 
-![EtCO2 = 36 mmHg](images/clipboard-1673769684.png){fig-alt="ROSC" width="1200"}
+If uncertain:
 
-Summary:
+1. Turn up gain.
+2. Check leads/connection.
+3. Ask one rhythm voice.
+4. If it could be VF/pVT, shock.
+5. If not, resume CPR.
 
--   [**DO NOT MISS FINE V.Fib**]{.underline}
+Script:
 
--   Only allow, **at most**, a few seconds of CPR delay for intubation, Lucas, repositioning
+> "Uncertain rhythm. Gain up. Is anyone seeing VF? If yes, shock. If not, compressions now."
 
--   Make rhythm/pulse uncertainty public and brief.
+![Coarse vs fine ventricular fibrillation](images/clipboard-939422357.png){fig-alt="Coarse vs fine ventricular fibrillation" fig-align="center" width="1200"}
 
--   Use EtCO2!
+## Second pulse check
+
+### No palpable pulse
+
+![Airway team ready to intubate, asks for a moment before resuming compressions](images/clipboard-2169519162.png){fig-alt="Second pulse check with airway team asking for time"}
+
+**Answer:**
+
+> "Compressions now. Airway, keep working during CPR. We'll give you the next planned pause only if you're ready."
+
+Airway does not own the pause.
+
+## What really matters
+
+During arrest, protect two things:
+
+1. **Compression fraction**
+2. **Early defibrillation for shockable rhythm**
+
+Everything else has to fit around those.
+
+![](images/clipboard-289981620.png){fig-alt="Zoll feedback mode" fig-align="center" width="400"}
+
+## Make uncertainty public and brief
+
+Try:
+
+> "Recorder, call out pause time."
+
+> "Rhythm first: shock or no shock?"
+
+> "Pulse checker: pulse or no pulse?"
+
+> "At 10 seconds, compressions resume."
+
+## ROSC is a confirmation problem
+
+::::: columns
+::: {.column width="58%"}
+Use:
+
+1. EtCO2 trend or sudden rise
+2. Arterial line or pleth waveform if present
+3. Doppler if ready
+4. POCUS only if pre-positioned
+5. Clinical signs
+:::
+
+::: {.column width="42%"}
+![Use EtCO2 to help detect ROSC](images/clipboard-73319215.png){fig-alt="EtCO2 waveform and values during resuscitation" width="520"}
+:::
+:::::
+
+When in doubt, continue compressions.
+
+No probe fishing during pulse checks.
+
+## Third pulse check
+
+![EtCO2 = 36 mmHg](images/clipboard-1673769684.png){fig-alt="EtCO2 rising to 36 mmHg" width="1200"}
+
+**Prompt:** What do you say?
+
+Suggested answer:
+
+> "Possible ROSC. At the next check: rhythm, pulse, waveform. If not convincing, resume compressions."
+
+## Summary
+
+**Do not miss fine VF.**
+
+**Do not donate pauses to procedures.**
+
+**Do not keep uncertainty private.**
 
 [Return to Course Page](../ "Course Page")

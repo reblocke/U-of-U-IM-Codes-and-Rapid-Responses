@@ -23,7 +23,7 @@ Practice naming who is leading, anchoring the room, stating the working plan, an
 ::: {.module-item}
 ### 2. Pulse-Check Decisions
 
-Practice shock/no-shock decisions, minimizing pauses, and using EtCO2 or other signals when ROSC is uncertain.
+Practice preparing pulse checks, making shock/no-shock calls, protecting compression pauses, and using EtCO2 or other signs when ROSC is uncertain.
 
 [Open slides](slides/pulse_check.html)
 :::
