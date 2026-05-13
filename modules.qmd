@@ -15,7 +15,7 @@ These modules are the brief teaching blocks we will walk through together at the
 ::: {.module-item}
 ### 1. Leadership Skills
 
-Practice explicitly establishing who is leading, where to stand, and how to invite useful input from the team.
+Practice naming who is leading, anchoring the room, stating the working plan, and inviting concern before action.
 
 [Open slides](slides/leadership.html)
 :::

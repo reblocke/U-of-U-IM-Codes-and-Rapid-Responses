@@ -1,117 +1,105 @@
 ---
-title: "Effective Leadership Skills"
+title: "Leadership in the First 60 Seconds"
 author: "Slides by Colton Long, Ethan Krauspe, Alex Ryden, Brian Locke"
-format: 
+format:
   revealjs:
-      embed-resources: true
+    embed-resources: true
 editor: visual
 ---
 
-## Effective Leadership Skills
+## Leadership in the first 60 seconds
 
-### Key Objectives:
+### Learners will practice:
 
-1.  Establish a clear leader
-2.  Collaborate and share information
+1. Naming who is leading
+2. Anchoring the room
+3. Making the working problem and plan public
+4. Inviting concern before action
 
-## Rapid Response to RM S408.
+## Case start
 
-Sign-out says "81M, SVT now stable"
+### Rapid response to S408
 
-## HR 160, MAP 85→70. Lightheaded
+Sign-out: "81M, SVT, now stable."
 
-![What is this rhythm, and what would you do?](images/clipboard-3453080392.png)
+Now: HR 160, MAP 85 -> 70, lightheaded.
 
-## Next Steps?
+A bedside nurse says: "He looks worse than he did 10 minutes ago."
 
-What's your schema for this situation?
+**Prompt:** Before choosing a medication, what do you say to the room?
 
-What key data informs your treatment?
-
-How do you convey your thinking to the room?
-
-## You share your assessment
-
-and plan to administer IV metoprolol with the team, then...
-
--   3 individuals (DOCTOR badges) you don't know enter the room and don't introduce themselves.
-
--   You discuss the situation with the family outside the room - many questions.
-
--   RN asks clarification: what metoprolol dose?
-
-## Then, RN: "patient's not responding"
-
--   New EKG
-
-    ![What is this rhythm, and what do you do?](images/clipboard-4123436669.png){width="1200"}
-
-## Postscript
-
--   DOCTORS are primary CV team, who are unaware it's a rapid.
-
--   Primary team had also told the RN to give Metop, leading to multiple doses.
-
--   Patient required transcutaneous pacing - who decides?
-
-What went wrong?
-
-## Step 1: Establish a clear leader:
-
-### Are you running this RRT or not?
-
-"I'm \_\_, resident on the code team. Is anyone running this rapid?"
-
--   "Ok, I'm running this rapid", or
-
--   "Can I take Over", or
-
--   "OK, how can I help?"
-
-## Step 1: Establish a clear leader:
-
-### Be the point person
-
-[![Do not move from your position. Don't do it!](images/clipboard-183477107.png){fig-alt="Pit crew: everyone has a defined task and position" fig-align="center" width="1200"}](https://doi.org/10.1016/j.resuscitation.2020.11.018)
-
-## Step 2: Collaborate, Share Info:
-
-### Invite suggestions with a constructive tone
+## Say the sentence
 
 Try:
 
--   Think out loud: "Wide QRS, but rhythm is irregular"
+> "I'm [name], the senior medicine resident responding to the rapid. Who is currently coordinating this response?"
 
--   Summarize: "MAP is OK, I think this is AFib, so..."
+Then choose:
 
--   Encourage: "Good thought, yes..."
+> "Okay, I'll run the room."
 
-Why? **The team has a lot of context-specific experience**
+> "Can I take over?"
 
-## Collaboration includes nursing context
+> "Okay, I'll support. Who is making final decisions?"
 
-When you arrive, the bedside nurse or outreach nurse may know the trajectory better than anyone in the room.
+## Failure mode
 
-Ask early:
+What went wrong in the original version?
 
-> "What changed, what have you already tried, and what are you most worried about?"
+- Multiple teams entered.
+- No one named who owned the response.
+- The resident's plan and the primary/CV plan diverged.
+- A medication order lacked clear dose, owner, and readback.
+- The nurse's clarification was the safety signal.
 
-Then make the plan explicit.
+## Anchor the room
 
-## What would you do differently?
+If you are leading:
 
-### 
+- Stay visible.
+- Do not become the task person.
+- Assign roles by name, badge, or function.
+- Keep the patient, monitor, bedside nurse, doorway, and task flow in view.
 
-## What would you do differently?
+Try:
 
--   Primary team identified; confirmed they want you to run response
+> "I'm going to stay here and run the room. Please bring questions or data to me."
 
--   Standing at the head of the bed, delegating all other tasks.
+## Make the plan public
 
--   You verbalize your rhythm interpretation schema.
+Try:
 
--   Ideas from the entire team
+> "My working problem is [problem]. The immediate plan is [plan]. The risk I'm worried about is [risk]."
 
--   You ask for nursing/outreach context before locking into a plan.
+Then ask:
+
+> "Before we execute, what concerns are we missing?"
+
+## Invite expertise without losing leadership
+
+Try:
+
+> "Cardiology, I need your rhythm read."
+
+> "Bedside nurse, what changed?"
+
+> "Outreach nurse, what are you most worried about?"
+
+> "Pharmacy, help me confirm dose and contraindications."
+
+Then close:
+
+> "I am still coordinating the response unless someone else is taking over."
+
+## Summary
+
+### Four moves
+
+1. Name the leadership state.
+2. Anchor yourself.
+3. Say the working problem and first plan.
+4. Invite concern before action.
+
+Next module: working productively with bedside nurses, nurse-led rapid response teams, and critical care outreach nurses.
 
 [Return to Course Page](../ "Course Page")

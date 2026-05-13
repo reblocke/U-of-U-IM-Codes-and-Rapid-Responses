@@ -70,95 +70,60 @@
     "text": "Scenario: Third Pulse Check\n\nEtCO2 = 36 mmHgSummary:\n\nDO NOT MISS FINE V.Fib\nOnly allow, at most, a few seconds of CPR delay for intubation, Lucas, repositioning\nMake rhythm/pulse uncertainty public and brief.\nUse EtCO2!\n\nReturn to Course Page"
   },
   {
-    "objectID": "slides/leadership.html#effective-leadership-skills",
-    "href": "slides/leadership.html#effective-leadership-skills",
-    "title": "Effective Leadership Skills",
-    "section": "Effective Leadership Skills",
-    "text": "Effective Leadership Skills\nKey Objectives:\n\nEstablish a clear leader\nCollaborate and share information"
+    "objectID": "slides/leadership.html#leadership-in-the-first-60-seconds",
+    "href": "slides/leadership.html#leadership-in-the-first-60-seconds",
+    "title": "Leadership in the First 60 Seconds",
+    "section": "Leadership in the first 60 seconds",
+    "text": "Leadership in the first 60 seconds\nLearners will practice:\n\nNaming who is leading\nAnchoring the room\nMaking the working problem and plan public\nInviting concern before action"
   },
   {
-    "objectID": "slides/leadership.html#rapid-response-to-rm-s408.",
-    "href": "slides/leadership.html#rapid-response-to-rm-s408.",
-    "title": "Effective Leadership Skills",
-    "section": "Rapid Response to RM S408.",
-    "text": "Rapid Response to RM S408.\nSign-out says “81M, SVT now stable”"
+    "objectID": "slides/leadership.html#case-start",
+    "href": "slides/leadership.html#case-start",
+    "title": "Leadership in the First 60 Seconds",
+    "section": "Case start",
+    "text": "Case start\nRapid response to S408\nSign-out: “81M, SVT, now stable.”\nNow: HR 160, MAP 85 -&gt; 70, lightheaded.\nA bedside nurse says: “He looks worse than he did 10 minutes ago.”\nPrompt: Before choosing a medication, what do you say to the room?"
   },
   {
-    "objectID": "slides/leadership.html#hr-160-map-8570.-lightheaded",
-    "href": "slides/leadership.html#hr-160-map-8570.-lightheaded",
-    "title": "Effective Leadership Skills",
-    "section": "HR 160, MAP 85→70. Lightheaded",
-    "text": "HR 160, MAP 85→70. Lightheaded\n\nWhat is this rhythm, and what would you do?"
+    "objectID": "slides/leadership.html#say-the-sentence",
+    "href": "slides/leadership.html#say-the-sentence",
+    "title": "Leadership in the First 60 Seconds",
+    "section": "Say the sentence",
+    "text": "Say the sentence\nTry:\n\n“I’m [name], the senior medicine resident responding to the rapid. Who is currently coordinating this response?”\n\nThen choose:\n\n“Okay, I’ll run the room.”\n\n\n“Can I take over?”\n\n\n“Okay, I’ll support. Who is making final decisions?”"
   },
   {
-    "objectID": "slides/leadership.html#next-steps",
-    "href": "slides/leadership.html#next-steps",
-    "title": "Effective Leadership Skills",
-    "section": "Next Steps?",
-    "text": "Next Steps?\nWhat’s your schema for this situation?\nWhat key data informs your treatment?\nHow do you convey your thinking to the room?"
+    "objectID": "slides/leadership.html#failure-mode",
+    "href": "slides/leadership.html#failure-mode",
+    "title": "Leadership in the First 60 Seconds",
+    "section": "Failure mode",
+    "text": "Failure mode\nWhat went wrong in the original version?\n\nMultiple teams entered.\nNo one named who owned the response.\nThe resident’s plan and the primary/CV plan diverged.\nA medication order lacked clear dose, owner, and readback.\nThe nurse’s clarification was the safety signal."
   },
   {
-    "objectID": "slides/leadership.html#you-share-your-assessment",
-    "href": "slides/leadership.html#you-share-your-assessment",
-    "title": "Effective Leadership Skills",
-    "section": "You share your assessment",
-    "text": "You share your assessment\nand plan to administer IV metoprolol with the team, then…\n\n3 individuals (DOCTOR badges) you don’t know enter the room and don’t introduce themselves.\nYou discuss the situation with the family outside the room - many questions.\nRN asks clarification: what metoprolol dose?"
+    "objectID": "slides/leadership.html#anchor-the-room",
+    "href": "slides/leadership.html#anchor-the-room",
+    "title": "Leadership in the First 60 Seconds",
+    "section": "Anchor the room",
+    "text": "Anchor the room\nIf you are leading:\n\nStay visible.\nDo not become the task person.\nAssign roles by name, badge, or function.\nKeep the patient, monitor, bedside nurse, doorway, and task flow in view.\n\nTry:\n\n“I’m going to stay here and run the room. Please bring questions or data to me.”"
   },
   {
-    "objectID": "slides/leadership.html#then-rn-patients-not-responding",
-    "href": "slides/leadership.html#then-rn-patients-not-responding",
-    "title": "Effective Leadership Skills",
-    "section": "Then, RN: “patient’s not responding”",
-    "text": "Then, RN: “patient’s not responding”\n\nNew EKG\n\n\n\nWhat is this rhythm, and what do you do?"
+    "objectID": "slides/leadership.html#make-the-plan-public",
+    "href": "slides/leadership.html#make-the-plan-public",
+    "title": "Leadership in the First 60 Seconds",
+    "section": "Make the plan public",
+    "text": "Make the plan public\nTry:\n\n“My working problem is [problem]. The immediate plan is [plan]. The risk I’m worried about is [risk].”\n\nThen ask:\n\n“Before we execute, what concerns are we missing?”"
   },
   {
-    "objectID": "slides/leadership.html#postscript",
-    "href": "slides/leadership.html#postscript",
-    "title": "Effective Leadership Skills",
-    "section": "Postscript",
-    "text": "Postscript\n\nDOCTORS are primary CV team, who are unaware it’s a rapid.\nPrimary team had also told the RN to give Metop, leading to multiple doses.\nPatient required transcutaneous pacing - who decides?\n\nWhat went wrong?"
+    "objectID": "slides/leadership.html#invite-expertise-without-losing-leadership",
+    "href": "slides/leadership.html#invite-expertise-without-losing-leadership",
+    "title": "Leadership in the First 60 Seconds",
+    "section": "Invite expertise without losing leadership",
+    "text": "Invite expertise without losing leadership\nTry:\n\n“Cardiology, I need your rhythm read.”\n\n\n“Bedside nurse, what changed?”\n\n\n“Outreach nurse, what are you most worried about?”\n\n\n“Pharmacy, help me confirm dose and contraindications.”\n\nThen close:\n\n“I am still coordinating the response unless someone else is taking over.”"
   },
   {
-    "objectID": "slides/leadership.html#step-1-establish-a-clear-leader",
-    "href": "slides/leadership.html#step-1-establish-a-clear-leader",
-    "title": "Effective Leadership Skills",
-    "section": "Step 1: Establish a clear leader:",
-    "text": "Step 1: Establish a clear leader:\nAre you running this RRT or not?\n“I’m __, resident on the code team. Is anyone running this rapid?”\n\n“Ok, I’m running this rapid”, or\n“Can I take Over”, or\n“OK, how can I help?”"
-  },
-  {
-    "objectID": "slides/leadership.html#step-1-establish-a-clear-leader-1",
-    "href": "slides/leadership.html#step-1-establish-a-clear-leader-1",
-    "title": "Effective Leadership Skills",
-    "section": "Step 1: Establish a clear leader:",
-    "text": "Step 1: Establish a clear leader:\nBe the point person\n\n\n\n\n\n\n\nDo not move from your position. Don’t do it!"
-  },
-  {
-    "objectID": "slides/leadership.html#step-2-collaborate-share-info",
-    "href": "slides/leadership.html#step-2-collaborate-share-info",
-    "title": "Effective Leadership Skills",
-    "section": "Step 2: Collaborate, Share Info:",
-    "text": "Step 2: Collaborate, Share Info:\nInvite suggestions with a constructive tone\nTry:\n\nThink out loud: “Wide QRS, but rhythm is irregular”\nSummarize: “MAP is OK, I think this is AFib, so…”\nEncourage: “Good thought, yes…”\n\nWhy? The team has a lot of context-specific experience"
-  },
-  {
-    "objectID": "slides/leadership.html#collaboration-includes-nursing-context",
-    "href": "slides/leadership.html#collaboration-includes-nursing-context",
-    "title": "Effective Leadership Skills",
-    "section": "Collaboration includes nursing context",
-    "text": "Collaboration includes nursing context\nWhen you arrive, the bedside nurse or outreach nurse may know the trajectory better than anyone in the room.\nAsk early:\n\n“What changed, what have you already tried, and what are you most worried about?”\n\nThen make the plan explicit."
-  },
-  {
-    "objectID": "slides/leadership.html#what-would-you-do-differently",
-    "href": "slides/leadership.html#what-would-you-do-differently",
-    "title": "Effective Leadership Skills",
-    "section": "What would you do differently?",
-    "text": "What would you do differently?"
-  },
-  {
-    "objectID": "slides/leadership.html#what-would-you-do-differently-1",
-    "href": "slides/leadership.html#what-would-you-do-differently-1",
-    "title": "Effective Leadership Skills",
-    "section": "What would you do differently?",
-    "text": "What would you do differently?\n\nPrimary team identified; confirmed they want you to run response\nStanding at the head of the bed, delegating all other tasks.\nYou verbalize your rhythm interpretation schema.\nIdeas from the entire team\nYou ask for nursing/outreach context before locking into a plan.\n\nReturn to Course Page"
+    "objectID": "slides/leadership.html#summary",
+    "href": "slides/leadership.html#summary",
+    "title": "Leadership in the First 60 Seconds",
+    "section": "Summary",
+    "text": "Summary\nFour moves\n\nName the leadership state.\nAnchor yourself.\nSay the working problem and first plan.\nInvite concern before action.\n\nNext module: working productively with bedside nurses, nurse-led rapid response teams, and critical care outreach nurses.\nReturn to Course Page"
   },
   {
     "objectID": "slides/ending.html#this-deck-has-moved",
@@ -340,7 +305,7 @@
     "href": "modules.html#pre-session-checklist",
     "title": "Modules",
     "section": "Pre-Session Checklist",
-    "text": "Pre-Session Checklist\n\nNo required module review beforehand; we will spend the first 10 minutes walking through the micro-skill modules together.\nBring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.\nNote site-specific workflow uncertainties you want clarified.\nComplete the 2026 pre-session survey when the link is released.\n\n\n\n1. Leadership Skills\nPractice explicitly establishing who is leading, where to stand, and how to invite useful input from the team.\nOpen slides\n\n\n2. Pulse-Check Decisions\nPractice shock/no-shock decisions, minimizing pauses, and using EtCO2 or other signals when ROSC is uncertain.\nOpen slides\n\n\n3. Working with Nurse-Led Response Teams\nPractice the first 30 seconds of collaboration with bedside nurses, nurse-led rapid response teams, and critical care outreach nurses: role clarity, the nursing 30-second story, shared plan, and closed-loop ownership.\nOpen slides\n\n\n4. Escalation, Disposition, and Closure\nPractice deciding when a rapid is becoming a code, what resources are needed, where the patient should go, how to hand off, and how to debrief.\nOpen slides"
+    "text": "Pre-Session Checklist\n\nNo required module review beforehand; we will spend the first 10 minutes walking through the micro-skill modules together.\nBring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.\nNote site-specific workflow uncertainties you want clarified.\nComplete the 2026 pre-session survey when the link is released.\n\n\n\n1. Leadership Skills\nPractice naming who is leading, anchoring the room, stating the working plan, and inviting concern before action.\nOpen slides\n\n\n2. Pulse-Check Decisions\nPractice shock/no-shock decisions, minimizing pauses, and using EtCO2 or other signals when ROSC is uncertain.\nOpen slides\n\n\n3. Working with Nurse-Led Response Teams\nPractice the first 30 seconds of collaboration with bedside nurses, nurse-led rapid response teams, and critical care outreach nurses: role clarity, the nursing 30-second story, shared plan, and closed-loop ownership.\nOpen slides\n\n\n4. Escalation, Disposition, and Closure\nPractice deciding when a rapid is becoming a code, what resources are needed, where the patient should go, how to hand off, and how to debrief.\nOpen slides"
   },
   {
     "objectID": "resources.html",
