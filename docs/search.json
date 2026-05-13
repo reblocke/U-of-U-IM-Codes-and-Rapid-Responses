@@ -60,14 +60,21 @@
     "href": "slides/pulse_check.html#make-uncertainty-public-and-brief",
     "title": "Pulse-Check Decisions: The 10-Second Decision",
     "section": "Make uncertainty public and brief",
-    "text": "Make uncertainty public and brief\nName what is uncertain, then name the action.\nTry:\n\n“I am uncertain whether this is fine VF or asystole. Gain up and check leads now.”\n\n\n“If this could be VF/pVT after the quick check, we shock. If not, compressions resume.”\n\n\n“Possible ROSC. At the next check: rhythm, pulse, waveform.”\n\n\n“If not convincing, resume compressions.”"
+    "text": "Make uncertainty public and brief\nName what is uncertain, then name the action.\nTry:\n\nFine VF vs asystole: gain/leads now; if still possibly VF/pVT, shock.\nPossible ROSC: rhythm, pulse, waveform; if unclear, CPR continues.\nDisagreement on pulse: compressions continue while we clarify."
   },
   {
     "objectID": "slides/pulse_check.html#confirming-rosc-can-be-hard",
     "href": "slides/pulse_check.html#confirming-rosc-can-be-hard",
     "title": "Pulse-Check Decisions: The 10-Second Decision",
     "section": "Confirming ROSC can be hard",
-    "text": "Confirming ROSC can be hard\nConsider the consequences of each error.\n\n\nUse:\n\nEtCO2 trend or sudden rise\nArterial line or pleth waveform if present\nDoppler if ready\nPOCUS only if pre-positioned\nClinical signs\n\n\n\n\n\nUse EtCO2 to help detect ROSC\n\n\n\nWhen in doubt, continue compressions.\nNo probe fishing during pulse checks."
+    "text": "Confirming ROSC can be hard\nConsider the consequences of each error.\nUse:\n\nEtCO2 trend or sudden rise\nArterial line or pleth waveform if present\nDoppler if ready\nPOCUS only if pre-positioned\nClinical signs\n\nWhen in doubt, continue compressions.\nNo probe fishing during pulse checks."
+  },
+  {
+    "objectID": "slides/pulse_check.html#etco2-is-a-cue-not-proof",
+    "href": "slides/pulse_check.html#etco2-is-a-cue-not-proof",
+    "title": "Pulse-Check Decisions: The 10-Second Decision",
+    "section": "EtCO2 is a cue, not proof",
+    "text": "EtCO2 is a cue, not proof\n\nUse EtCO2 to help detect ROSCEtCO2 is a cue, not proof; if unclear, continue CPR."
   },
   {
     "objectID": "slides/pulse_check.html#third-pulse-check",
@@ -116,7 +123,7 @@
     "href": "slides/leadership.html#anchor-the-room",
     "title": "Leadership in the First 60 Seconds",
     "section": "Anchor the room",
-    "text": "Anchor the room\nIf you are leading:\n\nStay visible.\nDo not become the task person.\nAssign roles by name, badge, or function.\nKeep the patient, monitor, bedside nurse, doorway, and task flow in view.\n\nTry:\n\n“I’m going to stay here and run the room. Please bring questions or data to me.”"
+    "text": "Anchor the room\nIf you are leading:\n\nStay visible and findable.\nDelegate tasks by name or function.\nKeep patient, monitor, nurse, doorway, and task flow in view.\n\nTry:\n\n“I’m staying here to run the room; bring questions or data to me.”"
   },
   {
     "objectID": "slides/leadership.html#make-the-plan-public",
@@ -130,7 +137,7 @@
     "href": "slides/leadership.html#invite-expertise-without-losing-leadership",
     "title": "Leadership in the First 60 Seconds",
     "section": "Invite expertise without losing leadership",
-    "text": "Invite expertise without losing leadership\nTry:\n\n“Bedside nurse, what changed?”\n\n\n“Outreach nurse, what are you most worried about?”\n\n\n“Pharmacy, help me confirm dose and contraindications.”\n\nLeadership is not proving you can do the tasks yourself.\nStay findable, keep the plan public, and delegate task work by name."
+    "text": "Invite expertise without losing leadership\n\nBedside nurse: what changed?\nOutreach nurse: biggest worry?\nPharmacy: dose and contraindications?\n\nLeadership is keeping the plan public, not proving you can do tasks yourself."
   },
   {
     "objectID": "slides/leadership.html#summary",
@@ -200,7 +207,7 @@
     "href": "slides/case_2.html#labs",
     "title": "Case 2",
     "section": "Labs",
-    "text": "Labs\nGlu152 mg/dL , hs-TnI 121 ng/L (ULN 50), Lac 6.5 mmol/L\n\n\n\nABG\nResult\nReference Range\n\n\npH\n7.18\n7.35–7.45\n\n\npCO₂\n48 mmHg\n35–45 mmHg\n\n\npO₂\n64 mmHg\n80–100 mmHg\n\n\nHCO₃⁻\n16 mmol/L\n22–26 mmol/L\n\n\nNa⁺\n137 mmol/L\n135–145 mmol/L\n\n\nK⁺\n4.9 mmol/L\n3.5–5.0 mmol/L\n\n\nCl⁻\n103 mmol/L\n98–106 mmol/L\n\n\niCa²⁺ (ionized)\n1.10 mmol/L\n1.12–1.32 mmol/L"
+    "text": "Labs\n\nAcid-base: pH 7.18, HCO₃⁻ 16, pCO₂ 48.\nPerfusion/electrolytes: lactate 6.5, K⁺ 4.9, iCa²⁺ 1.10.\nContext: glucose 152, hs-TnI 121 (ULN 50)."
   },
   {
     "objectID": "slides/case_2.html#rhythm-check",
@@ -221,7 +228,7 @@
     "href": "slides/case_2.html#after-rosc-stabilize-before-you-celebrate",
     "title": "Case 2",
     "section": "After ROSC: stabilize before you celebrate",
-    "text": "After ROSC: stabilize before you celebrate\n\n12-lead ECG as soon as feasible.\nOxygen: 100% until reliable SpO2/PaO2, then SpO2 90-98%.\nVentilation: PaCO2 35-45 if comatose and ventilated.\nPressure: avoid hypotension; minimum MAP &gt;=65.\nIf unresponsive: protocolized temperature control &gt;=36 hours.\nAsk: coronary, PE, tamponade, hemorrhage, pneumothorax, toxic/metabolic?"
+    "text": "After ROSC: stabilize before you celebrate\n\nECG as soon as feasible.\nO2 100% until reliable; then SpO2 90-98%.\nPaCO2 35-45 if comatose/ventilated.\nAvoid hypotension; MAP &gt;=65.\nIf unresponsive: temperature control &gt;=36 hours.\nSearch cause: coronary, PE, tamponade, hemorrhage, PTX, tox/metabolic."
   },
   {
     "objectID": "slides/case_2.html#team-interface-prompt",
@@ -396,7 +403,7 @@
     "href": "slides/case_1.html#labs",
     "title": "Case 1",
     "section": "Labs",
-    "text": "Labs\nPOC Glu: 98 mg/dL, hs-TnI: 11k ng/L, Lactate 9.2 mmol/L\n\n\n\nABG\nResult\nReference Range\n\n\npH\n6.98\n7.35–7.45\n\n\npCO₂\n55 mmHg\n35–45 mmHg\n\n\npO₂\n88 mmHg\n80–100 mmHg\n\n\nHCO₃⁻\n12 mmol/L\n22–26 mmol/L\n\n\nNa⁺\n138 mmol/L\n135–145 mmol/L\n\n\nK⁺\n7.2 mmol/L\n3.5–5.0 mmol/L\n\n\nCl⁻\n105 mmol/L\n98–106 mmol/L\n\n\niCa²⁺ (ionized)\n0.98 mmol/L\n1.12–1.32 mmol/L"
+    "text": "Labs\n\nAcid-base: pH 6.98, HCO₃⁻ 12, pCO₂ 55.\nHyperkalemia signal: K⁺ 7.2, iCa²⁺ 0.98.\nContext: lactate 9.2, hs-TnI 11k, glucose 98."
   },
   {
     "objectID": "slides/case_1.html#rhythm",
@@ -417,7 +424,7 @@
     "href": "slides/case_1.html#team-interface-prompt",
     "title": "Case 1",
     "section": "Team interface prompt",
-    "text": "Team interface prompt\nThe bedside nurse is recording events and knows the first rhythm seen on the monitor.\nAsk:\n\n“What was the first rhythm, how long have compressions been going, and when is the next pulse check?”\n\nAssign:\n\nrecorder/timekeeper\ncompressor switch\ndefibrillator operator\nmedication nurse/pharmacist"
+    "text": "Team interface prompt\nThe bedside nurse is recording events and knows the first rhythm seen on the monitor.\nAsk:\n\n“First rhythm? CPR start time? Next pulse check?”\n\nAssign: timekeeper, compressor switch, defib, meds/pharm."
   },
   {
     "objectID": "slides/case_1.html#teaching-points",
@@ -578,7 +585,7 @@
     "href": "slides/escalation_closure.html#how-to-stop-acls",
     "title": "Escalation, Disposition, and Closure",
     "section": "How to stop ACLS",
-    "text": "How to stop ACLS\n\nSummarize\n\n\n“[duration] CPR, persistent [rhythm], no ROSC, and no remaining reversible intervention likely to change the outcome.”\n\n\nAsk\n\n\n“Does anyone see something we have not tried?”\n\n\nAnnounce\n\n\n“One final rhythm and pulse check. If unchanged, we will stop CPR.”\n\nAfter stopping:\n\nDeclare time of death.\nAssign family update.\nThank the team.\nPlan a brief debrief."
+    "text": "How to stop ACLS\n\nSummarize: “[duration] CPR, persistent [rhythm], no ROSC, no remaining reversible intervention.”\nAsk: “Anything we have not tried?”\nAnnounce: “One final rhythm/pulse check; if unchanged, we stop CPR.”"
   },
   {
     "objectID": "slides/escalation_closure.html#after-the-event-assign-tasks",
@@ -606,7 +613,7 @@
     "href": "slides/nurse_response.html#nurseoutreach-teams-are-a-resource",
     "title": "Working with Nurse-Led Response Teams",
     "section": "Nurse/outreach teams are a resource",
-    "text": "Nurse/outreach teams are a resource\nBedside and outreach nurses are often already working the problem.\nThey may know:\n\nwhat changed and how fast\nwhat has been tried or failed\nwhat resources are missing\nwhether the patient feels unsafe for the unit\n\nThe resident adds synthesis, orders, escalation, and disposition.\nGoal: one shared plan."
+    "text": "Nurse/outreach teams are a resource\nNurses often already know trajectory, failed attempts, missing resources, and unit safety.\nResidents add synthesis, orders, escalation, and disposition.\nGoal: one shared plan."
   },
   {
     "objectID": "slides/nurse_response.html#case-start",
@@ -620,7 +627,7 @@
     "href": "slides/nurse_response.html#move-1-name-the-key-decisions",
     "title": "Working with Nurse-Led Response Teams",
     "section": "Move 1: Name the key decisions",
-    "text": "Move 1: Name the key decisions\nTry:\n\n“I’m [name], the senior medicine resident responding. Let’s name the decisions we need to make right now.”\n\nAsk:\n\nWhat problem are we treating first?\nIs the patient safe here?\nWhat information would change our plan?\nWhat resource or destination decision is coming next?\n\nDecision ownership still matters. First, improve decision quality by getting the right expertise into the plan."
+    "text": "Move 1: Name the key decisions\nTry:\n\n“I’m [name]. Let’s name the decisions we need to make.”\n\nAsk:\n\nProblem first?\nSafe here?\nWhat data changes plan?\nNext resource or destination?\n\nImprove decision quality; then assign ownership."
   },
   {
     "objectID": "slides/nurse_response.html#move-2-find-the-expertise",
@@ -669,6 +676,6 @@
     "href": "slides/qr.html#course-webpage",
     "title": "Course Webpage",
     "section": "Course Webpage",
-    "text": "Course Webpage\n\n\n\n\n\n\n\nPoint phone at QR Code\n\n\nReturn to Course Page"
+    "text": "Course Webpage\n\n\n\n\n\n\n\nPoint phone at QR Code"
   }
 ]

@@ -89,20 +89,14 @@ Name what is uncertain, then name the action.
 
 Try:
 
-> "I am uncertain whether this is fine VF or asystole. Gain up and check leads now."
-
-> "If this could be VF/pVT after the quick check, we shock. If not, compressions resume."
-
-> "Possible ROSC. At the next check: rhythm, pulse, waveform."
-
-> "If not convincing, resume compressions."
+- Fine VF vs asystole: gain/leads now; if still possibly VF/pVT, shock.
+- Possible ROSC: rhythm, pulse, waveform; if unclear, CPR continues.
+- Disagreement on pulse: compressions continue while we clarify.
 
 ## Confirming ROSC can be hard
 
 Consider the consequences of each error.
 
-::::: columns
-::: {.column width="58%"}
 Use:
 
 1. EtCO2 trend or sudden rise
@@ -110,16 +104,16 @@ Use:
 3. Doppler if ready
 4. POCUS only if pre-positioned
 5. Clinical signs
-:::
-
-::: {.column width="42%"}
-![Use EtCO2 to help detect ROSC](images/clipboard-73319215.png){fig-alt="EtCO2 waveform and values during resuscitation" width="520"}
-:::
-:::::
 
 When in doubt, continue compressions.
 
 No probe fishing during pulse checks.
+
+## EtCO2 is a cue, not proof
+
+![Use EtCO2 to help detect ROSC](images/clipboard-73319215.png){fig-alt="EtCO2 waveform and values during resuscitation" width="620"}
+
+EtCO2 is a cue, not proof; if unclear, continue CPR.
 
 ## Third pulse check
 

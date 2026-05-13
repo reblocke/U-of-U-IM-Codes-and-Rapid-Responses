@@ -17,19 +17,9 @@ CPR in progress, IV Access Obtained
 
 ## Labs
 
-**POC Glu**: 98 mg/dL, **hs-TnI**: 11k ng/L, **Lactate** 9.2 mmol/L
-
-|                 |             |                   |
-|-----------------|-------------|-------------------|
-| **ABG**         | Result      | Reference Range   |
-| pH              | 6.98        | 7.35--7.45        |
-| pCO₂            | 55 mmHg     | 35--45 mmHg       |
-| pO₂             | 88 mmHg     | 80--100 mmHg      |
-| HCO₃⁻           | 12 mmol/L   | 22--26 mmol/L     |
-| Na⁺             | 138 mmol/L  | 135--145 mmol/L   |
-| K⁺              | 7.2 mmol/L  | 3.5--5.0 mmol/L   |
-| Cl⁻             | 105 mmol/L  | 98--106 mmol/L    |
-| iCa²⁺ (ionized) | 0.98 mmol/L | 1.12--1.32 mmol/L |
+- Acid-base: pH 6.98, HCO₃⁻ 12, pCO₂ 55.
+- Hyperkalemia signal: K⁺ 7.2, iCa²⁺ 0.98.
+- Context: lactate 9.2, hs-TnI 11k, glucose 98.
 
 ## Rhythm: 
 
@@ -45,14 +35,9 @@ The bedside nurse is recording events and knows the first rhythm seen on the mon
 
 Ask:
 
-> "What was the first rhythm, how long have compressions been going, and when is the next pulse check?"
+> "First rhythm? CPR start time? Next pulse check?"
 
-Assign:
-
-- recorder/timekeeper
-- compressor switch
-- defibrillator operator
-- medication nurse/pharmacist
+Assign: timekeeper, compressor switch, defib, meds/pharm.
 
 ## Teaching Points
 

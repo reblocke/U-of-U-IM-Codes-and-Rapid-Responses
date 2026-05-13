@@ -119,24 +119,11 @@ Out-of-hospital TOR rules do not automatically decide in-hospital codes.
 
 ## How to stop ACLS
 
-1. **Summarize**
+1. **Summarize:** "[duration] CPR, persistent [rhythm], no ROSC, no remaining reversible intervention."
 
-> "[duration] CPR, persistent [rhythm], no ROSC, and no remaining reversible intervention likely to change the outcome."
+2. **Ask:** "Anything we have not tried?"
 
-2. **Ask**
-
-> "Does anyone see something we have not tried?"
-
-3. **Announce**
-
-> "One final rhythm and pulse check. If unchanged, we will stop CPR."
-
-After stopping:
-
-- Declare time of death.
-- Assign family update.
-- Thank the team.
-- Plan a brief debrief.
+3. **Announce:** "One final rhythm/pulse check; if unchanged, we stop CPR."
 
 ## After the event: assign tasks
 

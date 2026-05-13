@@ -20,16 +20,9 @@ Learners will practice:
 
 ## Nurse/outreach teams are a resource
 
-Bedside and outreach nurses are often already working the problem.
+Nurses often already know trajectory, failed attempts, missing resources, and unit safety.
 
-They may know:
-
-- what changed and how fast
-- what has been tried or failed
-- what resources are missing
-- whether the patient feels unsafe for the unit
-
-The resident adds synthesis, orders, escalation, and disposition.
+Residents add synthesis, orders, escalation, and disposition.
 
 **Goal: one shared plan.**
 
@@ -49,16 +42,16 @@ The outreach nurse is at bedside. The primary intern is present but quiet. The c
 
 Try:
 
-> "I'm [name], the senior medicine resident responding. Let's name the decisions we need to make right now."
+> "I'm [name]. Let's name the decisions we need to make."
 
 Ask:
 
-- What problem are we treating first?
-- Is the patient safe here?
-- What information would change our plan?
-- What resource or destination decision is coming next?
+- Problem first?
+- Safe here?
+- What data changes plan?
+- Next resource or destination?
 
-Decision ownership still matters. First, improve decision quality by getting the right expertise into the plan.
+Improve decision quality; then assign ownership.
 
 ## Move 2: Find the expertise
 
