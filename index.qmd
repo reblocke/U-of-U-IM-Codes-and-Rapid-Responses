@@ -16,20 +16,18 @@ Learner hub for University of Utah Internal Medicine residents preparing to lead
 ::: {.hub-card}
 ### Before the Session
 
-- No required module review beforehand; we will spend the first 10 minutes walking through the micro-skill modules together.
+- No pre-work required; we will spend the first 10 minutes going through the pre-test and orientation, then go through the modules together.
 - Bring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.
-- Complete the pre-session survey when the 2026 link is released.
-
-**Survey status:** 2026 link TBD.
+- Note site-specific workflow uncertainties you want clarified.
 :::
 
 ::: {.hub-card}
 ### During the Session
 
-- Practice taking explicit leadership.
-- Interpret shockable and non-shockable rhythms out loud.
-- Practice a 30-second huddle with the bedside or outreach nurse.
-- Escalate resources early when the room is not safe enough.
+- Practice making leadership clear.
+- Make pulse-check decisions out loud.
+- Practice a 30-second huddle that turns bedside or outreach concern into a shared plan.
+- Name when the room is unsafe, call the missing resource, and assign destination and ownership.
 - Run hands-on Zoll and scenario practice.
 :::
 
@@ -48,11 +46,11 @@ Learner hub for University of Utah Internal Medicine residents preparing to lead
 
 By the end of the session, learners should be able to:
 
-- Assume and communicate team leadership immediately on arrival.
-- Identify VF/VT on the monitor and deliver shocks when warranted.
-- Integrate bedside nurse, nurse-led rapid response, or critical care outreach input into the first assessment and plan.
-- Escalate care and marshal resources appropriately across U of U, IMED, and VA workflows.
-- Conclude the event, hand off ownership, and set up a brief debrief.
+- Make the leadership state clear on arrival: lead, support, consult, or transition leadership explicitly.
+- Prepare pulse checks, make shock/no-shock decisions public, and protect compression pauses.
+- Use bedside nurse and outreach trajectory to align roles, plan, orders, ownership, and escalation triggers.
+- Decide when the current room is unsafe and activate the appropriate site-specific resource or destination.
+- Close each rapid/code with explicit disposition, order owner, handoff point, family plan when needed, and debrief.
 
 ::: {.callout-tip}
 Didactics alone have limits. Regular review, simulation, interprofessional practice, and feedback after real events are what turn these skills into reflexes.
@@ -96,7 +94,7 @@ Instructor guide, QR slide, and annual update checklist.
 
 ## Why This Course Exists
 
-Code Blue and Rapid Response leadership is not just algorithm recall. The resident leader has to make the room work: claim the leader role, make roles visible, keep communication psychologically safe, integrate bedside expertise, and escalate resources before the response stalls.
+Code Blue and Rapid Response leadership is not just algorithm recall. The resident leader has to make the room work: make the leadership state explicit, make roles visible, keep communication psychologically safe, integrate bedside expertise, and escalate resources before the response stalls.
 
 Stakeholders from Code Blue and Rapid Response teams, including senior residents, nurses, respiratory therapists, and quality leads, identified four recurring hazards during resident-led responses:
 
