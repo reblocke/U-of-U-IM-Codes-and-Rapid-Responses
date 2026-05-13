@@ -515,42 +515,56 @@
     "href": "slides/escalation_closure.html#escalate-before-the-room-fails",
     "title": "Escalation, Disposition, and Closure",
     "section": "Escalate before the room fails",
-    "text": "Escalate before the room fails\n\n\n\n\n\n\n\nSignal\nAction\n\n\n\n\nCannot oxygenate, airway risk, peri-arrest\nCall code or anesthesia early\n\n\nICU-level monitoring or titratable drips\nCall ICU early\n\n\nSTEMI or cath-lab physiology\nActivate cath pathway\n\n\nFocal neuro deficit\nActivate stroke pathway\n\n\nShock, PE concern, VT storm, mechanical support question\nActivate shock, PERT, or TICU pathway by site\n\n\n\nIf this may become a code, create physical access now: bed out, bed down, pads on, airway/CPR access clear."
+    "text": "Escalate before the room fails\n\n\n\nSignal\nAction\n\n\n\n\nOxygenation or airway failure\nCode/anesthesia\n\n\nICU monitoring or drips\nICU\n\n\nSTEMI/cath physiology\nCath\n\n\nFocal neuro deficit\nStroke\n\n\nShock, PE, VT storm, device question\nShock/PERT/TICU by site\n\n\n\nIf this may become a code: bed out/down, pads on, airway/CPR access clear."
   },
   {
     "objectID": "slides/escalation_closure.html#every-rapid-needs-an-endpoint",
     "href": "slides/escalation_closure.html#every-rapid-needs-an-endpoint",
     "title": "Escalation, Disposition, and Closure",
     "section": "Every rapid needs an endpoint",
-    "text": "Every rapid needs an endpoint\nA rapid response should end with one of these:\n\ncode blue\nICU transfer\nprocedure, imaging, or transfer\nstabilized on the floor\ngoals-of-care transition\n\nAlways hand off to the team assuming care."
+    "text": "Every rapid needs an endpoint\nA rapid response should end with one of these:\n\ncode blue\nICU transfer\nrarely, a procedure\nstabilized on the floor\ngoals-of-care transition\n\nAlways hand off to the team assuming care."
   },
   {
     "objectID": "slides/escalation_closure.html#disposition-huddle",
     "href": "slides/escalation_closure.html#disposition-huddle",
     "title": "Escalation, Disposition, and Closure",
     "section": "Disposition huddle",
-    "text": "Disposition huddle\nTry:\n\n“Disposition is [ICU / floor / procedure / imaging / transfer / code / goals-of-care].”\n\n\n“Orders are owned by [name].”\n\n\n“The patient is owned by [team/person] until [handoff point].”\n\n\n“If [trigger], call [team] or activate [code/RRT].”\n\n\n“Before I leave, what are we missing?”"
+    "text": "Disposition huddle\nTry:\n\n“Disposition is [ICU / floor / code / goals-of-care].”\n\n\n“Follow-up is owned by [me / primary team].”\n\n\n“The person for the nurse to call is [name/team].”\n\n\n“Are there concerns we have not addressed?”"
   },
   {
-    "objectID": "slides/escalation_closure.html#if-this-becomes-a-code",
-    "href": "slides/escalation_closure.html#if-this-becomes-a-code",
+    "objectID": "slides/escalation_closure.html#how-long-to-continue",
+    "href": "slides/escalation_closure.html#how-long-to-continue",
     "title": "Escalation, Disposition, and Closure",
-    "section": "If this becomes a code",
-    "text": "If this becomes a code\nContinue while there is a plausible path:\n\nwitnessed or monitored arrest\nshockable rhythm or improving rhythm trajectory\nreversible cause still being treated\nsigns of CPR quality or possible ROSC\nbridge option such as cath, thrombolysis, ECPR, ICU procedure, or airway correction\n\nDuration matters. It is not the decision.\nDo not use EtCO2 alone as a stopping rule."
+    "section": "How long to continue?",
+    "text": "How long to continue?\nDefault = 30 minutes.\n\n\nLonger\n\nwitnessed/monitored\nshockable or improving\nreversible cause in progress\npossible ROSC\nbridge option\n\n\nShorter\n\nunwitnessed/unmonitored\nasystole/PEA without change\nno reversible target\nno ROSC signs\nno bridge option"
   },
   {
-    "objectID": "slides/escalation_closure.html#stopping-cpr",
-    "href": "slides/escalation_closure.html#stopping-cpr",
+    "objectID": "slides/escalation_closure.html#duration-informs-prognosis",
+    "href": "slides/escalation_closure.html#duration-informs-prognosis",
     "title": "Escalation, Disposition, and Closure",
-    "section": "Stopping CPR",
-    "text": "Stopping CPR\nTry:\n\n“We have had [duration] of CPR with persistent [rhythm], no ROSC, and no remaining reversible intervention we think will change the outcome.”\n\n\n“Does anyone see something we have not addressed?”\n\n\n“We will check rhythm and pulse one more time. If unchanged, we will stop CPR.”\n\nThen:\n\n“Time of death is [time]. Thank you. Let’s assign family communication, postmortem workflow, and debrief location.”"
+    "section": "Duration informs prognosis",
+    "text": "Duration informs prognosis\n\nDuration matters. It is not the decision.\nDo not use EtCO2 alone as a stopping rule."
   },
   {
-    "objectID": "slides/escalation_closure.html#family-and-debrief-are-assigned-tasks",
-    "href": "slides/escalation_closure.html#family-and-debrief-are-assigned-tasks",
+    "objectID": "slides/escalation_closure.html#how-to-stop-acls",
+    "href": "slides/escalation_closure.html#how-to-stop-acls",
     "title": "Escalation, Disposition, and Closure",
-    "section": "Family and debrief are assigned tasks",
-    "text": "Family and debrief are assigned tasks\n\nAssign a family liaison: [name]\nRecorder: confirm time and code documentation\nPrimary team: notify attending and complete death/disposition workflow\nTeam: two-minute debrief in [location]\n\nDebrief: what went well, what should we change next time, and does anyone need support before returning to work?\nFour closing moves:\n\nUnsafe here? Call early.\nMoving where? Name disposition.\nOwned by whom? Assign orders and handoff.\nEnding how? Team check, family plan, debrief.\n\nReturn to Course Page"
+    "section": "How to stop ACLS",
+    "text": "How to stop ACLS\n\nSummarize\n\n\n“[duration] CPR, persistent [rhythm], no ROSC, and no remaining reversible intervention likely to change the outcome.”\n\n\nAsk\n\n\n“Does anyone see something we have not tried?”\n\n\nAnnounce\n\n\n“One final rhythm and pulse check. If unchanged, we will stop CPR.”\n\nAfter stopping:\n\nDeclare time of death.\nAssign family update.\nThank the team.\nPlan a brief debrief."
+  },
+  {
+    "objectID": "slides/escalation_closure.html#after-the-event-assign-tasks",
+    "href": "slides/escalation_closure.html#after-the-event-assign-tasks",
+    "title": "Escalation, Disposition, and Closure",
+    "section": "After the event: assign tasks",
+    "text": "After the event: assign tasks\n\nFamily update: [name]\nDocumentation/time: recorder\nAttending/workflow: primary team\nDebrief: [time/place]\n\nWhat went well? What changes? Does anyone need support?"
+  },
+  {
+    "objectID": "slides/escalation_closure.html#summary",
+    "href": "slides/escalation_closure.html#summary",
+    "title": "Escalation, Disposition, and Closure",
+    "section": "Summary",
+    "text": "Summary\n\nUnsafe here? Call early.\nMoving where? Name disposition.\nWho follows up? Name owner and callback.\nEnding how? Team check, family plan, debrief.\n\nReturn to Course Page"
   },
   {
     "objectID": "slides/nurse_response.html#working-with-nurse-led-response-teams",

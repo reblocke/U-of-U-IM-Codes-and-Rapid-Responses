@@ -43,13 +43,13 @@ Now worsening: tripoding, accessory muscle use, 100% FiO2 face mask, SpO2 upper 
 
 | Signal | Action |
 |---|---|
-| Cannot oxygenate, airway risk, peri-arrest | Call code or anesthesia early |
-| ICU-level monitoring or titratable drips | Call ICU early |
-| STEMI or cath-lab physiology | Activate cath pathway |
-| Focal neuro deficit | Activate stroke pathway |
-| Shock, PE concern, VT storm, mechanical support question | Activate shock, PERT, or TICU pathway by site |
+| Oxygenation or airway failure | Code/anesthesia |
+| ICU monitoring or drips | ICU |
+| STEMI/cath physiology | Cath |
+| Focal neuro deficit | Stroke |
+| Shock, PE, VT storm, device question | Shock/PERT/TICU by site |
 
-If this may become a code, create physical access now: bed out, bed down, pads on, airway/CPR access clear.
+If this may become a code: bed out/down, pads on, airway/CPR access clear.
 
 ## Every rapid needs an endpoint
 
@@ -57,7 +57,7 @@ A rapid response should end with one of these:
 
 - code blue
 - ICU transfer
-- procedure, imaging, or transfer
+- rarely, a procedure
 - stabilized on the floor
 - goals-of-care transition
 
@@ -67,58 +67,83 @@ Always hand off to the team assuming care.
 
 Try:
 
-> "Disposition is [ICU / floor / procedure / imaging / transfer / code / goals-of-care]."
+> "Disposition is [ICU / floor / code / goals-of-care]."
 
-> "Orders are owned by [name]."
+> "Follow-up is owned by [me / primary team]."
 
-> "The patient is owned by [team/person] until [handoff point]."
+> "The person for the nurse to call is [name/team]."
 
-> "If [trigger], call [team] or activate [code/RRT]."
+> "Are there concerns we have not addressed?"
 
-> "Before I leave, what are we missing?"
+## How long to continue?
 
-## If this becomes a code
+**Default = 30 minutes.**
 
-Continue while there is a plausible path:
+:::: columns
+::: {.column width="50%"}
+**Longer**
 
-- witnessed or monitored arrest
-- shockable rhythm or improving rhythm trajectory
-- reversible cause still being treated
-- signs of CPR quality or possible ROSC
-- bridge option such as cath, thrombolysis, ECPR, ICU procedure, or airway correction
+- witnessed/monitored
+- shockable or improving
+- reversible cause in progress
+- possible ROSC
+- bridge option
+:::
+
+::: {.column width="50%"}
+**Shorter**
+
+- unwitnessed/unmonitored
+- asystole/PEA without change
+- no reversible target
+- no ROSC signs
+- no bridge option
+:::
+::::
+
+## Duration informs prognosis
+
+[![](images/clipboard-1519849945.png){fig-alt="Probability of favorable functional status at discharge decreases as CPR duration increases, stratified by witnessed versus unwitnessed arrest." width="720"}](https://doi.org/10.1136/bmj-2023-076019)
 
 Duration matters. It is not the decision.
 
 Do not use EtCO2 alone as a stopping rule.
 
-## Stopping CPR
+## How to stop ACLS
 
-Try:
+1. **Summarize**
 
-> "We have had [duration] of CPR with persistent [rhythm], no ROSC, and no remaining reversible intervention we think will change the outcome."
+> "[duration] CPR, persistent [rhythm], no ROSC, and no remaining reversible intervention likely to change the outcome."
 
-> "Does anyone see something we have not addressed?"
+2. **Ask**
 
-> "We will check rhythm and pulse one more time. If unchanged, we will stop CPR."
+> "Does anyone see something we have not tried?"
 
-Then:
+3. **Announce**
 
-> "Time of death is [time]. Thank you. Let's assign family communication, postmortem workflow, and debrief location."
+> "One final rhythm and pulse check. If unchanged, we will stop CPR."
 
-## Family and debrief are assigned tasks
+After stopping:
 
-- Assign a family liaison: [name]
-- Recorder: confirm time and code documentation
-- Primary team: notify attending and complete death/disposition workflow
-- Team: two-minute debrief in [location]
+- Declare time of death.
+- Assign family update.
+- Thank the team.
+- Plan a brief debrief.
 
-Debrief: what went well, what should we change next time, and does anyone need support before returning to work?
+## After the event: assign tasks
 
-Four closing moves:
+- Family update: [name]
+- Documentation/time: recorder
+- Attending/workflow: primary team
+- Debrief: [time/place]
+
+What went well? What changes? Does anyone need support?
+
+## Summary
 
 1. Unsafe here? Call early.
 2. Moving where? Name disposition.
-3. Owned by whom? Assign orders and handoff.
+3. Who follows up? Name owner and callback.
 4. Ending how? Team check, family plan, debrief.
 
 [Return to Course Page](../ "Course Page")
