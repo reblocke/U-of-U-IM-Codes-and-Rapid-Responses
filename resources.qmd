@@ -6,16 +6,16 @@ Quick reference materials for Code Blue and Rapid Response leadership.
 
 ## Key Points
 
-- **Establish the leader early.** Try: "I'm Joe/Jane Doe, the resident on the code team. Who is running this code/RRT?" or "Can I take over?"
-- **Ask for the nursing/outreach 30-second story.** Try: "What changed, what have you already tried, and what are you most worried about?"
-- **Stay at the foot of the bed when leading.** Do not drift into tasks that pull you out of room management.
-- **Keep the big picture visible.** For an RRT, ask whether this is becoming a code or whether the patient needs ICU. For a code, protect high-quality compressions and shock early if shockable.
-- **Close the loop before leaving.** Name disposition, orders, ownership, and debrief plan.
+- **Name the leadership state early.** Ask who is coordinating, then lead, support, consult, or transition leadership explicitly.
+- **Get the nursing trajectory.** Ask bedside and outreach nurses what changed, what has been tried, and what worries them most.
+- **Protect pulse checks.** Prepare the pause, make shock/no-shock and pulse/no-pulse decisions public, and resume compressions quickly when uncertain.
+- **Ask whether the patient is safe here.** Identify the missing resource, destination, owner, and escalation trigger.
+- **Close the loop before leaving.** Name disposition, orders, ownership, and the trigger for calling RRT, ICU, or code response.
 
 ## Nurse-Team Huddle Script
 
 ::: {.script-card}
-> "Let's huddle for 30 seconds. I'm running the rapid unless someone else is. Bedside nurse, what changed? Outreach, what are you worried about? My working problem is [problem]. Our immediate plan is [plan]. If [trigger] happens, call a code."
+> "Let's huddle for 30 seconds. I'm [name], responding as the senior medicine resident. Who is coordinating? Bedside nurse, what changed? Outreach, what have you tried and what worries you most? Primary team, baseline and code status? My working problem is [problem]. The immediate plan is [plan]. If [trigger], we will [escalation step]. Orders are owned by [name], and disposition is [plan]. What are we missing?"
 :::
 
 Use this when nursing or outreach is already actively managing the patient. The goal is not to slow the response; it is to prevent parallel, conflicting plans.
@@ -27,6 +27,8 @@ Use this when nursing or outreach is already actively managing the patient. The 
 ## Site Differences
 
 **2026 verification status:** TBD. Confirm site-specific teams and phone/paging workflows before the live session.
+
+Know your site. Call early. Verify before the live session.
 
 Confirm whether each site has a formal nurse-led outreach function, who activates it, and how it interfaces with the resident rapid response/code team.
 

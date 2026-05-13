@@ -39,7 +39,7 @@ Practice aligning bedside nursing, outreach nursing, and resident medical leader
 ::: {.module-item}
 ### 4. Escalation, Disposition, and Closure
 
-Practice deciding when a rapid is becoming a code, what resources are needed, where the patient should go, how to hand off, and how to debrief.
+Practice deciding when the current room is unsafe, activating the right resource early, naming disposition, assigning ownership, and closing the event.
 
 [Open slides](slides/escalation_closure.html)
 :::

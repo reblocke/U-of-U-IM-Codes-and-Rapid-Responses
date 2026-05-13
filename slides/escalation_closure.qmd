@@ -11,158 +11,114 @@ editor: visual
 
 ### Learners will practice:
 
-1. Deciding whether a rapid is becoming a code
-2. Calling for the right people early
-3. Choosing floor vs ICU vs procedure/transfer
-4. Managing the room without doing tasks
-5. Ending with handoff and debrief
+1. Deciding when the current room is no longer safe
+2. Calling the right resource early
+3. Naming disposition, orders, ownership, and triggers
+4. Ending a code with team check, family plan, and debrief
 
-## Analyze the emergency
+## The core question
 
-### Stable or unstable?
+**Is this patient safe here with current people, monitoring, and resources?**
 
-- ABCs
-- What help do you have?
-- What help will you need?
-- Is this patient safe where they are?
+Ask:
 
-## Resources vary across site
+- What is the risk in the next 5 minutes?
+- What resource is missing now?
+- Where does this patient need to be?
+- Who owns the patient until they get there?
 
-| Who comes? | U of U | IMED | VA |
-|---|---|---|---|
-| RRT/MET | House Sup, IM Res, SICU RN, Pharm | IM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab | IM, MICU, CNO, RNs, RT, Pharmacy (7a-7p) |
-| Code Blue | add: Anesthesia, EMT, MICU resident, Pharm, ICU Fellow | add: ICU attendings | add: Anesthesia/ED |
+## VA RRT case
 
-Verify site-specific workflows before the live 2026 session.
+Elderly man, immediately hypoxemic after transfusion.
 
-## Paged to RRT at the VA
+RR 24. SpO2 82% on 2 L.
 
-- Elderly male who is hypoxemic immediately after a blood transfusion
-- RR 24, SpO2 82% on 2L
+Now worsening: tripoding, accessory muscle use, 100% FiO2 face mask, SpO2 upper 80s.
 
-Sick or not sick?
+<img src="images/clipboard-1187290827.png" alt="XR Chest Obtained During RRT" style="height: 260px; width: auto; display: block; margin: 0.5rem auto;">
 
-Stable or unstable?
+**Prompt:** What do you say out loud now?
 
-What else do you need?
+## Escalate before the room fails
 
-## The patient worsens
+| Signal | Action |
+|---|---|
+| Cannot oxygenate, airway risk, peri-arrest | Call code or anesthesia early |
+| ICU-level monitoring or titratable drips | Call ICU early |
+| STEMI or cath-lab physiology | Activate cath pathway |
+| Focal neuro deficit | Activate stroke pathway |
+| Shock, PE concern, VT storm, mechanical support question | Activate shock, PERT, or TICU pathway by site |
 
-![](images/clipboard-1187290827.png){fig-alt="XR Chest Obtained During RRT" fig-align="center" width="800"}
+If this may become a code, create physical access now: bed out, bed down, pads on, airway/CPR access clear.
 
-- Begins to tripod with accessory muscle use
-- Placed on 100% FiO2 via face mask
-- SpO2 remains in the upper 80s
-
-How has the situation changed?
-
-## Situations to escalate during a rapid
-
-| Question | Signal | Action |
-|---|---|---|
-| Will this be a code in 5 minutes? | airway, in extremis, peri-arrest | RRT -> Code early |
-| Brain attack? | focal deficit | call Brain Attack; know VA after-hours transfer workflow |
-| ICU-level nursing? | titratable drips, unsafe monitoring, repeated reassessment | call ICU early |
-
-## Situations needing extra resources
-
-| Concern | Action | Notes |
-|---|---|---|
-| STEMI or high suspicion | activate Cath Lab | all sites capable 24/7 |
-| Shock team | HF, few comorbidities, VT storm, high suspicion PE | U of U Shock Team; IMED PERT/TICU attending |
-| Airway | cannot oxygenate/ventilate, mental status unsafe | call anesthesia/code early |
-
-## Numbers and workflows vary
-
-| U of U | IMED | VA |
-|---|---|---|
-| Shock Team, Cath, Brain Attack, VAD: 1-2222 | Shock Team: Vocera TICU attending; Brain Attack: Operator/x33333 | Cath: Page Cardiology; Code: x6666; Brain Attack: Page Neuro Senior |
-
-## Room management
-
-If you are leading:
-
-- stand where you can see the room
-- move the bed out from the wall
-- lower the bed for CPR
-- clear nonessential people
-- assign roles by name or badge/function
-- do not become the task person
-
-## Room setup
-
-![Bed Management](images/clipboard-1132860432.png){fig-alt="Bed pulled out from wall for airway and compressor access" fig-align="center" width="900"}
-
-## Rapid response outcomes
+## Every rapid needs an endpoint
 
 A rapid response should end with one of these:
 
 - code blue
 - ICU transfer
-- procedure / cath / imaging / transfer
+- procedure, imaging, or transfer
 - stabilized on the floor
 - goals-of-care transition
 
 Always hand off to the team assuming care.
 
-## Code blue: when do you stop?
-
-Young patient. Seems like a PE.
-
-She has been in PEA at each pulse check.
-
-Resuscitation has been going on for 40 minutes.
-
-When do you stop?
-
-## How to think about duration
-
-[![](images/clipboard-1519849945.png){fig-alt="Study figure about resuscitation duration" width="500"}](https://doi.org/10.1136/bmj-2023-076019)
-
-[![BMJ. 2024 Feb 7:384:e076019](images/clipboard-1842920037.png){fig-alt="BMJ article screenshot about duration of resuscitation" width="500"}](https://doi.org/10.1136/bmj-2023-076019)
-
-## Factors that change duration
-
-Consider:
-
-- pre-arrest state
-- witnessed vs unwitnessed
-- monitored vs unmonitored
-- likely reversible cause
-- rhythm trajectory
-- EtCO2 and physiologic signs
-- family/surrogate context when available
-
-## Family presence
-
-![Use judgement, delegate attention, and try to include when possible](images/clipboard-3778670532.png){fig-alt="NEJM RCT on family presence during resuscitation" width="1200"}
-
-Use judgment.
-
-Delegate attention.
-
-Try to include when possible and safe.
-
-## How to end an unsuccessful attempted resuscitation
+## Disposition huddle
 
 Try:
 
-> "Does anyone have ideas we have not tried?"
+> "Disposition is [ICU / floor / procedure / imaging / transfer / code / goals-of-care]."
 
-> "We are going to stop CPR at the next check unless the rhythm changes."
+> "Orders are owned by [name]."
+
+> "The patient is owned by [team/person] until [handoff point]."
+
+> "If [trigger], call [team] or activate [code/RRT]."
+
+> "Before I leave, what are we missing?"
+
+## If this becomes a code
+
+Continue while there is a plausible path:
+
+- witnessed or monitored arrest
+- shockable rhythm or improving rhythm trajectory
+- reversible cause still being treated
+- signs of CPR quality or possible ROSC
+- bridge option such as cath, thrombolysis, ECPR, ICU procedure, or airway correction
+
+Duration matters. It is not the decision.
+
+Do not use EtCO2 alone as a stopping rule.
+
+## Stopping CPR
+
+Try:
+
+> "We have had [duration] of CPR with persistent [rhythm], no ROSC, and no remaining reversible intervention we think will change the outcome."
+
+> "Does anyone see something we have not addressed?"
+
+> "We will check rhythm and pulse one more time. If unchanged, we will stop CPR."
 
 Then:
 
-- thank team members
-- name death pronouncement workflow
-- assign family communication
-- set a time and location to debrief
+> "Time of death is [time]. Thank you. Let's assign family communication, postmortem workflow, and debrief location."
 
-## Summary
+## Family and debrief are assigned tasks
 
-- Escalate early when the room is not safe enough.
-- Know what resources each site can bring.
-- Decide disposition before drifting away.
-- End with handoff, ownership, and debrief.
+- Assign a family liaison: [name]
+- Recorder: confirm time and code documentation
+- Primary team: notify attending and complete death/disposition workflow
+- Team: two-minute debrief in [location]
+
+Debrief: what went well, what should we change next time, and does anyone need support before returning to work?
+
+Four closing moves:
+
+1. Unsafe here? Call early.
+2. Moving where? Name disposition.
+3. Owned by whom? Assign orders and handoff.
+4. Ending how? Team check, family plan, debrief.
 
 [Return to Course Page](../ "Course Page")
