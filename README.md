@@ -10,11 +10,12 @@ Course website and teaching materials for the **University of Utah Internal Medi
 ## Authors & Affiliations
 
 - **Alex Ryden, MD** -- University of Utah Pulmonary and Critical Care Medicine Fellowship
-- **Ethan Krauspe, MD** -- University of Utah Internal Medicine Chief Medical Residents
+- **Ethan Krauspe, MD** -- University of Utah Cardiology Fellowship
 - **Colton Long, MD** -- University of Utah Internal Medicine Residency
-- **Josiah Situmeang, MD** -- University of Utah Internal Medicine Chief Medical Residents
+- **Josiah Situmeang, MD** -- University of Utah Pulmonary and Critical Care Medicine Fellowship
 - **Sumit Patel, MD** -- University of Utah Pulmonary and Critical Care Medicine Fellowship
 - **Richa Sheth, MD** -- University of Utah Pulmonary and Critical Care Medicine Fellowship
+- **Alexys Monoson, MD** -- Pulmonary and Critical Care Medicine, University of Utah
 - **Brian W. Locke, MD MSCI** -- Pulmonary & Critical Care Medicine, Intermountain Medical Center
 
 ## Teaching Module At A Glance
@@ -24,6 +25,12 @@ Course website and teaching materials for the **University of Utah Internal Medi
 - **Format:** Learner-facing website, short micro-skill slide modules, in-person simulation scenarios, and facilitator notes for interprofessional co-teaching.
 
 ## Quick Start
+
+To use the modules, go to the live website:
+
+<https://reblocke.github.io/U-of-U-IM-Codes-and-Rapid-Responses/>
+
+The commands below are only needed for local development, branch previews, or checking changes before publishing.
 
 Prerequisite: [Quarto](https://quarto.org/docs/get-started/) installed.
 
@@ -54,6 +61,8 @@ The site is configured as a Quarto website and publishes from `docs/` for GitHub
 ## Releases And Citation
 
 Please cite the website/software using [`CITATION.cff`](./CITATION.cff). The 2025 class version is preserved as the [`v2025.06` GitHub release](https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses/releases/tag/v2025.06).
+
+Related course-evaluation outputs are listed on the [References](./references.qmd) page, including the citable 2025 ATS abstract and the 2026 ATS poster.
 
 ## Contributing
 

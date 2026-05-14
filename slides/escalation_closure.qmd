@@ -11,21 +11,22 @@ editor: visual
 
 ### Learners will practice:
 
-1. Deciding when the current room is no longer safe
+1. Deciding what next care step the patient needs
 2. Calling the right resource early
-3. Naming disposition, orders, ownership, and triggers
+3. Naming disposition, follow-up, callback, and triggers
 4. Ending a code with team check, family plan, and debrief
 
 ## The core question
 
-**Is this patient safe here with current people, monitoring, and resources?**
+**What next step does this patient need?**
 
 Ask:
 
 - What is the risk in the next 5 minutes?
-- What resource is missing now?
-- Where does this patient need to be?
-- Who owns the patient until they get there?
+- What decision is needed now?
+- What resource or capability is missing?
+- Where should the next care step happen?
+- Who follows up until that step happens?
 
 ## VA RRT case
 
@@ -39,7 +40,7 @@ Now worsening: tripoding, accessory muscle use, 100% FiO2 face mask, SpO2 upper 
 
 **Prompt:** What do you say out loud now?
 
-## Escalate before the room fails
+## Call resources early
 
 | Signal | Action |
 |---|---|
@@ -49,7 +50,7 @@ Now worsening: tripoding, accessory muscle use, 100% FiO2 face mask, SpO2 upper 
 | Focal neuro deficit | Stroke |
 | Shock, PE, VT storm, device question | Shock/PERT/TICU by site |
 
-If this may become a code: bed out/down, pads on, airway/CPR access clear.
+Code risk: bed out/down, pads on, airway/CPR access clear.
 
 ## Every rapid needs an endpoint
 
@@ -63,7 +64,7 @@ A rapid response should end with one of these:
 
 Always hand off to the team assuming care.
 
-## Disposition huddle
+## Next-step plan
 
 Try:
 
@@ -77,45 +78,29 @@ Try:
 
 ## How long to continue?
 
-Around 30 minutes, make an explicit stop/continue huddle. This is an anchor, not a stopping rule.
-
-Modify earlier or later based on rhythm trajectory, witnessed/monitored status, reversible causes, ROSC signs, bridge options, goals, and team input.
-
-## Modify the anchor
-
 :::: columns
-::: {.column width="50%"}
-**Longer**
+::: {.column width="52%"}
+[![](images/clipboard-1519849945.png){fig-alt="Probability of favorable functional status at discharge decreases as CPR duration increases, stratified by witnessed versus unwitnessed arrest." width="100%"}](https://doi.org/10.1136/bmj-2023-076019)
 
-- witnessed/monitored
-- shockable or improving
-- reversible cause in progress
-- possible ROSC
-- bridge option
+<div style="font-size: 0.55em; line-height: 1.1; margin-top: -0.4rem;">BMJ IHCA cohort: favorable functional status by CPR duration.</div>
 :::
 
-::: {.column width="50%"}
-**Shorter**
+::: {.column width="48%"}
+<div style="font-size: 0.72em; line-height: 1.05;">
 
-- unwitnessed/unmonitored
-- asystole/PEA without change
-- no reversible target
-- no ROSC signs
-- no bridge option
+**30 min:** stop/continue huddle.
+
+**Anchor, not rule.**
+
+**Longer:** witnessed/monitored, shockable/improving, reversible cause/bridge, ROSC signs.
+
+**Shorter:** unwitnessed/unmonitored, unchanged asystole/PEA, no target/ROSC/bridge.
+
+**Guardrail:** OHCA TOR rules do not automatically apply to IHCA.
+
+</div>
 :::
 ::::
-
-## Duration informs prognosis
-
-[![](images/clipboard-1519849945.png){fig-alt="Probability of favorable functional status at discharge decreases as CPR duration increases, stratified by witnessed versus unwitnessed arrest." width="720"}](https://doi.org/10.1136/bmj-2023-076019)
-
-## What duration does not decide
-
-Duration matters. It informs the huddle; it does not decide alone.
-
-ETCO2 alone should not decide stopping or continuing.
-
-Out-of-hospital TOR rules do not automatically decide in-hospital codes.
 
 ## How to stop ACLS
 
@@ -136,9 +121,9 @@ What went well? What changes? Does anyone need support?
 
 ## Summary
 
-1. Unsafe here? Call early.
+1. Next step needs more? Call early.
 2. Moving where? Name disposition.
 3. Who follows up? Name owner and callback.
 4. Ending how? Team check, family plan, debrief.
 
-[Return to Course Page](../ "Course Page")
+[Return to Modules Page](../modules.html "Modules Page")

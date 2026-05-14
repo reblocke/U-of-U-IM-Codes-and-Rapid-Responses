@@ -17,6 +17,7 @@ Learner hub for University of Utah Internal Medicine residents preparing to lead
 ### Before the Session
 
 - No pre-work required; we will spend the first 10 minutes going through the pre-test and orientation, then go through the modules together.
+- Pre-test survey: [open last year's survey link](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3).
 - Bring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.
 - Note site-specific workflow uncertainties you want clarified.
 :::
@@ -26,8 +27,8 @@ Learner hub for University of Utah Internal Medicine residents preparing to lead
 
 - Practice making leadership clear.
 - Make pulse-check decisions out loud.
-- Practice a 30-second huddle that turns bedside or outreach concern into a shared plan.
-- Name when the room is unsafe, call the missing resource, and assign destination and ownership.
+- Use bedside and outreach expertise to choose the next step.
+- Call the resource needed for the next step and assign follow-up.
 - Run hands-on Zoll and scenario practice.
 :::
 
@@ -38,7 +39,7 @@ Learner hub for University of Utah Internal Medicine residents preparing to lead
 - Revisit the case rhythm strips.
 - Send near-misses, big wins, or unclear resident/nursing workflows to the CMRs or course leads so this course stays current.
 
-**Post-session survey:** 2026 link TBD.
+**Post-module survey:** [open last year's survey link](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3).
 :::
 :::
 
@@ -48,9 +49,9 @@ By the end of the session, learners should be able to:
 
 - Make the leadership state clear on arrival: lead, support, consult, or transition leadership explicitly.
 - Prepare pulse checks, make shock/no-shock decisions public, and protect compression pauses.
-- Use bedside nurse and outreach trajectory to align roles, plan, orders, ownership, and escalation triggers.
-- Decide when the current room is unsafe and activate the appropriate site-specific resource or destination.
-- Close each rapid/code with explicit disposition, order owner, handoff point, family plan when needed, and debrief.
+- Use bedside nurse and outreach trajectory to identify key decisions, needed resources, and the next-step plan.
+- Decide what next care step the patient needs and activate the appropriate site-specific resource or destination.
+- Close each rapid/code with explicit disposition, follow-up owner, callback plan, family plan when needed, and debrief.
 
 ::: {.callout-tip}
 Didactics alone have limits. Regular review, simulation, interprofessional practice, and feedback after real events are what turn these skills into reflexes.
@@ -78,7 +79,7 @@ Five short code/RRT cases for Zoll practice, rhythm decisions, escalation, and r
 ::: {.link-card}
 ### Quick Resources
 
-ACLS card, site differences, nurse-team huddle script, rapid response guide, and QR/manual links.
+ACLS card, site differences, team-resource script, rapid response guide, and QR/manual links.
 
 [Open resources](resources.qmd)
 :::

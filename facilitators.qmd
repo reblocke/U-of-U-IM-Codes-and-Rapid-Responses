@@ -10,20 +10,15 @@ title: "Facilitators"
 - [Course website QR slide](slides/qr.html)
 - [Annual maintenance checklist on GitHub](https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses/blob/main/MAINTENANCE.md)
 
-## Nurse-Team Co-Facilitation
+## Facilitator Case Map
 
-For the 2026 iteration, invite at least one nurse rapid response, code team, or critical care outreach lead to review the collaboration module before teaching.
+Use these labels for setup and debrief; learner-facing scenario cards intentionally hide the key diagnosis or management issue.
 
-If feasible, include a nurse co-facilitator for one scenario station. Their role is to help learners practice how to ask for bedside context, clarify leadership, and close the loop without undermining nursing expertise.
-
-Use this nurse-response debrief checklist after the station:
-
-- Did the resident identify who was coordinating?
-- Did the resident ask the bedside nurse for trajectory?
-- Did the resident ask outreach what had already been tried?
-- Did the resident make the working problem and immediate plan public?
-- Did the resident respond constructively to nursing concern?
-- Did the resident close the loop on orders, disposition, ownership, and escalation trigger?
+- **Case 1:** Metabolic derangements / ESRD - asystole versus fine VF.
+- **Case 2:** VF/VT arrest with post-ROSC ECG and stabilization.
+- **Case 3:** Polymorphic VT/TdP after QT-prolonging medications.
+- **Case 4:** Tachycardia during RRT with adenosine guardrails.
+- **Case 5:** Complete heart block / unstable bradycardia.
 
 ## Session Setup
 
@@ -31,7 +26,7 @@ Use this nurse-response debrief checklist after the station:
 - Confirm site-specific rapid response, code blue, shock team, cath lab, brain attack, and VA transfer workflows.
 - Confirm whether each site has a nurse-led critical care outreach workflow before formal RRT activation.
 - Confirm how bedside nurses, charge nurses, outreach nurses, and critical care nurses expect residents to communicate during RRT/code events.
-- Decide which case station will explicitly assess the 30-second nursing/outreach huddle.
+- Decide which case station will explicitly assess use of bedside/outreach expertise for next-step planning.
 - Confirm the Zoll model and defibrillator workflow learners will practice.
 - Keep public slides learner-safe; put facilitator prompts, case answers, and timing notes in the preceptor guide.
 
@@ -42,6 +37,6 @@ Use this nurse-response debrief checklist after the station:
 - Case order, scenario wording, and any site-specific changes.
 - Nurse/outreach feedback on whether the scripts match actual workflow.
 - Scenario notes about resident/nurse interface problems observed during simulation.
-- Any revised activation criteria or ownership expectations from nurse response teams.
+- Any revised activation criteria or follow-up expectations from nurse response teams.
 - References that materially affect resuscitation leadership, termination, family presence, or rapid response systems.
 - README, `CITATION.cff`, and release/archive notes.

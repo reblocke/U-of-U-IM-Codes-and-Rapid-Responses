@@ -9,28 +9,14 @@ Quick reference materials for Code Blue and Rapid Response leadership.
 - **Name the leadership state early.** Ask who is coordinating, then lead, support, consult, or transition leadership explicitly.
 - **Get the nursing trajectory.** Ask bedside and outreach nurses what changed, what has been tried, and what worries them most.
 - **Protect pulse checks.** Prepare the pause, make shock/no-shock and pulse/no-pulse decisions public, and resume compressions quickly when uncertain.
-- **Ask whether the patient is safe here.** Identify the missing resource, destination, owner, and escalation trigger.
-- **Close the loop before leaving.** Name disposition, orders, ownership, and the trigger for calling RRT, ICU, or code response.
-
-## Nurse-Team Huddle Script
-
-::: {.script-card}
-> "Let's huddle for 30 seconds. I'm [name], responding as the senior medicine resident. Who is coordinating? Bedside nurse, what changed? Outreach, what have you tried and what worries you most? Primary team, baseline and code status? My working problem is [problem]. The immediate plan is [plan]. If [trigger], we will [escalation step]. Orders are owned by [name], and disposition is [plan]. What are we missing?"
-:::
-
-Use this when nursing or outreach is already actively managing the patient. The goal is not to slow the response; it is to prevent parallel, conflicting plans.
+- **Plan the next step explicitly.** Use bedside and outreach expertise to identify the key decision, needed resource, destination, and trigger.
+- **Close the loop before leaving.** Name disposition, follow-up owner, callback person, and the trigger for calling RRT, ICU, or code response.
 
 ## ACLS Card
 
 ![](images/clipboard-4142146450.png){fig-alt="Adult cardiac arrest dosing guide and rhythm decision card"}
 
 ## Site Differences
-
-**2026 verification status:** TBD. Confirm site-specific teams and phone/paging workflows before the live session.
-
-Know your site. Call early. Verify before the live session.
-
-Confirm whether each site has a formal nurse-led outreach function, who activates it, and how it interfaces with the resident rapid response/code team.
 
 |  | **U of U** | **IMED** | **VA** |
 |:---|:---|:---|:---|

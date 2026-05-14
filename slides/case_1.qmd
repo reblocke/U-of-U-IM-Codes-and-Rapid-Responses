@@ -53,4 +53,10 @@ Assign: timekeeper, compressor switch, defib, meds/pharm.
 
 -   Calcium, bicarbonate, and insulin-glucose are cause-directed treatments for suspected hyperkalemia. They are not routine arrest medications.
 
+## Case summary
+
+**Label:** Metabolic derangements / ESRD - asystole versus fine VF.
+
+**Key issue:** confirm true asystole versus fine VF; hyperkalemia treatments are cause-directed, not routine arrest medications.
+
 [Return to Course Page](../ "Course Page")

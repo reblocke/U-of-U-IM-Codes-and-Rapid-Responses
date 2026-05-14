@@ -58,4 +58,10 @@ Close the loop on shock timing and post-ROSC ECG.
 
 -   VF/VT: Think.. **acute MI (**sudden, **chest pain)**, **electrolyte derangements**, **drug toxicity**
 
+## Case summary
+
+**Label:** VF/VT arrest with post-ROSC ECG and stabilization.
+
+**Key issue:** shock early, protect compression fraction, then stabilize and search for the post-ROSC cause.
+
 [Return to Course Page](../ "Course Page")

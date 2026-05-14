@@ -1,5 +1,5 @@
 ---
-title: "Pulse-Check Decisions: The 10-Second Decision"
+title: "Pulse Checks: The 10-Second Decision"
 author: "Slides by Josiah Situmeang, Alex Ryden, Brian Locke"
 format:
   revealjs:
@@ -48,6 +48,8 @@ Try:
 
 ## Fine VF vs asystole
 
+:::: columns
+::: {.column width="45%"}
 If uncertain:
 
 1. Turn up gain.
@@ -55,14 +57,25 @@ If uncertain:
 3. Voice your uncertainty.
 4. If it could be VF/pVT, shock (consider consequences of each error).
 5. If not, resume CPR.
+:::
 
-![Coarse vs fine ventricular fibrillation](images/clipboard-939422357.png){fig-alt="Coarse vs fine ventricular fibrillation" fig-align="center" width="1200"}
+::: {.column width="55%"}
+<figure style="margin: 0;">
+  <img src="images/clipboard-939422357.png" alt="Coarse vs fine ventricular fibrillation" style="width: 100%; display: block;">
+  <figcaption style="font-size: 0.75em; line-height: 1.15; margin-top: 0.4rem; text-align: center;">Coarse vs fine ventricular fibrillation</figcaption>
+</figure>
+:::
+::::
 
 ## Second pulse check
 
 ### No palpable pulse
 
 ![Airway team ready to intubate, asks for a moment before resuming compressions](images/clipboard-2169519162.png){fig-alt="Second pulse check with airway team asking for time"}
+
+**Prompt:** What is the rhythm now, and what do you do about the airway request?
+
+## Airway answer
 
 **Answer:**
 
@@ -82,16 +95,6 @@ During arrest, protect two things:
 Everything else has to fit around those.
 
 ![](images/clipboard-289981620.png){fig-alt="Zoll feedback mode" fig-align="center" width="400"}
-
-## Make uncertainty public and brief
-
-Name what is uncertain, then name the action.
-
-Try:
-
-- Fine VF vs asystole: gain/leads now; if still possibly VF/pVT, shock.
-- Possible ROSC: rhythm, pulse, waveform; if unclear, CPR continues.
-- Disagreement on pulse: compressions continue while we clarify.
 
 ## Confirming ROSC can be hard
 
@@ -125,6 +128,16 @@ Suggested answer:
 
 > "Possible ROSC. At the next check: rhythm, pulse, waveform. If not convincing, resume compressions."
 
+## Make uncertainty public and brief
+
+Name what is uncertain, then name the action.
+
+Try:
+
+- Fine VF vs asystole: gain/leads now; if still possibly VF/pVT, shock.
+- Possible ROSC: rhythm, pulse, waveform; if unclear, CPR continues.
+- Disagreement on pulse: compressions continue while we clarify.
+
 ## Summary
 
 **Do not miss fine VF.**
@@ -133,4 +146,6 @@ Suggested answer:
 
 **Do not keep uncertainty private.**
 
-[Return to Course Page](../ "Course Page")
+**Use EtCO2 to monitor compressions and help detect ROSC.**
+
+[Return to Modules Page](../modules.html "Modules Page")

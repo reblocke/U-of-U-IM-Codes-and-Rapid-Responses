@@ -43,4 +43,10 @@ Then say the rhythm plan out loud.
 
 -   QT prolongation more dangerous with slow HR
 
+## Case summary
+
+**Label:** Polymorphic VT/TdP after QT-prolonging medications.
+
+**Key issue:** sustained polymorphic VT needs immediate unsynchronized shock; recurrent long-QT/TdP needs magnesium, QT-driver correction, and expert help.
+
 [Return to Course Page](../ "Course Page")

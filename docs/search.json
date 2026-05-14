@@ -9,86 +9,93 @@
   {
     "objectID": "slides/pulse_check.html#pulse-check-decisions",
     "href": "slides/pulse_check.html#pulse-check-decisions",
-    "title": "Pulse-Check Decisions: The 10-Second Decision",
+    "title": "Pulse Checks: The 10-Second Decision",
     "section": "Pulse-check decisions",
     "text": "Pulse-check decisions\nLearners will practice:\n\nPreparing a pulse check before the pause\nMaking a shock/no-shock call under uncertainty\nPreventing airway/procedure pauses\nUsing EtCO2 and other signals when ROSC is uncertain"
   },
   {
     "objectID": "slides/pulse_check.html#code-blue-on-e50",
     "href": "slides/pulse_check.html#code-blue-on-e50",
-    "title": "Pulse-Check Decisions: The 10-Second Decision",
+    "title": "Pulse Checks: The 10-Second Decision",
     "section": "Code blue on E50",
     "text": "Code blue on E50\nCompressions are ongoing when you arrive.\nYou establish yourself as code leader.\nPrompt: You have 20 seconds before the next pulse check. What do you assign?"
   },
   {
     "objectID": "slides/pulse_check.html#before-the-pause",
     "href": "slides/pulse_check.html#before-the-pause",
-    "title": "Pulse-Check Decisions: The 10-Second Decision",
+    "title": "Pulse Checks: The 10-Second Decision",
     "section": "Before the pause",
     "text": "Before the pause\nTry:\n\n“Recorder, call out pause time.”\n\n\n“You check pulse.”\n\n\n“You call rhythm.”\n\n\n“Defib team, be ready if shockable.”\n\n\n“Everyone else: compressions resume unless I say shock.”"
   },
   {
     "objectID": "slides/pulse_check.html#first-pulse-check",
     "href": "slides/pulse_check.html#first-pulse-check",
-    "title": "Pulse-Check Decisions: The 10-Second Decision",
+    "title": "Pulse Checks: The 10-Second Decision",
     "section": "First pulse check",
     "text": "First pulse check\nNo palpable pulse\n\nShock, no shock, or uncertain?Prompt: Shock, no shock, or uncertain?"
   },
   {
     "objectID": "slides/pulse_check.html#fine-vf-vs-asystole",
     "href": "slides/pulse_check.html#fine-vf-vs-asystole",
-    "title": "Pulse-Check Decisions: The 10-Second Decision",
+    "title": "Pulse Checks: The 10-Second Decision",
     "section": "Fine VF vs asystole",
-    "text": "Fine VF vs asystole\nIf uncertain:\n\nTurn up gain.\nCheck leads/connection.\nVoice your uncertainty.\nIf it could be VF/pVT, shock (consider consequences of each error).\nIf not, resume CPR.\n\n\nCoarse vs fine ventricular fibrillation"
+    "text": "Fine VF vs asystole\n\n\nIf uncertain:\n\nTurn up gain.\nCheck leads/connection.\nVoice your uncertainty.\nIf it could be VF/pVT, shock (consider consequences of each error).\nIf not, resume CPR.\n\n\n\n\n\nCoarse vs fine ventricular fibrillation"
   },
   {
     "objectID": "slides/pulse_check.html#second-pulse-check",
     "href": "slides/pulse_check.html#second-pulse-check",
-    "title": "Pulse-Check Decisions: The 10-Second Decision",
+    "title": "Pulse Checks: The 10-Second Decision",
     "section": "Second pulse check",
-    "text": "Second pulse check\nNo palpable pulse\n\nAirway team ready to intubate, asks for a moment before resuming compressionsAnswer:\n\n“Airway, keep working during compressions. We’ll give you the next planned pause only if you are ready.”\n\n\n“If intubation will interrupt CPR, put in an LMA.”\n\nAirway does not own the pause."
+    "text": "Second pulse check\nNo palpable pulse\n\nAirway team ready to intubate, asks for a moment before resuming compressionsPrompt: What is the rhythm now, and what do you do about the airway request?"
+  },
+  {
+    "objectID": "slides/pulse_check.html#airway-answer",
+    "href": "slides/pulse_check.html#airway-answer",
+    "title": "Pulse Checks: The 10-Second Decision",
+    "section": "Airway answer",
+    "text": "Airway answer\nAnswer:\n\n“Airway, keep working during compressions. We’ll give you the next planned pause only if you are ready.”\n\n\n“If intubation will interrupt CPR, put in an LMA.”\n\nAirway does not own the pause."
   },
   {
     "objectID": "slides/pulse_check.html#what-really-matters",
     "href": "slides/pulse_check.html#what-really-matters",
-    "title": "Pulse-Check Decisions: The 10-Second Decision",
+    "title": "Pulse Checks: The 10-Second Decision",
     "section": "What really matters",
     "text": "What really matters\nDuring arrest, protect two things:\n\nCompression fraction\nEarly defibrillation for shockable rhythm\n\nEverything else has to fit around those."
   },
   {
-    "objectID": "slides/pulse_check.html#make-uncertainty-public-and-brief",
-    "href": "slides/pulse_check.html#make-uncertainty-public-and-brief",
-    "title": "Pulse-Check Decisions: The 10-Second Decision",
-    "section": "Make uncertainty public and brief",
-    "text": "Make uncertainty public and brief\nName what is uncertain, then name the action.\nTry:\n\nFine VF vs asystole: gain/leads now; if still possibly VF/pVT, shock.\nPossible ROSC: rhythm, pulse, waveform; if unclear, CPR continues.\nDisagreement on pulse: compressions continue while we clarify."
-  },
-  {
     "objectID": "slides/pulse_check.html#confirming-rosc-can-be-hard",
     "href": "slides/pulse_check.html#confirming-rosc-can-be-hard",
-    "title": "Pulse-Check Decisions: The 10-Second Decision",
+    "title": "Pulse Checks: The 10-Second Decision",
     "section": "Confirming ROSC can be hard",
     "text": "Confirming ROSC can be hard\nConsider the consequences of each error.\nUse:\n\nEtCO2 trend or sudden rise\nArterial line or pleth waveform if present\nDoppler if ready\nPOCUS only if pre-positioned\nClinical signs\n\nWhen in doubt, continue compressions.\nNo probe fishing during pulse checks."
   },
   {
     "objectID": "slides/pulse_check.html#etco2-is-a-cue-not-proof",
     "href": "slides/pulse_check.html#etco2-is-a-cue-not-proof",
-    "title": "Pulse-Check Decisions: The 10-Second Decision",
+    "title": "Pulse Checks: The 10-Second Decision",
     "section": "EtCO2 is a cue, not proof",
     "text": "EtCO2 is a cue, not proof\n\nUse EtCO2 to help detect ROSCEtCO2 is a cue, not proof; if unclear, continue CPR."
   },
   {
     "objectID": "slides/pulse_check.html#third-pulse-check",
     "href": "slides/pulse_check.html#third-pulse-check",
-    "title": "Pulse-Check Decisions: The 10-Second Decision",
+    "title": "Pulse Checks: The 10-Second Decision",
     "section": "Third pulse check",
     "text": "Third pulse check\n\nEtCO2 = 36 mmHgPrompt: What do you say?\nSuggested answer:\n\n“Possible ROSC. At the next check: rhythm, pulse, waveform. If not convincing, resume compressions.”"
   },
   {
+    "objectID": "slides/pulse_check.html#make-uncertainty-public-and-brief",
+    "href": "slides/pulse_check.html#make-uncertainty-public-and-brief",
+    "title": "Pulse Checks: The 10-Second Decision",
+    "section": "Make uncertainty public and brief",
+    "text": "Make uncertainty public and brief\nName what is uncertain, then name the action.\nTry:\n\nFine VF vs asystole: gain/leads now; if still possibly VF/pVT, shock.\nPossible ROSC: rhythm, pulse, waveform; if unclear, CPR continues.\nDisagreement on pulse: compressions continue while we clarify."
+  },
+  {
     "objectID": "slides/pulse_check.html#summary",
     "href": "slides/pulse_check.html#summary",
-    "title": "Pulse-Check Decisions: The 10-Second Decision",
+    "title": "Pulse Checks: The 10-Second Decision",
     "section": "Summary",
-    "text": "Summary\nDo not miss fine VF.\nDo not prolong pauses for procedures.\nDo not keep uncertainty private.\nReturn to Course Page"
+    "text": "Summary\nDo not miss fine VF.\nDo not prolong pauses for procedures.\nDo not keep uncertainty private.\nUse EtCO2 to monitor compressions and help detect ROSC.\nReturn to Modules Page"
   },
   {
     "objectID": "slides/leadership.html#leadership-in-the-first-60-seconds",
@@ -109,7 +116,7 @@
     "href": "slides/leadership.html#say-the-sentence",
     "title": "Leadership in the First 60 Seconds",
     "section": "Say the sentence",
-    "text": "Say the sentence\nTry:\n\n“I’m [name], the senior medicine resident responding to the rapid. Who is currently coordinating this response?”\n\nThen choose:\n\n“Okay, I’ll run the room.”\n\n\n“Can I take over?”\n\n\n“Okay, I’ll support. Who is making final decisions?”"
+    "text": "Say the sentence\nTry:\n\n“I’m [name], the senior medicine resident responding to the rapid. Who is currently coordinating this response?”\n\nThen choose:\n\n“Okay, I’ll run the room.”\n\n\n“Can I take over?”\n\n\n“Okay, how can I help?”"
   },
   {
     "objectID": "slides/leadership.html#failure-mode",
@@ -123,7 +130,7 @@
     "href": "slides/leadership.html#anchor-the-room",
     "title": "Leadership in the First 60 Seconds",
     "section": "Anchor the room",
-    "text": "Anchor the room\nIf you are leading:\n\nStay visible and findable.\nDelegate tasks by name or function.\nKeep patient, monitor, nurse, doorway, and task flow in view.\n\nTry:\n\n“I’m staying here to run the room; bring questions or data to me.”"
+    "text": "Anchor the room\nIf you are leading:\n\nStay visible and findable.\nDelegate tasks by name or function.\nKeep patient, monitor, nurse, doorway, and task flow in view.\n\n\n“I’m staying here to run the room; bring questions or data to me.”"
   },
   {
     "objectID": "slides/leadership.html#make-the-plan-public",
@@ -144,7 +151,7 @@
     "href": "slides/leadership.html#summary",
     "title": "Leadership in the First 60 Seconds",
     "section": "Summary",
-    "text": "Summary\nFour moves\n\nName the leadership state.\nAnchor yourself.\nSay the working problem and first plan.\nInvite concern before action.\n\nNext: apply the same leadership clarity to pulse-check decisions. The nurse-response module later builds on this language for bedside and outreach collaboration.\nReturn to Course Page"
+    "text": "Summary\nFour moves\n\nName the leadership state.\nAnchor yourself.\nSay the working problem and first plan.\nInvite concern before action.\n\nNext: apply the same leadership clarity to pulse-check decisions. The nurse-response module later builds on this language for bedside and outreach collaboration.\nReturn to Modules Page"
   },
   {
     "objectID": "slides/ending.html#this-deck-has-moved",
@@ -193,7 +200,14 @@
     "href": "slides/case_4.html#teaching-points",
     "title": "Case 4",
     "section": "Teaching Points",
-    "text": "Teaching Points\n\nAdenosine is for stable, regular, monomorphic tachycardia when SVT or regular monomorphic WCT is possible. Do not give it for unstable, irregular, or polymorphic WCT.\nIf the rhythm is narrow and fast, decide whether it is causing instability or reflecting another problem.\n\nReturn to Course Page"
+    "text": "Teaching Points\n\nAdenosine is for stable, regular, monomorphic tachycardia when SVT or regular monomorphic WCT is possible. Do not give it for unstable, irregular, or polymorphic WCT.\nIf the rhythm is narrow and fast, decide whether it is causing instability or reflecting another problem."
+  },
+  {
+    "objectID": "slides/case_4.html#case-summary",
+    "href": "slides/case_4.html#case-summary",
+    "title": "Case 4",
+    "section": "Case summary",
+    "text": "Case summary\nLabel: Tachycardia during RRT with adenosine guardrails.\nKey issue: adenosine is only for stable, regular, monomorphic tachycardia contexts; use bedside/outreach input to judge stability and next step.\nReturn to Course Page"
   },
   {
     "objectID": "slides/case_2.html#case-2",
@@ -242,14 +256,21 @@
     "href": "slides/case_2.html#teaching-points",
     "title": "Case 2",
     "section": "Teaching Points",
-    "text": "Teaching Points\n\nTime to first shock is critical in VF\nRole of antiarrhythmics is adjunctive, not primary\nPersisting VF/pVT: follow device energy strategy; if unsure, maximum biphasic energy is reasonable. Protect compression fraction and confirm pads/contact. Do not teach routine DSED/vector-change as standard care.\nVF/VT: Think.. acute MI (sudden, chest pain), electrolyte derangements, drug toxicity\n\nReturn to Course Page"
+    "text": "Teaching Points\n\nTime to first shock is critical in VF\nRole of antiarrhythmics is adjunctive, not primary\nPersisting VF/pVT: follow device energy strategy; if unsure, maximum biphasic energy is reasonable. Protect compression fraction and confirm pads/contact. Do not teach routine DSED/vector-change as standard care.\nVF/VT: Think.. acute MI (sudden, chest pain), electrolyte derangements, drug toxicity"
+  },
+  {
+    "objectID": "slides/case_2.html#case-summary",
+    "href": "slides/case_2.html#case-summary",
+    "title": "Case 2",
+    "section": "Case summary",
+    "text": "Case summary\nLabel: VF/VT arrest with post-ROSC ECG and stabilization.\nKey issue: shock early, protect compression fraction, then stabilize and search for the post-ROSC cause.\nReturn to Course Page"
   },
   {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "References\n\n(Steinbach et al. 2024)\n(Janssens and Marshall 2024)\n(Guetterman et al. 2019)\n(Pallas et al. 2021)\n(Okubo et al. 2024)\n(American Heart Association 2025a)\n(American Heart Association 2025e)\n(American Heart Association 2025c)\n(American Heart Association 2025d)\n(American Heart Association 2025b)\n(Holmberg et al. 2025)\n(Ghantarchyan et al. 2024)\n(Schull et al. 2001)\n(Ueno et al. 2024)\n(Crowley et al. 2024)\n(Jabre et al. 2013)\n(Stolldorf and Jones 2015)\n(Littmann et al. 2013)\n(Norvik et al. 2022)\n\nAmerican Heart Association. 2025a. Adult Cardiac Arrest Algorithm. https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Accessible/Algorithm-ACLS-CA-LngDscrp-250725-Ed.pdf?sc_lang=en.\n\n\nAmerican Heart Association. 2025b. Highlights of the 2025 American Heart Association Guidelines for CPR and ECC. https://cpr.heart.org/-/media/CPR-Files/2025-documents-for-cpr-heart-edits-posting/Resuscitation-Science/252500_Hghlghts_2025ECCGuidelines.pdf?sc_lang=en.\n\n\nAmerican Heart Association. 2025c. Part 10: Adult and Pediatric Special Circumstances of Resuscitation. https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-and-pediatric-special-circumstances-of-resuscitation.\n\n\nAmerican Heart Association. 2025d. Part 11: Post-Cardiac Arrest Care. https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/post-cardiac-arrest-care.\n\n\nAmerican Heart Association. 2025e. Part 9: Adult Advanced Life Support. https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support.\n\n\nCrowley, Conor, Justin Salciccioli, Wei Wang, Tomoyoshi Tamura, Edy Y. Kim, and Ari Moskowitz. 2024. “The Association Between Mechanical CPR and Outcomes from in-Hospital Cardiac Arrest: An Observational Cohort Study.” Resuscitation 198 (May): 110142. https://doi.org/10.1016/j.resuscitation.2024.110142.\n\n\nGhantarchyan, Henrik, Alexander T. Phan, Jasmine Toor, et al. 2024. “Improving A Rapid Response System at a Teaching Hospital: Lessons Learned From Implementation of a Novel Performance Self-Evaluation Tool.” CHEST, ahead of print, November. https://doi.org/10.1016/j.chest.2024.10.055.\n\n\nGuetterman, Timothy C, Joan E Kellenberg, Sarah L Krein, et al. 2019. “Nursing Roles for in-Hospital Cardiac Arrest Response: Higher Versus Lower Performing Hospitals.” BMJ Quality &Amp; Safety 28 (11): 916. https://doi.org/10.1136/bmjqs-2019-009487.\n\n\nHolmberg, Mathias J., Asger Granfeldt, Ari Moskowitz, et al. 2025. “Termination of Resuscitation Rules for In-Hospital Cardiac Arrest.” JAMA Internal Medicine 185 (4): 391–97. https://doi.org/10.1001/jamainternmed.2024.7814.\n\n\nJabre, Patricia, Vanessa Belpomme, Elie Azoulay, et al. 2013. “Family Presence During Cardiopulmonary Resuscitation.” New England Journal of Medicine 368 (11): 1008–18. https://doi.org/10.1056/NEJMoa1203366.\n\n\nJanssens, Sarah, and Stuart Marshall. 2024. “Leadership in Emergency Teams: Time to Look Beyond ‘The Leader’.” CHEST 166 (5): 913–15. https://doi.org/10.1016/j.chest.2024.06.008.\n\n\nLittmann, Laszlo, Devin J. Bustin, and Michael W. Haley. 2013. “A Simplified and Structured Teaching Tool for the Evaluation and Management of Pulseless Electrical Activity.” Medical Principles and Practice 23 (1): 1–6. https://doi.org/10.1159/000354195.\n\n\nNorvik, Anders, Eirik Unneland, Daniel Bergum, et al. 2022. “Pulseless Electrical Activity in in-Hospital Cardiac Arrest–a Crossroad for Decisions.” Resuscitation 176: 117–24. https://doi.org/10.1016/j.resuscitation.2022.04.024.\n\n\nOkubo, Masashi, Sho Komukai, Lars W Andersen, et al. 2024. “Duration of Cardiopulmonary Resuscitation and Outcomes for Adults with in-Hospital Cardiac Arrest: Retrospective Cohort Study.” BMJ 384 (February): e076019. https://doi.org/10.1136/bmj-2023-076019.\n\n\nPallas, Jeremy David, John Paul Smiles, and Michael Zhang. 2021. “Cardiac Arrest Nurse Leadership (CANLEAD) Trial: A Simulation-Based Randomised Controlled Trial Implementation of a New Cardiac Arrest Role to Facilitate Cognitive Offload for Medical Team Leaders.” Emergency Medicine Journal 38 (8): 572. https://doi.org/10.1136/emermed-2019-209298.\n\n\nSchull, Michael J., Lorraine E. Ferris, Jack V. Tu, Janet E. Hux, and Donald A. Redelmeier. 2001. “Problems for Clinical Judgement: 3. Thinking Clearly in an Emergency.” Canadian Medical Association Journal 164 (8): 1170. http://www.cmaj.ca/content/164/8/1170.abstract.\n\n\nSteinbach, Trevor C., Ann L. Jennerich, and Başak Çoruh. 2024. “Effective Behaviors of Leaders During Clinical Emergencies: A Qualitative Study of Followers’ Perspectives.” CHEST 166 (5): 1141–50. https://doi.org/10.1016/j.chest.2024.05.011.\n\n\nStolldorf, Deonni P., and Cheryl B. Jones. 2015. “Deployment of Rapid Response Teams by 31 Hospitals in a Statewide Collaborative.” The Joint Commission Journal on Quality and Patient Safety 41 (4): 186–AP3. https://doi.org/10.1016/S1553-7250(15)41024-4.\n\n\nUeno, Ryo, Rachel Chan, Mallikarjuna Ponnapa Reddy, Daryl Jones, David Pilcher, and Ashwin Subramaniam. 2024. “Long-Term Survival Comparison of Patients Admitted to the Intensive Care Unit Following in-Hospital Cardiac Arrest in Perioperative and Ward Settings. A Multicentre Retrospective Cohort Study.” Intensive Care Medicine 50 (9): 1496–505. https://doi.org/10.1007/s00134-024-07570-w.\n\n\n\nOther Learning Resources\n\nCritical Care Time Podcast, communication skills\nReddit thread on getting better at rapid responses"
+    "text": "References\n\nCourse Evaluation Outputs\n\n2025 ATS abstract: (Ryden et al. 2025).\n2026 ATS poster: (Situmeang et al. 2026). Not yet indexed in Google Scholar as of 2026-05-14.\n\n\n(Steinbach et al. 2024)\n(Janssens and Marshall 2024)\n(Guetterman et al. 2019)\n(Pallas et al. 2021)\n(Okubo et al. 2024)\n(American Heart Association 2025a)\n(American Heart Association 2025e)\n(American Heart Association 2025c)\n(American Heart Association 2025d)\n(American Heart Association 2025b)\n(Holmberg et al. 2025)\n(Ghantarchyan et al. 2024)\n(Schull et al. 2001)\n(Ueno et al. 2024)\n(Crowley et al. 2024)\n(Jabre et al. 2013)\n(Stolldorf and Jones 2015)\n(Littmann et al. 2013)\n(Norvik et al. 2022)\n\nAmerican Heart Association. 2025a. Adult Cardiac Arrest Algorithm. https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Accessible/Algorithm-ACLS-CA-LngDscrp-250725-Ed.pdf?sc_lang=en.\n\n\nAmerican Heart Association. 2025b. Highlights of the 2025 American Heart Association Guidelines for CPR and ECC. https://cpr.heart.org/-/media/CPR-Files/2025-documents-for-cpr-heart-edits-posting/Resuscitation-Science/252500_Hghlghts_2025ECCGuidelines.pdf?sc_lang=en.\n\n\nAmerican Heart Association. 2025c. Part 10: Adult and Pediatric Special Circumstances of Resuscitation. https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-and-pediatric-special-circumstances-of-resuscitation.\n\n\nAmerican Heart Association. 2025d. Part 11: Post-Cardiac Arrest Care. https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/post-cardiac-arrest-care.\n\n\nAmerican Heart Association. 2025e. Part 9: Adult Advanced Life Support. https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support.\n\n\nCrowley, Conor, Justin Salciccioli, Wei Wang, Tomoyoshi Tamura, Edy Y. Kim, and Ari Moskowitz. 2024. “The Association Between Mechanical CPR and Outcomes from in-Hospital Cardiac Arrest: An Observational Cohort Study.” Resuscitation 198 (May): 110142. https://doi.org/10.1016/j.resuscitation.2024.110142.\n\n\nGhantarchyan, Henrik, Alexander T. Phan, Jasmine Toor, et al. 2024. “Improving A Rapid Response System at a Teaching Hospital: Lessons Learned From Implementation of a Novel Performance Self-Evaluation Tool.” CHEST, ahead of print, November. https://doi.org/10.1016/j.chest.2024.10.055.\n\n\nGuetterman, Timothy C, Joan E Kellenberg, Sarah L Krein, et al. 2019. “Nursing Roles for in-Hospital Cardiac Arrest Response: Higher Versus Lower Performing Hospitals.” BMJ Quality &Amp; Safety 28 (11): 916. https://doi.org/10.1136/bmjqs-2019-009487.\n\n\nHolmberg, Mathias J., Asger Granfeldt, Ari Moskowitz, et al. 2025. “Termination of Resuscitation Rules for In-Hospital Cardiac Arrest.” JAMA Internal Medicine 185 (4): 391–97. https://doi.org/10.1001/jamainternmed.2024.7814.\n\n\nJabre, Patricia, Vanessa Belpomme, Elie Azoulay, et al. 2013. “Family Presence During Cardiopulmonary Resuscitation.” New England Journal of Medicine 368 (11): 1008–18. https://doi.org/10.1056/NEJMoa1203366.\n\n\nJanssens, Sarah, and Stuart Marshall. 2024. “Leadership in Emergency Teams: Time to Look Beyond ‘The Leader’.” CHEST 166 (5): 913–15. https://doi.org/10.1016/j.chest.2024.06.008.\n\n\nLittmann, Laszlo, Devin J. Bustin, and Michael W. Haley. 2013. “A Simplified and Structured Teaching Tool for the Evaluation and Management of Pulseless Electrical Activity.” Medical Principles and Practice 23 (1): 1–6. https://doi.org/10.1159/000354195.\n\n\nNorvik, Anders, Eirik Unneland, Daniel Bergum, et al. 2022. “Pulseless Electrical Activity in in-Hospital Cardiac Arrest–a Crossroad for Decisions.” Resuscitation 176: 117–24. https://doi.org/10.1016/j.resuscitation.2022.04.024.\n\n\nOkubo, Masashi, Sho Komukai, Lars W Andersen, et al. 2024. “Duration of Cardiopulmonary Resuscitation and Outcomes for Adults with in-Hospital Cardiac Arrest: Retrospective Cohort Study.” BMJ 384 (February): e076019. https://doi.org/10.1136/bmj-2023-076019.\n\n\nPallas, Jeremy David, John Paul Smiles, and Michael Zhang. 2021. “Cardiac Arrest Nurse Leadership (CANLEAD) Trial: A Simulation-Based Randomised Controlled Trial Implementation of a New Cardiac Arrest Role to Facilitate Cognitive Offload for Medical Team Leaders.” Emergency Medicine Journal 38 (8): 572. https://doi.org/10.1136/emermed-2019-209298.\n\n\nRyden, A. G., E. Krauspe, S. Patel, R. Wayne, M. Davis, and B. W. Locke. 2025. “Enhancing Intern Leadership of Inpatient Emergencies: Evaluating the Impact of a Seminar Addressing Team Dynamics.” American Journal of Respiratory and Critical Care Medicine 211 (May): A5624–24. https://scholar.google.com/citations?view_op=view_citation&hl=en&user=O1nydc8AAAAJ&sortby=pubdate&citation_for_view=O1nydc8AAAAJ:QIV2ME_5wuYC.\n\n\nSchull, Michael J., Lorraine E. Ferris, Jack V. Tu, Janet E. Hux, and Donald A. Redelmeier. 2001. “Problems for Clinical Judgement: 3. Thinking Clearly in an Emergency.” Canadian Medical Association Journal 164 (8): 1170. http://www.cmaj.ca/content/164/8/1170.abstract.\n\n\nSitumeang, Josiah, Alex Ryden, Colton Long, et al. 2026. Intern Code Blue and Rapid Response Leadership: Rhythm-Recognition Confidence Improved; Team-Leadership Confidence Did Not, and Prior Exposure Types Diverged. Poster presented at the American Thoracic Society International Conference. https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses/blob/main/Publications/ATS%202026%20Abstract/ATS%202026%20Code%20RRT%20Poster%20Final.pptx.\n\n\nSteinbach, Trevor C., Ann L. Jennerich, and Başak Çoruh. 2024. “Effective Behaviors of Leaders During Clinical Emergencies: A Qualitative Study of Followers’ Perspectives.” CHEST 166 (5): 1141–50. https://doi.org/10.1016/j.chest.2024.05.011.\n\n\nStolldorf, Deonni P., and Cheryl B. Jones. 2015. “Deployment of Rapid Response Teams by 31 Hospitals in a Statewide Collaborative.” The Joint Commission Journal on Quality and Patient Safety 41 (4): 186–AP3. https://doi.org/10.1016/S1553-7250(15)41024-4.\n\n\nUeno, Ryo, Rachel Chan, Mallikarjuna Ponnapa Reddy, Daryl Jones, David Pilcher, and Ashwin Subramaniam. 2024. “Long-Term Survival Comparison of Patients Admitted to the Intensive Care Unit Following in-Hospital Cardiac Arrest in Perioperative and Ward Settings. A Multicentre Retrospective Cohort Study.” Intensive Care Medicine 50 (9): 1496–505. https://doi.org/10.1007/s00134-024-07570-w.\n\n\n\n\nOther Learning Resources\n\nCritical Care Time Podcast, communication skills\nReddit thread on getting better at rapid responses"
   },
   {
     "objectID": "facilitators.html",
@@ -266,32 +287,32 @@
     "text": "Zoll simulation preceptor guide\nNurse-response collaboration module: Working with Nurse-Led Response Teams\nConsolidated module: Escalation, Disposition, and Closure\nCourse website QR slide\nAnnual maintenance checklist on GitHub"
   },
   {
-    "objectID": "facilitators.html#nurse-team-co-facilitation",
-    "href": "facilitators.html#nurse-team-co-facilitation",
+    "objectID": "facilitators.html#facilitator-case-map",
+    "href": "facilitators.html#facilitator-case-map",
     "title": "Facilitators",
-    "section": "Nurse-Team Co-Facilitation",
-    "text": "Nurse-Team Co-Facilitation\nFor the 2026 iteration, invite at least one nurse rapid response, code team, or critical care outreach lead to review the collaboration module before teaching.\nIf feasible, include a nurse co-facilitator for one scenario station. Their role is to help learners practice how to ask for bedside context, clarify leadership, and close the loop without undermining nursing expertise.\nUse this nurse-response debrief checklist after the station:\n\nDid the resident identify who was coordinating?\nDid the resident ask the bedside nurse for trajectory?\nDid the resident ask outreach what had already been tried?\nDid the resident make the working problem and immediate plan public?\nDid the resident respond constructively to nursing concern?\nDid the resident close the loop on orders, disposition, ownership, and escalation trigger?"
+    "section": "Facilitator Case Map",
+    "text": "Facilitator Case Map\nUse these labels for setup and debrief; learner-facing scenario cards intentionally hide the key diagnosis or management issue.\n\nCase 1: Metabolic derangements / ESRD - asystole versus fine VF.\nCase 2: VF/VT arrest with post-ROSC ECG and stabilization.\nCase 3: Polymorphic VT/TdP after QT-prolonging medications.\nCase 4: Tachycardia during RRT with adenosine guardrails.\nCase 5: Complete heart block / unstable bradycardia."
   },
   {
     "objectID": "facilitators.html#session-setup",
     "href": "facilitators.html#session-setup",
     "title": "Facilitators",
     "section": "Session Setup",
-    "text": "Session Setup\n\nConfirm the 2026 pre- and post-session survey links before publishing.\nConfirm site-specific rapid response, code blue, shock team, cath lab, brain attack, and VA transfer workflows.\nConfirm whether each site has a nurse-led critical care outreach workflow before formal RRT activation.\nConfirm how bedside nurses, charge nurses, outreach nurses, and critical care nurses expect residents to communicate during RRT/code events.\nDecide which case station will explicitly assess the 30-second nursing/outreach huddle.\nConfirm the Zoll model and defibrillator workflow learners will practice.\nKeep public slides learner-safe; put facilitator prompts, case answers, and timing notes in the preceptor guide."
+    "text": "Session Setup\n\nConfirm the 2026 pre- and post-session survey links before publishing.\nConfirm site-specific rapid response, code blue, shock team, cath lab, brain attack, and VA transfer workflows.\nConfirm whether each site has a nurse-led critical care outreach workflow before formal RRT activation.\nConfirm how bedside nurses, charge nurses, outreach nurses, and critical care nurses expect residents to communicate during RRT/code events.\nDecide which case station will explicitly assess use of bedside/outreach expertise for next-step planning.\nConfirm the Zoll model and defibrillator workflow learners will practice.\nKeep public slides learner-safe; put facilitator prompts, case answers, and timing notes in the preceptor guide."
   },
   {
     "objectID": "facilitators.html#what-to-update-after-each-cohort",
     "href": "facilitators.html#what-to-update-after-each-cohort",
     "title": "Facilitators",
     "section": "What To Update After Each Cohort",
-    "text": "What To Update After Each Cohort\n\nSurvey links and QR codes.\nManual PDF and quick-reference screenshots.\nCase order, scenario wording, and any site-specific changes.\nNurse/outreach feedback on whether the scripts match actual workflow.\nScenario notes about resident/nurse interface problems observed during simulation.\nAny revised activation criteria or ownership expectations from nurse response teams.\nReferences that materially affect resuscitation leadership, termination, family presence, or rapid response systems.\nREADME, CITATION.cff, and release/archive notes."
+    "text": "What To Update After Each Cohort\n\nSurvey links and QR codes.\nManual PDF and quick-reference screenshots.\nCase order, scenario wording, and any site-specific changes.\nNurse/outreach feedback on whether the scripts match actual workflow.\nScenario notes about resident/nurse interface problems observed during simulation.\nAny revised activation criteria or follow-up expectations from nurse response teams.\nReferences that materially affect resuscitation leadership, termination, family presence, or rapid response systems.\nREADME, CITATION.cff, and release/archive notes."
   },
   {
     "objectID": "scenarios.html",
     "href": "scenarios.html",
     "title": "Scenarios",
     "section": "",
-    "text": "The scenarios are designed for in-person practice with the Zoll. Use the public slides for learner review; facilitator-specific prompts belong in the instructor guide.\nEach case now includes a brief resident/nurse-team interface prompt: who has bedside context, what the resident should ask, and how the plan should be closed-looped.\n\n\nCase 1\nPulseless patient with severe metabolic derangements. Focus: asystole versus fine VF, the less-bad error when uncertain, and using nurse recorder/timekeeper input during rhythm checks.\nOpen case\n\n\nCase 2\nPulseless VF/VT physiology with post-ROSC decision-making. Focus: first shock, persisting VF/pVT guardrails, post-ROSC stabilization, and cause search.\nOpen case\n\n\nCase 3\nPolymorphic VT/TdP after QT-prolonging medications. Focus: immediate unsynchronized high-energy shock for sustained polymorphic VT, long-QT/TdP recognition, and pharmacy/nursing medication-history input.\nOpen case\n\n\nCase 4\nTachycardia during an RRT. Focus: rhythm interpretation, stability assessment, adenosine guardrails, escalation, and the first 30-second huddle.\nOpen case\n\n\nCase 5\nBradycardia with hypotension and confusion. Focus: complete heart block, atropine limits, pacing pads, transcutaneous pacing setup, sedation planning, and shared preparation with bedside nursing.\nOpen case"
+    "text": "The scenarios are designed for in-person practice with the Zoll. Use the public slides for learner review; facilitator-specific prompts belong in the instructor guide.\nEach case now includes a brief resident/nurse-team interface prompt: who has bedside context, what the resident should ask, and how the plan should be closed-looped.\n\n\nCase 1\nCode blue for an unresponsive patient with no pulse. Focus: rhythm-check process, uncertainty, and using recorder/timekeeper input.\nOpen case\n\n\nCase 2\nTelemetry-triggered code blue on hospital day 2. Focus: first rhythm decision, team timing, and immediate post-ROSC priorities.\nOpen case\n\n\nCase 3\nYoung patient collapses on telemetry after receiving several inpatient medications. Focus: rhythm recognition, medication-history input, and choosing the safest immediate action.\nOpen case\n\n\nCase 4\nRRT for a hospitalized patient with a very fast heart rate. Focus: stability assessment, bedside/outreach story, and deciding whether rhythm-specific treatment or escalation is needed.\nOpen case\n\n\nCase 5\nRRT for bradycardia with hypotension and confusion. Focus: preparing the room, equipment, and team before further deterioration.\nOpen case"
   },
   {
     "objectID": "index.html",
@@ -305,21 +326,21 @@
     "href": "index.html#start-here",
     "title": "2026 Code Blue and Rapid Response Seminar",
     "section": "Start Here",
-    "text": "Start Here\n\n\nBefore the Session\n\nNo pre-work required; we will spend the first 10 minutes going through the pre-test and orientation, then go through the modules together.\nBring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.\nNote site-specific workflow uncertainties you want clarified.\n\n\n\nDuring the Session\n\nPractice making leadership clear.\nMake pulse-check decisions out loud.\nPractice a 30-second huddle that turns bedside or outreach concern into a shared plan.\nName when the room is unsafe, call the missing resource, and assign destination and ownership.\nRun hands-on Zoll and scenario practice.\n\n\n\nAfter the Session\n\nBookmark the resources page.\nRevisit the case rhythm strips.\nSend near-misses, big wins, or unclear resident/nursing workflows to the CMRs or course leads so this course stays current.\n\nPost-session survey: 2026 link TBD."
+    "text": "Start Here\n\n\nBefore the Session\n\nNo pre-work required; we will spend the first 10 minutes going through the pre-test and orientation, then go through the modules together.\nPre-test survey: open last year’s survey link.\nBring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.\nNote site-specific workflow uncertainties you want clarified.\n\n\n\nDuring the Session\n\nPractice making leadership clear.\nMake pulse-check decisions out loud.\nUse bedside and outreach expertise to choose the next step.\nCall the resource needed for the next step and assign follow-up.\nRun hands-on Zoll and scenario practice.\n\n\n\nAfter the Session\n\nBookmark the resources page.\nRevisit the case rhythm strips.\nSend near-misses, big wins, or unclear resident/nursing workflows to the CMRs or course leads so this course stays current.\n\nPost-module survey: open last year’s survey link."
   },
   {
     "objectID": "index.html#learning-objectives",
     "href": "index.html#learning-objectives",
     "title": "2026 Code Blue and Rapid Response Seminar",
     "section": "Learning Objectives",
-    "text": "Learning Objectives\nBy the end of the session, learners should be able to:\n\nMake the leadership state clear on arrival: lead, support, consult, or transition leadership explicitly.\nPrepare pulse checks, make shock/no-shock decisions public, and protect compression pauses.\nUse bedside nurse and outreach trajectory to align roles, plan, orders, ownership, and escalation triggers.\nDecide when the current room is unsafe and activate the appropriate site-specific resource or destination.\nClose each rapid/code with explicit disposition, order owner, handoff point, family plan when needed, and debrief.\n\n\n\n\n\n\n\nTip\n\n\n\nDidactics alone have limits. Regular review, simulation, interprofessional practice, and feedback after real events are what turn these skills into reflexes."
+    "text": "Learning Objectives\nBy the end of the session, learners should be able to:\n\nMake the leadership state clear on arrival: lead, support, consult, or transition leadership explicitly.\nPrepare pulse checks, make shock/no-shock decisions public, and protect compression pauses.\nUse bedside nurse and outreach trajectory to identify key decisions, needed resources, and the next-step plan.\nDecide what next care step the patient needs and activate the appropriate site-specific resource or destination.\nClose each rapid/code with explicit disposition, follow-up owner, callback plan, family plan when needed, and debrief.\n\n\n\n\n\n\n\nTip\n\n\n\nDidactics alone have limits. Regular review, simulation, interprofessional practice, and feedback after real events are what turn these skills into reflexes."
   },
   {
     "objectID": "index.html#course-map",
     "href": "index.html#course-map",
     "title": "2026 Code Blue and Rapid Response Seminar",
     "section": "Course Map",
-    "text": "Course Map\n\n\nMicro-Skill Modules\nLeadership, pulse-check decisions, nurse-response collaboration, and escalation/closure.\nOpen modules\n\n\nPractice Scenarios\nFive short code/RRT cases for Zoll practice, rhythm decisions, escalation, and resident/nurse-team communication.\nOpen scenarios\n\n\nQuick Resources\nACLS card, site differences, nurse-team huddle script, rapid response guide, and QR/manual links.\nOpen resources\n\n\nFacilitators\nInstructor guide, QR slide, and annual update checklist.\nOpen facilitator notes"
+    "text": "Course Map\n\n\nMicro-Skill Modules\nLeadership, pulse-check decisions, nurse-response collaboration, and escalation/closure.\nOpen modules\n\n\nPractice Scenarios\nFive short code/RRT cases for Zoll practice, rhythm decisions, escalation, and resident/nurse-team communication.\nOpen scenarios\n\n\nQuick Resources\nACLS card, site differences, team-resource script, rapid response guide, and QR/manual links.\nOpen resources\n\n\nFacilitators\nInstructor guide, QR slide, and annual update checklist.\nOpen facilitator notes"
   },
   {
     "objectID": "index.html#why-this-course-exists",
@@ -340,7 +361,7 @@
     "href": "modules.html#pre-session-checklist",
     "title": "Modules",
     "section": "Pre-Session Checklist",
-    "text": "Pre-Session Checklist\n\nNo pre-work required; we will spend the first 10 minutes going through the pre-test and orientation, then go through the modules together.\nBring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.\nNote site-specific workflow uncertainties you want clarified.\n\n\n\n1. Leadership Skills\nPractice naming who is leading, anchoring the room, stating the working plan, and inviting concern before action.\nOpen slides\n\n\n2. Pulse-Check Decisions\nPractice preparing pulse checks, making shock/no-shock calls, protecting compression pauses, and using EtCO2 or other signs when ROSC is uncertain.\nOpen slides\n\n\n3. Working with Nurse-Led Response Teams\nPractice aligning bedside nursing, outreach nursing, and resident medical leadership in the first 60 seconds: role clarity, nursing trajectory, shared plan, orders, ownership, and escalation trigger.\nOpen slides\n\n\n4. Escalation, Disposition, and Closure\nPractice deciding when the current room is unsafe, activating the right resource early, naming disposition, assigning ownership, and closing the event.\nOpen slides"
+    "text": "Pre-Session Checklist\n\nNo pre-work required; we will spend the first 10 minutes going through the pre-test and orientation, then go through the modules together.\nBring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.\nNote site-specific workflow uncertainties you want clarified.\n\n\n\n1. Leadership Skills\nPractice naming who is leading, anchoring the room, stating the working plan, and inviting concern before action.\nOpen slides\n\n\n2. Pulse-Check Decisions\nPractice preparing pulse checks, making shock/no-shock calls, protecting compression pauses, and using EtCO2 or other signs when ROSC is uncertain.\nOpen slides\n\n\n3. Working with Nurse-Led Response Teams\nPractice using bedside and outreach expertise in the first 60 seconds: role clarity, nursing trajectory, key decisions, resources, and next-step planning.\nOpen slides\n\n\n4. Escalation, Disposition, and Closure\nPractice identifying the next care step, activating the right resource early, naming disposition and follow-up, and closing the event.\nOpen slides"
   },
   {
     "objectID": "resources.html",
@@ -354,14 +375,7 @@
     "href": "resources.html#key-points",
     "title": "Resources",
     "section": "Key Points",
-    "text": "Key Points\n\nName the leadership state early. Ask who is coordinating, then lead, support, consult, or transition leadership explicitly.\nGet the nursing trajectory. Ask bedside and outreach nurses what changed, what has been tried, and what worries them most.\nProtect pulse checks. Prepare the pause, make shock/no-shock and pulse/no-pulse decisions public, and resume compressions quickly when uncertain.\nAsk whether the patient is safe here. Identify the missing resource, destination, owner, and escalation trigger.\nClose the loop before leaving. Name disposition, orders, ownership, and the trigger for calling RRT, ICU, or code response."
-  },
-  {
-    "objectID": "resources.html#nurse-team-huddle-script",
-    "href": "resources.html#nurse-team-huddle-script",
-    "title": "Resources",
-    "section": "Nurse-Team Huddle Script",
-    "text": "Nurse-Team Huddle Script\n\n\n“Let’s huddle for 30 seconds. I’m [name], responding as the senior medicine resident. Who is coordinating? Bedside nurse, what changed? Outreach, what have you tried and what worries you most? Primary team, baseline and code status? My working problem is [problem]. The immediate plan is [plan]. If [trigger], we will [escalation step]. Orders are owned by [name], and disposition is [plan]. What are we missing?”\n\n\nUse this when nursing or outreach is already actively managing the patient. The goal is not to slow the response; it is to prevent parallel, conflicting plans."
+    "text": "Key Points\n\nName the leadership state early. Ask who is coordinating, then lead, support, consult, or transition leadership explicitly.\nGet the nursing trajectory. Ask bedside and outreach nurses what changed, what has been tried, and what worries them most.\nProtect pulse checks. Prepare the pause, make shock/no-shock and pulse/no-pulse decisions public, and resume compressions quickly when uncertain.\nPlan the next step explicitly. Use bedside and outreach expertise to identify the key decision, needed resource, destination, and trigger.\nClose the loop before leaving. Name disposition, follow-up owner, callback person, and the trigger for calling RRT, ICU, or code response."
   },
   {
     "objectID": "resources.html#acls-card",
@@ -375,7 +389,7 @@
     "href": "resources.html#site-differences",
     "title": "Resources",
     "section": "Site Differences",
-    "text": "Site Differences\n2026 verification status: TBD. Confirm site-specific teams and phone/paging workflows before the live session.\nKnow your site. Call early. Verify before the live session.\nConfirm whether each site has a formal nurse-led outreach function, who activates it, and how it interfaces with the resident rapid response/code team.\n\n\n\n\n\n\n\n\n\n\nU of U\nIMED\nVA\n\n\n\n\nRRT/MET\nHouse Sup, IM Res, SICU RN, Pharm\nIM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab\nIM, MICU, CNO, RNs, RT, Pharmacy (7a-7p)\n\n\nCode Blue\nadd: Anesthesia, EMT, MICU resident, Pharm, ICU Fellow\nadd: ICU attendings\nadd: Anesthesia/ED\n\n\nNumbers\nShock Team, Cath, Brain Attack, VAD: 1-2222\nShock Team: Vocera TICU attending; Brain Attack: Operator/x33333\nBrain Attack: Page Neuro Senior; Cath: Page Cardiology; Code: x6666"
+    "text": "Site Differences\n\n\n\n\n\n\n\n\n\n\nU of U\nIMED\nVA\n\n\n\n\nRRT/MET\nHouse Sup, IM Res, SICU RN, Pharm\nIM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab\nIM, MICU, CNO, RNs, RT, Pharmacy (7a-7p)\n\n\nCode Blue\nadd: Anesthesia, EMT, MICU resident, Pharm, ICU Fellow\nadd: ICU attendings\nadd: Anesthesia/ED\n\n\nNumbers\nShock Team, Cath, Brain Attack, VAD: 1-2222\nShock Team: Vocera TICU attending; Brain Attack: Operator/x33333\nBrain Attack: Page Neuro Senior; Cath: Page Cardiology; Code: x6666"
   },
   {
     "objectID": "resources.html#rapid-response-guide",
@@ -431,7 +445,14 @@
     "href": "slides/case_1.html#teaching-points",
     "title": "Case 1",
     "section": "Teaching Points",
-    "text": "Teaching Points\n\nNo shock for asystole.\n\n\n\nBut, always confirm not fine VF\n\nEnroll your colleagues help\nIf unsure, make the less bad error.\n\nCalcium, bicarbonate, and insulin-glucose are cause-directed treatments for suspected hyperkalemia. They are not routine arrest medications.\n\nReturn to Course Page"
+    "text": "Teaching Points\n\nNo shock for asystole.\n\n\n\nBut, always confirm not fine VF\n\nEnroll your colleagues help\nIf unsure, make the less bad error.\n\nCalcium, bicarbonate, and insulin-glucose are cause-directed treatments for suspected hyperkalemia. They are not routine arrest medications."
+  },
+  {
+    "objectID": "slides/case_1.html#case-summary",
+    "href": "slides/case_1.html#case-summary",
+    "title": "Case 1",
+    "section": "Case summary",
+    "text": "Case summary\nLabel: Metabolic derangements / ESRD - asystole versus fine VF.\nKey issue: confirm true asystole versus fine VF; hyperkalemia treatments are cause-directed, not routine arrest medications.\nReturn to Course Page"
   },
   {
     "objectID": "slides/case_3.html#case-3",
@@ -473,7 +494,14 @@
     "href": "slides/case_3.html#learning-points",
     "title": "Case 3",
     "section": "Learning Points",
-    "text": "Learning Points\n\nSustained polymorphic VT is unstable: shock immediately with unsynchronized high-energy defibrillation because synchronization may fail. If recurrent TdP with long QT, give magnesium, address bradycardia/QT drivers, and ask for expert help for overdrive pacing or isoproterenol.\nQT prolongation more dangerous with slow HR\n\nReturn to Course Page"
+    "text": "Learning Points\n\nSustained polymorphic VT is unstable: shock immediately with unsynchronized high-energy defibrillation because synchronization may fail. If recurrent TdP with long QT, give magnesium, address bradycardia/QT drivers, and ask for expert help for overdrive pacing or isoproterenol.\nQT prolongation more dangerous with slow HR"
+  },
+  {
+    "objectID": "slides/case_3.html#case-summary",
+    "href": "slides/case_3.html#case-summary",
+    "title": "Case 3",
+    "section": "Case summary",
+    "text": "Case summary\nLabel: Polymorphic VT/TdP after QT-prolonging medications.\nKey issue: sustained polymorphic VT needs immediate unsynchronized shock; recurrent long-QT/TdP needs magnesium, QT-driver correction, and expert help.\nReturn to Course Page"
   },
   {
     "objectID": "slides/case_5.html#case-5",
@@ -508,21 +536,28 @@
     "href": "slides/case_5.html#teaching-points",
     "title": "Case 5",
     "section": "Teaching Points:",
-    "text": "Teaching Points:\n\nComplete heart block = AV dissociation.\nAtropine is reasonable in unstable bradycardia, but do not wait on it when high-grade or infranodal block is likely. Prepare pacing/pressors and transvenous pacing early.\nAlways have pacing pads in place during rapid responses.\n\nTranscutaneous pacing will require sedation\n\n\nReturn to Course Page"
+    "text": "Teaching Points:\n\nComplete heart block = AV dissociation.\nAtropine is reasonable in unstable bradycardia, but do not wait on it when high-grade or infranodal block is likely. Prepare pacing/pressors and transvenous pacing early.\nAlways have pacing pads in place during rapid responses.\n\nTranscutaneous pacing will require sedation"
+  },
+  {
+    "objectID": "slides/case_5.html#case-summary",
+    "href": "slides/case_5.html#case-summary",
+    "title": "Case 5",
+    "section": "Case summary",
+    "text": "Case summary\nLabel: Complete heart block / unstable bradycardia.\nKey issue: atropine is reasonable, but do not wait when high-grade block is likely; prepare pacing, pressors, and transvenous pacing early.\nReturn to Course Page"
   },
   {
     "objectID": "slides/escalation_closure.html#escalation-disposition-and-closure",
     "href": "slides/escalation_closure.html#escalation-disposition-and-closure",
     "title": "Escalation, Disposition, and Closure",
     "section": "Escalation, disposition, and closure",
-    "text": "Escalation, disposition, and closure\nLearners will practice:\n\nDeciding when the current room is no longer safe\nCalling the right resource early\nNaming disposition, orders, ownership, and triggers\nEnding a code with team check, family plan, and debrief"
+    "text": "Escalation, disposition, and closure\nLearners will practice:\n\nDeciding what next care step the patient needs\nCalling the right resource early\nNaming disposition, follow-up, callback, and triggers\nEnding a code with team check, family plan, and debrief"
   },
   {
     "objectID": "slides/escalation_closure.html#the-core-question",
     "href": "slides/escalation_closure.html#the-core-question",
     "title": "Escalation, Disposition, and Closure",
     "section": "The core question",
-    "text": "The core question\nIs this patient safe here with current people, monitoring, and resources?\nAsk:\n\nWhat is the risk in the next 5 minutes?\nWhat resource is missing now?\nWhere does this patient need to be?\nWho owns the patient until they get there?"
+    "text": "The core question\nWhat next step does this patient need?\nAsk:\n\nWhat is the risk in the next 5 minutes?\nWhat decision is needed now?\nWhat resource or capability is missing?\nWhere should the next care step happen?\nWho follows up until that step happens?"
   },
   {
     "objectID": "slides/escalation_closure.html#va-rrt-case",
@@ -532,11 +567,11 @@
     "text": "VA RRT case\nElderly man, immediately hypoxemic after transfusion.\nRR 24. SpO2 82% on 2 L.\nNow worsening: tripoding, accessory muscle use, 100% FiO2 face mask, SpO2 upper 80s.\n\nPrompt: What do you say out loud now?"
   },
   {
-    "objectID": "slides/escalation_closure.html#escalate-before-the-room-fails",
-    "href": "slides/escalation_closure.html#escalate-before-the-room-fails",
+    "objectID": "slides/escalation_closure.html#call-resources-early",
+    "href": "slides/escalation_closure.html#call-resources-early",
     "title": "Escalation, Disposition, and Closure",
-    "section": "Escalate before the room fails",
-    "text": "Escalate before the room fails\n\n\n\nSignal\nAction\n\n\n\n\nOxygenation or airway failure\nCode/anesthesia\n\n\nICU monitoring or drips\nICU\n\n\nSTEMI/cath physiology\nCath\n\n\nFocal neuro deficit\nStroke\n\n\nShock, PE, VT storm, device question\nShock/PERT/TICU by site\n\n\n\nIf this may become a code: bed out/down, pads on, airway/CPR access clear."
+    "section": "Call resources early",
+    "text": "Call resources early\n\n\n\nSignal\nAction\n\n\n\n\nOxygenation or airway failure\nCode/anesthesia\n\n\nICU monitoring or drips\nICU\n\n\nSTEMI/cath physiology\nCath\n\n\nFocal neuro deficit\nStroke\n\n\nShock, PE, VT storm, device question\nShock/PERT/TICU by site\n\n\n\nCode risk: bed out/down, pads on, airway/CPR access clear."
   },
   {
     "objectID": "slides/escalation_closure.html#every-rapid-needs-an-endpoint",
@@ -546,39 +581,18 @@
     "text": "Every rapid needs an endpoint\nA rapid response should end with one of these:\n\ncode blue\nICU transfer\nrarely, a procedure\nstabilized on the floor\ngoals-of-care transition\n\nAlways hand off to the team assuming care."
   },
   {
-    "objectID": "slides/escalation_closure.html#disposition-huddle",
-    "href": "slides/escalation_closure.html#disposition-huddle",
+    "objectID": "slides/escalation_closure.html#next-step-plan",
+    "href": "slides/escalation_closure.html#next-step-plan",
     "title": "Escalation, Disposition, and Closure",
-    "section": "Disposition huddle",
-    "text": "Disposition huddle\nTry:\n\n“Disposition is [ICU / floor / code / goals-of-care].”\n\n\n“Follow-up is owned by [me / primary team].”\n\n\n“The person for the nurse to call is [name/team].”\n\n\n“Are there concerns we have not addressed?”"
+    "section": "Next-step plan",
+    "text": "Next-step plan\nTry:\n\n“Disposition is [ICU / floor / code / goals-of-care].”\n\n\n“Follow-up is owned by [me / primary team].”\n\n\n“The person for the nurse to call is [name/team].”\n\n\n“Are there concerns we have not addressed?”"
   },
   {
     "objectID": "slides/escalation_closure.html#how-long-to-continue",
     "href": "slides/escalation_closure.html#how-long-to-continue",
     "title": "Escalation, Disposition, and Closure",
     "section": "How long to continue?",
-    "text": "How long to continue?\nAround 30 minutes, make an explicit stop/continue huddle. This is an anchor, not a stopping rule.\nModify earlier or later based on rhythm trajectory, witnessed/monitored status, reversible causes, ROSC signs, bridge options, goals, and team input."
-  },
-  {
-    "objectID": "slides/escalation_closure.html#modify-the-anchor",
-    "href": "slides/escalation_closure.html#modify-the-anchor",
-    "title": "Escalation, Disposition, and Closure",
-    "section": "Modify the anchor",
-    "text": "Modify the anchor\n\n\nLonger\n\nwitnessed/monitored\nshockable or improving\nreversible cause in progress\npossible ROSC\nbridge option\n\n\nShorter\n\nunwitnessed/unmonitored\nasystole/PEA without change\nno reversible target\nno ROSC signs\nno bridge option"
-  },
-  {
-    "objectID": "slides/escalation_closure.html#duration-informs-prognosis",
-    "href": "slides/escalation_closure.html#duration-informs-prognosis",
-    "title": "Escalation, Disposition, and Closure",
-    "section": "Duration informs prognosis",
-    "text": "Duration informs prognosis"
-  },
-  {
-    "objectID": "slides/escalation_closure.html#what-duration-does-not-decide",
-    "href": "slides/escalation_closure.html#what-duration-does-not-decide",
-    "title": "Escalation, Disposition, and Closure",
-    "section": "What duration does not decide",
-    "text": "What duration does not decide\nDuration matters. It informs the huddle; it does not decide alone.\nETCO2 alone should not decide stopping or continuing.\nOut-of-hospital TOR rules do not automatically decide in-hospital codes."
+    "text": "How long to continue?\n\n\n\n\nBMJ IHCA cohort: favorable functional status by CPR duration.\n\n\n\n30 min: stop/continue huddle.\nAnchor, not rule.\nLonger: witnessed/monitored, shockable/improving, reversible cause/bridge, ROSC signs.\nShorter: unwitnessed/unmonitored, unchanged asystole/PEA, no target/ROSC/bridge.\nGuardrail: OHCA TOR rules do not automatically apply to IHCA."
   },
   {
     "objectID": "slides/escalation_closure.html#how-to-stop-acls",
@@ -599,77 +613,70 @@
     "href": "slides/escalation_closure.html#summary",
     "title": "Escalation, Disposition, and Closure",
     "section": "Summary",
-    "text": "Summary\n\nUnsafe here? Call early.\nMoving where? Name disposition.\nWho follows up? Name owner and callback.\nEnding how? Team check, family plan, debrief.\n\nReturn to Course Page"
+    "text": "Summary\n\nNext step needs more? Call early.\nMoving where? Name disposition.\nWho follows up? Name owner and callback.\nEnding how? Team check, family plan, debrief.\n\nReturn to Modules Page"
   },
   {
     "objectID": "slides/nurse_response.html#working-with-nurse-led-response-teams",
     "href": "slides/nurse_response.html#working-with-nurse-led-response-teams",
     "title": "Working with Nurse-Led Response Teams",
     "section": "Working with nurse-led response teams",
-    "text": "Working with nurse-led response teams\nAlign decisions, expertise, and plan in the first 60 seconds\nLearners will practice:\n\nNaming key decisions\nFinding who has patient-specific expertise\nMaking the decision logic public\nClosing the loop"
+    "text": "Working with nurse-led response teams\nAlign decisions, expertise, and plan in the first 60 seconds\nLearners will practice:\n\nUnderstanding why support was called\nAdding resident medical synthesis\nAddressing team concerns and constraints\nClosing the loop"
   },
   {
     "objectID": "slides/nurse_response.html#nurseoutreach-teams-are-a-resource",
     "href": "slides/nurse_response.html#nurseoutreach-teams-are-a-resource",
     "title": "Working with Nurse-Led Response Teams",
     "section": "Nurse/outreach teams are a resource",
-    "text": "Nurse/outreach teams are a resource\nNurses often already know trajectory, failed attempts, missing resources, and unit safety.\nResidents add synthesis, orders, escalation, and disposition.\nGoal: one shared plan."
+    "text": "Nurse/outreach teams are a resource\nNurses often already know trajectory, failed attempts, resource constraints, and what may happen next.\nResidents add synthesis, orders, escalation, and disposition.\nGoal: better decisions and a clear next step."
   },
   {
     "objectID": "slides/nurse_response.html#case-start",
     "href": "slides/nurse_response.html#case-start",
     "title": "Working with Nurse-Led Response Teams",
     "section": "Case start",
-    "text": "Case start\nYou are called because a bedside nurse asked the critical care outreach nurse to assess a patient.\nFormal RRT has not yet been called.\nThe patient is newly confused, tachypneic, and on escalating oxygen.\nThe outreach nurse is at bedside. The primary intern is present but quiet. The charge nurse is looking for the primary team.\nPrompt: What decisions do you need to make, and who can help?"
+    "text": "Case start\nAn RRT has been called for a deteriorating patient.\nThe bedside nurse and critical care outreach nurse are already in the room.\nThe patient is newly confused, tachypneic, and on escalating oxygen.\nThe charge nurse is helping bring resources to the bedside.\nPrompt: What decisions do you need to make, and who can help?"
   },
   {
-    "objectID": "slides/nurse_response.html#move-1-name-the-key-decisions",
-    "href": "slides/nurse_response.html#move-1-name-the-key-decisions",
+    "objectID": "slides/nurse_response.html#move-1-understand-why-support-was-called",
+    "href": "slides/nurse_response.html#move-1-understand-why-support-was-called",
     "title": "Working with Nurse-Led Response Teams",
-    "section": "Move 1: Name the key decisions",
-    "text": "Move 1: Name the key decisions\nTry:\n\n“I’m [name]. Let’s name the decisions we need to make.”\n\nAsk:\n\nProblem first?\nSafe here?\nWhat data changes plan?\nNext resource or destination?\n\nImprove decision quality; then assign ownership."
+    "section": "Move 1: Understand why support was called",
+    "text": "Move 1: Understand why support was called\nAsk the bedside and outreach nurses:\n\n“What changed, what have you tried, and what made you call for more support?”\n\nListen for:\n\nuncertainty\nmissing resources\nclinical trajectory\nplan execution\n\nThen name the decision needed now."
   },
   {
-    "objectID": "slides/nurse_response.html#move-2-find-the-expertise",
-    "href": "slides/nurse_response.html#move-2-find-the-expertise",
+    "objectID": "slides/nurse_response.html#move-2-add-your-medical-synthesis",
+    "href": "slides/nurse_response.html#move-2-add-your-medical-synthesis",
     "title": "Working with Nurse-Led Response Teams",
-    "section": "Move 2: Find the expertise",
-    "text": "Move 2: Find the expertise\nAsk for the knowledge you need:\n\n“Bedside nurse: what changed from baseline?”\n\n\n“Outreach nurse: what have you tried, and what worries you most?”\n\n\n“Primary team: baseline, code status, active plan?”\n\n\n“Charge nurse: what resource is missing?”\n\nThen listen before committing to a plan."
+    "section": "Move 2: Add your medical synthesis",
+    "text": "Move 2: Add your medical synthesis\nResidents add synthesis, orders, escalation, and disposition.\nCritical care nurses add trajectory, bedside reality, and resource constraints.\nUse the same structure:\n\n“I think [problem] is the issue. I’m worried about [risk]. My plan is [plan].”\n\nThen ask:\n\n“What are we missing?”"
   },
   {
-    "objectID": "slides/nurse_response.html#move-3-make-the-shared-plan-public",
-    "href": "slides/nurse_response.html#move-3-make-the-shared-plan-public",
+    "objectID": "slides/nurse_response.html#move-3-address-the-teams-concerns",
+    "href": "slides/nurse_response.html#move-3-address-the-teams-concerns",
     "title": "Working with Nurse-Led Response Teams",
-    "section": "Move 3: Make the shared plan public",
-    "text": "Move 3: Make the shared plan public\nUse the same structure:\n\n“I think [problem] is the issue. I’m worried about [risk]. My plan is [plan].”\n\nThen ask:\n\n“What are we missing?”"
+    "section": "Move 3: Address the team’s concerns",
+    "text": "Move 3: Address the team’s concerns\nCheck whether the plan answers the concern that triggered the RRT:\n\nDoes this plan address what worried you enough to call the RRT?\nWhat constraint still makes this hard to execute?\nWhat would make us change disposition or call more help?\n\nIf care needs exceed floor resources, name disposition and escalation now."
   },
   {
-    "objectID": "slides/nurse_response.html#move-4-make-concern-actionable",
-    "href": "slides/nurse_response.html#move-4-make-concern-actionable",
+    "objectID": "slides/nurse_response.html#move-4-close-the-loop",
+    "href": "slides/nurse_response.html#move-4-close-the-loop",
     "title": "Working with Nurse-Led Response Teams",
-    "section": "Move 4: Make concern actionable",
-    "text": "Move 4: Make concern actionable\n\n“What feels unsafe?”\n\n\n“What trigger should move us now?”\n\nName a trigger. Escalate together.\nConcern is a risk signal."
-  },
-  {
-    "objectID": "slides/nurse_response.html#move-5-close-before-leaving",
-    "href": "slides/nurse_response.html#move-5-close-before-leaving",
-    "title": "Working with Nurse-Led Response Teams",
-    "section": "Move 5: Close before leaving",
-    "text": "Move 5: Close before leaving\nCheck with the team, then name:\n\ndisposition\norder owner\npatient owner\ntrigger\n\n\n“Before I leave, what concerns are we missing?”"
+    "section": "Move 4: Close the loop",
+    "text": "Move 4: Close the loop\nCheck with the team, then name:\n\ndisposition\nfollow-up owner\ncallback person\ntrigger\n\n\n“Before I leave, does this plan address the concerns that brought us here?”"
   },
   {
     "objectID": "slides/nurse_response.html#common-failure-modes",
     "href": "slides/nurse_response.html#common-failure-modes",
     "title": "Working with Nurse-Led Response Teams",
     "section": "Common failure modes",
-    "text": "Common failure modes\n\nIgnore work already done\nAsk for chart review, not trajectory\nGive a plan without an owner\nLeave without destination or trigger\nTreat concern as anxiety\nMiss team expertise"
+    "text": "Common failure modes\n\nIgnore work already done\nAsk for chart review, not trajectory\nGive a plan without follow-up\nLeave without next step or trigger\nDismiss the concern that triggered the RRT\nMiss team expertise or resource constraints"
   },
   {
     "objectID": "slides/nurse_response.html#summary",
     "href": "slides/nurse_response.html#summary",
     "title": "Working with Nurse-Led Response Teams",
     "section": "Summary",
-    "text": "Summary\n\nName the key decisions.\nFind the patient-specific expertise.\nMake the shared plan public.\nClose the loop on disposition, owner, and trigger.\n\nReturn to Course Page"
+    "text": "Summary\n\nUnderstand why support was called.\nAdd medical synthesis.\nAddress team concerns and constraints.\nClose the loop on next step, follow-up, and trigger.\n\nReturn to Modules Page"
   },
   {
     "objectID": "slides/qr.html#course-webpage",

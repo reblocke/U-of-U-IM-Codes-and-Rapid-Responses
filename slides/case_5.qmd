@@ -38,4 +38,10 @@ Do not wait until arrest to organize the room.
 -   Always have pacing pads in place during rapid responses.
     -   Transcutaneous pacing will require sedation
 
+## Case summary
+
+**Label:** Complete heart block / unstable bradycardia.
+
+**Key issue:** atropine is reasonable, but do not wait when high-grade block is likely; prepare pacing, pressors, and transvenous pacing early.
+
 [Return to Course Page](../ "Course Page")

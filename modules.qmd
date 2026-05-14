@@ -30,7 +30,7 @@ Practice preparing pulse checks, making shock/no-shock calls, protecting compres
 ::: {.module-item}
 ### 3. Working with Nurse-Led Response Teams
 
-Practice aligning bedside nursing, outreach nursing, and resident medical leadership in the first 60 seconds: role clarity, nursing trajectory, shared plan, orders, ownership, and escalation trigger.
+Practice using bedside and outreach expertise in the first 60 seconds: role clarity, nursing trajectory, key decisions, resources, and next-step planning.
 
 [Open slides](slides/nurse_response.html)
 :::
@@ -38,7 +38,7 @@ Practice aligning bedside nursing, outreach nursing, and resident medical leader
 ::: {.module-item}
 ### 4. Escalation, Disposition, and Closure
 
-Practice deciding when the current room is unsafe, activating the right resource early, naming disposition, assigning ownership, and closing the event.
+Practice identifying the next care step, activating the right resource early, naming disposition and follow-up, and closing the event.
 
 [Open slides](slides/escalation_closure.html)
 :::

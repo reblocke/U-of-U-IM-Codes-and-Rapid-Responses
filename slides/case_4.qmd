@@ -43,4 +43,10 @@ Then state whether this is stable, unstable, or peri-arrest.
 
 -   If the rhythm is narrow and fast, decide whether it is causing instability or reflecting another problem.
 
+## Case summary
+
+**Label:** Tachycardia during RRT with adenosine guardrails.
+
+**Key issue:** adenosine is only for stable, regular, monomorphic tachycardia contexts; use bedside/outreach input to judge stability and next step.
+
 [Return to Course Page](../ "Course Page")

@@ -13,61 +13,51 @@ editor: visual
 
 Learners will practice:
 
-1. Naming key decisions
-2. Finding who has patient-specific expertise
-3. Making the decision logic public
+1. Understanding why support was called
+2. Adding resident medical synthesis
+3. Addressing team concerns and constraints
 4. Closing the loop
 
 ## Nurse/outreach teams are a resource
 
-Nurses often already know trajectory, failed attempts, missing resources, and unit safety.
+Nurses often already know trajectory, failed attempts, resource constraints, and what may happen next.
 
 Residents add synthesis, orders, escalation, and disposition.
 
-**Goal: one shared plan.**
+**Goal: better decisions and a clear next step.**
 
 ## Case start
 
-You are called because a bedside nurse asked the critical care outreach nurse to assess a patient.
+An RRT has been called for a deteriorating patient.
 
-Formal RRT has not yet been called.
+The bedside nurse and critical care outreach nurse are already in the room.
 
 The patient is newly confused, tachypneic, and on escalating oxygen.
 
-The outreach nurse is at bedside. The primary intern is present but quiet. The charge nurse is looking for the primary team.
+The charge nurse is helping bring resources to the bedside.
 
 **Prompt:** What decisions do you need to make, and who can help?
 
-## Move 1: Name the key decisions
+## Move 1: Understand why support was called
 
-Try:
+Ask the bedside and outreach nurses:
 
-> "I'm [name]. Let's name the decisions we need to make."
+> "What changed, what have you tried, and what made you call for more support?"
 
-Ask:
+Listen for:
 
-- Problem first?
-- Safe here?
-- What data changes plan?
-- Next resource or destination?
+- uncertainty
+- missing resources
+- clinical trajectory
+- plan execution
 
-Improve decision quality; then assign ownership.
+Then name the decision needed now.
 
-## Move 2: Find the expertise
+## Move 2: Add your medical synthesis
 
-Ask for the knowledge you need:
+Residents add synthesis, orders, escalation, and disposition.
 
-> "Bedside nurse: what changed from baseline?"
-
-> "Outreach nurse: what have you tried, and what worries you most?"
-
-> "Primary team: baseline, code status, active plan?"
-
-> "Charge nurse: what resource is missing?"
-
-Then listen before committing to a plan.
-
-## Move 3: Make the shared plan public
+Critical care nurses add trajectory, bedside reality, and resource constraints.
 
 Use the same structure:
 
@@ -77,41 +67,41 @@ Then ask:
 
 > "What are we missing?"
 
-## Move 4: Make concern actionable
+## Move 3: Address the team's concerns
 
-> "What feels unsafe?"
+Check whether the plan answers the concern that triggered the RRT:
 
-> "What trigger should move us now?"
+- Does this plan address what worried you enough to call the RRT?
+- What constraint still makes this hard to execute?
+- What would make us change disposition or call more help?
 
-Name a trigger. Escalate together.
+If care needs exceed floor resources, name disposition and escalation now.
 
-Concern is a risk signal.
-
-## Move 5: Close before leaving
+## Move 4: Close the loop
 
 Check with the team, then name:
 
 - disposition
-- order owner
-- patient owner
+- follow-up owner
+- callback person
 - trigger
 
-> "Before I leave, what concerns are we missing?"
+> "Before I leave, does this plan address the concerns that brought us here?"
 
 ## Common failure modes
 
 - Ignore work already done
 - Ask for chart review, not trajectory
-- Give a plan without an owner
-- Leave without destination or trigger
-- Treat concern as anxiety
-- Miss team expertise
+- Give a plan without follow-up
+- Leave without next step or trigger
+- Dismiss the concern that triggered the RRT
+- Miss team expertise or resource constraints
 
 ## Summary
 
-1. Name the key decisions.
-2. Find the patient-specific expertise.
-3. Make the shared plan public.
-4. Close the loop on disposition, owner, and trigger.
+1. Understand why support was called.
+2. Add medical synthesis.
+3. Address team concerns and constraints.
+4. Close the loop on next step, follow-up, and trigger.
 
-[Return to Course Page](../ "Course Page")
+[Return to Modules Page](../modules.html "Modules Page")

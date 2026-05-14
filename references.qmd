@@ -1,5 +1,11 @@
 # References {.unnumbered}
 
+### Course Evaluation Outputs
+
+- 2025 ATS abstract: [@ryden_enhancing_2025].
+
+- 2026 ATS poster: [@situmeang_intern_2026]. Not yet indexed in Google Scholar as of 2026-05-14.
+
 ::: {#refs}
 [@steinbach_effective_2024]
 
