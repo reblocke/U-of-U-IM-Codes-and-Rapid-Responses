@@ -9,7 +9,7 @@ editor: visual
 
 ## Working with nurse-led response teams
 
-### Align decisions, expertise, and plan in the first 60 seconds
+### Align decisions, expertise, and plan
 
 Learners will practice:
 

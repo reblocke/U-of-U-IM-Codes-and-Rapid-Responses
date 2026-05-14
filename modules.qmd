@@ -30,7 +30,7 @@ Practice preparing pulse checks, making shock/no-shock calls, protecting compres
 ::: {.module-item}
 ### 3. Working with Nurse-Led Response Teams
 
-Practice using bedside and outreach expertise in the first 60 seconds: role clarity, nursing trajectory, key decisions, resources, and next-step planning.
+Practice using bedside and outreach expertise for role clarity, nursing trajectory, key decisions, resources, and next-step planning.
 
 [Open slides](slides/nurse_response.html)
 :::

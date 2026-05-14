@@ -1,5 +1,5 @@
 ---
-title: "Leadership in the First 60 Seconds"
+title: "Leadership"
 author: "Slides by Colton Long, Ethan Krauspe, Alex Ryden, Brian Locke"
 format:
   revealjs:
@@ -7,7 +7,7 @@ format:
 editor: visual
 ---
 
-## Leadership in the first 60 seconds
+## Leadership
 
 ### Learners will practice:
 
@@ -54,13 +54,22 @@ Ways this commonly goes wrong:
 
 ## Anchor the room
 
+:::: columns
+::: {.column width="46%"}
 If you are leading:
 
 - Stay visible and findable.
 - Delegate tasks by name or function.
 - Keep patient, monitor, nurse, doorway, and task flow in view.
+:::
 
-> "I'm staying here to run the room; bring questions or data to me."
+::: {.column width="54%"}
+<figure style="margin: 0;">
+  <img src="images/clipboard-183477107.png" alt="Formula 1 pit crew and code team role-positioning diagram" style="width: 100%; display: block;">
+  <figcaption style="font-size: 0.68em; line-height: 1.1; margin-top: 0.35rem; text-align: center;">Pit-crew model: leader stays visible while tasks are delegated.</figcaption>
+</figure>
+:::
+::::
 
 ## Make the plan public
 

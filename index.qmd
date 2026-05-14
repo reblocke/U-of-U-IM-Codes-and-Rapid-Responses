@@ -17,7 +17,7 @@ Learner hub for University of Utah Internal Medicine residents preparing to lead
 ### Before the Session
 
 - No pre-work required; we will spend the first 10 minutes going through the pre-test and orientation, then go through the modules together.
-- Pre-test survey: [open last year's survey link](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3).
+- [Pre-session Survey](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3).
 - Bring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.
 - Note site-specific workflow uncertainties you want clarified.
 :::
@@ -39,7 +39,7 @@ Learner hub for University of Utah Internal Medicine residents preparing to lead
 - Revisit the case rhythm strips.
 - Send near-misses, big wins, or unclear resident/nursing workflows to the CMRs or course leads so this course stays current.
 
-**Post-module survey:** [open last year's survey link](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3).
+[Post-session survey](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=DLDE7JWJX8EMETW3).
 :::
 :::
 
