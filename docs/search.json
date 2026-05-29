@@ -4,161 +4,161 @@
     "href": "slides/resources.html#this-deck-has-moved",
     "title": "Resources and Escalation",
     "section": "This deck has moved",
-    "text": "This deck has moved\nFor the 2026 curriculum, this content has been consolidated into:\nEscalation, Disposition, and Closure\nUse that deck for teaching.\nReturn to Course Page"
+    "text": "This deck has moved\nFor the 2026 curriculum, this content has been consolidated into:\nNurse Response Teams and Escalation\nUse that deck for teaching.\nReturn to Course Page"
   },
   {
-    "objectID": "slides/pulse_check.html#pulse-check-decisions",
-    "href": "slides/pulse_check.html#pulse-check-decisions",
-    "title": "Pulse Checks: The 10-Second Decision",
-    "section": "Pulse-check decisions",
-    "text": "Pulse-check decisions\nLearners will practice:\n\nPreparing a pulse check before the pause\nMaking a shock/no-shock call under uncertainty\nPreventing airway/procedure pauses\nUsing EtCO2 and other signals when ROSC is uncertain"
+    "objectID": "slides/pulse_check.html#pulse-checks-in-code-blues",
+    "href": "slides/pulse_check.html#pulse-checks-in-code-blues",
+    "title": "Pulse Checks in Code Blues",
+    "section": "Pulse Checks in Code Blues",
+    "text": "Pulse Checks in Code Blues\nLearners will practice:\n\nMaking a shock/no-shock call under uncertainty\nPreventing airway/procedure pauses\nUsing EtCO2 and other signals when ROSC is uncertain"
   },
   {
     "objectID": "slides/pulse_check.html#code-blue-on-e50",
     "href": "slides/pulse_check.html#code-blue-on-e50",
-    "title": "Pulse Checks: The 10-Second Decision",
+    "title": "Pulse Checks in Code Blues",
     "section": "Code blue on E50",
-    "text": "Code blue on E50\nCompressions are ongoing when you arrive.\nYou establish yourself as code leader.\nPrompt: You have 20 seconds before the next pulse check. What do you assign?"
+    "text": "Code blue on E50\nCompressions are ongoing when you arrive.\nYou establish yourself as code leader.\nPrompt: You have 20 seconds before the next pulse check. What are the first things you consider?"
   },
   {
     "objectID": "slides/pulse_check.html#before-the-pause",
     "href": "slides/pulse_check.html#before-the-pause",
-    "title": "Pulse Checks: The 10-Second Decision",
+    "title": "Pulse Checks in Code Blues",
     "section": "Before the pause",
-    "text": "Before the pause\nTry:\n\n“Recorder, call out pause time.”\n\n\n“You check pulse.”\n\n\n“You call rhythm.”\n\n\n“Defib team, be ready if shockable.”\n\n\n“Everyone else: compressions resume unless I say shock.”"
+    "text": "Before the pause\n\nConfirm code status.\nAssign roles: meds, compressor, airway, recorder."
   },
   {
     "objectID": "slides/pulse_check.html#first-pulse-check",
     "href": "slides/pulse_check.html#first-pulse-check",
-    "title": "Pulse Checks: The 10-Second Decision",
+    "title": "Pulse Checks in Code Blues",
     "section": "First pulse check",
-    "text": "First pulse check\nNo palpable pulse\n\nShock, no shock, or uncertain?Prompt: Shock, no shock, or uncertain?"
+    "text": "First pulse check\nNo palpable pulse\n\nShock, no shock, or uncertain?"
   },
   {
     "objectID": "slides/pulse_check.html#fine-vf-vs-asystole",
     "href": "slides/pulse_check.html#fine-vf-vs-asystole",
-    "title": "Pulse Checks: The 10-Second Decision",
+    "title": "Pulse Checks in Code Blues",
     "section": "Fine VF vs asystole",
-    "text": "Fine VF vs asystole\n\n\nIf uncertain:\n\nTurn up gain.\nCheck leads/connection.\nVoice your uncertainty.\nIf it could be VF/pVT, shock (consider consequences of each error).\nIf not, resume CPR.\n\n\n\n\n\nCoarse vs fine ventricular fibrillation"
+    "text": "Fine VF vs asystole\n\n\nIf uncertain:\n\nTurn up gain.\nCheck leads/connection.\nVoice your uncertainty.\nIf it could be VF/pVT, shock (consider consequences of each error).\n\n\n\n\n\nCoarse vs fine ventricular fibrillation"
   },
   {
     "objectID": "slides/pulse_check.html#second-pulse-check",
     "href": "slides/pulse_check.html#second-pulse-check",
-    "title": "Pulse Checks: The 10-Second Decision",
+    "title": "Pulse Checks in Code Blues",
     "section": "Second pulse check",
-    "text": "Second pulse check\nNo palpable pulse\n\nAirway team ready to intubate, asks for a moment before resuming compressionsPrompt: What is the rhythm now, and what do you do about the airway request?"
+    "text": "Second pulse check\nNo palpable pulse\nCPR has resumed until the second pulse check. There is no palpable pulse and this rhythm:\n\nAirway team ready to intubate, asks for a moment before resuming compressionsPrompt: What is the rhythm now, and what do you do about the airway request?"
   },
   {
     "objectID": "slides/pulse_check.html#airway-answer",
     "href": "slides/pulse_check.html#airway-answer",
-    "title": "Pulse Checks: The 10-Second Decision",
+    "title": "Pulse Checks in Code Blues",
     "section": "Airway answer",
     "text": "Airway answer\nAnswer:\n\n“Airway, keep working during compressions. We’ll give you the next planned pause only if you are ready.”\n\n\n“If intubation will interrupt CPR, put in an LMA.”\n\nAirway does not own the pause."
   },
   {
     "objectID": "slides/pulse_check.html#what-really-matters",
     "href": "slides/pulse_check.html#what-really-matters",
-    "title": "Pulse Checks: The 10-Second Decision",
+    "title": "Pulse Checks in Code Blues",
     "section": "What really matters",
     "text": "What really matters\nDuring arrest, protect two things:\n\nCompression fraction\nEarly defibrillation for shockable rhythm\n\nEverything else has to fit around those."
   },
   {
     "objectID": "slides/pulse_check.html#confirming-rosc-can-be-hard",
     "href": "slides/pulse_check.html#confirming-rosc-can-be-hard",
-    "title": "Pulse Checks: The 10-Second Decision",
+    "title": "Pulse Checks in Code Blues",
     "section": "Confirming ROSC can be hard",
-    "text": "Confirming ROSC can be hard\nConsider the consequences of each error.\nUse:\n\nEtCO2 trend or sudden rise\nArterial line or pleth waveform if present\nDoppler if ready\nPOCUS only if pre-positioned\nClinical signs\n\nWhen in doubt, continue compressions.\nNo probe fishing during pulse checks."
+    "text": "Confirming ROSC can be hard\nUse:\n\nEtCO2 trend or sudden rise\nArterial line if present\nSpO2 pleth waveform if present\nDoppler if ready\nPOCUS only if pre-positioned\n\nWhen in doubt, continue compressions."
   },
   {
-    "objectID": "slides/pulse_check.html#etco2-is-a-cue-not-proof",
-    "href": "slides/pulse_check.html#etco2-is-a-cue-not-proof",
-    "title": "Pulse Checks: The 10-Second Decision",
-    "section": "EtCO2 is a cue, not proof",
-    "text": "EtCO2 is a cue, not proof\n\nUse EtCO2 to help detect ROSCEtCO2 is a cue, not proof; if unclear, continue CPR."
+    "objectID": "slides/pulse_check.html#do-not-forget-etco2",
+    "href": "slides/pulse_check.html#do-not-forget-etco2",
+    "title": "Pulse Checks in Code Blues",
+    "section": "Do not forget EtCO2",
+    "text": "Do not forget EtCO2\n\nUse EtCO2 to help detect ROSCUse EtCO2 to monitor CPR quality, shock-type, and ROSC."
   },
   {
     "objectID": "slides/pulse_check.html#third-pulse-check",
     "href": "slides/pulse_check.html#third-pulse-check",
-    "title": "Pulse Checks: The 10-Second Decision",
+    "title": "Pulse Checks in Code Blues",
     "section": "Third pulse check",
-    "text": "Third pulse check\n\nEtCO2 = 36 mmHgPrompt: What do you say?\nSuggested answer:\n\n“Possible ROSC. At the next check: rhythm, pulse, waveform. If not convincing, resume compressions.”"
+    "text": "Third pulse check\n\nEtCO2 = 36 mmHg\n“Possible ROSC. At the next check: rhythm, pulse, waveform. If not convincing, resume compressions.”"
   },
   {
-    "objectID": "slides/pulse_check.html#make-uncertainty-public-and-brief",
-    "href": "slides/pulse_check.html#make-uncertainty-public-and-brief",
-    "title": "Pulse Checks: The 10-Second Decision",
-    "section": "Make uncertainty public and brief",
-    "text": "Make uncertainty public and brief\nName what is uncertain, then name the action.\nTry:\n\nFine VF vs asystole: gain/leads now; if still possibly VF/pVT, shock.\nPossible ROSC: rhythm, pulse, waveform; if unclear, CPR continues.\nDisagreement on pulse: compressions continue while we clarify."
+    "objectID": "slides/pulse_check.html#think-out-loud",
+    "href": "slides/pulse_check.html#think-out-loud",
+    "title": "Pulse Checks in Code Blues",
+    "section": "Think out loud",
+    "text": "Think out loud\nTry:\n\nDo not forget EtCO2.\nIf unclear, resume compressions."
   },
   {
     "objectID": "slides/pulse_check.html#summary",
     "href": "slides/pulse_check.html#summary",
-    "title": "Pulse Checks: The 10-Second Decision",
+    "title": "Pulse Checks in Code Blues",
     "section": "Summary",
-    "text": "Summary\nDo not miss fine VF.\nDo not prolong pauses for procedures.\nDo not keep uncertainty private.\nUse EtCO2 to monitor compressions and help detect ROSC.\nReturn to Modules Page"
+    "text": "Summary\nConfirm code status.\nDo not miss fine VF.\nDo not prolong pauses for procedures.\nUse EtCO2 to monitor compressions and help detect ROSC.\nReturn to Modules Page"
   },
   {
     "objectID": "slides/leadership.html#leadership",
     "href": "slides/leadership.html#leadership",
     "title": "Leadership",
     "section": "Leadership",
-    "text": "Leadership\nLearners will practice:\n\nNaming who is leading\nAnchoring the room\nMaking the working problem and plan public\nInviting concern before action"
+    "text": "Leadership\nLearners will practice:\n\nNaming who is leading\nStay at the foot of the bed\nThink out loud\nFlat hierarchy"
   },
   {
     "objectID": "slides/leadership.html#case-start",
     "href": "slides/leadership.html#case-start",
     "title": "Leadership",
     "section": "Case start",
-    "text": "Case start\nRapid response to S408\nSign-out: “81M, SVT, now stable.”\nNow: HR 160, MAP 85 -&gt; 70, lightheaded.\nA bedside nurse says: “He looks worse than he did 10 minutes ago.”\nPrompt: Before choosing a medication, what do you say to the room?"
+    "text": "Case start\nRapid response to S408\nSign-out: “81M, SVT, now stable.”\nNow: HR 160, MAP 85 -&gt; 70, lightheaded.\nA bedside nurse says: “He looks worse.”\nPrompt: How do you begin leading this rapid?"
   },
   {
     "objectID": "slides/leadership.html#say-the-sentence",
     "href": "slides/leadership.html#say-the-sentence",
     "title": "Leadership",
     "section": "Say the sentence",
-    "text": "Say the sentence\nTry:\n\n“I’m [name], the senior medicine resident responding to the rapid. Who is currently coordinating this response?”\n\nThen choose:\n\n“Okay, I’ll run the room.”\n\n\n“Can I take over?”\n\n\n“Okay, how can I help?”"
+    "text": "Say the sentence\nTry:\n\n“I’m [name], the senior medicine resident responding to the rapid. Who is currently coordinating this response?”\n\nPaths you might take depending on the response:\n\n“Okay, I’ll run the room.”\n\n\n“Can I take over?”\n\n\n“Okay, how can I help?”"
   },
   {
-    "objectID": "slides/leadership.html#failure-mode",
-    "href": "slides/leadership.html#failure-mode",
+    "objectID": "slides/leadership.html#failure-modes",
+    "href": "slides/leadership.html#failure-modes",
     "title": "Leadership",
-    "section": "Failure mode",
-    "text": "Failure mode\nWays this commonly goes wrong:\n\nMultiple teams entered.\nNo one named who owned the response.\nThe resident’s plan and the primary/CV plan diverged.\nA medication order lacked clear dose, owner, and readback.\nThe nurse’s clarification was the safety signal."
+    "section": "Failure modes",
+    "text": "Failure modes\nWays this commonly goes wrong:\n\nIt is not clear what each person’s role is.\nPower dynamics or familiarity with attendings make it hard to speak up.\nHandoff in roles has not occurred.\nEveryone assumes someone else is leading.\n\nWho leads is less important than that someone leads."
   },
   {
-    "objectID": "slides/leadership.html#anchor-the-room",
-    "href": "slides/leadership.html#anchor-the-room",
+    "objectID": "slides/leadership.html#stay-at-the-foot-of-the-bed",
+    "href": "slides/leadership.html#stay-at-the-foot-of-the-bed",
     "title": "Leadership",
-    "section": "Anchor the room",
-    "text": "Anchor the room\n\n\nIf you are leading:\n\nStay visible and findable.\nDelegate tasks by name or function.\nKeep patient, monitor, nurse, doorway, and task flow in view.\n\n\n\n\n\nPit-crew model: leader stays visible while tasks are delegated."
+    "section": "Stay at the foot of the bed",
+    "text": "Stay at the foot of the bed\n\n\nIf you are leading:\n\nStay at the foot of the bed.\nKeep the patient and monitor in view.\nStay visible and findable.\nDelegate instead of becoming the task person.\n\n\n\n\n\nLeader at the foot of the bed: patient, monitor, and team flow stay visible."
   },
   {
-    "objectID": "slides/leadership.html#make-the-plan-public",
-    "href": "slides/leadership.html#make-the-plan-public",
+    "objectID": "slides/leadership.html#think-out-loud",
+    "href": "slides/leadership.html#think-out-loud",
     "title": "Leadership",
-    "section": "Make the plan public",
-    "text": "Make the plan public\nTry:\n\n“I think [problem] is the issue. I’m worried about [risk]. My plan is [plan].”\n\nThen ask:\n\n“What are we missing?”"
+    "section": "Think out loud",
+    "text": "Think out loud\nTry:\n\n“I think [problem] is the issue. I’m worried about [risk]. My plan is [plan].”\n\nThen ask:\n\n“What are we missing?”"
   },
   {
-    "objectID": "slides/leadership.html#invite-expertise-without-losing-leadership",
-    "href": "slides/leadership.html#invite-expertise-without-losing-leadership",
+    "objectID": "slides/leadership.html#flat-hierarchy",
+    "href": "slides/leadership.html#flat-hierarchy",
     "title": "Leadership",
-    "section": "Invite expertise without losing leadership",
-    "text": "Invite expertise without losing leadership\n\nBedside nurse: what changed?\nOutreach nurse: biggest worry?\nPharmacy: dose and contraindications?\n\nLeadership is keeping the plan public, not proving you can do tasks yourself."
+    "section": "Flat hierarchy",
+    "text": "Flat hierarchy\n\n\n\nAirline crew resource management keeps a clear leader and makes speaking up expected.\n\nName roles and direction.\nSay: “If I miss something, say it out loud.”\nAsk: bedside nurse, outreach nurse, pharmacy.\nThe leader decides; everyone monitors.\n\nKorean Air 801 is a cautionary CRM case: NTSB identified failed monitoring/cross-checking and training gaps.\n\nSources: NTSB Korean Air 801 investigation; FAA AC 120-51E CRM Training.\n\n\n\n\n\n\nClear roles plus explicit permission to question. Image: U.S. Air Force/Tech. Sgt. Dennis J. Henry Jr., public domain."
   },
   {
     "objectID": "slides/leadership.html#summary",
     "href": "slides/leadership.html#summary",
     "title": "Leadership",
     "section": "Summary",
-    "text": "Summary\nFour moves\n\nName the leadership state.\nAnchor yourself.\nSay the working problem and first plan.\nInvite concern before action.\n\nNext: apply the same leadership clarity to pulse-check decisions. The nurse-response module later builds on this language for bedside and outreach collaboration.\nReturn to Modules Page"
+    "text": "Summary\nFour moves\n\nName the leadership state.\nStay at the foot of the bed.\nThink out loud.\nFlatten hierarchy by inviting expertise.\n\nNext: apply the same leadership clarity to pulse-check decisions. The nurse-response module later builds on flat-hierarchy language for bedside and outreach collaboration.\nReturn to Modules Page"
   },
   {
     "objectID": "slides/ending.html#this-deck-has-moved",
     "href": "slides/ending.html#this-deck-has-moved",
     "title": "Ending the Code/RRT",
     "section": "This deck has moved",
-    "text": "This deck has moved\nFor the 2026 curriculum, this content has been consolidated into:\nEscalation, Disposition, and Closure\nUse that deck for teaching.\nReturn to Course Page"
+    "text": "This deck has moved\nFor the 2026 curriculum, this content has been consolidated into:\nEnding Code Blue Considerations\nUse that deck for teaching.\nReturn to Course Page"
   },
   {
     "objectID": "slides/case_4.html#case-4",
@@ -277,14 +277,14 @@
     "href": "facilitators.html",
     "title": "Facilitators",
     "section": "",
-    "text": "Zoll simulation preceptor guide\nNurse-response collaboration module: Working with Nurse-Led Response Teams\nConsolidated module: Escalation, Disposition, and Closure\nCourse website QR slide\nAnnual maintenance checklist on GitHub"
+    "text": "Zoll simulation preceptor guide\nNurse-response collaboration module: Nurse Response Teams and Escalation\nCode-ending module: Ending Code Blue Considerations\nCourse website QR slide\nAnnual maintenance checklist on GitHub"
   },
   {
     "objectID": "facilitators.html#instructor-materials",
     "href": "facilitators.html#instructor-materials",
     "title": "Facilitators",
     "section": "",
-    "text": "Zoll simulation preceptor guide\nNurse-response collaboration module: Working with Nurse-Led Response Teams\nConsolidated module: Escalation, Disposition, and Closure\nCourse website QR slide\nAnnual maintenance checklist on GitHub"
+    "text": "Zoll simulation preceptor guide\nNurse-response collaboration module: Nurse Response Teams and Escalation\nCode-ending module: Ending Code Blue Considerations\nCourse website QR slide\nAnnual maintenance checklist on GitHub"
   },
   {
     "objectID": "facilitators.html#facilitator-case-map",
@@ -312,7 +312,7 @@
     "href": "scenarios.html",
     "title": "Scenarios",
     "section": "",
-    "text": "The scenarios are designed for in-person practice with the Zoll. Use the public slides for learner review; facilitator-specific prompts belong in the instructor guide.\nEach case now includes a brief resident/nurse-team interface prompt: who has bedside context, what the resident should ask, and how the plan should be closed-looped.\n\n\nCase 1\nCode blue for an unresponsive patient with no pulse. Focus: rhythm-check process, uncertainty, and using recorder/timekeeper input.\nOpen case\n\n\nCase 2\nTelemetry-triggered code blue on hospital day 2. Focus: first rhythm decision, team timing, and immediate post-ROSC priorities.\nOpen case\n\n\nCase 3\nYoung patient collapses on telemetry after receiving several inpatient medications. Focus: rhythm recognition, medication-history input, and choosing the safest immediate action.\nOpen case\n\n\nCase 4\nRRT for a hospitalized patient with a very fast heart rate. Focus: stability assessment, bedside/outreach story, and deciding whether rhythm-specific treatment or escalation is needed.\nOpen case\n\n\nCase 5\nRRT for bradycardia with hypotension and confusion. Focus: preparing the room, equipment, and team before further deterioration.\nOpen case"
+    "text": "The scenarios are designed for in-person practice with the Zoll. Use the public slides for learner review; facilitator-specific prompts belong in the instructor guide.\nEach case now includes a brief resident/nurse-team interface prompt: who has bedside context, what the resident should ask, and how the plan should be closed-looped.\n\n\nDefibrillator Simulator\n\n\nPractice manual defibrillator workflow before the cases: pad placement, synchronized cardioversion, defibrillation, and transcutaneous pacing on a 3D virtual patient.\n\n\nOpen simulator\n\n\n\n\nCase 1\nCode blue for an unresponsive patient with no pulse. Focus: rhythm-check process, uncertainty, and using recorder/timekeeper input.\nOpen case\n\n\nCase 2\nTelemetry-triggered code blue on hospital day 2. Focus: first rhythm decision, team timing, and immediate post-ROSC priorities.\nOpen case\n\n\nCase 3\nYoung patient collapses on telemetry after receiving several inpatient medications. Focus: rhythm recognition, medication-history input, and choosing the safest immediate action.\nOpen case\n\n\nCase 4\nRRT for a hospitalized patient with a very fast heart rate. Focus: stability assessment, bedside/outreach story, and deciding whether rhythm-specific treatment or escalation is needed.\nOpen case\n\n\nCase 5\nRRT for bradycardia with hypotension and confusion. Focus: preparing the room, equipment, and team before further deterioration.\nOpen case"
   },
   {
     "objectID": "index.html",
@@ -340,7 +340,7 @@
     "href": "index.html#course-map",
     "title": "2026 Code Blue and Rapid Response Seminar",
     "section": "Course Map",
-    "text": "Course Map\n\n\nMicro-Skill Modules\nLeadership, pulse-check decisions, nurse-response collaboration, and escalation/closure.\nOpen modules\n\n\nPractice Scenarios\nFive short code/RRT cases for Zoll practice, rhythm decisions, escalation, and resident/nurse-team communication.\nOpen scenarios\n\n\nQuick Resources\nACLS card, site differences, team-resource script, rapid response guide, and QR/manual links.\nOpen resources\n\n\nFacilitators\nInstructor guide, QR slide, and annual update checklist.\nOpen facilitator notes"
+    "text": "Course Map\n\n\nMicro-Skill Modules\nLeadership, pulse-check decisions, nurse-response/escalation, and code-ending considerations.\nOpen modules\n\n\nPractice Scenarios\nFive short code/RRT cases for Zoll practice, rhythm decisions, escalation, and resident/nurse-team communication.\nOpen scenarios\n\n\nQuick Resources\nACLS card, site differences, team-resource script, rapid response guide, and QR/manual links.\nOpen resources\n\n\nFacilitators\nInstructor guide, QR slide, and annual update checklist.\nOpen facilitator notes"
   },
   {
     "objectID": "index.html#why-this-course-exists",
@@ -361,7 +361,7 @@
     "href": "modules.html#pre-session-checklist",
     "title": "Modules",
     "section": "Pre-Session Checklist",
-    "text": "Pre-Session Checklist\n\nNo pre-work required; we will spend the first 10 minutes going through the pre-test and orientation, then go through the modules together.\nBring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.\nNote site-specific workflow uncertainties you want clarified.\n\n\n\n1. Leadership Skills\nPractice naming who is leading, anchoring the room, stating the working plan, and inviting concern before action.\nOpen slides\n\n\n2. Pulse-Check Decisions\nPractice preparing pulse checks, making shock/no-shock calls, protecting compression pauses, and using EtCO2 or other signs when ROSC is uncertain.\nOpen slides\n\n\n3. Working with Nurse-Led Response Teams\nPractice using bedside and outreach expertise for role clarity, nursing trajectory, key decisions, resources, and next-step planning.\nOpen slides\n\n\n4. Escalation, Disposition, and Closure\nPractice identifying the next care step, activating the right resource early, naming disposition and follow-up, and closing the event.\nOpen slides"
+    "text": "Pre-Session Checklist\n\nNo pre-work required; we will spend the first 10 minutes going through the pre-test and orientation, then go through the modules together.\nBring questions from real code/RRT experiences, especially moments when resident and nursing roles felt unclear.\nNote site-specific workflow uncertainties you want clarified.\n\n\n\n1. Leadership Skills\nPractice naming who is leading, staying at the foot of the bed, thinking out loud, and flattening hierarchy by inviting expertise.\nOpen slides\n\n\n2. Pulse-Check Decisions\nPractice code-blue pulse-check decisions: shock/no-shock calls, protecting compression pauses, and using EtCO2 to monitor CPR quality and help detect ROSC.\nOpen slides\n\n\n3. Nurse Response Teams and Escalation\nPractice using bedside and outreach expertise to identify trajectory, disposition, and missing resources.\nOpen slides\n\n\n4. Ending Code Blue Considerations\nPractice duration decisions, family presence, and ending a code with team check, family plan, and debrief.\nOpen slides"
   },
   {
     "objectID": "resources.html",
@@ -546,137 +546,116 @@
     "text": "Case summary\nLabel: Complete heart block / unstable bradycardia.\nKey issue: atropine is reasonable, but do not wait when high-grade block is likely; prepare pacing, pressors, and transvenous pacing early.\nReturn to Course Page"
   },
   {
-    "objectID": "slides/escalation_closure.html#escalation-disposition-and-closure",
-    "href": "slides/escalation_closure.html#escalation-disposition-and-closure",
-    "title": "Escalation, Disposition, and Closure",
-    "section": "Escalation, disposition, and closure",
-    "text": "Escalation, disposition, and closure\nLearners will practice:\n\nDeciding what next care step the patient needs\nCalling the right resource early\nNaming disposition, follow-up, callback, and triggers\nEnding a code with team check, family plan, and debrief"
+    "objectID": "slides/escalation_closure.html#ending-code-blue-considerations",
+    "href": "slides/escalation_closure.html#ending-code-blue-considerations",
+    "title": "Ending Code Blue Considerations",
+    "section": "Ending Code Blue Considerations",
+    "text": "Ending Code Blue Considerations\nLearners will practice:\n\nHow long to code?\nBring families back.\nEnd with team check, family plan, and debrief."
   },
   {
-    "objectID": "slides/escalation_closure.html#the-core-question",
-    "href": "slides/escalation_closure.html#the-core-question",
-    "title": "Escalation, Disposition, and Closure",
-    "section": "The core question",
-    "text": "The core question\nWhat next step does this patient need?\nAsk:\n\nWhat is the risk in the next 5 minutes?\nWhat decision is needed now?\nWhat resource or capability is missing?\nWhere should the next care step happen?\nWho follows up until that step happens?"
+    "objectID": "slides/escalation_closure.html#how-long-to-continue-cpr",
+    "href": "slides/escalation_closure.html#how-long-to-continue-cpr",
+    "title": "Ending Code Blue Considerations",
+    "section": "How long to continue CPR",
+    "text": "How long to continue CPR\n\n\n\n\nBMJ IHCA cohort: favorable functional status by CPR duration.\n\n\n\n30-minute anchor: stop/continue huddle, not a rule.\nLonger: witnessed/monitored, shockable/improving, reversible cause/bridge, ROSC signs.\nShorter: unwitnessed/unmonitored, unchanged asystole/PEA, no target/ROSC/bridge.\nGuardrail: OHCA TOR rules do not automatically apply to IHCA."
   },
   {
-    "objectID": "slides/escalation_closure.html#va-rrt-case",
-    "href": "slides/escalation_closure.html#va-rrt-case",
-    "title": "Escalation, Disposition, and Closure",
-    "section": "VA RRT case",
-    "text": "VA RRT case\nElderly man, immediately hypoxemic after transfusion.\nRR 24. SpO2 82% on 2 L.\nNow worsening: tripoding, accessory muscle use, 100% FiO2 face mask, SpO2 upper 80s.\n\nPrompt: What do you say out loud now?"
-  },
-  {
-    "objectID": "slides/escalation_closure.html#call-resources-early",
-    "href": "slides/escalation_closure.html#call-resources-early",
-    "title": "Escalation, Disposition, and Closure",
-    "section": "Call resources early",
-    "text": "Call resources early\n\n\n\nSignal\nAction\n\n\n\n\nOxygenation or airway failure\nCode/anesthesia\n\n\nICU monitoring or drips\nICU\n\n\nSTEMI/cath physiology\nCath\n\n\nFocal neuro deficit\nStroke\n\n\nShock, PE, VT storm, device question\nShock/PERT/TICU by site\n\n\n\nCode risk: bed out/down, pads on, airway/CPR access clear."
-  },
-  {
-    "objectID": "slides/escalation_closure.html#every-rapid-needs-an-endpoint",
-    "href": "slides/escalation_closure.html#every-rapid-needs-an-endpoint",
-    "title": "Escalation, Disposition, and Closure",
-    "section": "Every rapid needs an endpoint",
-    "text": "Every rapid needs an endpoint\nA rapid response should end with one of these:\n\ncode blue\nICU transfer\nrarely, a procedure\nstabilized on the floor\ngoals-of-care transition\n\nAlways hand off to the team assuming care."
-  },
-  {
-    "objectID": "slides/escalation_closure.html#next-step-plan",
-    "href": "slides/escalation_closure.html#next-step-plan",
-    "title": "Escalation, Disposition, and Closure",
-    "section": "Next-step plan",
-    "text": "Next-step plan\nTry:\n\n“Disposition is [ICU / floor / code / goals-of-care].”\n\n\n“Follow-up is owned by [me / primary team].”\n\n\n“The person for the nurse to call is [name/team].”\n\n\n“Are there concerns we have not addressed?”"
-  },
-  {
-    "objectID": "slides/escalation_closure.html#how-long-to-continue",
-    "href": "slides/escalation_closure.html#how-long-to-continue",
-    "title": "Escalation, Disposition, and Closure",
-    "section": "How long to continue?",
-    "text": "How long to continue?\n\n\n\n\nBMJ IHCA cohort: favorable functional status by CPR duration.\n\n\n\n30 min: stop/continue huddle.\nAnchor, not rule.\nLonger: witnessed/monitored, shockable/improving, reversible cause/bridge, ROSC signs.\nShorter: unwitnessed/unmonitored, unchanged asystole/PEA, no target/ROSC/bridge.\nGuardrail: OHCA TOR rules do not automatically apply to IHCA."
+    "objectID": "slides/escalation_closure.html#family-presence",
+    "href": "slides/escalation_closure.html#family-presence",
+    "title": "Ending Code Blue Considerations",
+    "section": "Family presence",
+    "text": "Family presence\n\n\n\n\nUse judgment.\nDelegate attention.\nTry to include when possible and safe.\n\nJabre et al., NEJM 2013."
   },
   {
     "objectID": "slides/escalation_closure.html#how-to-stop-acls",
     "href": "slides/escalation_closure.html#how-to-stop-acls",
-    "title": "Escalation, Disposition, and Closure",
+    "title": "Ending Code Blue Considerations",
     "section": "How to stop ACLS",
     "text": "How to stop ACLS\n\nSummarize: “[duration] CPR, persistent [rhythm], no ROSC, no remaining reversible intervention.”\nAsk: “Anything we have not tried?”\nAnnounce: “One final rhythm/pulse check; if unchanged, we stop CPR.”"
   },
   {
-    "objectID": "slides/escalation_closure.html#after-the-event-assign-tasks",
-    "href": "slides/escalation_closure.html#after-the-event-assign-tasks",
-    "title": "Escalation, Disposition, and Closure",
-    "section": "After the event: assign tasks",
-    "text": "After the event: assign tasks\n\nFamily update: [name]\nDocumentation/time: recorder\nAttending/workflow: primary team\nDebrief: [time/place]\n\nWhat went well? What changes? Does anyone need support?"
+    "objectID": "slides/escalation_closure.html#after-the-event",
+    "href": "slides/escalation_closure.html#after-the-event",
+    "title": "Ending Code Blue Considerations",
+    "section": "After the event",
+    "text": "After the event\n\nFamily update\nPrimary team/attending\nDebrief: [time/place]\n\nWhat went well/not? What could we do differently? Does anyone need support?"
   },
   {
     "objectID": "slides/escalation_closure.html#summary",
     "href": "slides/escalation_closure.html#summary",
-    "title": "Escalation, Disposition, and Closure",
+    "title": "Ending Code Blue Considerations",
     "section": "Summary",
-    "text": "Summary\n\nNext step needs more? Call early.\nMoving where? Name disposition.\nWho follows up? Name owner and callback.\nEnding how? Team check, family plan, debrief.\n\nReturn to Modules Page"
+    "text": "Summary\n\nBring family back.\nCustomize duration from 30 minutes (no slow code).\nEnding: summarize, ask, do not resume.\n\nReturn to Modules Page"
   },
   {
-    "objectID": "slides/nurse_response.html#working-with-nurse-led-response-teams",
-    "href": "slides/nurse_response.html#working-with-nurse-led-response-teams",
-    "title": "Working with Nurse-Led Response Teams",
-    "section": "Working with nurse-led response teams",
-    "text": "Working with nurse-led response teams\nAlign decisions, expertise, and plan\nLearners will practice:\n\nUnderstanding why support was called\nAdding resident medical synthesis\nAddressing team concerns and constraints\nClosing the loop"
+    "objectID": "slides/nurse_response.html#nurse-response-teams-and-escalation",
+    "href": "slides/nurse_response.html#nurse-response-teams-and-escalation",
+    "title": "Nurse Response Teams and Escalation",
+    "section": "Nurse Response Teams and Escalation",
+    "text": "Nurse Response Teams and Escalation\nAt IMC, a floor nurse can call an experienced ICU nurse for help: the Emergency Response Team."
   },
   {
-    "objectID": "slides/nurse_response.html#nurseoutreach-teams-are-a-resource",
-    "href": "slides/nurse_response.html#nurseoutreach-teams-are-a-resource",
-    "title": "Working with Nurse-Led Response Teams",
-    "section": "Nurse/outreach teams are a resource",
-    "text": "Nurse/outreach teams are a resource\nNurses often already know trajectory, failed attempts, resource constraints, and what may happen next.\nResidents add synthesis, orders, escalation, and disposition.\nGoal: better decisions and a clear next step."
+    "objectID": "slides/nurse_response.html#ways-this-can-help-residents",
+    "href": "slides/nurse_response.html#ways-this-can-help-residents",
+    "title": "Nurse Response Teams and Escalation",
+    "section": "Ways this can help residents",
+    "text": "Ways this can help residents\n\nRepeated contact through the shift builds trust.\nOpportunity for introduction and team building.\nExperienced information gatherer."
   },
   {
-    "objectID": "slides/nurse_response.html#case-start",
-    "href": "slides/nurse_response.html#case-start",
-    "title": "Working with Nurse-Led Response Teams",
-    "section": "Case start",
-    "text": "Case start\nAn RRT has been called for a deteriorating patient.\nThe bedside nurse and critical care outreach nurse are already in the room.\nThe patient is newly confused, tachypneic, and on escalating oxygen.\nThe charge nurse is helping bring resources to the bedside.\nPrompt: What decisions do you need to make, and who can help?"
+    "objectID": "slides/nurse_response.html#ways-this-can-work-poorly",
+    "href": "slides/nurse_response.html#ways-this-can-work-poorly",
+    "title": "Nurse Response Teams and Escalation",
+    "section": "Ways this can work poorly",
+    "text": "Ways this can work poorly\n\nDisagreements about management.\nMultiple nurse contacts.\nLate RRT activation."
   },
   {
-    "objectID": "slides/nurse_response.html#move-1-understand-why-support-was-called",
-    "href": "slides/nurse_response.html#move-1-understand-why-support-was-called",
-    "title": "Working with Nurse-Led Response Teams",
-    "section": "Move 1: Understand why support was called",
-    "text": "Move 1: Understand why support was called\nAsk the bedside and outreach nurses:\n\n“What changed, what have you tried, and what made you call for more support?”\n\nListen for:\n\nuncertainty\nmissing resources\nclinical trajectory\nplan execution\n\nThen name the decision needed now."
+    "objectID": "slides/nurse_response.html#rrt-at-t1010-emergency-response-nurse-called",
+    "href": "slides/nurse_response.html#rrt-at-t1010-emergency-response-nurse-called",
+    "title": "Nurse Response Teams and Escalation",
+    "section": "RRT at T1010: Emergency Response Nurse called",
+    "text": "RRT at T1010: Emergency Response Nurse called\n\nBlood pressure low.\nFluids running.\nPatient now confused."
   },
   {
-    "objectID": "slides/nurse_response.html#move-2-add-your-medical-synthesis",
-    "href": "slides/nurse_response.html#move-2-add-your-medical-synthesis",
-    "title": "Working with Nurse-Led Response Teams",
-    "section": "Move 2: Add your medical synthesis",
-    "text": "Move 2: Add your medical synthesis\nResidents add synthesis, orders, escalation, and disposition.\nCritical care nurses add trajectory, bedside reality, and resource constraints.\nUse the same structure:\n\n“I think [problem] is the issue. I’m worried about [risk]. My plan is [plan].”\n\nThen ask:\n\n“What are we missing?”"
+    "objectID": "slides/nurse_response.html#strategies",
+    "href": "slides/nurse_response.html#strategies",
+    "title": "Nurse Response Teams and Escalation",
+    "section": "Strategies",
+    "text": "Strategies\n\nEarly introduction in shift.\nElicit story and concerns.\nAdd synthesis.\nRecognize trajectory/resources."
   },
   {
-    "objectID": "slides/nurse_response.html#move-3-address-the-teams-concerns",
-    "href": "slides/nurse_response.html#move-3-address-the-teams-concerns",
-    "title": "Working with Nurse-Led Response Teams",
-    "section": "Move 3: Address the team’s concerns",
-    "text": "Move 3: Address the team’s concerns\nCheck whether the plan answers the concern that triggered the RRT:\n\nDoes this plan address what worried you enough to call the RRT?\nWhat constraint still makes this hard to execute?\nWhat would make us change disposition or call more help?\n\nIf care needs exceed floor resources, name disposition and escalation now."
+    "objectID": "slides/nurse_response.html#escalation",
+    "href": "slides/nurse_response.html#escalation",
+    "title": "Nurse Response Teams and Escalation",
+    "section": "Escalation",
+    "text": "Escalation\n\nDecide where the patient needs to go.\nConsider if you have everything you need."
   },
   {
-    "objectID": "slides/nurse_response.html#move-4-close-the-loop",
-    "href": "slides/nurse_response.html#move-4-close-the-loop",
-    "title": "Working with Nurse-Led Response Teams",
-    "section": "Move 4: Close the loop",
-    "text": "Move 4: Close the loop\nCheck with the team, then name:\n\ndisposition\nfollow-up owner\ncallback person\ntrigger\n\n\n“Before I leave, does this plan address the concerns that brought us here?”"
+    "objectID": "slides/nurse_response.html#va-rrt-case",
+    "href": "slides/nurse_response.html#va-rrt-case",
+    "title": "Nurse Response Teams and Escalation",
+    "section": "VA RRT case",
+    "text": "VA RRT case\nElderly man, immediately hypoxemic after transfusion.\nRR 24. SpO2 82% on 2 L.\nNow worsening: tripoding, accessory muscle use, 100% FiO2 face mask, SpO2 upper 80s.\n\nPrompt: What needs to happen?"
   },
   {
-    "objectID": "slides/nurse_response.html#common-failure-modes",
-    "href": "slides/nurse_response.html#common-failure-modes",
-    "title": "Working with Nurse-Led Response Teams",
-    "section": "Common failure modes",
-    "text": "Common failure modes\n\nIgnore work already done\nAsk for chart review, not trajectory\nGive a plan without follow-up\nLeave without next step or trigger\nDismiss the concern that triggered the RRT\nMiss team expertise or resource constraints"
+    "objectID": "slides/nurse_response.html#call-resources-early",
+    "href": "slides/nurse_response.html#call-resources-early",
+    "title": "Nurse Response Teams and Escalation",
+    "section": "Call resources early",
+    "text": "Call resources early\n\n\n\nSignal\nAction\n\n\n\n\nOxygenation or airway failure\nRT/CC/anesthesia\n\n\nSTEMI/cath physiology\nCath\n\n\nFocal neuro deficit\nStroke\n\n\nShock, PE, VT storm, device question\nShock/PERT/TICU by site\n\n\n\nCode risk: bed out/down, pads on, airway/CPR access clear."
+  },
+  {
+    "objectID": "slides/nurse_response.html#rapid-endpoint",
+    "href": "slides/nurse_response.html#rapid-endpoint",
+    "title": "Nurse Response Teams and Escalation",
+    "section": "Rapid endpoint",
+    "text": "Rapid endpoint\nGoal = right stabilization and dispo, not full explanation.\n\ncode blue\nICU transfer\nrarely, a procedure\nstabilized on the floor\ngoals-of-care transition\n\nAlways hand off to the team assuming care."
   },
   {
     "objectID": "slides/nurse_response.html#summary",
     "href": "slides/nurse_response.html#summary",
-    "title": "Working with Nurse-Led Response Teams",
+    "title": "Nurse Response Teams and Escalation",
     "section": "Summary",
-    "text": "Summary\n\nUnderstand why support was called.\nAdd medical synthesis.\nAddress team concerns and constraints.\nClose the loop on next step, follow-up, and trigger.\n\nReturn to Modules Page"
+    "text": "Summary\n\nEmergency Response Team model.\nEarly introduction.\nDecide where the patient needs to go.\nConsider what resource or capability is missing.\n\nReturn to Modules Page"
   },
   {
     "objectID": "slides/qr.html#course-webpage",

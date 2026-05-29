@@ -63,7 +63,7 @@ Didactics alone have limits. Regular review, simulation, interprofessional pract
 ::: {.link-card}
 ### Micro-Skill Modules
 
-Leadership, pulse-check decisions, nurse-response collaboration, and escalation/closure.
+Leadership, pulse-check decisions, nurse-response/escalation, and code-ending considerations.
 
 [Open modules](modules.qmd)
 :::

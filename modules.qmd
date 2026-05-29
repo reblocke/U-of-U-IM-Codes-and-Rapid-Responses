@@ -14,7 +14,7 @@ These modules are the brief teaching blocks we will walk through together at the
 ::: {.module-item}
 ### 1. Leadership Skills
 
-Practice naming who is leading, anchoring the room, stating the working plan, and inviting concern before action.
+Practice naming who is leading, staying at the foot of the bed, thinking out loud, and flattening hierarchy by inviting expertise.
 
 [Open slides](slides/leadership.html)
 :::
@@ -22,23 +22,23 @@ Practice naming who is leading, anchoring the room, stating the working plan, an
 ::: {.module-item}
 ### 2. Pulse-Check Decisions
 
-Practice preparing pulse checks, making shock/no-shock calls, protecting compression pauses, and using EtCO2 or other signs when ROSC is uncertain.
+Practice code-blue pulse-check decisions: shock/no-shock calls, protecting compression pauses, and using EtCO2 to monitor CPR quality and help detect ROSC.
 
 [Open slides](slides/pulse_check.html)
 :::
 
 ::: {.module-item}
-### 3. Working with Nurse-Led Response Teams
+### 3. Nurse Response Teams and Escalation
 
-Practice using bedside and outreach expertise for role clarity, nursing trajectory, key decisions, resources, and next-step planning.
+Practice using bedside and outreach expertise to identify trajectory, disposition, and missing resources.
 
 [Open slides](slides/nurse_response.html)
 :::
 
 ::: {.module-item}
-### 4. Escalation, Disposition, and Closure
+### 4. Ending Code Blue Considerations
 
-Practice identifying the next care step, activating the right resource early, naming disposition and follow-up, and closing the event.
+Practice duration decisions, family presence, and ending a code with team check, family plan, and debrief.
 
 [Open slides](slides/escalation_closure.html)
 :::

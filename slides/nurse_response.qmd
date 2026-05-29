@@ -1,5 +1,5 @@
 ---
-title: "Working with Nurse-Led Response Teams"
+title: "Nurse Response Teams and Escalation"
 author: "Slides by Alex Ryden, Brian Locke, and collaborators"
 format:
   revealjs:
@@ -7,101 +7,80 @@ format:
 editor: visual
 ---
 
-## Working with nurse-led response teams
+## Nurse Response Teams and Escalation
 
-### Align decisions, expertise, and plan
+At IMC, a floor nurse can call an experienced ICU nurse for help: the Emergency Response Team.
 
-Learners will practice:
+## Ways this can help residents
 
-1. Understanding why support was called
-2. Adding resident medical synthesis
-3. Addressing team concerns and constraints
-4. Closing the loop
+- Repeated contact through the shift builds trust.
+- Opportunity for introduction and team building.
+- Experienced information gatherer.
 
-## Nurse/outreach teams are a resource
+## Ways this can work poorly
 
-Nurses often already know trajectory, failed attempts, resource constraints, and what may happen next.
+- Disagreements about management.
+- Multiple nurse contacts.
+- Late RRT activation.
 
-Residents add synthesis, orders, escalation, and disposition.
+## RRT at T1010: Emergency Response Nurse called
 
-**Goal: better decisions and a clear next step.**
+- Blood pressure low.
+- Fluids running.
+- Patient now confused.
 
-## Case start
+## Strategies
 
-An RRT has been called for a deteriorating patient.
+- Early introduction in shift.
+- Elicit story and concerns.
+- Add synthesis.
+- Recognize trajectory/resources.
 
-The bedside nurse and critical care outreach nurse are already in the room.
+## Escalation
 
-The patient is newly confused, tachypneic, and on escalating oxygen.
+1. Decide where the patient needs to go.
+2. Consider if you have everything you need.
 
-The charge nurse is helping bring resources to the bedside.
+## VA RRT case
 
-**Prompt:** What decisions do you need to make, and who can help?
+Elderly man, immediately hypoxemic after transfusion.
 
-## Move 1: Understand why support was called
+RR 24. SpO2 82% on 2 L.
 
-Ask the bedside and outreach nurses:
+Now worsening: tripoding, accessory muscle use, 100% FiO2 face mask, SpO2 upper 80s.
 
-> "What changed, what have you tried, and what made you call for more support?"
+<img src="images/clipboard-1187290827.png" alt="XR Chest Obtained During RRT" style="height: 260px; width: auto; display: block; margin: 0.5rem auto;">
 
-Listen for:
+**Prompt:** What needs to happen?
 
-- uncertainty
-- missing resources
-- clinical trajectory
-- plan execution
+## Call resources early
 
-Then name the decision needed now.
+| Signal | Action |
+|---|---|
+| Oxygenation or airway failure | RT/CC/anesthesia |
+| STEMI/cath physiology | Cath |
+| Focal neuro deficit | Stroke |
+| Shock, PE, VT storm, device question | Shock/PERT/TICU by site |
 
-## Move 2: Add your medical synthesis
+Code risk: bed out/down, pads on, airway/CPR access clear.
 
-Residents add synthesis, orders, escalation, and disposition.
+## Rapid endpoint
 
-Critical care nurses add trajectory, bedside reality, and resource constraints.
+**Goal = right stabilization and dispo, not full explanation.**
 
-Use the same structure:
+- code blue
+- ICU transfer
+- rarely, a procedure
+- stabilized on the floor
+- goals-of-care transition
 
-> "I think [problem] is the issue. I'm worried about [risk]. My plan is [plan]."
-
-Then ask:
-
-> "What are we missing?"
-
-## Move 3: Address the team's concerns
-
-Check whether the plan answers the concern that triggered the RRT:
-
-- Does this plan address what worried you enough to call the RRT?
-- What constraint still makes this hard to execute?
-- What would make us change disposition or call more help?
-
-If care needs exceed floor resources, name disposition and escalation now.
-
-## Move 4: Close the loop
-
-Check with the team, then name:
-
-- disposition
-- follow-up owner
-- callback person
-- trigger
-
-> "Before I leave, does this plan address the concerns that brought us here?"
-
-## Common failure modes
-
-- Ignore work already done
-- Ask for chart review, not trajectory
-- Give a plan without follow-up
-- Leave without next step or trigger
-- Dismiss the concern that triggered the RRT
-- Miss team expertise or resource constraints
+Always hand off to the team assuming care.
 
 ## Summary
 
-1. Understand why support was called.
-2. Add medical synthesis.
-3. Address team concerns and constraints.
-4. Close the loop on next step, follow-up, and trigger.
+- Emergency Response Team model.
+- Early introduction.
+- Decide where the patient needs to go.
+- Consider what resource or capability is missing.
 
 [Return to Modules Page](../modules.html "Modules Page")

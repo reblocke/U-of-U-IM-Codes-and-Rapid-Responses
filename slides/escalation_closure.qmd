@@ -1,5 +1,5 @@
 ---
-title: "Escalation, Disposition, and Closure"
+title: "Ending Code Blue Considerations"
 author: "Slides by Sumit Patel, Alex Ryden, Brian Locke, and collaborators"
 format:
   revealjs:
@@ -7,76 +7,15 @@ format:
 editor: visual
 ---
 
-## Escalation, disposition, and closure
+## Ending Code Blue Considerations
 
 ### Learners will practice:
 
-1. Deciding what next care step the patient needs
-2. Calling the right resource early
-3. Naming disposition, follow-up, callback, and triggers
-4. Ending a code with team check, family plan, and debrief
+1. How long to code?
+2. Bring families back.
+3. End with team check, family plan, and debrief.
 
-## The core question
-
-**What next step does this patient need?**
-
-Ask:
-
-- What is the risk in the next 5 minutes?
-- What decision is needed now?
-- What resource or capability is missing?
-- Where should the next care step happen?
-- Who follows up until that step happens?
-
-## VA RRT case
-
-Elderly man, immediately hypoxemic after transfusion.
-
-RR 24. SpO2 82% on 2 L.
-
-Now worsening: tripoding, accessory muscle use, 100% FiO2 face mask, SpO2 upper 80s.
-
-<img src="images/clipboard-1187290827.png" alt="XR Chest Obtained During RRT" style="height: 260px; width: auto; display: block; margin: 0.5rem auto;">
-
-**Prompt:** What do you say out loud now?
-
-## Call resources early
-
-| Signal | Action |
-|---|---|
-| Oxygenation or airway failure | Code/anesthesia |
-| ICU monitoring or drips | ICU |
-| STEMI/cath physiology | Cath |
-| Focal neuro deficit | Stroke |
-| Shock, PE, VT storm, device question | Shock/PERT/TICU by site |
-
-Code risk: bed out/down, pads on, airway/CPR access clear.
-
-## Every rapid needs an endpoint
-
-A rapid response should end with one of these:
-
-- code blue
-- ICU transfer
-- rarely, a procedure
-- stabilized on the floor
-- goals-of-care transition
-
-Always hand off to the team assuming care.
-
-## Next-step plan
-
-Try:
-
-> "Disposition is [ICU / floor / code / goals-of-care]."
-
-> "Follow-up is owned by [me / primary team]."
-
-> "The person for the nurse to call is [name/team]."
-
-> "Are there concerns we have not addressed?"
-
-## How long to continue?
+## How long to continue CPR
 
 :::: columns
 ::: {.column width="52%"}
@@ -88,9 +27,7 @@ Try:
 ::: {.column width="48%"}
 <div style="font-size: 0.72em; line-height: 1.05;">
 
-**30 min:** stop/continue huddle.
-
-**Anchor, not rule.**
+**30-minute anchor:** stop/continue huddle, not a rule.
 
 **Longer:** witnessed/monitored, shockable/improving, reversible cause/bridge, ROSC signs.
 
@@ -102,6 +39,24 @@ Try:
 :::
 ::::
 
+## Family presence
+
+:::: columns
+::: {.column width="58%"}
+<img src="images/clipboard-3778670532.png" alt="NEJM RCT on family presence during resuscitation" style="width: 100%; height: auto; max-height: 500px; object-fit: contain;">
+:::
+
+::: {.column width="42%"}
+Use judgment.
+
+Delegate attention.
+
+Try to include when possible and safe.
+
+<p style="font-size: 0.55em; line-height: 1.1;"><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa1203366">Jabre et al., NEJM 2013</a>.</p>
+:::
+::::
+
 ## How to stop ACLS
 
 1. **Summarize:** "[duration] CPR, persistent [rhythm], no ROSC, no remaining reversible intervention."
@@ -110,20 +65,18 @@ Try:
 
 3. **Announce:** "One final rhythm/pulse check; if unchanged, we stop CPR."
 
-## After the event: assign tasks
+## After the event
 
-- Family update: [name]
-- Documentation/time: recorder
-- Attending/workflow: primary team
+- Family update
+- Primary team/attending
 - Debrief: [time/place]
 
-What went well? What changes? Does anyone need support?
+What went well/not? What could we do differently? Does anyone need support?
 
 ## Summary
 
-1. Next step needs more? Call early.
-2. Moving where? Name disposition.
-3. Who follows up? Name owner and callback.
-4. Ending how? Team check, family plan, debrief.
+- Bring family back.
+- Customize duration from 30 minutes (no slow code).
+- Ending: summarize, ask, do not resume.
 
 [Return to Modules Page](../modules.html "Modules Page")

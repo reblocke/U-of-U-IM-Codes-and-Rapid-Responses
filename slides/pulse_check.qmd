@@ -1,5 +1,5 @@
 ---
-title: "Pulse Checks: The 10-Second Decision"
+title: "Pulse Checks in Code Blues"
 author: "Slides by Josiah Situmeang, Alex Ryden, Brian Locke"
 format:
   revealjs:
@@ -7,14 +7,13 @@ format:
 editor: visual
 ---
 
-## Pulse-check decisions
+## Pulse Checks in Code Blues
 
 ### Learners will practice:
 
-1. Preparing a pulse check before the pause
-2. Making a shock/no-shock call under uncertainty
-3. Preventing airway/procedure pauses
-4. Using EtCO2 and other signals when ROSC is uncertain
+1. Making a shock/no-shock call under uncertainty
+2. Preventing airway/procedure pauses
+3. Using EtCO2 and other signals when ROSC is uncertain
 
 ## Code blue on E50
 
@@ -22,29 +21,18 @@ Compressions are ongoing when you arrive.
 
 You establish yourself as code leader.
 
-**Prompt:** You have 20 seconds before the next pulse check. What do you assign?
+**Prompt:** You have 20 seconds before the next pulse check. What are the first things you consider?
 
 ## Before the pause
 
-Try:
-
-> "Recorder, call out pause time."
-
-> "You check pulse."
-
-> "You call rhythm."
-
-> "Defib team, be ready if shockable."
-
-> "Everyone else: compressions resume unless I say shock."
+1. Confirm code status.
+2. Assign roles: meds, compressor, airway, recorder.
 
 ## First pulse check
 
 ### No palpable pulse
 
 ![Shock, no shock, or uncertain?](images/clipboard-3688483317.png){fig-alt="Rhythm strip during initial pulse check" width="1200"}
-
-**Prompt:** Shock, no shock, or uncertain?
 
 ## Fine VF vs asystole
 
@@ -56,7 +44,6 @@ If uncertain:
 2. Check leads/connection.
 3. Voice your uncertainty.
 4. If it could be VF/pVT, shock (consider consequences of each error).
-5. If not, resume CPR.
 :::
 
 ::: {.column width="55%"}
@@ -70,6 +57,8 @@ If uncertain:
 ## Second pulse check
 
 ### No palpable pulse
+
+CPR has resumed until the second pulse check. There is no palpable pulse and this rhythm:
 
 ![Airway team ready to intubate, asks for a moment before resuming compressions](images/clipboard-2169519162.png){fig-alt="Second pulse check with airway team asking for time"}
 
@@ -98,53 +87,42 @@ Everything else has to fit around those.
 
 ## Confirming ROSC can be hard
 
-Consider the consequences of each error.
-
 Use:
 
 1. EtCO2 trend or sudden rise
-2. Arterial line or pleth waveform if present
-3. Doppler if ready
-4. POCUS only if pre-positioned
-5. Clinical signs
+2. Arterial line if present
+3. SpO2 pleth waveform if present
+4. Doppler if ready
+5. POCUS only if pre-positioned
 
 When in doubt, continue compressions.
 
-No probe fishing during pulse checks.
-
-## EtCO2 is a cue, not proof
+## Do not forget EtCO2
 
 ![Use EtCO2 to help detect ROSC](images/clipboard-73319215.png){fig-alt="EtCO2 waveform and values during resuscitation" width="620"}
 
-EtCO2 is a cue, not proof; if unclear, continue CPR.
+Use EtCO2 to monitor CPR quality, shock-type, and ROSC.
 
 ## Third pulse check
 
 ![EtCO2 = 36 mmHg](images/clipboard-1673769684.png){fig-alt="EtCO2 rising to 36 mmHg" width="1200"}
 
-**Prompt:** What do you say?
-
-Suggested answer:
-
 > "Possible ROSC. At the next check: rhythm, pulse, waveform. If not convincing, resume compressions."
 
-## Make uncertainty public and brief
-
-Name what is uncertain, then name the action.
+## Think out loud
 
 Try:
 
-- Fine VF vs asystole: gain/leads now; if still possibly VF/pVT, shock.
-- Possible ROSC: rhythm, pulse, waveform; if unclear, CPR continues.
-- Disagreement on pulse: compressions continue while we clarify.
+- Do not forget EtCO2.
+- If unclear, resume compressions.
 
 ## Summary
+
+**Confirm code status.**
 
 **Do not miss fine VF.**
 
 **Do not prolong pauses for procedures.**
-
-**Do not keep uncertainty private.**
 
 **Use EtCO2 to monitor compressions and help detect ROSC.**
 

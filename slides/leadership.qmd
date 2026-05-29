@@ -12,9 +12,9 @@ editor: visual
 ### Learners will practice:
 
 1. Naming who is leading
-2. Anchoring the room
-3. Making the working problem and plan public
-4. Inviting concern before action
+2. Stay at the foot of the bed
+3. Think out loud
+4. Flat hierarchy
 
 ## Case start
 
@@ -24,9 +24,9 @@ Sign-out: "81M, SVT, now stable."
 
 Now: HR 160, MAP 85 -> 70, lightheaded.
 
-A bedside nurse says: "He looks worse than he did 10 minutes ago."
+A bedside nurse says: "He looks worse."
 
-**Prompt:** Before choosing a medication, what do you say to the room?
+**Prompt:** How do you begin leading this rapid?
 
 ## Say the sentence
 
@@ -34,7 +34,7 @@ Try:
 
 > "I'm [name], the senior medicine resident responding to the rapid. Who is currently coordinating this response?"
 
-Then choose:
+Paths you might take depending on the response:
 
 > "Okay, I'll run the room."
 
@@ -42,36 +42,38 @@ Then choose:
 
 > "Okay, how can I help?"
 
-## Failure mode
+## Failure modes
 
 Ways this commonly goes wrong:
 
-- Multiple teams entered.
-- No one named who owned the response.
-- The resident's plan and the primary/CV plan diverged.
-- A medication order lacked clear dose, owner, and readback.
-- The nurse's clarification was the safety signal.
+- It is not clear what each person's role is.
+- Power dynamics or familiarity with attendings make it hard to speak up.
+- Handoff in roles has not occurred.
+- Everyone assumes someone else is leading.
 
-## Anchor the room
+Who leads is less important than that **someone** leads.
+
+## Stay at the foot of the bed
 
 :::: columns
 ::: {.column width="46%"}
 If you are leading:
 
+- Stay at the foot of the bed.
+- Keep the patient and monitor in view.
 - Stay visible and findable.
-- Delegate tasks by name or function.
-- Keep patient, monitor, nurse, doorway, and task flow in view.
+- Delegate instead of becoming the task person.
 :::
 
 ::: {.column width="54%"}
 <figure style="margin: 0;">
-  <img src="images/clipboard-183477107.png" alt="Formula 1 pit crew and code team role-positioning diagram" style="width: 100%; display: block;">
-  <figcaption style="font-size: 0.68em; line-height: 1.1; margin-top: 0.35rem; text-align: center;">Pit-crew model: leader stays visible while tasks are delegated.</figcaption>
+  <img src="images/clipboard-183477107.png" alt="Code team role-positioning diagram with the team lead at the foot of the bed" style="width: 100%; display: block;">
+  <figcaption style="font-size: 0.68em; line-height: 1.1; margin-top: 0.35rem; text-align: center;">Leader at the foot of the bed: patient, monitor, and team flow stay visible.</figcaption>
 </figure>
 :::
 ::::
 
-## Make the plan public
+## Think out loud
 
 Try:
 
@@ -81,23 +83,43 @@ Then ask:
 
 > "What are we missing?"
 
-## Invite expertise without losing leadership
+## Flat hierarchy
 
-- Bedside nurse: what changed?
-- Outreach nurse: biggest worry?
-- Pharmacy: dose and contraindications?
+:::: columns
+::: {.column width="52%"}
+<div style="font-size: 0.78em; line-height: 1.15;">
 
-Leadership is keeping the plan public, not proving you can do tasks yourself.
+Airline crew resource management keeps a clear leader and makes speaking up expected.
+
+- Name roles and direction.
+- Say: "If I miss something, say it out loud."
+- Ask: bedside nurse, outreach nurse, pharmacy.
+- The leader decides; everyone monitors.
+
+Korean Air 801 is a cautionary CRM case: NTSB identified failed monitoring/cross-checking and training gaps.
+
+<p style="font-size: 0.52em; line-height: 1.1; margin-top: 0.45rem;">Sources: <a href="https://www.ntsb.gov/investigations/Pages/DCA97MA058.aspx">NTSB Korean Air 801 investigation</a>; <a href="https://www.faa.gov/sites/faa.gov/files/2022-11/AC120-51e_1.pdf">FAA AC 120-51E CRM Training</a>.</p>
+
+</div>
+:::
+
+::: {.column width="48%"}
+<figure style="margin: 0;">
+  <img src="images/c17-cockpit-briefing-1280.jpg" alt="Two pilots conducting a cockpit preflight briefing" style="width: 100%; display: block;">
+  <figcaption style="font-size: 0.58em; line-height: 1.1; margin-top: 0.35rem; text-align: center;">Clear roles plus explicit permission to question. Image: U.S. Air Force/Tech. Sgt. Dennis J. Henry Jr., public domain.</figcaption>
+</figure>
+:::
+::::
 
 ## Summary
 
 ### Four moves
 
 1. Name the leadership state.
-2. Anchor yourself.
-3. Say the working problem and first plan.
-4. Invite concern before action.
+2. Stay at the foot of the bed.
+3. Think out loud.
+4. Flatten hierarchy by inviting expertise.
 
-Next: apply the same leadership clarity to pulse-check decisions. The nurse-response module later builds on this language for bedside and outreach collaboration.
+Next: apply the same leadership clarity to pulse-check decisions. The nurse-response module later builds on flat-hierarchy language for bedside and outreach collaboration.
 
 [Return to Modules Page](../modules.html "Modules Page")

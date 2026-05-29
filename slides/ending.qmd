@@ -11,7 +11,7 @@ editor: visual
 
 For the 2026 curriculum, this content has been consolidated into:
 
-[Escalation, Disposition, and Closure](escalation_closure.html)
+[Ending Code Blue Considerations](escalation_closure.html)
 
 Use that deck for teaching.
 

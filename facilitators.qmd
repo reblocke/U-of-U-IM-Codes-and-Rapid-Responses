@@ -5,8 +5,8 @@ title: "Facilitators"
 ## Instructor Materials
 
 - [Zoll simulation preceptor guide](assets/facilitators/zoll-simulation-preceptor-guide-2026-05-13.docx)
-- Nurse-response collaboration module: [Working with Nurse-Led Response Teams](slides/nurse_response.html)
-- Consolidated module: [Escalation, Disposition, and Closure](slides/escalation_closure.html)
+- Nurse-response collaboration module: [Nurse Response Teams and Escalation](slides/nurse_response.html)
+- Code-ending module: [Ending Code Blue Considerations](slides/escalation_closure.html)
 - [Course website QR slide](slides/qr.html)
 - [Annual maintenance checklist on GitHub](https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses/blob/main/MAINTENANCE.md)
 

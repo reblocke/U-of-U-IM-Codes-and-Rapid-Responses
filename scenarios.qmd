@@ -6,6 +6,12 @@ The scenarios are designed for in-person practice with the Zoll. Use the public 
 
 Each case now includes a brief resident/nurse-team interface prompt: who has bedside context, what the resident should ask, and how the plan should be closed-looped.
 
+<div class="scenario-card">
+<h3>Defibrillator Simulator</h3>
+<p>Practice manual defibrillator workflow before the cases: pad placement, synchronized cardioversion, defibrillation, and transcutaneous pacing on a 3D virtual patient.</p>
+<p><a href="https://simulation.health.ufl.edu/education-training/online-simulations/defibrillator-simulator/">Open simulator</a></p>
+</div>
+
 ::: {.scenario-grid}
 ::: {.scenario-card}
 ### Case 1
