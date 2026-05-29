@@ -123,7 +123,7 @@
     "href": "slides/leadership.html#failure-modes",
     "title": "Leadership",
     "section": "Failure modes",
-    "text": "Failure modes\nWays this commonly goes wrong:\n\nIt is not clear what each person’s role is.\nPower dynamics or familiarity with attendings make it hard to speak up.\nHandoff in roles has not occurred.\nEveryone assumes someone else is leading.\n\nWho leads is less important than that someone leads."
+    "text": "Failure modes\nWays this commonly goes wrong:\n\nIt is not clear what each person’s role is.\nPower dynamics make someone else the de facto leader.\nHandoff in roles has not occurred.\nEveryone assumes someone else is leading.\n\nWho leads is less important than that someone leads."
   },
   {
     "objectID": "slides/leadership.html#stay-at-the-foot-of-the-bed",
@@ -144,14 +144,14 @@
     "href": "slides/leadership.html#flat-hierarchy",
     "title": "Leadership",
     "section": "Flat hierarchy",
-    "text": "Flat hierarchy\n\n\n\nAirline crew resource management keeps a clear leader and makes speaking up expected.\n\nName roles and direction.\nSay: “If I miss something, say it out loud.”\nAsk: bedside nurse, outreach nurse, pharmacy.\nThe leader decides; everyone monitors.\n\nKorean Air 801 is a cautionary CRM case: NTSB identified failed monitoring/cross-checking and training gaps.\n\nSources: NTSB Korean Air 801 investigation; FAA AC 120-51E CRM Training.\n\n\n\n\n\n\nClear roles plus explicit permission to question. Image: U.S. Air Force/Tech. Sgt. Dennis J. Henry Jr., public domain."
+    "text": "Flat hierarchy\n\n\n\nAirline crew resource management keeps a clear leader and makes speaking up expected.\nPsychological safety makes speaking up expected.\nKorean Air 801 is a cautionary CRM case: NTSB identified failed monitoring/cross-checking and training gaps.\n\nSources: NTSB Korean Air 801 investigation; FAA AC 120-51E CRM Training.\n\n\n\n\n\n\nClear roles plus explicit permission to question. Image: U.S. Air Force/Tech. Sgt. Dennis J. Henry Jr., public domain."
   },
   {
     "objectID": "slides/leadership.html#summary",
     "href": "slides/leadership.html#summary",
     "title": "Leadership",
     "section": "Summary",
-    "text": "Summary\nFour moves\n\nName the leadership state.\nStay at the foot of the bed.\nThink out loud.\nFlatten hierarchy by inviting expertise.\n\nNext: apply the same leadership clarity to pulse-check decisions. The nurse-response module later builds on flat-hierarchy language for bedside and outreach collaboration.\nReturn to Modules Page"
+    "text": "Summary\nFour moves\n\nName the leadership state.\nStay at the foot of the bed.\nThink out loud.\nFlatten hierarchy by inviting expertise.\n\nReturn to Modules Page"
   },
   {
     "objectID": "slides/ending.html#this-deck-has-moved",
@@ -613,21 +613,21 @@
     "href": "slides/nurse_response.html#rrt-at-t1010-emergency-response-nurse-called",
     "title": "Nurse Response Teams and Escalation",
     "section": "RRT at T1010: Emergency Response Nurse called",
-    "text": "RRT at T1010: Emergency Response Nurse called\n\nBlood pressure low.\nFluids running.\nPatient now confused."
+    "text": "RRT at T1010: Emergency Response Nurse called\n\nBlood pressure low.\nFluids running.\nPatient now confused.\n\nPrompt: How do you approach the situation?"
   },
   {
-    "objectID": "slides/nurse_response.html#strategies",
-    "href": "slides/nurse_response.html#strategies",
+    "objectID": "slides/nurse_response.html#strategies-for-working-with-ert",
+    "href": "slides/nurse_response.html#strategies-for-working-with-ert",
     "title": "Nurse Response Teams and Escalation",
-    "section": "Strategies",
-    "text": "Strategies\n\nEarly introduction in shift.\nElicit story and concerns.\nAdd synthesis.\nRecognize trajectory/resources."
+    "section": "Strategies for working with ERT",
+    "text": "Strategies for working with ERT\n\nEarly introduction in shift.\nElicit story and concerns.\nAdd synthesis.\nRecognize trajectory/resources."
   },
   {
-    "objectID": "slides/nurse_response.html#escalation",
-    "href": "slides/nurse_response.html#escalation",
+    "objectID": "slides/nurse_response.html#rapid-responses-when-to-escalate",
+    "href": "slides/nurse_response.html#rapid-responses-when-to-escalate",
     "title": "Nurse Response Teams and Escalation",
-    "section": "Escalation",
-    "text": "Escalation\n\nDecide where the patient needs to go.\nConsider if you have everything you need."
+    "section": "Rapid Responses: When to Escalate?",
+    "text": "Rapid Responses: When to Escalate?\n\nDecide where the patient needs to go.\nConsider if you have everything you need.\n\n\n\n\n\n\n\n\n\n\n\n\nU of U\nIMED\nVA\n\n\n\n\nRRT/MET\nHouse Sup, IM Res, SICU RN, Pharm\nIM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab\nIM, MICU, CNO, RNs, RT, Pharmacy (7a-7p)\n\n\nCode Blue\nadd: Anesthesia, EMT, MICU resident, Pharm, ICU Fellow\nadd: ICU attendings\nadd: Anesthesia/ED\n\n\nNumbers\nShock Team, Cath, Brain Attack, VAD: 1-2222\nShock Team: Vocera TICU attending; Brain Attack: Operator/x33333\nBrain Attack: Page Neuro Senior; Cath: Page Cardiology; Code: x6666"
   },
   {
     "objectID": "slides/nurse_response.html#va-rrt-case",

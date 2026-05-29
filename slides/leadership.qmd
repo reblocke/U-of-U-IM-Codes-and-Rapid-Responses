@@ -47,7 +47,7 @@ Paths you might take depending on the response:
 Ways this commonly goes wrong:
 
 - It is not clear what each person's role is.
-- Power dynamics or familiarity with attendings make it hard to speak up.
+- Power dynamics make someone else the de facto leader.
 - Handoff in roles has not occurred.
 - Everyone assumes someone else is leading.
 
@@ -91,10 +91,7 @@ Then ask:
 
 Airline crew resource management keeps a clear leader and makes speaking up expected.
 
-- Name roles and direction.
-- Say: "If I miss something, say it out loud."
-- Ask: bedside nurse, outreach nurse, pharmacy.
-- The leader decides; everyone monitors.
+Psychological safety makes speaking up expected.
 
 Korean Air 801 is a cautionary CRM case: NTSB identified failed monitoring/cross-checking and training gaps.
 
@@ -119,7 +116,5 @@ Korean Air 801 is a cautionary CRM case: NTSB identified failed monitoring/cross
 2. Stay at the foot of the bed.
 3. Think out loud.
 4. Flatten hierarchy by inviting expertise.
-
-Next: apply the same leadership clarity to pulse-check decisions. The nurse-response module later builds on flat-hierarchy language for bedside and outreach collaboration.
 
 [Return to Modules Page](../modules.html "Modules Page")

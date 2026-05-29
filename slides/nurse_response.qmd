@@ -29,17 +29,29 @@ At IMC, a floor nurse can call an experienced ICU nurse for help: the Emergency 
 - Fluids running.
 - Patient now confused.
 
-## Strategies
+**Prompt:** How do you approach the situation?
+
+## Strategies for working with ERT
 
 - Early introduction in shift.
 - Elicit story and concerns.
 - Add synthesis.
 - Recognize trajectory/resources.
 
-## Escalation
+## Rapid Responses: When to Escalate?
 
 1. Decide where the patient needs to go.
 2. Consider if you have everything you need.
+
+<div style="font-size: 0.48em; line-height: 1.05;">
+
+|  | **U of U** | **IMED** | **VA** |
+|:---|:---|:---|:---|
+| **RRT/MET** | House Sup, IM Res, SICU RN, Pharm | IM, CICU RN, Nurse Sup, Pharm, RT, EKG, ABG, Lab | IM, MICU, CNO, RNs, RT, Pharmacy (7a-7p) |
+| **Code Blue** | **add:** Anesthesia, EMT, MICU resident, Pharm, ICU Fellow | **add:** ICU attendings | **add:** Anesthesia/ED |
+| **Numbers** | **Shock Team, Cath, Brain Attack, VAD:** 1-2222 | **Shock Team:** Vocera TICU attending; **Brain Attack:** Operator/x33333 | **Brain Attack:** Page Neuro Senior; **Cath:** Page Cardiology; **Code:** x6666 |
+
+</div>
 
 ## VA RRT case
 
