@@ -1,0 +1,81 @@
+# U of U IM Codes and Rapid Responses
+
+Canonical site: https://reblocke.github.io/U-of-U-IM-Codes-and-Rapid-Responses/
+Source repository: https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses/
+Repository status: public Quarto course website and open educational resource.
+
+## Purpose
+
+This repository hosts learner-facing and facilitator-facing materials for a University
+of Utah Internal Medicine seminar on Code Blue and Rapid Response leadership. The course
+teaches residents to make leadership explicit, prepare pulse checks, identify shockable
+rhythms, use bedside and outreach expertise, escalate resources, close events, hand off,
+and debrief.
+
+## Current Site Structure
+
+- `index.qmd` / `docs/index.html`: learner hub.
+- `modules.qmd` / `docs/modules.html`: module index.
+- `slides/leadership.qmd`: leadership state, foot-of-bed position, thinking out loud,
+  and flattening hierarchy.
+- `slides/pulse_check.qmd`: shock/no-shock decisions, compression pauses, fine VF,
+  airway timing, EtCO2, and ROSC.
+- `slides/nurse_response.qmd`: bedside nurse and outreach collaboration, trajectory,
+  disposition, and missing resources.
+- `slides/escalation_closure.qmd`: CPR duration huddles, family presence, stopping
+  ACLS, family update, and debrief.
+- `scenarios.qmd` and `slides/case_*.qmd`: practice scenarios.
+- `resources.qmd`: learner resources and quick reference links.
+- `facilitators.qmd`: instructor notes and setup links.
+- `docs/`: rendered GitHub Pages output.
+
+## Scholarly Outputs
+
+This is not a journal-paper repository. Related course-evaluation outputs are ATS
+abstracts/posters:
+
+- 2025 ATS abstract: Ryden AG, Krauspe E, Patel S, Wayne R, Davis M, Locke BW.
+  "Enhancing Intern Leadership of Inpatient Emergencies: Evaluating the Impact of a
+  Seminar Addressing Team Dynamics." AJRCCM. 2025;211(Supplement_1):A5624.
+  DOI: https://doi.org/10.1164/ajrccm.2025.211.abstracts.a5624
+- 2026 ATS abstract: Situmeang J, Ryden A, Long CW, Krauspe E, Patel S, Sheth R,
+  Locke BW. "B38-12 Intern Code Blue and Rapid Response Leadership: A Pre-post
+  Evaluation of a Micro-Module Curriculum." AJRCCM. 2026;212(Supplement_1):aamag162.939.
+  DOI: https://doi.org/10.1093/ajrccm/aamag162.939
+  Oxford page: https://academic.oup.com/ajrccm/article/212/Supplement_1/aamag162.939/8680845
+
+## Data Boundaries
+
+The teaching site and authored course materials are public. Course-evaluation source
+data are restricted because they can include trainee-linking identifiers, timestamps,
+free-text responses, REDCap metadata, and small-cell educational evaluation records.
+Do not commit raw REDCap exports, survey PDFs, local workbooks, R exports, generated
+analysis HTML/PDF folders, or participant-level outputs. Use `data_dictionary.md` and
+`data_dictionary.csv` for schema-level documentation.
+
+## Build And Verification
+
+Prerequisite: Quarto.
+
+```bash
+quarto check
+quarto render
+quarto preview
+```
+
+After rendering, confirm `docs/llms.txt`, `docs/search.json`, and `docs/sitemap.xml`
+exist and browser-check the rendered site.
+
+## Citation And License
+
+Use `CITATION.cff` for website/software citation metadata. Code is MIT licensed.
+Authored content is CC BY-SA 4.0 unless otherwise noted. Third-party articles,
+guidelines, manuals, and externally sourced images remain under their original terms.
+
+## Agent Cautions
+
+- Do not overstate the ATS abstracts as full journal papers.
+- Do not mirror full ATS abstract text or publisher PDFs.
+- Preserve the stable teaching payload unless the user asks for course-content edits.
+- Do not add PHI, trainee identifiers, raw survey exports, or local analysis data.
+- Edit source `.qmd` files before rendering `docs/`; do not hand-edit generated HTML.

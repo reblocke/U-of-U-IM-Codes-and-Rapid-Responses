@@ -10,12 +10,15 @@ library(readxl)
 library(dplyr)
 library(here)
 
-#folder <- "C:/Code Projects/Code Blue Training Year 2/Data/"  
-#file <- "arcbt.xlsx"
-#survey_responses <- read_excel(paste0(folder, file))
+data_path <- here::here("Publications", "ATS 2026 Abstract", "data", "private", "arcbt.xlsx")
+if (!file.exists(data_path)) {
+  stop(
+    "Restricted course-evaluation workbook not found. ",
+    "Place the local-only workbook at Publications/ATS 2026 Abstract/data/private/arcbt.xlsx."
+  )
+}
 
-# changed this to a relative path
-survey_responses <- readxl::read_excel(here::here("data", "arcbt.xlsx"))
+survey_responses <- readxl::read_excel(data_path)
 
 survey_responses <- survey_responses %>%
   mutate(
@@ -153,7 +156,7 @@ suppressPackageStartupMessages({
 })
 
 # read without messages; then fix the first unnamed column
-dat <- suppressMessages(readxl::read_excel(here::here("data","arcbt.xlsx")))
+dat <- suppressMessages(readxl::read_excel(data_path))
 if (identical(names(dat)[1], "...1")) names(dat)[1] <- "id"
 
 # coerce only what we need (defensive)

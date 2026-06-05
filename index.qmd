@@ -1,5 +1,6 @@
 ---
 title: "2026 Code Blue and Rapid Response Seminar"
+description: "Learner hub for a University of Utah Internal Medicine Code Blue and Rapid Response leadership seminar."
 format:
   html:
     citation: true
