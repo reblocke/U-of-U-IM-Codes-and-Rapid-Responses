@@ -1,5 +1,6 @@
 ---
 title: "Modules"
+description: "Micro-skill modules for Code Blue leadership, pulse checks, nurse response and escalation, and ending Code Blue events."
 ---
 
 These modules are the brief teaching blocks we will walk through together at the start of the session. They stay posted here for review afterward and for use during real responses.

@@ -1,5 +1,6 @@
 ---
 title: "Facilitators"
+description: "Facilitator notes and setup links for the Code Blue and Rapid Response seminar."
 ---
 
 ## Instructor Materials

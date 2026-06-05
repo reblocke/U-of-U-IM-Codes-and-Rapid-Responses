@@ -1,5 +1,6 @@
 ---
 title: "Resources"
+description: "Quick resources for Code Blue and Rapid Response leadership practice."
 ---
 
 Quick reference materials for Code Blue and Rapid Response leadership.

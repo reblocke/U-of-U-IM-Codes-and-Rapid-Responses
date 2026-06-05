@@ -1,24 +1,21 @@
-# This CITATION.cff file makes the website/software citable.
-# See: https://citation-file-format.github.io/
-
 cff-version: 1.2.0
 message: >-
-  If you use this website or its code, please cite it using the metadata in this file.
+  If you use this course website or its code, please cite the website/software
+  using this file. Cite the ATS abstracts separately when using course-evaluation
+  findings.
 title: U of U IM Codes and Rapid Responses
 type: software
 version: "2026.05"
-date-released: 2026-05-12
+date-released: "2026-05-12"
 license: MIT
 repository-code: https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses
 url: https://reblocke.github.io/U-of-U-IM-Codes-and-Rapid-Responses/
 abstract: >-
-  Learner-facing course website and materials for the University of Utah Internal
-  Medicine residency seminar on leading Code Blue and Rapid Response teams. The
-  2026 interdisciplinary update organizes the site as a guided learner hub with
-  micro-skill modules, scenarios, resources, facilitator notes, and a module on
-  productive collaboration with bedside nurses, nurse-led response teams, and
-  critical care outreach nurses. The 2025 class version is archived at GitHub
-  release v2025.06.
+  Learner-facing Quarto course website and teaching materials for the University
+  of Utah Internal Medicine residency seminar on leading Code Blue and Rapid
+  Response teams. The 2026 interdisciplinary update organizes micro-skill
+  modules, scenarios, resources, facilitator notes, and collaboration guidance
+  for bedside nurses, nurse-led response teams, and critical care outreach teams.
 keywords:
   - medical education
   - internal medicine
@@ -51,4 +48,56 @@ authors:
     affiliation: Pulmonary and Critical Care Medicine, University of Utah
   - family-names: Locke
     given-names: Brian W.
+    orcid: https://orcid.org/0000-0002-3588-5238
     affiliation: Intermountain Medical Center, Pulmonary and Critical Care Medicine
+references:
+  - type: article
+    title: >-
+      Enhancing Intern Leadership of Inpatient Emergencies: Evaluating the Impact
+      of a Seminar Addressing Team Dynamics
+    authors:
+      - family-names: Ryden
+        given-names: A. G.
+      - family-names: Krauspe
+        given-names: E.
+      - family-names: Patel
+        given-names: S.
+      - family-names: Wayne
+        given-names: R.
+      - family-names: Davis
+        given-names: M.
+      - family-names: Locke
+        given-names: B. W.
+    year: 2025
+    journal: American Journal of Respiratory and Critical Care Medicine
+    volume: "211"
+    issue: Supplement_1
+    pages: A5624-A5624
+    doi: 10.1164/ajrccm.2025.211.abstracts.a5624
+    url: https://doi.org/10.1164/ajrccm.2025.211.abstracts.a5624
+  - type: article
+    title: >-
+      B38-12 Intern Code Blue and Rapid Response Leadership: A Pre-post Evaluation
+      of a Micro-Module Curriculum
+    authors:
+      - family-names: Situmeang
+        given-names: Josiah
+      - family-names: Ryden
+        given-names: Alex
+      - family-names: Long
+        given-names: C. W.
+      - family-names: Krauspe
+        given-names: Ethan
+      - family-names: Patel
+        given-names: Sumit
+      - family-names: Sheth
+        given-names: Richa
+      - family-names: Locke
+        given-names: Brian W.
+    year: 2026
+    journal: American Journal of Respiratory and Critical Care Medicine
+    volume: "212"
+    issue: Supplement_1
+    pages: aamag162.939
+    doi: 10.1093/ajrccm/aamag162.939
+    url: https://academic.oup.com/ajrccm/article/212/Supplement_1/aamag162.939/8680845

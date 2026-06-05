@@ -6,17 +6,34 @@
 **/.RData
 .Ruserdata
 **/.Ruserdata
+*.Rproj~
+**/*.Rproj~
 
 /.quarto/
 **/.quarto/
 .DS_Store
 **/.DS_Store
+~$*
+*.tmp
+*.bak
 
 # Rendered source-side outputs should come from Quarto, not manual edits.
 slides/*.html
 
-# Publication analysis renders can be regenerated and should not sprawl further.
+# Publication analysis source data, drafts, and renders are local-only unless a
+# specific aggregate artifact is intentionally promoted into the public branch.
+Publications/**/Data/
+Publications/**/data/private/
+Publications/**/Drafts/
+Publications/**/*.csv
+Publications/**/*.xlsx
+Publications/**/*.r
+Publications/**/*.R
+Publications/**/*.docx
+Publications/**/*.pptx
 Publications/**/*.html
+Publications/**/*.pdf
+!Publications/ATS 2026 Abstract/ATS-2026-Code-RRT-Poster.pdf
 Publications/**/*_files/
 Publications/**/tinytable_assets/
 

@@ -14,11 +14,15 @@ project:
 resources:
   - assets/**
   - images/**
+  - llms.txt
 
 website:
   title: "U of U IM Codes and Rapid Responses"
+  description: "University of Utah Internal Medicine Code Blue and Rapid Response leadership course website and teaching materials."
   site-url: "https://reblocke.github.io/U-of-U-IM-Codes-and-Rapid-Responses/"
   repo-url: "https://github.com/reblocke/U-of-U-IM-Codes-and-Rapid-Responses"
+  open-graph: true
+  twitter-card: true
   search: true
   navbar:
     title: "U of U IM Codes/RRT"
