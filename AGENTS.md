@@ -46,10 +46,9 @@ diagnostic that is not committed.
 
 - Run `git diff --check`.
 - Validate `CITATION.cff` after citation edits.
-- Run `quarto check` and `quarto render` for site or metadata changes.
+- For site configuration, navigation, or rendered metadata changes, run `quarto check` and `quarto render`. For local content/layout edits, render the affected page; instruction-only prose needs affected-reference and whitespace checks.
 - Confirm `docs/llms.txt`, `docs/search.json`, and `docs/sitemap.xml` exist after render.
-- Browser-check the rendered home page, modules page, resources page, facilitator page,
-  and at least one slide deck on desktop and mobile viewports.
+- After shared site/navigation changes, browser-check the home, modules, resources, facilitator pages and one slide deck on desktop/mobile. After a page-specific change, inspect the affected page and links.
 - Search for stale generic readiness text, stale DOI claims, raw survey exports, draft
   files, trainee identifiers, `.Rhistory`, `.RData`, Quarto caches, and generated
   publication renders before committing.
